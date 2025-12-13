@@ -1,28 +1,63 @@
 [
   {
-    "category": "தமிழ்க் களஞ்சியம் 1",
+    "category": "எட்டுத்தொகை",
     "quizzes": [
-      { "file": "Mozhiyiyal.json", "title": "மொழியியல்" },
-      { "file": "Nattupuraviyal.json", "title": "நாட்டுப்புறவியல்" },
-      { "file": "Ilakkiyaththiranaivu.json", "title": "இலக்கியத் திறனாய்வு" },
+      { "file": "Natrinai.json", "title": "நற்றிணை" },
+      { "file": "Kuruntogai.json", "title": "குறுந்தொகை" },
+      { "file": "Aingurunuru.json", "title": "ஐங்குறுநூறு" },
+      { "file": "Paditruppaththu.json", "title": "பதிற்றுப்பத்து" },
+      { "file": "Paripadal.json", "title": "பரிபாடல்" },
+      { "file": "Kalithogai.json", "title": "கலித்தொகை" },
+      { "file": "Agananuru.json", "title": "அகநானூறு" },
+      { "file": "Purananuru.json", "title": "புறநானூறு" }
+    ]
+  },
+  {
+    "category": "பத்துப்பாட்டு",
+    "quizzes": [
+      { "file": "Thirumurugarruppadai.json", "title": "திருமுருகாற்றுப்படை" },
+      { "file": "Porunarruppadai.json", "title": "பொருநராற்றுப்படை" },
+      { "file": "Sirupanarruppadai.json", "title": "சிறுபாணாற்றுப் படை" },
+      { "file": "Perumpanarruppadai.json", "title": "பெரும்பாணாற்றுப் படை" },
+      { "file": "Mullaippattu.json", "title": "முல்லைப்பாட்டு" },
+      { "file": "Maduraikkanji.json", "title": "மதுரைக் காஞ்சி" },
+      { "file": "Nedunalvadai.json", "title": "நெடுநல்வாடை" },
+      { "file": "Kurinjippattu.json", "title": "குறிஞ்சிப் பாட்டு" },
+      { "file": "Pattinappalai.json", "title": "பட்டினப்பாலை" },
+      { "file": "Malaipadukadam.json", "title": "மலைபடுகடாம்" }
+    ]
+  },
+  {
+    "category": "பதினெண்கீழ்க்கணக்கு",
+    "quizzes": [
+      { "file": "Naladiyar.json", "title": "நாலடியார்" },
+      { "file": "Nanmanikadigai.json", "title": "நான்மணிக்கடிகை" },
+      { "file": "Inna_Narpathu.json", "title": "இன்னா நாற்பது" },
+      { "file": "Iniyavai_Narpathu.json", "title": "இனியவை நாற்பது" },
+      { "file": "Kar_Narpathu.json", "title": "கார் நாற்பது" },
+      { "file": "Kalavazhi_Narpathu.json", "title": "களவழி நாற்பது" },
+      { "file": "Ainthinai_Aimpathu.json", "title": "ஐந்திணை ஐம்பது" },
+      { "file": "Tinaimozhi_Aimpathu.json", "title": "திணைமொழி ஐம்பது" },
+      { "file": "Ainthinai_Ezhupathu.json", "title": "ஐந்திணை எழுபது" },
+      { "file": "Tinaimalai_Nutrampathu.json", "title": "திணைமாலை நூற்றைம்பது" },
+      { "file": "Tirukkural.json", "title": "திருக்குறள்" },
+      { "file": "Tirikadugam.json", "title": "திரிகடுகம்" },
+      { "file": "Acharakovai.json", "title": "ஆசாரக்கோவை" },
+      { "file": "Pazhamozhi_Nanuru.json", "title": "பழமொழி நானூறு" },
+      { "file": "Sirupanchamoolam.json", "title": "சிறுபஞ்சமூலம்" },
+      { "file": "Mudhumozhikkanchi.json", "title": "முதுமொழிக்காஞ்சி" },
+      { "file": "Elathi.json", "title": "ஏலாதி" },
+      { "file": "Kainnilai.json", "title": "கைந்நிலை" }
+    ]
+  },
+  {
+    "category": "இலக்கணங்கள்",
+    "quizzes": [
+      { "file": "Agathiyam.json", "title": "அகத்தியம்" },
       { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
-      { "file": "Ithazhiyal.json", "title": "இதழியல்" },
-      { "file": "Mozhipeyarppiyal.json", "title": "மொழிபெயர்ப்பியல்" },
-      { "file": "Tholliyal.json", "title": "தொல்லியல்" }
-    ]
-  },
-  {
-    "category": "தமிழ்க் களஞ்சியம் 2",
-    "quizzes": [
-      { "file": "TamilGrammar_1.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" },
-      { "file": "TamilGrammar_2.json", "title": "இலக்கண நூல்கள், உரையாசிரியர்கள்" }
-    ]
-  },
-  {
-    "category": "தமிழ்க் களஞ்சியம் 3",
-    "quizzes": [
-      { "file": "TamilGrammar_1.json", "title": "அகத்தியம்" },
-      { "file": "TamilGrammar_2.json", "title": "தொல்காப்பியம்" }
+      { "file": "Nannul.json", "title": "நன்னூல்" },
+      { "file": "Yapperungalam.json", "title": "யாப்பருங்கலம்" },
+      { "file": "Thandialangaram.json", "title": "தண்டியலங்காரம்" }
     ]
   }
 ]
