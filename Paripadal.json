@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பரிபாடல் நூலில் முதல் பாடலான 'திருமால்' பற்றிய பாடலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கீரந்தையார்",
+        "rationale": "பரிபாடலின் முதல் பாடலைப் பாடியவர் கீரந்தையார் என்று நூலில் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடுவன் இளவெயினனார்",
+        "rationale": "இவர் 3, 4, 5 ஆகிய பாடல்களைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "இவர் வையை மற்றும் செவ்வேள் பாடல்களைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருாசிரியர்",
+        "rationale": "இவர் உரையாசிரியர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "பரிபாடலின் முதல் பாடலுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "முதல் பாடலுக்கு இசையமைத்தவர் நன்னாகனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெட்டனாகனார்",
+        "rationale": "இவர் 3 மற்றும் 4 ஆம் பாடல்களுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவன் நல்லச்சுதனார்",
+        "rationale": "இவர் பல பாடல்களுக்கு இசையமைத்துள்ளார், ஆனால் முதல் பாடலுக்கு அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பித்தாமத்தர்",
+        "rationale": "இவர் 7 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பரிபாடலில் 2, 3, 4, 5 ஆகிய பாடல்களை (திருமால் மற்றும் செவ்வேள்) இயற்றிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடுவன் இளவெயினனார்",
+        "rationale": "பாடல் 2, 3, 4 (திருமால்) மற்றும் பாடல் 5 (செவ்வேள்) ஆகியவற்றை இயற்றியவர் கடுவன் இளவெயினனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கீரந்தையார்",
+        "rationale": "இவர் முதல் பாடலை மட்டும் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறும்பூதனார்",
+        "rationale": "இவர் 9 ஆம் பாடலை பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேசவனார்",
+        "rationale": "இவர் 14 ஆம் பாடலை பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "பரிபாடலில் 5 ஆம் பாடலான 'செவ்வேள்' பாடலுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "5 ஆம் பாடலுக்கு இசையமைத்தவர் கண்ணனாகனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெட்டனாகனார்",
+        "rationale": "இவர் 3 மற்றும் 4 ஆம் பாடல்களுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் 1 மற்றும் 12 ஆம் பாடல்களுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாகனார்",
+        "rationale": "இவர் 11 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "பரிபாடலில் 'வையை' பற்றிய 6 ஆம் பாடலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "6 ஆம் பாடலை (வையை) இயற்றியவர் நல்லந்துவனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மையோடக் கோவனார்",
+        "rationale": "இவர் 7 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரும்பிள்ளைப் பூதனார்",
+        "rationale": "இவர் 10 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பரிபாடலில் 7 ஆம் பாடலான வையை பாடலுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பித்தாமத்தர்",
+        "rationale": "7 ஆம் பாடலுக்கு இசையமைத்தவர் பித்தாமத்தர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவன் நல்லச்சுதனார்",
+        "rationale": "இவர் 6 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் 1 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "இவர் 5 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "பரிபாடலில் 2 முதல் 12 வரையிலான பாடல்களுக்குப் பயன்படுத்தப்பட்ட பண் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலையாழ்",
+        "rationale": "பாடல் 1 முதல் பாடல் 12 வரை அனைத்தும் பாலையாழ் பண்ணில் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோதிறம்",
+        "rationale": "பாடல் 13 முதல் நோதிறம் தொடங்குகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காந்தாரம்",
+        "rationale": "பாடல் 18 முதல் காந்தாரம் தொடங்குகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிஞ்சி யாழ்",
+        "rationale": "இப்பண் நூலில் பயன்படுத்தப்படவில்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "பரிபாடலின் 9 ஆம் பாடலை (செவ்வேள்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறும்பூதனார்",
+        "rationale": "9 ஆம் பாடலை இயற்றியவர் குறும்பூதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குன்றம்பூதனார்",
+        "rationale": "இவர் 18 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரும்பிள்ளைப் பூதனார்",
+        "rationale": "இவர் 10 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "இவர் 8 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "10 ஆம் பாடலான 'வையை' பாடலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரும்பிள்ளைப் பூதனார்",
+        "rationale": "10 ஆம் பாடலை இயற்றியவர் கரும்பிள்ளைப் பூதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மையோடக் கோவனார்",
+        "rationale": "இவர் 7 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழிசியார்",
+        "rationale": "இவர் 16 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "11 ஆம் பாடலான 'வையை' பாடலுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாகனார்",
+        "rationale": "11 ஆம் பாடலுக்கு இசையமைத்தவர் நாகனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் 12 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "இவர் 5 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெட்டனாகனார்",
+        "rationale": "இவர் 3 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "11 ஆம் பாடலில் (வையை) விவரிக்கப்படும் முக்கிய விழா எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தைந் நீராடல் (அம்பா ஆடல்)",
+        "rationale": "பாடல் 11 'அம்பா ஆடல்' எனப்படும் தையல் மகளிரின் தைந் நீராடலை விவரிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கார்த்திகை விளக்கீடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பங்குனி உத்திரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சித்திரை திருவிழா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "13 ஆம் பாடல் முதல் 17 ஆம் பாடல் வரை பயன்படுத்தப்பட்ட பண் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நோதிறம்",
+        "rationale": "பாடல் 13, பாடல் 14, பாடல் 15, பாடல் 16, பாடல் 17 ஆகியவை நோதிறம் பண்ணில் அமைந்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாலையாழ்",
+        "rationale": "பாடல் 12 வரை மட்டுமே பாலையாழ்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காந்தாரம்",
+        "rationale": "பாடல் 18 முதல் காந்தாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவ்வழி",
+        "rationale": "இப்பண் நூலில் இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "13 ஆம் பாடலுக்கு (திருமால்) இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர் அறியப்படவில்லை",
+        "rationale": "13 ஆம் பாடலுக்கு இசையமைத்தவர் பெயர் அறியப்படவில்லை என்று மூலத்தில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத்துவன் நல்லச்சுதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேசவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "14 ஆம் பாடலை (செவ்வேள்) பாடியவரும் இசையமைத்தவரும் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கேசவனார்",
+        "rationale": "14 ஆம் பாடலைப் பாடியவரும் இசையமைத்தவரும் கேசவனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லச்சுதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குன்றம்பூதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "15 ஆம் பாடலை (திருமால்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பெருவழுதியார்",
+        "rationale": "15 ஆம் பாடலை இயற்றியவர் இளம்பெருவழுதியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழிசியார்",
+        "rationale": "இவர் 16 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லெழுினியார்",
+        "rationale": "இவர் 13 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "15 ஆம் பாடலில் சிறப்பிக்கப்படும் மலை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமாலிருஞ்சோலை (இருங்குன்றம்)",
+        "rationale": "பாடல் 15 'இருங்குன்றம்' எனப்படும் திருமாலிருஞ்சோலை மலையையும், அங்கு உறையும் திருமால் மற்றும் பலதேவனையும் சிறப்பிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருப்பரங்குன்றம்",
+        "rationale": "இது முருகனுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழனி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேங்கடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "16 ஆம் பாடலை (வையை) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்வழிசியார்",
+        "rationale": "16 ஆம் பாடலை இயற்றியவர் நல்வழிசியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லழிசியார்",
+        "rationale": "இவர் 17 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நப்பண்ணனார்",
+        "rationale": "இவர் 19 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "17 ஆம் பாடலை (செவ்வேள்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லழிசியார்",
+        "rationale": "17 ஆம் பாடலை இயற்றியவர் நல்லழிசியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்வழிசியார்",
+        "rationale": "இவர் 16 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "இவர் 8 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "18 முதல் 21 வரையிலான பாடல்களுக்குப் பயன்படுத்தப்பட்ட பண் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காந்தாரம்",
+        "rationale": "பாடல் 18, பாடல் 19, பாடல் 20, பாடல் 21 ஆகியவை காந்தாரம் பண்ணில் அமைந்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோதிறம்",
+        "rationale": "பாடல் 17 வரை நோதிறம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலையாழ்",
+        "rationale": "பாடல் 12 வரை பாலையாழ்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவ்வழி",
+        "rationale": "இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "18 ஆம் பாடலை (செவ்வேள்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குன்றம்பூதனார்",
+        "rationale": "18 ஆம் பாடலை இயற்றியவர் குன்றம்பூதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறும்பூதனார்",
+        "rationale": "இவர் 9 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரும்பிள்ளைப் பூதனார்",
+        "rationale": "இவர் 10 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நப்பண்ணனார்",
+        "rationale": "இவர் 19 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "19 ஆம் பாடலை (செவ்வேள்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நப்பண்ணனார்",
+        "rationale": "19 ஆம் பாடலை இயற்றியவர் நப்பண்ணனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் இசையமைப்பாளர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "இவர் வேறு பாடல்களை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லச்சுதனார்",
+        "rationale": "இவர் இசையமைப்பாளர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "19 ஆம் பாடலில் திருப்பரங்குன்றத்திற்குச் சென்று வழிபடும் மன்னன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டியன் (வழுதி)",
+        "rationale": "பாடலில் 'புலம் மாண் வழுதி' (பாண்டியன்) தன் சுற்றத்துடன் பரங்குன்றம் செல்வதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "20 ஆம் பாடலை (வையை) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "20 ஆம் பாடலை இயற்றியவர் நல்லந்துவனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நப்பண்ணனார்",
+        "rationale": "இவர் 19 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்வழுதியார்",
+        "rationale": "இவர் 12 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மையோடக் கோவனார்",
+        "rationale": "இவர் 7 ஆம் பாடலை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "21 ஆம் பாடலை (செவ்வேள்) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லச்சுதனார்",
+        "rationale": "21 ஆம் பாடலை இயற்றியவர் நல்லச்சுதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நப்பண்ணனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேசவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "21 ஆம் பாடலுக்கு (செவ்வேள்) இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "21 ஆம் பாடலுக்கு இசையமைத்தவர் கண்ணகனார் (கண்ணனாகனார்).",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேசவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "22 ஆம் பாடலை (வையை) இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர் தெரியவில்லை",
+        "rationale": "22 ஆம் பாடலைப் பாடியவர் பெயர் தெரியவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லந்துவனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குன்றம்பூதனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "பரிபாடலில் அதிகமான பாடல்களுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மருத்துவன் நல்லச்சுதனார்",
+        "rationale": "இவர் 6, 8, 9, 10, 15, 16, 17, 18, 19, 20 எனப் பல பாடல்களுக்கு இசையமைத்துள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் குறைவான பாடல்களுக்கே இசையமைத்துள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெட்டனாகனார்",
+        "rationale": "இவர் 2 பாடல்களுக்கு மட்டுமே இசையமைத்துள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "இவர் 2 பாடல்களுக்கு மட்டுமே இசையமைத்துள்ளார்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "பரிபாடல் திரட்டில் உள்ள முதல் பாடல் எந்த ஊரில் உறையும் திருமாலைப் போற்றுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருந்தையூர்",
+        "rationale": "திரட்டு பாடல் 1 'இருந்தையூர் அமர்ந்த செல்வன்' (திருமால்) பற்றிப் பேசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமாலிருஞ்சோலை",
+        "rationale": "இது பாடல் 15 இல் வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவேங்கடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஸ்ரீரங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "திரட்டுப் பாடல் 1 எந்த நூலின் உரையில் இருந்து எடுக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் செய்யுளியல் உரை",
+        "rationale": "திரட்டு பாடல் 1 தொல்காப்பியம் செய்யுளியல் சூத்திரம் 121, பேராசிரியர் மற்றும் நச்சினார்க்கினியர் உரையில் கண்டெடுக்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இறையனார் களவியல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலப்பதிகார உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "4 ஆம் பாடலில் திருமாலின் உருவம் எதனுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமேனி திருமணிக்கும், உடை பொன்னிற்கும்",
+        "rationale": "திருமாலின் மேனி 'திருமணி' (நீல மணி) போன்றும், உடை 'பொன்' போன்றும் உள்ளதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமேனி தீயிற்கும், உடை நீருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமேனி தாமரைக்கும், உடை மேகத்திற்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமேனி மரகதத்திற்கும், உடை வெள்ளிக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "பரிபாடலில் 5 ஆம் பாடலில் முருகனின் பிறப்பு பற்றி எத்தனையாவது வரியில் தொடங்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரி 23",
+        "rationale": "வரி 23-இல் 'ஆதி அந்தணன் அறிந்து பரி கொளுவ' என்று தொடங்கி முருகனின் பிறப்பு வரலாறு கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரி 1",
+        "rationale": "வரி 1 பாயிரம் போன்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரி 10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரி 50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "15 ஆம் பாடலில் திருமாலுடன் சேர்ந்து வழிபடப்படும் அவனது அண்ணன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பலதேவன் (வாலியோன்)",
+        "rationale": "15 ஆம் பாடலில் திருமாலுடன் 'நம்பியும்' (பலதேவன்) சேர்ந்து 'இருவர்' என்று போற்றப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "19 ஆம் பாடலில் 'பிணிமுகம்' என்ற சொல் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகனின் யானை அல்லது மயில்",
+        "rationale": "பிணிமுகம் என்பது முருகனின் ஊர்தியாகிய யானை அல்லது மயிலைக் குறிக்கும். 'பிணிமுகம் ஊர்ந்த வெல் போர் இறைவ' என்று பாடல் 17 இல் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "பரிபாடலில் 7 ஆம் பாடலுக்கு இசையமைத்த 'பித்தாமத்தர்' எந்தப் பண்ணைப் பயன்படுத்தினார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலையாழ்",
+        "rationale": "7 ஆம் பாடல் பாலையாழ் பண்ணில் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோதிறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காந்தாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "பரிபாடலில் 'மாயோன்' என்று அழைக்கப்படும் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "திருமால் 'மாயோன்' (கரியவன்) என்று அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "4 ஆம் பாடலில் 'கேழல்' (பன்றி) உருவம் எடுத்து திருமால் என்ன செய்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகத்தை மீட்டெடுத்தார்",
+        "rationale": "திருமால் வராக அவதாரம் (கேழல்) எடுத்து உலகத்தை (நிலத்தை) மீட்டெடுத்தமை குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அசுரனைக் கொன்றார்",
+        "rationale": "இது பொதுவானது, ஆனால் கேழல் அவதாரத்தின் சிறப்பு நிலத்தை மீட்பதே.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடலைக் கடைந்தார்",
+        "rationale": "இது கூர்ம அவதாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையைத் தூக்கினார்",
+        "rationale": "இது கோவர்த்தனகிரி நிகழ்வு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "பரிபாடலில் வையை ஆறு எதனுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போர்க்களம்",
+        "rationale": "வையையின் வெள்ளப்பெருக்கு போர்க்களக் காட்சிகளுடன் (யானை, தேர் போன்றவை) ஒப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாற்கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூஞ்சோலை",
+        "rationale": "இது ஒரு பகுதி மட்டுமே.",
+        "isCorrect": false
+      },
+      {
+        "text": "வான்வில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பரிபாடல் திரட்டில் 2 ஆம் பாடல் எந்த நூலின் உரையில் காணப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம் செய்யுளியல் உரை",
+        "rationale": "திரட்டு பாடல் 2 தொல்காப்பியம் செய்யுளியல் சூத்திரம் 118, இளம்பூரணர் உரையில் காணப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இறையனார் களவியல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல் உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலக்காரிகை உரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "பரிபாடலில் முருகப்பெருமானின் கொடியாகக் குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேவல் கொடி",
+        "rationale": "முருகன் 'சேவல் ஓங்கு உயர் கொடியோன்' என்று அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கருடக் கொடி",
+        "rationale": "இது திருமாலுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரிஷபக் கொடி",
+        "rationale": "இது சிவனுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன் கொடி",
+        "rationale": "இது பாண்டியனுக்குரியது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "பரிபாடலில் 'ஆதிரை முதல்வன்' என்று யாரைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "ஆதிரை நட்சத்திரத்திற்கு உரியவன் சிவன். பாடல் 8 இல் 'ஆதிரை முதல்வனின் கிளந்த நாதர்' என்று வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "பரிபாடலில் வையை நதியில் மக்கள் எப்போது நீராடுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புதுப்புனல் வரவு மற்றும் தைந் நீராடல்",
+        "rationale": "வையையில் புது வெள்ளம் வரும்போதும், தை மாதத்திலும் (தைந் நீராடல்) மக்கள் நீராடுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோடை காலத்தில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவிழா இல்லாத நாட்களில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவு நேரத்தில் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "14 ஆம் பாடலில் முருகனின் குன்றம் (திருப்பரங்குன்றம்) எந்தக் காலத்தில் அழகு பெறுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கார் காலம் (மழைக்காலம்)",
+        "rationale": "14 ஆம் பாடல் 'கார் மலி கதழ் பெயல்' என்று தொடங்கி, மழைக்காலத்தில் குன்றின் அழகை விவரிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேனিল் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனிக்காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளவேனில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "17 ஆம் பாடலில் பரங்குன்றத்தில் கேட்கும் இசைக் கருவிகளின் ஒலிகளாக எவை குறிப்பிடப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாழ், குழல், முழவு",
+        "rationale": "17 ஆம் பாடலில் யாழ், குழல், முழவு ஆகியவற்றின் ஒலிகள் பரங்குன்றத்தில் கேட்பதாக விவரிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீணை, மிருதங்கம்",
+        "rationale": "இவை பிற்காலப் பெயர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாதசுரம், தவில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயலின், கிதார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "20 ஆம் பாடலில் வையை நதி எதைச் சுமந்து வருவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலர்கள், சந்தனம், அகில்",
+        "rationale": "வையை நதி பல வகை மலர்கள், சந்தனம், அகில் போன்ற நறுமணப் பொருட்களைச் சுமந்து வருவதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம், வைரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்கள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாறைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "பரிபாடலில் வரும் 'அந்தணர்' என்ற சொல் யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேதங்களை அறிந்தவர்கள்",
+        "rationale": "பரிபாடலில் அந்தணர்கள் வேதம் ஓதுபவர்களாகவும், வேள்வி செய்பவர்களாகவும் குறிப்பிடப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர்வீரர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "12 ஆம் பாடலை (வையை) இயற்றிய நல்வழுதியார் எந்தப் பண்ணைப் பயன்படுத்தியதாகக் குறிப்பிடப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலையாழ்",
+        "rationale": "12 ஆம் பாடல் பாலையாழ் பண்ணில் பாடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோதிறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காந்தாரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "22 ஆம் பாடலின் நிலை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிதைந்த நிலையில் சில வரிகள் மட்டுமே கிடைத்துள்ளன",
+        "rationale": "22 ஆம் பாடலின் இடையில் சில சொற்களும் இறுதியும் கிடைக்கவில்லை என்று குறிப்பு உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முழுமையாகக் கிடைத்துள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிடைக்கவே இல்லை",
+        "rationale": "தவறு, சில வரிகள் உள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரை மட்டும் கிடைத்துள்ளது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "திரட்டுப் பாடல் 1 இல் குறிப்பிடப்படும் 'நான்கு மாடக் கூடல்' என்பது எந்த நகரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை",
+        "rationale": "நான்மாடக் கூடல் என்பது மதுரையைக் குறிக்கும் பெயராகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பரிபாடலில் 8 ஆம் பாடலான 'செவ்வேள்' பாடலுக்கு இசையமைத்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மருத்துவன் நல்லச்சுதனார்",
+        "rationale": "8 ஆம் பாடலுக்கு இசையமைத்தவர் மருத்துவன் நல்லச்சுதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பித்தாமத்தர்",
+        "rationale": "இவர் 7 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் 1 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணனாகனார்",
+        "rationale": "இவர் 5 ஆம் பாடலுக்கு இசையமைத்தவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "பரிபாடலில் அதிகமான பாடல்களுக்குப் பாடல் இயற்றிய புலவர் யார் (கிடைத்த பாடல்களில்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லந்துவனார் மற்றும் கடுவன் இளவெயினனார்",
+        "rationale": "நல்லந்துவனார் பாடல் 6, 8, 11, 20 என நான்கு பாடல்களையும், கடுவன் இளவெயினனார் பாடல் 2, 3, 4, 5 என நான்கு பாடல்களையும் பாடியுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கீரந்தையார்",
+        "rationale": "இவர் 1 ஆம் பாடலை மட்டுமே பாடியுள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னாகனார்",
+        "rationale": "இவர் இசையமைப்பாளர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேசவனார்",
+        "rationale": "இவர் 1 பாடலை மட்டுமே பாடியுள்ளார்.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
