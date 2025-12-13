@@ -1,0 +1,1243 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பதிற்றுப்பத்து நூலில் நமக்குக் கிடைக்காத பத்துகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முதலாம் பத்தும், பத்தாம் பத்தும்",
+        "rationale": "பதிற்றுப்பத்தில் உள்ள பத்துத் தொகுதிகளில் முதலாம் பத்தும், பத்தாம் பத்தும் நமக்குக் கிடைக்கவில்லை. இடைப்பட்ட எட்டு பத்துகள் மட்டுமே கிடைத்துள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டாம் பத்தும், மூன்றாம் பத்தும்",
+        "rationale": "இவை கிடைத்துள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டாம் பத்தும், ஒன்பதாம் பத்தும்",
+        "rationale": "இவை கிடைத்துள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாம் பத்தும், எட்டாம் பத்தும்",
+        "rationale": "இவை கிடைத்துள்ளன.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "இரண்டாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இமையவரம்பன் நெடுஞ்சேரலாதன்",
+        "rationale": "குமட்டூர்க் கண்ணனார் பாடிய இரண்டாம் பத்தின் பாட்டுடைத் தலைவன் இமையவரம்பன் நெடுஞ்சேரலாதன் ஆவான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்யானைச் செல்கெழு குட்டுவன்",
+        "rationale": "இவர் மூன்றாம் பத்தின் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "களங்காய்க்கண்ணி நார்முடிச் சேரல்",
+        "rationale": "இவர் நான்காம் பத்தின் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் பிறக்கோட்டிய செங்குட்டுவன்",
+        "rationale": "இவர் ஐந்தாம் பத்தின் தலைவன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "இமையவரம்பன் நெடுஞ்சேரலாதனைப் பாடிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குமட்டூர்க் கண்ணனார்",
+        "rationale": "இரண்டாம் பத்தைப் பாடியவர் குமட்டூர்க் கண்ணனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாலைக் கௌதமனார்",
+        "rationale": "இவர் மூன்றாம் பத்தைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பியாற்றுக் காப்பியனார்",
+        "rationale": "இவர் நான்காம் பத்தைப் பாடியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இவர் ஐந்தாம் பத்தைப் பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "குமட்டூர்க் கண்ணனாருக்கு இமையவரம்பன் நெடுஞ்சேரலாதன் அளித்த பரிசில் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உம்பற்காட்டு ஐந்நூறூர் பிரமதாயமும், தென்னாட்டு வருவாயில் பாகமும்",
+        "rationale": "இரண்டாம் பத்தின் பதிகம், மன்னன் புலவருக்கு உம்பற்காட்டு ஐந்நூறூர் பிரமதாயமும், தென்னாட்டு வருவாயில் ஒரு பகுதியையும் அளித்ததாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாற்பது நூறாயிரம் பொன்",
+        "rationale": "இது வேறு மன்னன் அளித்த பரிசில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூறாயிரம் காணம்",
+        "rationale": "இது கபிலர் பெற்ற பரிசில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முப்பத்தீராயிரம் காணம்",
+        "rationale": "இது ஒன்பதாம் பத்தின் பரிசில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "இமையவரம்பன் நெடுஞ்சேரலாதன் எத்தனை ஆண்டுகள் ஆட்சி புரிந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "58 ஆண்டுகள்",
+        "rationale": "இரண்டாம் பத்தின் பதிகக்குறிப்பு அவன் 58 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "25 ஆண்டுகள்",
+        "rationale": "இது பல்யானைச் செல்கெழு குட்டுவனின் ஆட்சிக்காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "55 ஆண்டுகள்",
+        "rationale": "இது செங்குட்டுவனின் ஆட்சிக்காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "38 ஆண்டுகள்",
+        "rationale": "இது ஆடுகோட்பாட்டுச் சேரலாதனின் ஆட்சிக்காலம்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "மூன்றாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்யானைச் செல்கெழு குட்டுவன்",
+        "rationale": "பாலைக் கௌதமனார் பாடிய மூன்றாம் பத்தின் தலைவன் பல்யானைச் செல்கெழு குட்டுவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இமையவரம்பன்",
+        "rationale": "இவர் இரண்டாம் பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "நார்முடிச் சேரல்",
+        "rationale": "இவர் நான்காம் பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆடுகோட்பாட்டுச் சேரலாதன்",
+        "rationale": "இவர் ஆறாம் பத்து.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "மூன்றாம் பத்தைப் பாடிய புலவர் பாலைக் கௌதமனார் வேண்டிய பரிசில் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானும் என் பார்ப்பனியும் சுவர்க்கம் புக வேண்டும்",
+        "rationale": "பதிகக்குறிப்பின்படி, புலவர் பொன்னோ பொருளோ கேட்காமல், தானும் தன் மனைவியும் சுவர்க்கம் செல்ல வேண்டினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூறாயிரம் பொன்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடு முழுவதும்",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைப்படை",
+        "rationale": "இது தவறான விடை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "பல்யானைச் செல்கெழு குட்டுவன் புலவருக்காக எத்தனை வேள்விகள் செய்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "9 பெருவேள்விகள்",
+        "rationale": "புலவரின் விருப்பத்தை நிறைவேற்ற, பார்ப்பாரில் பெரியோரைக்கொண்டு 9 பெருவேள்விகளை வேட்பித்தான். பத்தாவது வேள்வியில் புலவர் தம்பதி மறைந்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "5 பெருவேள்விகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "100 வேள்விகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேள்வி செய்யவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "மூன்றாம் பத்தின் தலைவன் பல்யானைச் செல்கெழு குட்டுவன் எத்தனை ஆண்டுகள் ஆட்சி செய்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25 ஆண்டுகள்",
+        "rationale": "பதிகக்குறிப்பு அவன் 25 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "58 ஆண்டுகள்",
+        "rationale": "இது இமையவரம்பன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "16 ஆண்டுகள்",
+        "rationale": "இது இளஞ்சேரல் இரும்பொறை.",
+        "isCorrect": false
+      },
+      {
+        "text": "17 ஆண்டுகள்",
+        "rationale": "இது பெருஞ்சேரல் இரும்பொறை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "நான்காம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களங்காய்க்கண்ணி நார்முடிச் சேரல்",
+        "rationale": "காப்பியாற்றுக் காப்பியனார் பாடிய நான்காம் பத்தின் தலைவன் இவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வக்கடுங்கோ",
+        "rationale": "இவர் ஏழாம் பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்குட்டுவன்",
+        "rationale": "இவர் ஐந்தாம் பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருஞ்சேரல் இரும்பொறை",
+        "rationale": "இவர் எட்டாம் பத்து.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "நான்காம் பத்தைப் பாடிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காப்பியாற்றுக் காப்பியனார்",
+        "rationale": "நார்முடிச் சேரலைப் பாடியவர் காப்பியாற்றுக் காப்பியனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false},
+      {
+        "text": "அரிசில்கிழார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "காப்பியாற்றுக் காப்பியனாருக்குக் கிடைத்த பரிசில் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாற்பது நூறாயிரம் பொன்னும், நாட்டின் ஒரு பகுதியும்",
+        "rationale": "நான்காம் பத்தின் பதிகம், 40 நூறாயிரம் பொன்னும், தான் ஆள்வதில் ஒரு பாகமும் கொடுத்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்நூறு ஊர்கள்",
+        "rationale": "இது குமட்டூர்க் கண்ணனார் பெற்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூறாயிரம் காணம்",
+        "rationale": "இது கபிலர் பெற்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீடு மற்றும் வளம்",
+        "rationale": "இது பெருங்குன்றூர் கிழார் பெற்றது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "நார்முடிச் சேரல் 'கடம்பின் பெருவாயில்' மன்னனான யாரை வென்றான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்னன்",
+        "rationale": "நான்காம் பத்தின் பதிகம், அவன் நன்னனை வென்று வாகை சூடியதாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதிகமான்",
+        "rationale": "இவன் எட்டாம் பத்தில் குறிப்பிடப்படுபவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழையன்",
+        "rationale": "இவன் ஐந்தாம் பத்தில் வருபவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழுவுள்",
+        "rationale": "இவன் எட்டாம் பத்தில் வருபவன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "ஐந்தாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல் பிறக்கோட்டிய செங்குட்டுவன்",
+        "rationale": "பரணர் பாடிய ஐந்தாம் பத்தின் தலைவன் இவன். சிலப்பதிகாரப் புகழ்பெற்ற மன்னன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இமையவரம்பன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நார்முடிச் சேரல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வக்கடுங்கோ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "ஐந்தாம் பத்தைப் பாடிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரணர்",
+        "rationale": "செங்குட்டுவனைப் பாடியவர் காசறு செய்யுள் பரணர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் ஏழாம் பத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஔவையார்",
+        "rationale": "பதிற்றுப்பத்தில் பாடியதாகக் குறிப்பில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாமூலனார்",
+        "rationale": "பதிற்றுப்பத்தில் இவர் பாடல் இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "பரணருக்குச் செங்குட்டுவன் அளித்த பரிசில் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உம்பற்காட்டு வாரி மற்றும் தன் மகன் குட்டுவன் சேரல்",
+        "rationale": "உம்பற்காட்டு வருவாயையும், தன் மகன் குட்டுவன் சேரலையும் பரிசாக அளித்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்நூறு ஊர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன்னும் மணியும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைப்படை",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "கடல் பிறக்கோட்டிய செங்குட்டுவன் கண்ணகிக்கு (பத்தினிக்கு) எங்கு சிலையெடுத்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இமயத்தில் கல் எடுத்து",
+        "rationale": "பதிகக்குறிப்பு 'கடவுள் பத்தினிக் கற்கோள் வேண்டி... ஆரிய அண்ணலை வீட்டி' எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொதிய மலையில் கல் எடுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விந்திய மலையில் கல் எடுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொல்லி மலையில் கல் எடுத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "செங்குட்டுவன் எத்தனை ஆண்டுகள் ஆட்சி புரிந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "55 ஆண்டுகள்",
+        "rationale": "ஐந்தாம் பத்தின் பதிகம் அவன் 55 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "50 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "60 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "45 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "ஆறாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆடுகோட்பாட்டுச் சேரலாதன்",
+        "rationale": "காக்கைபாடினியார் நச்செள்ளையார் பாடிய ஆறாம் பத்தின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நார்முடிச் சேரல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்குட்டுவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளஞ்சேரல் இரும்பொறை",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "ஆறாம் பத்தைப் பாடிய பெண் புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காக்கைபாடினியார் நச்செள்ளையார்",
+        "rationale": "இவர் ஒரு பெண்பாற்புலவர். ஆடுகோட்பாட்டுச் சேரலாதனைப் பாடியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஔவையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆதிமந்தியார்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "வெள்ளிவீதியார்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "நச்செள்ளையாருக்குக் கிடைத்த பரிசில் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்பது காப் பொன்னும், நூறாயிரம் காணமும்",
+        "rationale": "மேலும் தன் பக்கத்தில் இருக்கும் சிறப்பையும் அளித்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்நூறு ஊர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாற்பது லட்சம் பொன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உம்பற்காட்டு வருவாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "ஆடுகோட்பாட்டுச் சேரலாதன் எத்தனை ஆண்டுகள் ஆட்சி செய்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "38 ஆண்டுகள்",
+        "rationale": "ஆறாம் பத்தின் பதிகம் அவன் 38 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "25 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "58 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "16 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "ஆடுகோட்பாட்டுச் சேரலாதன் தண்டாரணியத்தில் எதைப் பிடித்து வந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருடை",
+        "rationale": "தண்டாரணியத்துக் கோள்பட்ட வருடையைத் தொண்டியுள் தந்து கொடுப்பித்தான் என்று பதிகம் கூறுகிறது. (வருடை - ஒரு வகை ஆடு/மான்).",
+        "isCorrect": true
+      },
+      {
+        "text": "யானை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரை",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "ஏழாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வக்கடுங்கோ வாழி ஆதன்",
+        "rationale": "கபிலர் பாடிய ஏழாம் பத்தின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருஞ்சேரல் இரும்பொறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளஞ்சேரல் இரும்பொறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குட்டுவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஏழாம் பத்தைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "குறிஞ்சி பாடுவதில் வல்லவரான கபிலர் செல்வக்கடுங்கோவைப் பாடினார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரிசில்கிழார்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பெருங்குன்றூர்கிழார்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "கபிலருக்குச் செல்வக்கடுங்கோ அளித்த பரிசில் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறுபுறம் என நூறாயிரம் காணமும், நன்றா என்ற குன்றின் மீதேறிக்கண்ட நாடும்",
+        "rationale": "நூறாயிரம் காணம் பணமும், 'நன்றா' என்னும் குன்றின் மீது ஏறி நின்று கண்ணில் கண்ட நாடு முழுவதையும் பரிசாக அளித்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானைகள்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பொற்காசுகள் மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "ஊர்கள் மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "செல்வக்கடுங்கோ வாழி ஆதன் எத்தனை ஆண்டுகள் ஆட்சி புரிந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25 ஆண்டுகள்",
+        "rationale": "ஏழாம் பத்தின் பதிகம் அவன் 25 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "20 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "30 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "40 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "எட்டாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருஞ்சேரல் இரும்பொறை",
+        "rationale": "அரிசில்கிழார் பாடிய எட்டாம் பத்தின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளஞ்சேரல் இரும்பொறை",
+        "rationale": "இவர் ஒன்பதாம் பத்து.", "isCorrect": false
+      },
+      {
+        "text": "செல்வக்கடுங்கோ",
+        "rationale": "இவர் ஏழாம் பத்து.", "isCorrect": false
+      },
+      {
+        "text": "நார்முடிச் சேரல்",
+        "rationale": "இவர் நான்காம் பத்து.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "எட்டாம் பத்தைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரிசில்கிழார்",
+        "rationale": "பெருஞ்சேரல் இரும்பொறையைப் பாடியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருங்குன்றூர்கிழார்",
+        "rationale": "இவர் ஒன்பதாம் பத்தைப் பாடியவர்.", "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் ஏழாம் பத்தைப் பாடியவர்.", "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இவர் ஐந்தாம் பத்தைப் பாடியவர்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "பெருஞ்சேரல் இரும்பொறை அரிசில்கிழாருக்கு என்ன பரிசில் அளிக்க முன்வந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்பது நூறாயிரம் காணமும், அரசுக்கட்டிலும்",
+        "rationale": "ஒன்பது லட்சம் காணமும், தன் அரியணையையும் (அரசுக்கட்டில்) கொடுக்க முன்வந்தான். ஆனால் புலவர் அரியணையை ஏற்காமல் அமைச்சராக இருக்க இசைந்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாதி நாடு",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "யானைப்படை",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பொன் மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "பெருஞ்சேரல் இரும்பொறை வென்ற முக்கியமான கோட்டை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தகடூர்",
+        "rationale": "அதியமானின் தகடூரை எறிந்து வெற்றி பெற்றான். 'தகடூர் எறிந்த பெருஞ்சேரல் இரும்பொறை' என்றே குறிக்கப்படுகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "இது சேரர் தலைநகர்.", "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "இது சோழர் தலைநகர்.", "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "இது பாண்டியர் தலைநகர்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "ஒன்பதாம் பத்தின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளஞ்சேரல் இரும்பொறை",
+        "rationale": "பெருங்குன்றூர்கிழார் பாடிய ஒன்பதாம் பத்தின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருஞ்சேரல் இரும்பொறை",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "குட்டுவன்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "ஆதன்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஒன்பதாம் பத்தைப் பாடியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருங்குன்றூர்கிழார்",
+        "rationale": "இளஞ்சேரல் இரும்பொறையைப் பாடியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரிசில்கிழார்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "பெருங்குன்றூர்கிழார் பெற்ற பரிசில் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முப்பத்தீராயிரம் காணம் மற்றும் ஊர், மனை, வளம்",
+        "rationale": "32,000 காணம் பணமும், அவர் அறியாத வகையில் ஊரும் மனையும் வளமும் அளித்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசுக்கட்டில்",
+        "rationale": "இது அரிசில்கிழார் பெற்றது (ஏற்கவில்லை).", "isCorrect": false
+      },
+      {
+        "text": "நூறாயிரம் காணம்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "நாற்பது நூறாயிரம் பொன்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "இளஞ்சேரல் இரும்பொறை எத்தனை ஆண்டுகள் ஆட்சி புரிந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "16 ஆண்டுகள்",
+        "rationale": "ஒன்பதாம் பத்தின் பதிகம் அவன் 16 ஆண்டுகள் வீற்றிருந்தான் எனக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "25 ஆண்டுகள்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "30 ஆண்டுகள்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "10 ஆண்டுகள்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "இரண்டாம் பத்தில் வரும் 11-ஆம் பாடலின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புண்உமிழ் குருதி",
+        "rationale": "பாட்டின் 8-ஆம் வரியில் வரும் 'புண்உமிழ் குருதி' என்ற தொடரே இப்பாடலுக்குப் பெயராக அமைந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அடுநெய் ஆவுதி",
+        "rationale": "இது மூன்றாம் பத்து பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "பூத்த நெய்தல்",
+        "rationale": "இது 13-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "சான்றோர் மெய்ம்மறை",
+        "rationale": "இது 14-ஆம் பாடல்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "பதிற்றுப்பத்தின் பாடல்களுக்குப் பெயர் சூட்டும் முறை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடலில் வரும் சிறந்த தொடர் அல்லது சொல்",
+        "rationale": "ஒவ்வொரு பாடலின் பெயரும் அப்பாடலில் வரும் ஒரு நயமான அல்லது முக்கியமான தொடரைக் கொண்டே பெயரிடப்பட்டுள்ளது (எ.கா: புண்உமிழ் குருதி, பூத்த நெய்தல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மன்னனின் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணையின் பெயர்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "எண் முறை",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பதிற்றுப்பத்தில் ஒவ்வொரு பாடலின் இறுதியிலும் எவை குறிப்பிடப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துறை, வண்ணம், தூக்கு, பெயர்",
+        "rationale": "ஒவ்வொரு பாடலின் பின்னரும் திணை (பொதுவாக பாடாண்), துறை, வண்ணம், தூக்கு, மற்றும் பாடலின் பெயர் ஆகியவை தரப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "திணை மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியர் குறிப்பு",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பாடிய ஆண்டு",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "'சான்றோர் மெய்ம்மறை' என்பது எத்தனையாவது பாடல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டு 14",
+        "rationale": "இரண்டாம் பத்தில் வரும் 14-ஆம் பாடலின் பெயர் சான்றோர் மெய்ம்மறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டு 11",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 20",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 15",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "'அடுநெய் ஆவுதி' என்ற பெயர் கொண்ட பாடல் எந்தப் பத்தில் உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்றாம் பத்து",
+        "rationale": "பாட்டு 21 (மூன்றாம் பத்தின் முதல் பாடல்) 'அடுநெய் ஆவுதி' என்று பெயரிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டாம் பத்து",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "நான்காம் பத்து",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாம் பத்து",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "மூன்றாம் பத்தில் வரும் 24-ஆம் பாடலின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ததைந்த காஞ்சி",
+        "rationale": "24-ஆம் பாடலின் பெயர் ததைந்த காஞ்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "கயிறு குறு முகவை",
+        "rationale": "இது 22-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "சீர்சால் வெள்ளி",
+        "rationale": "இது 25-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "புகன்றவாயம்",
+        "rationale": "இது 30-ஆம் பாடல்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "நான்காம் பத்தில் வரும் 'கமழ்குரல் துழாய்' என்பது எத்தனையாவது பாடல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டு 31",
+        "rationale": "நான்காம் பத்தின் முதல் பாடல் (31) கமழ்குரல் துழாய் எனப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டு 32",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 35",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 40",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஐந்தாம் பத்தின் பாடல்களின் 'தூக்கு' (இசை/தாளம்) பெரும்பாலும் எதுவாக உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செந்தூக்கு",
+        "rationale": "ஐந்தாம் பத்தின் பல பாடல்களுக்கு (எ.கா. 41, 42, 43) செந்தூக்கு என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சித்தூக்கு",
+        "rationale": "இது குறைவாகவே உள்ளது.", "isCorrect": false
+      },
+      {
+        "text": "கலித்தூக்கு",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "அகவல் தூக்கு",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "ஆறாம் பத்தில் 51-ஆம் பாடலின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடு அடு நுண்அயிர்",
+        "rationale": "பாடல் வரிகளில் வரும் 'வடுவடு நுண்ணயிர்' என்ற தொடரால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறுசெங்குவளை",
+        "rationale": "இது 52-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "குண்டுகண் அகழி",
+        "rationale": "இது 53-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "நில்லாத் தானை",
+        "rationale": "இது 54-ஆம் பாடல்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "ஏழாம் பத்தில் கபிலர் பாடிய 'உரைசால் வேள்வி' எத்தனையாவது பாடல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டு 64",
+        "rationale": "64-ஆம் பாடலின் பெயர் உரைசால் வேள்வி.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டு 61",
+        "rationale": "இது புலாஅம் பாசறை.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 70",
+        "rationale": "இது பறைக்குரல் அருவி.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 65",
+        "rationale": "இது நாள்மகிழிருக்கை.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "எட்டாம் பத்தில் வரும் 71-ஆம் பாடலின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறுந்தாள் ஞாயில்",
+        "rationale": "எட்டாம் பத்தின் முதல் பாடலான 71-ன் பெயர் குறுந்தாள் ஞாயில்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருத்தெழு வெள்ளம்",
+        "rationale": "இது 72-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "நிறந்திகழ் பாசிழை",
+        "rationale": "இது 73-ஆம் பாடல்.", "isCorrect": false
+      },
+      {
+        "text": "நலம்பெறு திருமணி",
+        "rationale": "இது 74-ஆம் பாடல்.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "ஒன்பதாம் பத்தில் 'நிழல்விடு கட்டி' என்ற பாடல் எத்தனையாவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டு 81",
+        "rationale": "ஒன்பதாம் பத்தின் முதல் பாடலான 81-ன் பெயர் நிழல்விடு கட்டி.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டு 82",
+        "rationale": "இது வினைநவில் யானை.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 85",
+        "rationale": "இது நாடுகாண் நெடுவரை.", "isCorrect": false
+      },
+      {
+        "text": "பாட்டு 90",
+        "rationale": "இது வலிகெழு தடக்கை.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "பதிற்றுப்பத்தில் பதிகம் (பத்துப்பாட்டு முடிந்த பின் வரும் பகுதி) எதைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடியவர், பாடப்பட்டவர், பாடல்களின் பெயர்கள், பரிசில், ஆட்சிக்காலம்",
+        "rationale": "பதிகம் அந்தப் பத்தைப் பற்றிய வரலாற்றுச் செய்திகளைத் தொகுத்து வழங்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல் பொருள் மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "அணிகலன்கள் பற்றி மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "போர் முறைகள் மட்டும்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "ஆறாம் பத்தின் வண்ணம் என்னவாகக் குறிப்பிடப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒழுகு வண்ணம்",
+        "rationale": "பெரும்பாலான பாடல்களுக்கு ஒழுகு வண்ணம் குறிப்பிடப்பட்டுள்ளது (எ.கா: பாட்டு 51, 52).",
+        "isCorrect": true
+      },
+      {
+        "text": "வல்லிசை வண்ணம்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "மெல்லிசை வண்ணம்",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "சித்திர வண்ணம்",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "பதிற்றுப்பத்து எந்தத் திணையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடாண் திணை",
+        "rationale": "மன்னர்களின் புகழைப் பாடுவதால் இது பாடாண் திணையைச் சார்ந்தது. பதிகங்களில் 'செந்துறைப் பாடாண்பாட்டு' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகை திணை",
+        "rationale": "சில பாடல்கள் வாகைத் துறையில் இருந்தாலும், பொதுவான திணை பாடாண்.", "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி திணை",
+        "rationale": "தவறு.", "isCorrect": false
+      },
+      {
+        "text": "உழிஞை திணை",
+        "rationale": "தவறு.", "isCorrect": false}
+      ]
+  }
+]
