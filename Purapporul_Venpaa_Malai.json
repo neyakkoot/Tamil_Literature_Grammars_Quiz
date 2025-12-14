@@ -1,0 +1,602 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "புறப்பொருள் வெண்பாமாலை என்னும் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தொல்காப்பியர்", "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.", "isCorrect": false },
+      { "text": "பவணந்தி முனிவர்", "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.", "isCorrect": false },
+      { "text": "ஐயனாரிதனார்", "rationale": "புறப்பொருள் வெண்பாமாலையை இயற்றியவர் ஐயனாரிதனார் ஆவார்.", "isCorrect": true },
+      { "text": "அகத்தியர்", "rationale": "அகத்தியர் அகத்தியத்தை இயற்றியவர்.", "isCorrect": false }
+    ],
+    "hint": "இவர் பெயரில் 'ஐயனார்' என்ற தெய்வம் உள்ளது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "புறப்பொருள் வெண்பாமாலையில் மொத்தம் எத்தனை படலங்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "10", "rationale": "தவறான எண்ணிக்கை.", "isCorrect": false },
+      { "text": "12", "rationale": "வெட்சி முதல் பெருந்திணை ஈறாக 12 படலங்கள் உள்ளன.", "isCorrect": true },
+      { "text": "8", "rationale": "தவறான எண்ணிக்கை.", "isCorrect": false },
+      { "text": "7", "rationale": "தவறான எண்ணிக்கை.", "isCorrect": false }
+    ],
+    "hint": "மாதங்களின் எண்ணிக்கைக்கு இணையானது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "பகைவரின் ஆநிரைகளை (பசுக்கூட்டங்களை) கவர்ந்து வருவது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கரந்தை", "rationale": "கரந்தை என்பது கவர்ந்து சென்ற ஆநிரைகளை மீட்பது.", "isCorrect": false },
+      { "text": "வெட்சி", "rationale": "வெட்சித் திணை என்பது பகைவர் நாட்டின் ஆநிரைகளைக் கவர்ந்து வருவதாகும்.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "வஞ்சி என்பது போருக்குச் செல்வது.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "காஞ்சி என்பது எதிர்த்துப் போரிடுவது.", "isCorrect": false }
+    ],
+    "hint": "இது போரின் தொடக்கமாகக் கருதப்படுகிறது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "கவர்ந்து செல்லப்பட்ட ஆநிரைகளை மீட்பது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெட்சி", "rationale": "வெட்சி என்பது ஆநிரை கவர்தல்.", "isCorrect": false },
+      { "text": "கரந்தை", "rationale": "பகைவரால் கவரப்பட்ட ஆநிரைகளை மீட்டுக் கொண்டு வருவது கரந்தைத் திணையாகும்.", "isCorrect": true },
+      { "text": "உழிஞை", "rationale": "உழிஞை என்பது மதில் வளைத்தல்.", "isCorrect": false },
+      { "text": "தும்பை", "rationale": "தும்பை என்பது நேருக்கு நேர் போரிடுதல்.", "isCorrect": false }
+    ],
+    "hint": "இத்திணைக்குரிய பூ நீல நிறத்தில் இருக்கும்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "பகைவர் நாட்டின் மீது படையெடுத்துச் செல்வது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காஞ்சி", "rationale": "காஞ்சி என்பது படையெடுப்பைத் தடுப்பது.", "isCorrect": false },
+      { "text": "வஞ்சி", "rationale": "பகைவர் நாட்டின் மீது படையெடுத்துச் செல்வது வஞ்சித் திணையாகும்.", "isCorrect": true },
+      { "text": "நொச்சி", "rationale": "நொச்சி என்பது மதிலைக் காப்பது.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை என்பது வெற்றி பெறுவது.", "isCorrect": false }
+    ],
+    "hint": "எட்டுத்தொகை நூல்களுள் 'பதிற்றுப்பத்து' இத்திணை சார்ந்தது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தன்னாட்டைக் கைப்பற்ற வந்த மாற்றரசனோடு எதிர்த்துப் போரிடுவது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வஞ்சி", "rationale": "வஞ்சி என்பது படையெடுப்பது.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "எதிர்த்து வரும் பகைவரைத் தடுத்து நிறுத்திப் போரிடுவது காஞ்சித் திணையாகும்.", "isCorrect": true },
+      { "text": "உழிஞை", "rationale": "உழிஞை மதிலைக் கைப்பற்றுவது.", "isCorrect": false },
+      { "text": "தும்பை", "rationale": "தும்பை அதிரப் பொருவது.", "isCorrect": false }
+    ],
+    "hint": "இது 'நிலையாமை'யையும் குறிக்கும்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "பகைவர் உள்ளே நுழையாதபடி மதிலைக் காப்பது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நொச்சி", "rationale": "ஏணி வைத்தேறும் பகைவரைத் தடுத்து மதிலைக் காப்பது நொச்சித் திணையாகும்.", "isCorrect": true },
+      { "text": "உழிஞை", "rationale": "உழிஞை மதிலை வளைப்பது.", "isCorrect": false },
+      { "text": "தும்பை", "rationale": "தும்பை களத்தில் போரிடுவது.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை வெற்றியைக் குறிப்பது.", "isCorrect": false }
+    ],
+    "hint": "மதிலின் உள்ளே இருப்பவர் சூடும் பூ."
+  },
+  {
+    "questionNumber": 8,
+    "question": "பகைவரது மதிலைக் கைப்பற்ற வளைப்பது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நொச்சி", "rationale": "நொச்சி மதிலைக் காப்பது.", "isCorrect": false },
+      { "text": "உழிஞை", "rationale": "பகைவரது மதிலைக் கைப்பற்ற அதனை முற்றுக்கையிடுவது உழிஞைத் திணையாகும்.", "isCorrect": true },
+      { "text": "தும்பை", "rationale": "தும்பை வலிமையை நிலைநாட்டப் போரிடுவது.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "பாடாண் புகழைப் பாடுவது.", "isCorrect": false }
+    ],
+    "hint": "முடக்கத்தான் கீரை என்று அழைக்கப்படும் பூவைச் சூடுவர்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "இரு பெரும் வேந்தர்களும் நேருக்கு நேர் நின்று போரிடுவது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வாகை", "rationale": "வாகை வெற்றியைக் கொண்டாடுவது.", "isCorrect": false },
+      { "text": "தும்பை", "rationale": "தங்கள் வலிமையே பெரிது என்று கருதி இருவரும் எதிரெதிர் நின்று போரிடுவது தும்பைத் திணையாகும்.", "isCorrect": true },
+      { "text": "பாடாண்", "rationale": "பாடாண் பரிசில் பெறுவது.", "isCorrect": false },
+      { "text": "பொதுவியல்", "rationale": "பொதுவியல் பொதுவான செய்திகளைக் கூறுவது.", "isCorrect": false }
+    ],
+    "hint": "போர்க்களத்தில் வீரர்கள் இறக்கும் வரை சண்டையிடுவர்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "போரில் வெற்றி பெற்ற மன்னன் சூடும் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தும்பை", "rationale": "தும்பை போரிடும்போது சூடுவது.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "போரில் வெற்றி பெற்றவர் வாகைப் பூவைச் சூடி மகிழ்வர்.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "வஞ்சி படையெடுப்பின்போது சூடுவது.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "காஞ்சி தடுக்கும்போது சூடுவது.", "isCorrect": false }
+    ],
+    "hint": "'வெற்றி' என்ற சொல்லின் மற்றொரு பெயர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "ஒரு மன்னனின் புகழ், கல்வி, ஈகை, வீரம் ஆகியவற்றைப் புகழ்ந்து பாடுவது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பொதுவியல்", "rationale": "பொதுவியல் புறத்திணைகளுக்குப் பொதுவானவற்றைக் கூறும்.", "isCorrect": false },
+      { "text": "பாடாண்திணை", "rationale": "பாடப்படும் ஆண்மகனின் ஒழுகலாறுகளைப் புகழ்ந்து பாடுவது பாடாண்திணையாகும்.", "isCorrect": true },
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளை ஒருதலைக் காமம்.", "isCorrect": false },
+      { "text": "பெருந்திணை", "rationale": "பெருந்திணை பொருந்தாக் காமம்.", "isCorrect": false }
+    ],
+    "hint": "பாடுபவன் + ஆண் + திணை."
+  },
+  {
+    "questionNumber": 12,
+    "question": "வெட்சி முதல் பாடாண் வரை உள்ள திணைகளில் கூறப்படாத செய்திகளைக் கூறுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளை காமத்தைப் பற்றியது.", "isCorrect": false },
+      { "text": "பொதுவியல்", "rationale": "ஏனைய புறத்திணைகளில் கூறப்படாத செய்திகளையும், அவற்றிற்குப் பொதுவான செய்திகளையும் கூறுவது பொதுவியலாகும்.", "isCorrect": true },
+      { "text": "பெருந்திணை", "rationale": "பெருந்திணை காமத்தைப் பற்றியது.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை வெற்றியைப் பற்றியது.", "isCorrect": false }
+    ],
+    "hint": "இது பொதுவான கருத்துகளைக் கொண்டது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "ஒருதலைக் காமம் என்பது எந்தத் திணையைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெருந்திணை", "rationale": "பெருந்திணை பொருந்தாக் காமம்.", "isCorrect": false },
+      { "text": "கைக்கிளை", "rationale": "ஒருதலைக் காமம் கைக்கிளை எனப்படும்.", "isCorrect": true },
+      { "text": "பொதுவியல்", "rationale": "பொதுவியல் அறக்கருத்துகளைக் கூறும்.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "பாடாண் வீரத்தைப் புகழும்.", "isCorrect": false }
+    ],
+    "hint": "சிறிய உறவு என்று பொருள்படும்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "பொருந்தாக் காமம் என்பது எந்தத் திணையைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளை ஒருதலைக் காமம்.", "isCorrect": false },
+      { "text": "பெருந்திணை", "rationale": "வயது வித்தியாசம் போன்ற பொருத்தமற்ற காமம் பெருந்திணை எனப்படும்.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "வஞ்சி போர்த் திணை.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை வெற்றித் திணை.", "isCorrect": false }
+    ],
+    "hint": "பெரிய திணை என்று பொருள்படும்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'விரிச்சி' என்பது வெட்சித் திணையின் ஒரு துறை. இதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "போருக்குச் செல்லுதல்", "rationale": "இது செலவு எனப்படும்.", "isCorrect": false },
+      { "text": "நற்சொல் கேட்டல்", "rationale": "காரியம் நன்றாக முடியுமோ என்று ஐயுற்று, பிறர் பேசும் நற்சொல்லைக் கேட்டல் விரிச்சி எனப்படும்.", "isCorrect": true },
+      { "text": "பரிசு பெறுதல்", "rationale": "இது பரிசில் துறை.", "isCorrect": false },
+      { "text": "ஆநிரை கவர்தல்", "rationale": "இது ஆகோள்.", "isCorrect": false }
+    ],
+    "hint": "பல்லி சொல்லையும் இதில் அடக்குவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'ஆகோள்' என்றால் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பசுக்களைக் கவர்ந்து செல்லுதல்", "rationale": "பகைவர் நாட்டுப் பசுக்களைக் கவர்ந்து செல்வது ஆகோள் எனப்படும்.", "isCorrect": true },
+      { "text": "பசுக்களை மீட்டல்", "rationale": "இது மீட்டுவரல்.", "isCorrect": false },
+      { "text": "பசுக்களைப் பாதுகாத்தல்", "rationale": "இது ஆ ஓம்பல்.", "isCorrect": false },
+      { "text": "பசுக்களைத் தானம் செய்தல்", "rationale": "இது ஆ ஈதல்.", "isCorrect": false }
+    ],
+    "hint": "வெட்சித் திணையின் முக்கிய செயல்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "வெட்சி வீரர்கள் அணியும் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "தாமரை", "rationale": "தாமரை நீர்ப்பூ.", "isCorrect": false },
+      { "text": "வெட்சி", "rationale": "வெட்சி வீரர்கள் இட்லிப்பூ எனப்படும் வெட்சிப் பூவைச் சூடுவர்.", "isCorrect": true },
+      { "text": "மல்லிகை", "rationale": "மல்லிகை மணமுள்ள பூ.", "isCorrect": false },
+      { "text": "ரோஜா", "rationale": "ரோஜா தற்காலப் பூ.", "isCorrect": false }
+    ],
+    "hint": "இதற்கு இட்லிப்பூ என்ற பெயரும் உண்டு."
+  },
+  {
+    "questionNumber": 18,
+    "question": "புறப்பொருள் வெண்பாமாலையில் கடவுள் வாழ்த்து யாரைப் போற்றிப் பாடப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவன்", "rationale": "சிவன் முக்கண் உடையவர்.", "isCorrect": false },
+      { "text": "விஷ்ணு", "rationale": "விஷ்ணு காக்கும் கடவுள்.", "isCorrect": false },
+      { "text": "யானைமுகன் (பிள்ளையார்)", "rationale": "நூலின் காப்புச் செய்யுள் யானைமுகனை (விநாயகரை) வாழ்த்துகிறது.", "isCorrect": true },
+      { "text": "முருகன்", "rationale": "முருகன் தமிழ்க் கடவுள்.", "isCorrect": false }
+    ],
+    "hint": "தும்பிக்கை உடைய கடவுள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'மண் உறு தொழில்' மற்றும் 'தன் உறு தொழில்' என்று இருவகைப்படும் திணை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெட்சி", "rationale": "வெட்சித் திணை மன்னன் ஆணையால் நிகழ்வது (மண் உறு) மற்றும் தாமாகவே நிகழ்வது (தன் உறு) என இரு வகைப்படும்.", "isCorrect": true },
+      { "text": "கரந்தை", "rationale": "கரந்தை மீட்பு நடவடிக்கை.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை வெற்றி.", "isCorrect": false },
+      { "text": "பாடான்", "rationale": "பாடான் புகழ் பாடுவது.", "isCorrect": false }
+    ],
+    "hint": "முதல் திணை."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'பிள்ளைத் தெளிவு' என்பது எந்தத் திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெட்சி", "rationale": "வெட்சியில் பிள்ளை வழக்கு உள்ளது.", "isCorrect": false },
+      { "text": "கரந்தை", "rationale": "வீரர்கள் மகிழ்ச்சியுடன் ஆடுவது பிள்ளைத் தெளிவு எனப்படும். இது கரந்தைத் திணைத் துறை.", "isCorrect": true },
+      { "text": "வஞ்சி", "rationale": "வஞ்சியில் கொற்றவஞ்சி உள்ளது.", "isCorrect": false },
+      { "text": "காஞ்சி", "rationale": "காஞ்சியில் பேய்க்காஞ்சி உள்ளது.", "isCorrect": false }
+    ],
+    "hint": "கரந்தை வீரர்கள் துடி முழங்க ஆடுவது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "போரில் புண்பட்டுத் திரும்புவதைப் புகழும் 'புண்ணொடு வருதல்' எந்தத் திணையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "கரந்தை", "rationale": "ஆநிரை மீட்கச் சென்ற வீரன் உடலெங்கும் புண்பட்டுத் திரும்புதல் கரந்தைத் திணையாகும்.", "isCorrect": true },
+      { "text": "வெட்சி", "rationale": "வெட்சி கவர்தல்.", "isCorrect": false },
+      { "text": "உழிஞை", "rationale": "உழிஞை மதில் போர்.", "isCorrect": false },
+      { "text": "நொச்சி", "rationale": "நொச்சி மதில் காவல்.", "isCorrect": false }
+    ],
+    "hint": "வீரத் தழும்புகளைப் பெறுதல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'வாடா வஞ்சி' என்று சிறப்பிக்கப்படும் திணை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வஞ்சி", "rationale": "வஞ்சித் திணை 'வாடா வஞ்சி' என்று சிறப்பிக்கப்படுகிறது.", "isCorrect": true },
+      { "text": "காஞ்சி", "rationale": "காஞ்சி நிலையாமை.", "isCorrect": false },
+      { "text": "நொச்சி", "rationale": "நொச்சி மதில்.", "isCorrect": false },
+      { "text": "உழிஞை", "rationale": "உழிஞை முற்றுக்கை.", "isCorrect": false }
+    ],
+    "hint": "பகைவர் மண்ணைக் கைப்பற்றச் செல்வது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "போருக்குச் செல்லும் மன்னன் குடையை நல்ல நாளில் எடுத்துச் செல்வது எந்தத் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "குடைநிலை", "rationale": "போருக்குச் செல்லும் முன் மன்னனின் குடையை நன்னாளில் எடுத்துச் செல்வது குடைநிலை (குடைநாட்கோள்) எனப்படும்.", "isCorrect": true },
+      { "text": "வாள்நிலை", "rationale": "வாள்நிலை வாளை எடுத்துச் செல்வது.", "isCorrect": false },
+      { "text": "கொற்றவஞ்சி", "rationale": "கொற்றவஞ்சி மன்னன் சிறப்பைக் கூறுவது.", "isCorrect": false },
+      { "text": "பேராண்வஞ்சி", "rationale": "பேராண்வஞ்சி வீரத்தைப் புகல்வது.", "isCorrect": false }
+    ],
+    "hint": "வெயில் மழையிலிருந்து காக்கும் கருவி."
+  },
+  {
+    "questionNumber": 24,
+    "question": "போர் வீரன் ஒருவன் பகைவர் படையை எதிர்த்துத் தானே தனியனாக நின்று போரிடுவது எந்தத் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஒருதனிநிலை", "rationale": "பெரும்படையை ஒருவனே தடுத்து நிறுத்துவது ஒருதனிநிலை எனப்படும்.", "isCorrect": true },
+      { "text": "தழிஞ்சி", "rationale": "தழிஞ்சி பின்வாங்கும் வீரரைத் தாக்காதிருத்தல்.", "isCorrect": false },
+      { "text": "பாசறைநிலை", "rationale": "பாசறைநிலை முகாமில் தங்குவது.", "isCorrect": false },
+      { "text": "பெருவஞ்சி", "rationale": "பெருவஞ்சி ஊரை எரித்தல்.", "isCorrect": false }
+    ],
+    "hint": "வஞ்சித் திணையில் வரும் துறை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'மகள்பால் காஞ்சி' என்னும் துறை எதனைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மகளுக்குப் பரிசு வழங்குதல்", "rationale": "இது பரிசில்.", "isCorrect": false },
+      { "text": "பெண் கேட்டு வந்த வேந்தனுக்குப் பெண் தர மறுத்தல்", "rationale": "பகை மன்னனுக்குத் தன் மகளைத் தர மறுத்து எதிர்த்து நிற்பது மகள்பால் காஞ்சி எனப்படும்.", "isCorrect": true },
+      { "text": "மகளின் அழகைப் புகழ்தல்", "rationale": "இது நலம் பாராட்டல்.", "isCorrect": false },
+      { "text": "மகளைத் திருமணம் செய்து கொடுத்தல்", "rationale": "இது மணம்.", "isCorrect": false }
+    ],
+    "hint": "காஞ்சித் திணையின் ஒரு துறை."
+  },
+  {
+    "questionNumber": 26,
+    "question": "கணவன் இறந்த பிறகு மனைவியும் தீயில் பாய்ந்து உயிர் விடுவது எந்தத் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "ஆஞ்சிக் காஞ்சி", "rationale": "கணவனுடன் தீப்புகுதல் ஆஞ்சிக் காஞ்சி எனப்படும்.", "isCorrect": true },
+      { "text": "தொடாக் காஞ்சி", "rationale": "தொடாக் காஞ்சி புண்ணைப் பேய் தொடாமல் காப்பது.", "isCorrect": false },
+      { "text": "பேய்நிலை", "rationale": "பேய்நிலை பேயைக் கண்டு அஞ்சுவது.", "isCorrect": false },
+      { "text": "மறக்காஞ்சி", "rationale": "மறக்காஞ்சி வீரத்தைப் புகழ்தல்.", "isCorrect": false }
+    ],
+    "hint": "சதி என்றும் அழைக்கப்படும் வழக்கம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "மதிலைக் காக்கும் வீரர்கள் சூடும் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நொச்சி", "rationale": "மதில் காவலுக்கு உரிய பூ நொச்சி.", "isCorrect": true },
+      { "text": "உழிஞை", "rationale": "உழிஞை மதில் வளைத்தலுக்கு உரியது.", "isCorrect": false },
+      { "text": "தும்பை", "rationale": "தும்பை போருக்கு உரியது.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "வாகை வெற்றிக்கு உரியது.", "isCorrect": false }
+    ],
+    "hint": "இது வேலிகளில் வளரும் ஒரு மூலிகைச் செடி."
+  },
+  {
+    "questionNumber": 28,
+    "question": "மதிலை வளைக்கும் உழிஞைப் போரில் பயன்படுத்தப்படும் முக்கிய இசைக்கருவி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "முரசு", "rationale": "உழிஞைப் போரில் முரசு முக்கிய பங்கு வகிக்கிறது (முரச உழிஞை).", "isCorrect": true },
+      { "text": "வீணை", "rationale": "வீணை இசைக்கருவி.", "isCorrect": false },
+      { "text": "புல்லாங்குழல்", "rationale": "புல்லாங்குழல் மேய்ச்சலுக்கு உரியது.", "isCorrect": false },
+      { "text": "யாழ்", "rationale": "யாழ் பாணர்களுக்கு உரியது.", "isCorrect": false }
+    ],
+    "hint": "இது தோல் கருவி."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'கந்தழி' என்பது எந்தத் திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "உழிஞை", "rationale": "பகைவர் அரணை அழிக்கும் கருவி அல்லது செயல் கந்தழி எனப்படும். இது உழிஞைத் திணை.", "isCorrect": true },
+      { "text": "வெட்சி", "rationale": "வெட்சியில் கந்தழி இல்லை.", "isCorrect": false },
+      { "text": "கரந்தை", "rationale": "கரந்தையில் கந்தழி இல்லை.", "isCorrect": false },
+      { "text": "நொச்சி", "rationale": "நொச்சியில் கந்தழி இல்லை.", "isCorrect": false }
+    ],
+    "hint": "பகைவரின் வலிமையை அழித்தல்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "போர்க்களத்தில் பகைவர் பலர் இறந்து கிடக்க, தான் மட்டும் பிழைத்து நிற்பதைக் கூறுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நூழில்", "rationale": "பகைவர் பலரைக் கொன்று குவிக்கும் வீரச் செயல் நூழில் எனப்படும். இது தும்பைத் திணை.", "isCorrect": true },
+      { "text": "பிள்ளை விளையாட்டு", "rationale": "இது தவறான விடை.", "isCorrect": false },
+      { "text": "சிருங்கார நிலை", "rationale": "சிருங்காரம் காதலைக் குறிக்கும்.", "isCorrect": false },
+      { "text": "பாண் பாட்டு", "rationale": "பாண் பாட்டு பாணரைப் பற்றியது.", "isCorrect": false }
+    ],
+    "hint": "தும்பைத் திணையின் ஒரு துறை."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'களவேள்வி' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "திருமணம் செய்தல்", "rationale": "இது வதுவை.", "isCorrect": false },
+      { "text": "போர்க்களத்தில் பேய்களுக்கு உணவு படைத்தல்", "rationale": "போர்க்களத்தில் வென்ற வீரன் பேய்களுக்குச் சோறு படைப்பது களவேள்வி எனப்படும். இது வாகைத் திணை.", "isCorrect": true },
+      { "text": "யாகம் வளர்த்தல்", "rationale": "இது வேள்வி.", "isCorrect": false },
+      { "text": "பரிசு வழங்குதல்", "rationale": "இது கொடை.", "isCorrect": false }
+    ],
+    "hint": "வாகைத் திணையில் வரும் துறை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "நான்கு வேதங்களை உணர்ந்த அந்தணர்களின் வெற்றியைப் பாடுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பார்ப்பன வாகை", "rationale": "வேத நெறியில் வாழும் அந்தணர்களின் ஒழுக்கத்தையும் வெற்றியையும் கூறுவது பார்ப்பன வாகை.", "isCorrect": true },
+      { "text": "வணிக வாகை", "rationale": "வணிக வாகை வணிகரைப் பற்றியது.", "isCorrect": false },
+      { "text": "வேளாண் வாகை", "rationale": "வேளாண் வாகை உழவரைப் பற்றியது.", "isCorrect": false },
+      { "text": "அரச வாகை", "rationale": "அரச வாகை அரசரைப் பற்றியது.", "isCorrect": false }
+    ],
+    "hint": "வாகைத் திணையின் ஒரு வகை."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'மூதின் முல்லை' என்பது எதனைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மறக்குடிப் பெண்களின் வீரம்", "rationale": "பழமையான மறக்குடியில் பிறந்த பெண்களின் வீரத்தைப் புகழ்வது மூதின் முல்லை. இது வாகைத் திணையில் வரும்.", "isCorrect": true },
+      { "text": "முல்லை நிலத் தெய்வம்", "rationale": "இது மாயோன்.", "isCorrect": false },
+      { "text": "கார்காலம்", "rationale": "இது பெரும்பொழுது.", "isCorrect": false },
+      { "text": "முல்லைப் பூ", "rationale": "இது மலர்.", "isCorrect": false }
+    ],
+    "hint": "வீரத் தாயின் சிறப்பைக் கூறுவது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பாடாண்திணையில் வரும் 'பூவை நிலை' என்பது யாரை உவமையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "சிவன்", "rationale": "சிவன் அழிக்கும் கடவுள்.", "isCorrect": false },
+      { "text": "திருமால் (கண்ணன்)", "rationale": "காயாம்பூ நிறத்தவனான திருமாலோடு மன்னனை ஒப்பிட்டுப் பாடுவது பூவை நிலை.", "isCorrect": true },
+      { "text": "பிரம்மா", "rationale": "பிரம்மா படைக்கும் கடவுள்.", "isCorrect": false },
+      { "text": "இந்திரன்", "rationale": "இந்திரன் தேவர் தலைவன்.", "isCorrect": false }
+    ],
+    "hint": "காயாம்பூ நிறக்கடவுள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "போரில் இறந்த வீரனுக்கு நடுகல் நட்டு வழிபடுவது எந்தப் படலத்தில் வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பொதுவியல்", "rationale": "நடுகல் வழிபாடு பற்றிய துறைகள் பொதுவியல் படலத்தில் இடம் பெற்றுள்ளன.", "isCorrect": true },
+      { "text": "வெட்சி", "rationale": "வெட்சி போரின் தொடக்கம்.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "பாடாண் உயிருடன் இருப்பரைப் புகழ்வது.", "isCorrect": false },
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளை காமம்.", "isCorrect": false }
+    ],
+    "hint": "கல் நடுதல், கல் நீர்ப்படுத்தல் போன்ற துறைகள்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "கணவனை இழந்த பெண் தனிமையில் புலம்புவது 'முதுபாலை' எனப்படும். இது எந்தத் திணை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பொதுவியல்", "rationale": "முதுபாலை பொதுவியல் திணையைச் சார்ந்தது.", "isCorrect": true },
+      { "text": "பெருந்திணை", "rationale": "பெருந்திணை காமத் திணை.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "பாடாண் புகழ் திணை.", "isCorrect": false },
+      { "text": "வஞ்சி", "rationale": "வஞ்சி போர்த் திணை.", "isCorrect": false }
+    ],
+    "hint": "பாலைவனத்தில் கணவனை இழத்தல்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'கைக்கிளை' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "இருவர் காமம்", "rationale": "இது அன்பின் ஐந்திணை.", "isCorrect": false },
+      { "text": "ஒருதலைக் காமம்", "rationale": "ஒருவர் மட்டும் அன்பு செலுத்துவது கைக்கிளை (ஒருதலைக் காமம்) எனப்படும்.", "isCorrect": true },
+      { "text": "பொருந்தாக் காமம்", "rationale": "இது பெருந்திணை.", "isCorrect": false },
+      { "text": "களவு", "rationale": "இது அகத்திணை.", "isCorrect": false }
+    ],
+    "hint": "ஒரு பக்க உறவு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தலைவன் தலைவிக்கு இடையே வயது அல்லது குலம் பொருந்தாமல் வரும் காமம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெருந்திணை", "rationale": "பொருந்தாத காமம் பெருந்திணை எனப்படும்.", "isCorrect": true },
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளை ஒருதலைக் காமம்.", "isCorrect": false },
+      { "text": "முல்லை", "rationale": "முல்லை கற்பு.", "isCorrect": false },
+      { "text": "குறிஞ்சி", "rationale": "குறிஞ்சி புணர்ச்சி.", "isCorrect": false }
+    ],
+    "hint": "பெரிய திணை."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'மடல் ஊர்தல்' என்பது எந்தத் திணையில் வரும் நிகழ்வு?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பெருந்திணை", "rationale": "தலைவி கிடைக்காத விரக்தியில் தலைவன் பனைமடலால் குதிரை செய்து ஊர்வது பெருந்திணை.", "isCorrect": true },
+      { "text": "கைக்கிளை", "rationale": "கைக்கிளையில் இது இல்லை.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "பாடாணில் இது வராது.", "isCorrect": false },
+      { "text": "பொதுவியல்", "rationale": "பொதுவியலில் இது வராது.", "isCorrect": false }
+    ],
+    "hint": "பனை ஓலையால் செய்த குதிரையில் ஏறுதல்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "உலக நிலையாமையை உணர்த்தும் 'முதுமொழிக் காஞ்சி' எந்தப் படலத்தில் உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "காஞ்சிப் படலம்", "rationale": "போர் காஞ்சியை விட நிலையாமை காஞ்சி பொதுவியலில் வருகிறது.", "isCorrect": false },
+      { "text": "காஞ்சிப் பொதுவியல் பால", "rationale": "இது பொதுவியல் படலத்தின் ஒரு பகுதியாகும்.", "isCorrect": true },
+      { "text": "வஞ்சிப் படலம்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பாடாண் படலம்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "அறிவுரைக் கோவை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "மயக்க மருந்து கொடுத்துப் பிணிக்கும் 'வேலன் வெறியாட்டு' எந்தத் திணைகளில் இடம்பெறும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெட்சி மற்றும் பெருந்திணை", "rationale": "வெறியாட்டு வெட்சித் திணையிலும், பெருந்திணையிலும் துறையாக வருகிறது.", "isCorrect": true },
+      { "text": "கரந்தை மட்டும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வஞ்சி மட்டும்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "பாடாண் மட்டும்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "முருகக் கடவுளை வழிபடும் முறை."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'காடு வாழ்த்து' என்பது எதைப் பற்றியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வன விலங்குகளைப் புகழ்வது", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "சுடுகாட்டின் கொடுமையைக் கூறுவது", "rationale": "இறந்தவர்களை எரிக்கும் சுடுகாட்டின் தன்மையைக் கூறுவது காடு வாழ்த்து. இது பொதுவியலில் வரும்.", "isCorrect": true },
+      { "text": "மரங்களை நடுவது", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "மழை வளம் கூறுவது", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பொதுவியல் திணைத் துறை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'தலைத்தோற்றம்' என்பது எந்தத் திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வெட்சி", "rationale": "ஆநிரை கவர்ந்து வரும் தலைவனின் வரவை உணர்ந்து மகிழ்வது தலைத்தோற்றம். இது வெட்சித் திணை.", "isCorrect": true },
+      { "text": "கரந்தை", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வஞ்சி", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "வாகை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "தலைவன் வருவதைக் கண்டறிதல்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'பாசறை நிலை' என்பது எந்தப் படலங்களில் வருகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வஞ்சி மற்றும் வாகை", "rationale": "வஞ்சியில் பாசறை நிலையும், வாகையில் கூதிர்/வாடைப் பாசறையும் வருகின்றன.", "isCorrect": true },
+      { "text": "வெட்சி மற்றும் கரந்தை", "rationale": "இவற்றில் பாசறை இல்லை.", "isCorrect": false },
+      { "text": "உழிஞை மற்றும் நொச்சி", "rationale": "இவற்றில் பாசறை இல்லை.", "isCorrect": false },
+      { "text": "தும்பை மற்றும் பாடாண்", "rationale": "இவற்றில் பாசறை இல்லை.", "isCorrect": false }
+    ],
+    "hint": "போர் முகாமில் தங்குதல்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "புறப்பொருள் வெண்பாமாலையின்படி புறத்திணைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "7", "rationale": "தொல்காப்பியர் கூற்றுப்படி 7.", "isCorrect": false },
+      { "text": "12", "rationale": "புறப்பொருள் வெண்பாமாலை 12 புறத்திணைகளைக் கூறுகிறது.", "isCorrect": true },
+      { "text": "5", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "10", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "வெட்சி முதல் பெருந்திணை வரை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "மன்னனின் பிறந்த நாளைக் கொண்டாடுவது எந்தத் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "நாள் மங்கலம்", "rationale": "அரசனின் பிறந்த நாள் சிறப்பைக் கூறுவது நாள் மங்கலம். இது பாடாண் திணை.", "isCorrect": true },
+      { "text": "பரிசில் நிலை", "rationale": "இது பரிசு பெறுவது.", "isCorrect": false },
+      { "text": "கடைநிலை", "rationale": "இது வாயிலில் நிற்பது.", "isCorrect": false },
+      { "text": "கண்படை நிலை", "rationale": "இது மன்னன் உறங்குவது.", "isCorrect": false }
+    ],
+    "hint": "பெரியார் என்று அழைக்கப்படும் நாள்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'வல்லாண் முல்லை' என்பது எந்தத் திணையின் துறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "வாகை", "rationale": "ஒருவனின் வீரம், புகழ், வளம் ஆகியவற்றை எடுத்துரைப்பது வல்லாண் முல்லை. இது வாகைத் திணையில் அடங்கும்.", "isCorrect": true },
+      { "text": "முல்லை", "rationale": "அகத்திணை.", "isCorrect": false },
+      { "text": "பாடாண்", "rationale": "தவறு.", "isCorrect": false },
+      { "text": "கரந்தை", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "ஒருவனின் ஆண்மையைப் புகழ்வது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "எதிர்பாரா விதமாக வரும் விருந்தினரை உபசரிப்பது பற்றிப் பேசும் துறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "விருந்தோம்பல்", "rationale": "பொதுப்பெயர்.", "isCorrect": false },
+      { "text": "இல்லாள் முல்லை", "rationale": "கணவன் வரும் வரை காத்திருந்து, வரும் விருந்தினரை உபசரிப்பது இல்லாள் முல்லை. (பொதுவியல்).", "isCorrect": true },
+      { "text": "மனை மாட்சி", "rationale": "திருக்குறள் அதிகாரம்.", "isCorrect": false },
+      { "text": "நற்கற்பு", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "இல்லறத் தலைவியின் கடமை."
+  },
+  {
+    "questionNumber": 49,
+    "question": "உழிஞைப் போரில் மதிலைக் கைப்பற்றிய பின் வீரர்கள் என்ன செய்வார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "மண்ணு மங்கலம்", "rationale": "மதிலைக் கைப்பற்றி வெற்றி கொண்ட பின் நீராடி மகிழ்வது மண்ணு மங்கலம்.", "isCorrect": true },
+      { "text": "உண்டாட்டு", "rationale": "இது வெட்சியில் வருவது.", "isCorrect": false },
+      { "text": "பெருஞ்சோறு", "rationale": "இது போருக்கு முன் அளிப்பது.", "isCorrect": false },
+      { "text": "விரை யாட்டெடுத்தல்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "வெற்றிக்கு பின் புனித நீராடல்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'பரிசில் விடை' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      { "text": "பரிசு கேட்டுப் போதல்", "rationale": "இது பரிசில் துறை.", "isCorrect": false },
+      { "text": "பரிசு பெற்ற பின் விடைபெறுதல்", "rationale": "மன்னனிடம் பரிசு பெற்ற புலவர் விடைபெற்றுச் செல்வது பரிசில் விடை எனப்படும். (பாடாண்).", "isCorrect": true },
+      { "text": "பரிசு கொடுக்க மறுத்தல்", "rationale": "இது பரிசில் கடாநிலை.", "isCorrect": false },
+      { "text": "பரிசைத் திருப்பித் தருதல்", "rationale": "தவறு.", "isCorrect": false }
+    ],
+    "hint": "பாடாண் திணையின் இறுதிப் பகுதி."
+  }
+]
