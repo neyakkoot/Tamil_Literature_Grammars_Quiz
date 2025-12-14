@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "திருமுருகாற்றுப்படை நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "மதுரைக் கணக்காயனார் மகனார் நக்கீரர் என்பது நூலின் முகப்பில் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் குறிஞ்சிப் பாடிய புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "இவர் சங்ககாலப் புலவர்களுள் ஒருவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஔவையார்",
+        "rationale": "இவர் அதியமானைப் பாடியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "திருமுருகாற்றுப்படை எவ்வகைத் திணையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடாண்திணை",
+        "rationale": "நூலின் முகப்பில் 'திணை: பாடாண்திணை' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "திருமுருகாற்றுப்படையின் மொத்த அடிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "317",
+        "rationale": "நூலின் இறுதியில் 'மொத்த அடிகள்: 317' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "300",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "400",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "250",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "திருமுருகாற்றுப்படையில் குறிப்பிடப்படும் முருகனின் முதல் படைவீடு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருப்பரங்குன்றம்",
+        "rationale": "வரிசை எண் 1 இல் திருப்பரங்குன்றம் விவரிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருச்செந்தூர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பழனி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சுவாமிமலை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "திருப்பரங்குன்றத்தில் ஆடும் மகளிர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூரர மகளிர்",
+        "rationale": "தெய்வப் பெண்கள் (சூரர மகளிர்) ஆடும் சோலை என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறத்திப் பெண்கள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆயர் மகளிர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பரதவ மகளிர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "முருகப்பெருமானின் நெற்றியில் அணிந்திருப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாடா மாலை",
+        "rationale": "திருச்சீரலைவாய் பகுதியில் 'வாடா மாலை ஓடையொடு துயல்வர' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கச் சங்கிலி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து மாலை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ருத்ராட்சம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "முருகனின் ஆறு முகங்களில் ஒரு முகம் என்ன செய்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாயிருள் ஞாலம் மறுவின்றி விளங்கப் பல்கதிர் விரிக்கின்றது",
+        "rationale": "உலகின் இருளை நீக்க ஒளி வீசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தூங்குகிறது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவு உண்கிறது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வேட்டையாடுகிறது",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "அந்தணர்களின் வேள்வியை உற்று நோக்கும் முகம் எத்தனையாவது முகம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்றாவது முகம்",
+        "rationale": "'மந்திர விதியின் மரபுளி வழாஅ அந்தணர் வேள்வி ஓர்க்கும்மே' என்று விவரிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதல் முகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்தாவது முகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறாவது முகம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "குறவர் மகளாகிய வள்ளியோடு நகைத்து மகிழும் முகம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறாவது முகம்",
+        "rationale": "'குறவர் மடமகள்... வள்ளியொடு நகையமர்ந் தன்றே' என்று ஆறாவது முகம் விவரிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டாவது முகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்காவது முகம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "முதல் முகம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "முருகப்பெருமானுக்கு எத்தனை கைகள் உள்ளதாக நக்கீரர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பன்னிரண்டு",
+        "rationale": "'பன்னிரு கைகள்' என்ற தலைப்பில் கைகளின் செயல்கள் விவரிக்கப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "திருமுருகாற்றுப்படையில் 'அலைவாய்' என்று அழைக்கப்படும் தலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருச்செந்தூர்",
+        "rationale": "இரண்டாம் படைவீடாக 'திருச்சீர் அலைவாய்' குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுவாமிமலை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பழனி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திருத்தணி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "திருவாவினன்குடியில் உறையும் முனிவர்களின் ஆடை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மரவுரி (சீரை)",
+        "rationale": "'சீரை தைஇய உடுக்கையர்' என்று முனிவர்கள் வர்ணிக்கப்பட்டுள்ளனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பட்டு ஆடை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண் துகில்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காவி உடை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "திருவாவினன்குடியில் இசைக்கருவியை மீட்டுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கந்தருவர்",
+        "rationale": "'நல்லியாழ் நவின்ற நயனுடை நெஞ்சின் மென்மொழி மேவலர்' என்று கந்தருவர்கள் குறிக்கப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாணர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "விறலியர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குறவர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "திருவாவினன்குடியில் குறிப்பிடப்படும் 'மூவர்' யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன், திருமால், இந்திரன் (அல்லது பிரம்மா)",
+        "rationale": "திருமால், சிவன் மற்றும் இந்திரன் ஆகியோர் முருகனை வழிபட வருவதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர், தொல்காப்பியர், கபிலர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சேர, சோழ, பாண்டியர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன், சந்திரன், அக்னி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "திருஏரகத்தில் வழிபடுவோர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அந்தணர்",
+        "rationale": "'இருபிறப்பாளர்' (அந்தணர்) திருஏரகத்தில் வழிபடுவதாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேடர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "திருஏரகத்தில் அந்தணர்கள் எதை ஏந்தி வழிபடுகின்றனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நறுமலர்",
+        "rationale": "'விரையுறு நறுமலர் ஏந்தி' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தீபம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கும்பம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "'குன்றுதோறு ஆடல்' பகுதியில் வெறியாடுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேலன்",
+        "rationale": "'வேலன் தைஇய வெறியயர் களனும்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூசாரி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவர்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "குன்றுதோறு ஆடலில் இசைக்கப்படும் பறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொண்டகச் சிறுபறை",
+        "rationale": "'தொண்டகச் சிறுபறைக் குரவை அயர' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேரிகை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "முரசு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மத்தளம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "வேலன் அணியும் மாலையில் கலந்துள்ள மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்கூதாளம்",
+        "rationale": "'வெண்கூ தாளம் தொடுத்த கண்ணியன்' என்று வேலன் வர்ணிக்கப்படுகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மல்லிகை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "ரோஜா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "குறமகளிர் எதனை அணிந்து குரவை அயர்கின்றனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தழையாடை",
+        "rationale": "'பெருந்தண் மாத்தழை... உடீஇ' என்று இலை தழைகளை ஆடையாக அணிந்தது குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பட்டாடை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பருத்தி ஆடை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தோல் ஆடை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "ஆறாவது படைவீடாகக் குறிப்பிடப்படும் சோலை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பழமுதிர் சோலை",
+        "rationale": "வரிசை எண் 6 இல் 'பழமுதிர் சோலை' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேல்விக்குடி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சோலைமலை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மருதமலை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "முருகனை வழிபடச் செய்யவேண்டிய சடங்குகளில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொடியை நட்டு வழிபடுதல்",
+        "rationale": "'சேணுயர் நெடுங்கொடி' மற்றும் 'வாரணக் கொடியொடு' போன்றவை வழிபாட்டில் கூறப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "உண்ணா நோன்பிருத்தல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மௌன விரதம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கடலில் நீராடுதல்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "முருகனை வழிபடும் போது தூவப்படும் பொருட்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலர் மற்றும் வெண்பொரி",
+        "rationale": "'கொழுமலர் சிதறி... வெண்பொரி சிதறி' என்று வழிபாட்டு முறைகள் விவரிக்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம் மற்றும் வெள்ளி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய் மற்றும் பால்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பழங்கள் மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "முருகனை வாழ்த்திப் பாடும்போது இசைக்கப்படும் கருவிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொம்பு மற்றும் மணி",
+        "rationale": "'கோடுவாய் வைத்துக் கொடுமணி இயக்கி' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீணை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "புல்லாங்குழல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வயலின்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "முருகனின் வாகனம் 'பிணிமுகம்' என்று எதைக் குறிக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானை அல்லது மயில்",
+        "rationale": "பிணிமுகம் என்பது யானையையும் மயிலையும் குறிக்கும் சொல்லாகும். நூலில் யானையும் மயிலும் குறிப்பிடப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காளை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "பழமுதிர்சோலையில் உள்ள அருவி எப்படிப்பட்டதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இழுமென இழிதரும் அருவி",
+        "rationale": "'இழுமென இழிதரும் அருவிப் பழமுதிர் சோலை' என்று அருவியின் ஓசை நயத்துடன் வர்ணிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமைதியான நதி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வறண்ட ஆறு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் அலை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "முருகன் யாரின் மகன் என்று நூலில் போற்றப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலைமகள் மற்றும் கொற்றவை",
+        "rationale": "'மலைமகள் மகனே', 'கொற்றவை சிறுவ' என்று இரு பெயர்களாலும் அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கலைமகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதேவி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "முருகன் யாரை அழித்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூர் (சூரபத்மன்)",
+        "rationale": "'சூர்முதல் தடிந்த சுடரிலை நெடுவேல்' மற்றும் 'சூர்மருங்கு அறுத்த' என்று குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ராவணன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கஞ்சன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நரகாசுரன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "நூலின் இறுதியில் நக்கீரர் தன்னை எப்படி அறிமுகப்படுத்துகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலமையோய் மற்றும் இரவலன்",
+        "rationale": "'புரையுநர் இல்லாப் புலமை யோய்' என்றும் 'முதுவாய் இரவலன்' என்றும் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "முருகன் பக்தர்களுக்கு என்ன அளிப்பார் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெறலரும் பரிசில்",
+        "rationale": "'பெறலரும் பரிசில் நல்கும்' என்று முருகன் அருள் புரிவது குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடுகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வீடுகள்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "முருகப்பெருமானின் கொடியில் உள்ள சின்னம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேவல்",
+        "rationale": "'கோழி ஓங்கிய வென்றடு விறற்கொடி' என்று சேவல் கொடி குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வேல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "முருகனை 'ஆல்கெழு கடவுள் புதல்வ' என்று அழைப்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆலமரத்தின் கீழ் அமர்ந்த சிவபெருமானின் மகன்",
+        "rationale": "ஆல்கெழு கடவுள் என்பது தட்சிணாமூர்த்தியை (சிவனை) குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமாலின் மகன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மாவின் மகன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரனின் மகன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "திருமுருகாற்றுப்படையில் 'பாலை' நிலத் தெய்வம் யார் என்று சுட்டப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொற்றவை",
+        "rationale": "வெற்றி வெல்போர்க் கொற்றவை சிறுவ என்று முருகன் அழைக்கப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "லட்சுமி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சரஸ்வதி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காளி",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "பழமுதிர்சோலையில் குரங்குகள் என்ன செய்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளிரில் நடுங்குகின்றன",
+        "rationale": "'மாமுக முசுக்கலை பனிப்ப' என்று குரங்குகள் குளிரில் நடுங்குவது விவரிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழங்களை உண்கின்றன",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மரங்களில் தாவுகின்றன",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்குகின்றன",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "முருகனின் பன்னிரு கைகளில் ஒன்று என்ன செய்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வானர மகளிர்க்கு வதுவை சூட்டுகிறது",
+        "rationale": "ஒரு கை தெய்வப் பெண்களுக்கு மாலை சூட்டுவதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுதுகிறது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சமைக்கிறது",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்குகிறது",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "முருகனின் கைகளில் ஒன்று எதனை முழக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணி",
+        "rationale": "'பாடின் படுமணி இரட்ட ஒருகை' என்று மணி ஒலிப்பதைச் செய்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்கு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "புல்லாங்குழல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வீணை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "முருகனின் மார்பில் என்ன தவழ்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆரம் (மாலை)",
+        "rationale": "'ஆரம் தாழ்ந்த அம்பகட்டு மார்பின்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூணூல்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "துண்டு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கவசம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "திருமுருகாற்றுப்படையில் குறிப்பிடப்படும் 'மராஅத்து' என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடம்ப மரம்",
+        "rationale": "முருகனுக்கு உகந்த மரங்களில் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆல மரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "அரச மரம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்ப மரம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "முருகன் எங்கு உறைதலும் உரியன் என்று நக்கீரர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேண்டுநர் வேண்டியாங்கு எய்தனர் வழிபடும் இடங்கள்",
+        "rationale": "பக்தர்கள் எங்கு வேண்டி வழிபடுகிறார்களோ அங்கெல்லாம் முருகன் உறைவான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோவில்களில் மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மலைகளில் மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "காடுகளில் மட்டும்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "முருகனை வழிபடும்போது நெற்றியில் என்ன அணிவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திலகம்",
+        "rationale": "'திலகம் தைஇய தேங்கமழ் திருநுதல்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருநீறு",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சந்தனம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "குங்குமம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "சூர் மகளிரின் இயல்பு எப்படிப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அணங்குசால் உயர்நிலை",
+        "rationale": "தெய்வீகத் தன்மை கொண்டவர்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொடியவர்கள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சோம்பேறிகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "மானிடப் பெண்கள்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "'எய்யா நல்லிசை' என்பது யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "குற்றமற்ற புகழை உடைய முருகன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "முருகன் எதனை அழிக்கும் 'கூற்று' (எமன்) என்று போற்றப்படுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாற்றோர் (பகைவர்)",
+        "rationale": "'மாற்றோர் கூற்றே' என்று பகைவர்களுக்கு எமனாக விளங்குபவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அன்பர்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தேவர்கள்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "திருமுருகாற்றுப்படை எந்த பாவகையில் பாடப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "நூலின் முகப்பில் 'பாவகை: ஆசிரியப்பா' என்று உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "முருகனின் திருவடிகள் எப்படிப்பட்டவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலம்பும் கிண்கிணியும் அணிந்தவை",
+        "rationale": "'கிண்கிணி கவைஇய ஒண்செஞ் சீறடி' என்று வர்ணிக்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெறுங்கால்கள்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை மலர் போன்றவை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "செருப்பு அணிந்தவை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "'பழையோள் குழவி' என்பதில் பழையோள் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொற்றவை",
+        "rationale": "பழமையானவள், ஆதிசக்தி என்று பொருள்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சரஸ்வதி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கங்கை",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "யமுனை",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "பழமுதிர்சோலையில் உள்ள பலாப்பழம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசினி",
+        "rationale": "'ஆசினி முதுசுளை' என்று பலாப்பழச் சுளை குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாங்கனி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழைக்கனி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "நாவல் பழம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "முருகனை வழிபடும்போது அச்சம் நீங்க அவர் என்ன கூறுவார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அஞ்சல் ஓம்புமதி",
+        "rationale": "பயப்பட வேண்டாம் என்று ஆறுதல் கூறுவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போருக்கு வா",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம் தருகிறேன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "சென்று வா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "குறவர்கள் ஆடும் ஆட்டம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குரவை",
+        "rationale": "'குறமகளிர்... குரவை அயர' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரதநாட்டியம்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கும்மி",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "கோலாட்டம்",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "'அந்தணர் வெறுக்கை' என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "அந்தணர்களின் செல்வம்/பாதுகாவலர் என்று பொருள்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மா",
+        "rationale": "",
+        "isCorrect": false
+      }
+    ]
+  }
+]
