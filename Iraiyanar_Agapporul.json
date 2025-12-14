@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "இறையனார் அகப்பொருள் நூலுக்கு வழங்கப்படும் மற்றொரு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவியல்",
+        "rationale": "இந்நூல் 'களவியல் என்னும் இறையனார் அகப்பொருள்' என்று அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புறப்பொருள் வெண்பாமாலை",
+        "rationale": "இது புறப்பொருள் பற்றிய நூலாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "நன்னூல் ஒரு இலக்கண நூலாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பருங்கலக்காரிகை",
+        "rationale": "இது யாப்பு இலக்கணம் பற்றிய நூலாகும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் தலைப்பிலேயே இப்பெயர் இடம் பெற்றுள்ளது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "இறையனார் அகப்பொருள் நூலில் உள்ள மொத்த சூத்திரங்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100",
+        "rationale": "தவறு, நூலில் உள்ளவை 60 சூத்திரங்கள் மட்டுமே.",
+        "isCorrect": false
+      },
+      {
+        "text": "60",
+        "rationale": "களவு 33, கற்பு 27 ஆக மொத்தம் 60 சூத்திரங்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "50",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "40",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களவு மற்றும் கற்பு அதிகாரங்களின் கூட்டுத்தொகை."
+  },
+  {
+    "questionNumber": 3,
+    "question": "இறையனார் அகப்பொருள் நூலின் மூலத்தை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "நக்கீரர் இந்நூலுக்கு உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை ஆலவாய்க் கடவுள் (இறைவன்)",
+        "rationale": "இந்நூலின் ஆசிரியர் மதுரை ஆலவாயில் எழுந்தருளியுள்ள சிவபெருமான் (இறையனார்) என்று கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் தலைச்சங்கப் புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் இடைச்சங்கப் புலவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே ஆசிரியரின் பெயரும் அமைந்துள்ளது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "இறையனார் அகப்பொருள் நூலுக்கு உரை எழுதியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளம்பூரணர்",
+        "rationale": "இவர் தொல்காப்பியத்திற்கு உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "மதுரை கணக்காயனார் மகனார் நக்கீரனார் இந்நூலுக்கு உரை கண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேனாவரையர்",
+        "rationale": "இவர் தொல்காப்பியச் சொல்லதிகார உரை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "இவர் திருக்குறள் உரை ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடைச்சங்கப் புலவர்களில் ஒருவர்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "தலைச்சங்கம் எங்கு அமைந்திருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபாடபுரம்",
+        "rationale": "இது இடைச்சங்கம் அமைந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் கொள்ளப்பட்ட மதுரை",
+        "rationale": "தலைச்சங்கம் தென்மதுரையில் (கடல் கொள்ளப்பட்ட மதுரை) இருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வட மதுரை",
+        "rationale": "இது கடைச்சங்கம் அமைந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "இது சேர நாட்டின் தலைநகர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இப்பகுதி பிற்காலத்தில் கடலால் கொள்ளப்பட்டது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தலைச்சங்கம் எவ்வளவு காலம் நடைபெற்றதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3700 ஆண்டுகள்",
+        "rationale": "இது இடைச்சங்கத்தின் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4440 ஆண்டுகள்",
+        "rationale": "தலைச்சங்கம் 4440 ஆண்டுகள் நடைபெற்றதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1850 ஆண்டுகள்",
+        "rationale": "இது கடைச்சங்கத்தின் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "2000 ஆண்டுகள்",
+        "rationale": "தவறான கால அளவு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு நான்காகத் தொடங்கும் எண்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "தலைச்சங்கத்தில் அங்கம் வகித்த புலவர்கள் எத்தனை பேர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4449",
+        "rationale": "அகத்தியர் உள்ளிட்ட 4449 பேர் தலைச்சங்கத்தில் இருந்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "59",
+        "rationale": "இது இடைச்சங்கப் புலவர் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "49",
+        "rationale": "இது கடைச்சங்கப் புலவர் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "100",
+        "rationale": "தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாலாயிரத்து நானூற்று..."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தலைச்சங்கத்திற்கு இலக்கண நூலாக அமைந்தது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியம்",
+        "rationale": "இது இடை மற்றும் கடைச்சங்க நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியம்",
+        "rationale": "தலைச்சங்கத்திற்கு அகத்தியமே நூலாக இருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்னூல்",
+        "rationale": "இது பிற்கால நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரசோழியம்",
+        "rationale": "இது பிற்கால நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முனிவர் ஒருவரின் பெயரால் அமைந்த நூல்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "இடைச்சங்கம் எங்கு நிறுவப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபாடபுரம்",
+        "rationale": "இடைச்சங்கம் கபாடபுரத்தில் நடைபெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூம்புகார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இராமாயணத்திலும் குறிப்பிடப்படும் இடம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "இடைச்சங்கத்தின் காலம் எவ்வளவு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4440 ஆண்டுகள்",
+        "rationale": "இது தலைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3700 ஆண்டுகள்",
+        "rationale": "இடைச்சங்கம் 3700 ஆண்டுகள் நடைபெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "1850 ஆண்டுகள்",
+        "rationale": "இது கடைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "500 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூவாயிரத்து எழுநூறு."
+  },
+  {
+    "questionNumber": 11,
+    "question": "பின்வருவனவற்றுள் இடைச்சங்க நூல்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரிபாடல்",
+        "rationale": "இது தலைச்சங்கத்திலும் கடைச்சங்கத்திலும் பாடப்பட்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாபுராணம்",
+        "rationale": "மாபுராணம், இசைநுணுக்கம், பூதபுராணம் ஆகியவை இடைச்சங்க நூல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறுந்தொகை",
+        "rationale": "இது கடைச்சங்க நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருக்குறள்",
+        "rationale": "பதினெண்கீழ்க்கணக்கு நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புராணம் என முடியும் நூல்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "கடைச்சங்கம் எங்கு நடைபெற்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தென்மதுரை",
+        "rationale": "தலைச்சங்கம் நடந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உத்தர மதுரை (வட மதுரை)",
+        "rationale": "கடைச்சங்கம் உத்தர மதுரையில் நடைபெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கபாடபுரம்",
+        "rationale": "இடைச்சங்கம் நடந்த இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்கை",
+        "rationale": "பாண்டியரின் துறைமுகம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தற்போதுள்ள மதுரை."
+  },
+  {
+    "questionNumber": 13,
+    "question": "கடைச்சங்கம் எவ்வளவு காலம் நடைபெற்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1850 ஆண்டுகள்",
+        "rationale": "கடைச்சங்கம் 1850 ஆண்டுகள் (ஆயிரத்து எண்ணூற்று ஐம்பது) நடைபெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "3700 ஆண்டுகள்",
+        "rationale": "இடைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "4440 ஆண்டுகள்",
+        "rationale": "தலைச்சங்க காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "1000 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயிரத்து எண்ணூற்று ஐம்பது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "கடைச்சங்கப் புலவர்களின் எண்ணிக்கை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4449",
+        "rationale": "தலைச்சங்க புலவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "49",
+        "rationale": "கடைச்சங்கத்தில் 49 புலவர்கள் இருந்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "59",
+        "rationale": "இடைச்சங்க புலவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாற்பத்தொன்பது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "பாண்டிய நாட்டில் எத்தனை ஆண்டுகள் பஞ்சம் (வற்கடம்) நிலவியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "12 ஆண்டுகள்",
+        "rationale": "பன்னீரியாண்டு (12 ஆண்டுகள்) வற்கடம் சென்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "7 ஆண்டுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒரு டஜன் ஆண்டுகள்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "பஞ்சத்திற்குப் பின் நாடு திரும்பிய அரசன் எந்த அதிகாரத்தில் வல்லாரைக் காணவில்லை என்று வருந்தினான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "எழுத்ததிகாரம் வல்லார் இருந்தனர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "பொருளதிகாரம் வல்லாரை எங்கும் தலைப்பட்டிலேம் என்று அரசன் வருந்தினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "சொல்லதிகாரம் வல்லார் இருந்தனர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாப்பதிகாரம்",
+        "rationale": "குறிப்பிடப்படவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இலக்கியத்தின் உள்ளடக்கத்தை விளக்கும் அதிகாரம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "இறையனார் அகப்பொருள் சூத்திரங்கள் எங்கு கண்டெடுக்கப்பட்டன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரண்மனைப் பெட்டகத்தில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை ஆலவாயில் பீடத்தின் கீழ்",
+        "rationale": "இறைவனின் பீடத்தின் கீழ் செப்பேடுகளில் எழுதப்பட்ட நிலையில் கிடைத்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலவர் வீட்டின் கூரையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்றங்கரையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோவிலின் கர்ப்பக்கிரகப் பகுதி."
+  },
+  {
+    "questionNumber": 18,
+    "question": "இறையனார் அகப்பொருள் உரையைக் கேட்டுச் சரியான உரை எதுவெனத் தீர்மானித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருத்திர சன்மன்",
+        "rationale": "உப்பூரிகிழார் மகனான உருத்திர சன்மன் மெய்யுரை கேட்டான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் உரை எழுதியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளநாகனார்",
+        "rationale": "இவர் உரை கூறியவர்களில் ஒருவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "இவர் நீதிபதியாக இருக்கவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊமைப் பிள்ளை என்று அழைக்கப்பட்டவர்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "உருத்திர சன்மன் எத்தனை வயதுடையவராக இருந்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "10 வயது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5 வயது",
+        "rationale": "ஐயாட்டைப் பிராயத்தான் (5 வயது) என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "12 வயது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "20 வயது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பள்ளி செல்லும் தொடக்க வயது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "சரியான உரையைக் கேட்டபோது உருத்திர சன்மனின் மெய்ப்பாடு என்னவாக இருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கை தட்டினான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்ணீர் வார்ந்து மெய்ம்மயிர் சிலிர்த்தது",
+        "rationale": "மெய்யான உரையைக் கேட்கும்போது கண்ணீர் வார்ந்து மெய்ம்மயிர் சிலிர்க்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலையசைத்தான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிரித்தான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடல் சிலிர்த்தல்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "யார் கூறிய உரையை உருத்திர சன்மன் முழுமையாக ஏற்றுக்கொண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதுரை இளநாகனார்",
+        "rationale": "இவர் உரைத்தபோது ஒரோவழி (சில இடங்களில் மட்டும்) கண்ணீர் வார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "நக்கீரர் உரைத்தபோது பதந்தொறும் (ஒவ்வொரு சொல்லுக்கும்) கண்ணீர் வார்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குடமூக்கினார்",
+        "rationale": "நூலில் இப்பெயர் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருதனிள நாகனார்",
+        "rationale": "இவர் கடைச்சங்கப் புலவர், ஆனால் உரை எழுதியவராகக் குறிப்பிடப்படவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நெற்றிக்கண் திறப்பினும் குற்றம் குற்றமே என்றவர்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "நக்கீரர் தனது உரையை யாருக்குக் கற்பித்தார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கீரங்கொற்றனார்",
+        "rationale": "நக்கீரர் தம் மகனார் கீரங்கொற்றனார்க்கு உரைத்தார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேனூர்க் கிழார்",
+        "rationale": "இவர் கீரங்கொற்றனாரிடம் கற்றவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலகண்டனார்",
+        "rationale": "பரம்பரையில் இறுதியாக வருபவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "படியங் கொற்றனார்",
+        "rationale": "பரம்பரையில் இடையில் வருபவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நக்கீரரின் மகன்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "களவியலின் முதல் சூத்திரத்தில் குறிப்பிடப்படும் திருமணம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கந்தருவ வழக்கம்",
+        "rationale": "அன்பின் ஐந்திணைக் களவு கந்தருவ வழக்கத்தோடு ஒப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிராஜாபத்தியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அசுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாய்ச்சாசம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வானுலகத் திருமண முறை."
+  },
+  {
+    "questionNumber": 24,
+    "question": "களவின் வகைகளாக முதல் சூத்திரத்தில் கூறப்படுவது எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "அன்பின் ஐந்திணைக் களவெனப் படுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பின் ஐந்திணை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "காமப் புணர்ச்சிக்கு உரியவர்களாகச் சுட்டப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தானே அவளே",
+        "rationale": "தானே அவளே தமியர் காணக் காமப் புணர்ச்சி இருவயின் ஒத்தல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோழியும் தலைவனும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவிலியும் நற்றாயும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாங்கனும் தலைவியும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலைவன் மற்றும் தலைவி."
+  },
+  {
+    "questionNumber": 26,
+    "question": "தலைவன் தன் காதலைத் தோழிக்கு உணர்த்தும் முறை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பணிந்த மொழி",
+        "rationale": "பணிந்த மொழியால் தோழி தேஎத்து இரந்துகுறை உறுதலும் கிழவோன் மேற்றே.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதிகார மொழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடித மூலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூதுவர் மூலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாழ்மையான பேச்சு."
+  },
+  {
+    "questionNumber": 27,
+    "question": "தோழிக்குரிய உணர்ச்சி நிலைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "முன்உற உணர்தல், குறைஉற உணர்தல், அவன்வரவு உணர்த்தல் என மூன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன், குறை, வரவு."
+  },
+  {
+    "questionNumber": 28,
+    "question": "களவுக் காலத்தில் தோழி, தலைவனைச் சேண்பட நிறுத்தக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவனை வெறுப்பதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைவியின் காதலை உறுதிப்படுத்த",
+        "rationale": "சிறைஉறக் கிளந்து சேண்பட நிறுத்தலும்... தலைப்பெயல் வேட்கை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெற்றோருக்குப் பயந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊராருக்குப் பயந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதலை ஆழப்படுத்தவும் சோதிக்கவும்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "குறி எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு (இரவு, பகல்)",
+        "rationale": "இரவுக் குறி, பகற் குறி என இரண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூரியன் இருக்கும் நேரம் மற்றும் இல்லாத நேரம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "களவுக் காலத்தில் தலைவன் எத்தனை நாட்கள் வரைவு நீட்டித்தால் களவு அலராக மாறும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு திங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு திங்கள்",
+        "rationale": "திங்கள் இரண்டின் அகம்என மொழிப (சூத்திரம் 32).",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று திங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு திங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டு மாதங்கள்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "வரைதல் (திருமணம்) எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "களவு வெளிப்படா முன்உறு வரைதல், களவு வெளிப்பட்ட பின்றை வரைதல் என இரண்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெளிப்படும் முன் மற்றும் பின்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "கற்பு காலத்தில் தலைவன் பிரிவதற்குரிய காரணங்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓதல் (கல்வி)",
+        "rationale": "ஓதல், காவல், பகைதணி வினை போன்றவை பிரிவின் காரணங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேட்டை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "படிப்பிற்காக."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஓதலும் காவலும் யாருக்கு உரியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயர்ந்தோர்",
+        "rationale": "ஓதலும் காவலும் உயர்ந்தோர்க்கு உரிய (சூத்திரம் 36).",
+        "isCorrect": true
+      },
+      {
+        "text": "இழிந்தோர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெண்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேலோர்கள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "பரத்தையிற் பிரிவு யாருக்கு உரியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசருக்கு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகருக்கு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எல்லார்க்கும்",
+        "rationale": "காதல் பரத்தை எல்லார்க்கும் உரித்தே (சூத்திரம் 40).",
+        "isCorrect": true
+      },
+      {
+        "text": "அந்தணருக்கு மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அனைவருக்கும்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பரத்தையிற் பிரிந்த தலைவன் மனைவியின் பூப்பு காலத்தில் எத்தனை நாட்கள் நீத்து உறைதல் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "12 நாட்கள்",
+        "rationale": "பூப்பின் புறப்பாடு ஈர்அறு நாளும் நீத்து அகன்று உறைதல் அறத்தாறு அன்றே (சூத்திரம் 43).",
+        "isCorrect": true
+      },
+      {
+        "text": "10 நாட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5 நாட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3 நாட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஈர் ஆறு."
+  },
+  {
+    "questionNumber": 36,
+    "question": "அகத்திணையை விளக்குவதற்கு எத்தனை கூறுகள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "திணை, கைகோள், கூற்று, கேட்போர் உள்ளிட்ட பத்து (சூத்திரம் 56).",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரல் எண்ணிக்கை."
+  },
+  {
+    "questionNumber": 37,
+    "question": "இறையனார் அகப்பொருள் களவு அதிகாரத்தில் மொத்தம் எத்தனை இயல்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரே இயல் (களவியல்)",
+        "rationale": "இந்நூல் களவு, கற்பு என இரு பெரும் பிரிவுகளைக் கொண்டது, உட்பிரிவு இயல்கள் தனியாகக் குறிப்பிடப்படவில்லை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து இயல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று இயல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து இயல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரே ஒரு இயல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தலைச்சங்கத்தில் அகத்தியனாரோடு இருந்த கடவுளர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவனும் முருகனும்",
+        "rationale": "திரிபுரம் எரித்த விரிசடைக் கடவுளும் குன்றெறிந்த முருகவேளும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமாலும் பிரம்மனும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரனும் வருணனும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விநாயகரும் முருகனும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரிசடைக் கடவுள் மற்றும் குன்றெறிந்த வேள்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "இடைச்சங்க நூல்களில் ஒன்றாகக் குறிப்பிடப்படும் 'பூதபுராணம்' யாருடைய நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பிடப்படவில்லை",
+        "rationale": "ஆசிரியர் பெயர் தனித்துக் குறிப்பிடப்படவில்லை, நூல் பெயர் மட்டுமே உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "இவர் தொல்காப்பியம் இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் கடைச்சங்கத்தவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூல் பட்டியலில் மட்டும் உள்ளது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "கடைச்சங்க நூல்களில் 'பரிபாடல்' எத்தனை பாடல்களைக் கொண்டதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுபது",
+        "rationale": "எழுபது பரிபாடலும் என்று உரையில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நூறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஏழு பூஜ்ஜியம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "கடைச்சங்கத்தை ஆதரித்த பாண்டிய மன்னர்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "49",
+        "rationale": "முடத்திருமாறன் முதல் உக்கிரப்பெருவழுதி வரை 49 பேர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "59",
+        "rationale": "இடைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "89",
+        "rationale": "தலைச்சங்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "கவியரங்கேறிய மன்னர்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புலவர்களின் எண்ணிக்கையும் இதுவே."
+  },
+  {
+    "questionNumber": 42,
+    "question": "உருத்திர சன்மன் யாருடைய மகன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உப்பூரிகிழார்",
+        "rationale": "மதுரை உப்பூரிகிழார் மகனாவான் உருத்திர சன்மன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளநாகனார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உப்பு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "இறையனார் அகப்பொருள் சூத்திரங்கள் மொத்தம் எத்தனை செப்பேடுகளில் (ஏடுகளில்) எழுதப்பட்டிருந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "இவை மூன்று செப்பிதழகத்தெழுதி (மூன்று ஏடுகளில்).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முக்காலம் போல."
+  },
+  {
+    "questionNumber": 44,
+    "question": "களவு வெளிப்படும் முன்பே திருமணம் செய்துகொள்வது எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவு வெளிப்படா முன்உறு வரைதல்",
+        "rationale": "சூத்திரம் 24ல் இது குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்பு மணம்",
+        "rationale": "இது பொதுப்பெயர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உடன்போக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறத்தொடு நிற்றல்",
+        "rationale": "இது களவு வெளிப்படுத்தும் முறை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெளிப்படாத நிலையில்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "கற்பு காலத்தில் தலைவன் பரத்தையிடம் சென்று திரும்பும்போது, வாயிலாக (தூதுவராக) வருபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாணன்",
+        "rationale": "பாணன், கூத்தர், விறலியர் ஆகியோர் வாயில்களாக வருவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகைவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இசைக் கலைஞர்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "நக்கீரர் பரம்பரையில் இறுதியாக உரை பெற்றவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முசிறியாசிரியர் நீலகண்டனார்",
+        "rationale": "உரை மரபு முசிறியாசிரியர் நீலகண்டனாரோடு முடிகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கீரங்கொற்றனார்",
+        "rationale": "இவர் முதலில் பெற்றவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேனூர்க் கிழார்",
+        "rationale": "இரண்டாவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வத்தாசிரியர்",
+        "rationale": "நடுவில் வருபவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீல நிறக் கழுத்தை உடையவர் பெயரைக் கொண்டவர்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "இறையனார் அகப்பொருள் உரையில் மேற்கோளாகக் காட்டப்பட்டுள்ள முழுமையான அகப்பொருள் கோவை நூல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருக்கோவையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாண்டிக்கோவை",
+        "rationale": "உரையில் பெரும்பகுதி (325+ பாடல்கள்) பாண்டிக்கோவை பாடல்களாக உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தஞ்சைவாணன் கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குலோத்துங்கன் கோவை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாண்டியனைப் பற்றிய நூல்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "அறத்தொடு நிற்றல் யாருக்கு உரியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தோழி",
+        "rationale": "அறத்தொடு நிற்றல் தோழிக்கும் உரித்தே (சூத்திரம் 29).",
+        "isCorrect": true
+      },
+      {
+        "text": "காவலாளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாங்கன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊரார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலைவியின் தோழி."
+  },
+  {
+    "questionNumber": 49,
+    "question": "களவுக் காலத்தில் தலைவன் எப்போது தலைவியைச் சந்திக்க வரக்கூடாது என்று தோழி கூறுவாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அல்லகுறிப் படுதல்",
+        "rationale": "குறி பிழைக்கும் போது அல்லது ஆபத்தான நேரங்களில்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருவிழாக் காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகல் பொழுது",
+        "rationale": "பகற்குறி உண்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சரியான அடையாளம் கிடைக்காத போது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "தலைவி தன் காதலைத் தானே வெளிப்படுத்தும் சந்தர்ப்பம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரைவு கடாதல்",
+        "rationale": "தவறு, இது தோழியின் செயல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்னை அழிந்த கிளவி",
+        "rationale": "காமம் மிக்க நிலையில் தன்னை மறந்து பேசும் போது (சூத்திரம் 30).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஊடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மடல் ஏறுதல்",
+        "rationale": "பெண்களுக்கு இது இல்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தன்னை மறந்த நிலை."
+  }
+]
