@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நெடுநல்வாடை என்னும் பெயரில் 'நெடு' மற்றும் 'நல்' என்னும் அடைமொழிகள் உணர்த்தும் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலைவனுக்கு நீண்ட போராகவும், தலைவிக்கு நல்ல காலமாகவும் அமைந்தது",
+        "rationale": "தவறு. தலைவனுக்கு வெற்றியைக் கொடுத்ததால் நல்ல வாடையாகவும், பிரிந்து வாடும் தலைவிக்கு நீண்ட வாடையாகவும் அமைந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைவிக்கு நீண்ட துயரத் தருணமாகவும், தலைவனுக்கு வெற்றி தரும் நல்ல காலமாகவும் அமைந்தது",
+        "rationale": "சரி. பிரிந்து வருந்தும் தலைவிக்கு ஒரு பொழுது ஓர் ஊழி போல 'நெடிதாகிய' வாடையாகவும், போரில் வெல்லும் தலைவனுக்கு 'நல்ல' வாடையாகவும் அமைந்ததால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல் வரிகள் நீண்டதாகவும், நல்ல கருத்துக்களைக் கொண்டதாகவும் அமைந்தது",
+        "rationale": "தவறு. இது பாடலின் அளவைக் குறிப்பதன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாடைக்காற்று நீண்ட நேரம் வீசியதால் இப்பெயர் பெற்றது",
+        "rationale": "தவறு. இது நேரடிப் பொருள் மட்டுமே.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "நெடுநல்வாடை பாடலில் குறிப்பிடப்படும் பருவம் (Season) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளவேனில் பருவம்",
+        "rationale": "தவறு. பாடலில் இளவேனில் குறிப்பிடப்படவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூதிர் பருவம்",
+        "rationale": "சரி. 'கூதிர் நின்றன்றாற் போதே' (வரி 72) மற்றும் 'கூதிர்ப் பானாள்' (வரி 12) என்று பாடலில் கூதிர் பருவம் (குளிர்காலம்) குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்பனிப் பருவம்",
+        "rationale": "தவறு. இது கூதிர் (ஐப்பசி, கார்த்திகை) காலத்தைக் குறிக்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார் பருவம்",
+        "rationale": "தவறு. கார் காலத்து மழை பெய்தபின் வரும் குளிர் நிலையை இது குறிக்கிறது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "இப்பாடலில் 'வலனேர்பு' என்னும் சொல் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மேகம் மலையை வலமாக வளைத்து எழுதலை",
+        "rationale": "சரி. 'வலனேர்பு வளைஇ' என்பது மேகம் மலையை வலமாகச் சூழ்ந்து எழுவதைக் குறிக்கிறது என்று நச்சினார்க்கினியர் உரை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வலப்பக்கமாக வீசும் காற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வலக்கையல் வெற்றி பெறுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வலப்பக்கமாகச் சுற்றும் விண்மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "கடும் குளிரால் இடையர்கள் (கோவலர்) எதனைச் செய்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெருப்பை மூட்டி குளிர் காய்ந்தனர்",
+        "rationale": "தவறு. அவர்கள் கையில் கொள்ளி நெருப்பை வைத்துக்கொண்டு கன்னத்தில் வைத்துச் சூடேற்றினர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கையில் கொள்ளி நெருப்பை வைத்துக்கொண்டு கன்னத்தில் ஒற்றி நடுங்கினர்",
+        "rationale": "சரி. 'கையிடத்திலே கொண்ட நெருப்பினையுடையராய்ப் பற்பறைகொட்டி நடுங்க' என்று உரை கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்வை போர்த்திக்கொண்டு உறங்கினர்",
+        "rationale": "தவறு. அவர்கள் தூங்கவில்லை, நடுங்கிக் கொண்டிருந்தனர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆடு மாடுகளைக் கொட்டிலில் அடைத்தனர்",
+        "rationale": "தவறு. அவர்கள் வேறு புலம் பரப்பித் திரிந்தனர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "குளிரின் மிகுதியால் பசுக்கள் (கறவை) கன்றுகளிடம் எவ்வாறு நடந்துகொண்டன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கன்றுகளை அரவணைத்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்றுகளுக்குப் பால் கொடுத்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்றுகளை ஏற்காமல் உதைத்துத் தள்ளின",
+        "rationale": "சரி. 'கறவை கன்றுகோள் ஒழியக் கடிய வீசி' - பசுக்கள் குளிரால் கன்றை ஏற்றுக்கொள்வதைத் தவிர்த்து உதைத்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "கன்றுகளுடன் மேய்ச்சலுக்குச் சென்றன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பாடலில் 'பொன் போல்' மலர்வதாகக் குறிப்பிடப்படும் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொன்றை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பீரம் (Luffa)",
+        "rationale": "சரி. 'பொன்போற் பீரமொடு புதற்புதன் மலர' - பீர்க்கம்பூ பொன் போல மலர்ந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேங்கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவ்வந்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "நச்சினார்க்கினியர் உரையின்படி, 'முசுண்டை' என்பதன் அடைமொழி (விசேடணம்) என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புன்கொடி",
+        "rationale": "சரி. 'புன்கொடி முசுண்டை' என்று பாடல் குறிப்பிடுகிறது, இதற்குப் 'புல்லிய கொடியினையுடைய' என்று உரை எழுதப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நறுங்கொடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசுங்கொடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வன்கொடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "குளிர்காலத்தில் பறவைகள் எவ்வாறு பாதிக்கப்பட்டதாகப் பாடல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூட்டில் முடங்கிக் கிடந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரங்களில் தங்கியிருந்த பறவைகள் நிலத்தில் விழுந்தன",
+        "rationale": "சரி. 'பறவை படிவன வீழ' - மரங்களில் தங்குவனவாகிய புள்ளுக்கள் குளிர்/காற்று மிகுதியால் நிலத்தே விழுந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரை தேடிப் பறந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெதிசை நோக்கிக் குடிபெயர்ந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "நீர்ப்பறவைகள் (கொக்கு, நாரை) எதனை உண்பதாகக் குறிப்பிடப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவளைகளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கயல் மீன்களை",
+        "rationale": "சரி. 'கயலற லெதிர... செவ்வரி நாரையொடு எவ்வாயுங் கவர' - கயல் மீன்கள் நீரை எதிர்த்து வரும்போது பறவைகள் அவற்றைக் கவர்ந்து தின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்டுகளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறு பூச்சிகளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "மூதூர் வீதிகள் எவ்வாறு இருந்ததாகப் பாடல் ஒப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல் போல பரந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு கிடந்தன்ன (நதி ஓடுவது போல)",
+        "rationale": "சரி. 'ஆறுகிடந் தன்ன வகனெடுந் தெருவில்' - ஆறு கிடந்தாற்போன்ற அகன்ற நெடிய தெரு என்று வர்ணிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலைப் பள்ளத்தாக்கு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காட்டுப் பாதை போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "மாலை நேரத்தில் பெண்கள் எதனைத் தூவி தெய்வத்தை வழிபட்டனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்தனமும் குங்குமமும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல்லும் மலரும்",
+        "rationale": "சரி. 'நெல்லு மலருந் தூஉய்க்கை தொழுது' - நெல்லையும் மலரையும் தூவி இல்லுறை தெய்வத்தை வழிபட்டனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொரியும் அவலும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீரும் பாலும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "பெண்கள் கூந்தலுக்குப் புகையூட்டப் பயன்படுத்திய பொருட்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சாம்பிராணி மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகில் மற்றும் வெண்ணிற சர்க்கரை (அயிர்)",
+        "rationale": "சரி. 'அகிலொடு வெள்ளயிர் புகைப்ப' - அகிலுடன் வெள்ளிய சர்க்கரையைக் (கண்ட சருக்கரை/வெள்ளயிர்) கூட்டிப் புகைத்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சந்தனம் மற்றும் குங்குமப்பூ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பிலை மற்றும் மஞ்சள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "இப்பாடலில் 'யவனர் இயற்றிய வினைமாண் பாவை' என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யவனர்கள் செய்த பொம்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கையில் விளக்கேந்திய பாவை விளக்கு",
+        "rationale": "சரி. 'கையேந் தையக னிறையநெய் சொரிந்து' - கையில் தகளி ஏந்திய பாவை விளக்கை யவனர் செய்ததாகக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யவனர் வடித்து வைத்த சிற்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யவன தேசத்து ஆடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "அரண்மனை வாயில் கதவுகளில் பூசப்பட்டிருந்த பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்தனம் மற்றும் பன்னீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐயவி (வெண்சிறுகடுகு) மற்றும் நெய்",
+        "rationale": "சரி. 'ஐயவி அப்பிய நெய்யணி நெடுநிலை' - வெண்சிறுகடுகு மற்றும் நெய் பூசப்பட்ட வாயில் நிலை.",
+        "isCorrect": true
+      },
+      {
+        "text": "செம்மண் மற்றும் சாணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மஞ்சள் மற்றும் குங்குமம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "அரண்மனை வாயிலில் பொறிக்கப்பட்டிருந்த தெய்வீகச் சின்னம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கருடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கஜலட்சுமி (யானைகள் நீர் சொரியும் காட்சி)",
+        "rationale": "சரி. 'போதவிழ் குவளைப் புதுப்பிடி காலமைத்து' என்பதன் உரையில், இரண்டு யானைகளுக்கு நடுவே திருமகள் வீற்றிருக்கும் கஜலட்சுமி சிற்பம் என்று நச்சினார்க்கினியர் விளக்குகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "அரண்மனை முற்றம் எதனால் நிரப்பப்பட்டிருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தருமணல் (வெண்மணல்)",
+        "rationale": "சரி. 'தருமணன் ஞெமிரிய திருநகர் முற்றத்து' - கொண்டு வந்து பரப்பப்பட்ட மணல் நிறைந்த முற்றம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புற்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்கக் காசுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "அரண்மனை முற்றத்தில் அன்னப் பறவையோடு (Annam) விளையாடியதாக உரை குறிப்பிடும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எகினம் (கவரிமா)",
+        "rationale": "சரி. பாடலில் 'நெடுமயிர் எகினம்' என்று வருகிறது. உரையாசிரியர் எகினம் என்பதற்கு 'கவரிமா' (Yak/Musk deer type) என்று பொருள் கூறுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "அரண்மனைக் கட்டிலின் கால்கள் எதன் வடிவத்தில் இருந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிங்கத்தின் கால்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூண்டுக்குடம் (Ulli) மற்றும் மகளிரின் முலை",
+        "rationale": "சரி. 'குடத்த... உள்ளி நோன்முதல் பொருத்தி' - குடத்தைப் போலவும், பூண்டுப் புட்டில் (Garlic bulb shape) போலவும் கடைந்து செய்யப்பட்ட கால்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானையின் கால்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை மலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "அரசி படுத்திருந்த படுக்கை (மெத்தை) எதனால் செய்யப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பருத்தி பஞ்சு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்னப் பறவையின் தூவி (இறகு)",
+        "rationale": "சரி. 'துணைபுண ரன்னத் தூநிறத் தூவி' - அன்னப் பறவையின் மென்மையான இறகுகளால் ஆன படுக்கை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இலவம் பஞ்சு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பட்டுத் துணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "பிரிவின் துயரால் அரசி அணிந்திருந்த ஒரே ஒரு அணிகலன் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைர மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாலி நாண் (மங்கல நாண்) மட்டும்",
+        "rationale": "சரி. 'பின்னமை நெடுவீழ் தாழ' என்பதற்கு 'தாலி நாணொன்றுமே தூங்க' என்று உரை கூறுகிறது (முத்துமாலை போன்றவற்றைத் துறந்து).",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்க வளையல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால் சிலம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "அரசி தன் கையில் எவ்வகையான வளையலை அணிந்திருந்தாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொன் வளையல்",
+        "rationale": "தவறு. பொன் வளையலைக் கழற்றிவிட்டாள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கு வளையல் மற்றும் நூல் காப்பு",
+        "rationale": "சரி. 'வலம்புரி வளையொடு கடிகைநூல் யாத்து' - வலம்புரிச் சங்கால் ஆன வளையையும் காப்பு நூலையும் அணிந்திருந்தாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்ணாடி வளையல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேங்காய் ஓட்டு வளையல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "செவிலியர் (Foster mothers) அரசியிடம் என்ன கூறித் தேற்றினர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசன் போரில் வென்றுவிட்டான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்றே வருவர் (He will come today)",
+        "rationale": "சரி. 'இன்னே வருகுவர்' என்று கூறிப் பொய் சொல்லியாவது தேற்ற முயன்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மழை நின்றதும் வருவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூதுவர் வந்துள்ளனர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "அரசி எந்த விண்மீனைத் தொழுது நின்றாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அருந்ததி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரோகிணி",
+        "rationale": "சரி. 'உரோகிணி நினைவன ணோக்கி' - சந்திரனை விட்டுப் பிரியாத உரோகிணியைப் போல தானும் இருக்க வேண்டித் தொழுதாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கார்த்திகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாதிரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "அரசி யாரை நோக்கி 'இன்னே முடிக தில்' (போர் உடனே முடிக) என்று வேண்டினாள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை (வெற்றித் தெய்வம்)",
+        "rationale": "சரி. உரை ஆசிரியர் இது 'கொற்றவையை நோக்கிப் பரவுகின்றவள் கூற்று' என்று விளக்குகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "பாசறையில் அரசனின் தோளில் என்ன இருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெற்றிக் கவசம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள் மற்றும் 'ஒலியல்' (மேலாடை)",
+        "rationale": "சரி. 'புடைவீ ழந்துகி லிடவயிற் றழீஇ', 'வாடோட் கோத்த' - சரிந்த மேலாடையை இடத்தோளில் அணைத்தபடியும், வாளைத் தோளில் கோத்தபடியும் இருந்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வில் அம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குழந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "பாசறையில் அரசன் இரவு நேரத்தில் என்ன செய்து கொண்டிருந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உறங்கிக் கொண்டிருந்தான்",
+        "rationale": "தவறு. 'பள்ளி கொள்ளான்' என்று பாடல் கூறுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புண்பட்ட வீரர்களை நலம் விசாரித்தான்",
+        "rationale": "சரி. 'புண்பட்ட வீரரை அடைவே அடைவே காட்ட' - முன்னால் செல்பவன் காட்ட, அரசன் வீரர்களைச் சென்று பார்த்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் வியூகம் அமைத்தான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருந்து உண்டான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "பாசறையில் அரசனுக்கு முன்னால் வழிகாட்டிச் சென்றவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமைச்சர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேனாபதி (முன்னோன்)",
+        "rationale": "சரி. 'முன்னோன் முறைமுறை காட்ட' - படைத்தலைவன் முன்னால் சென்று காட்டினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேரோட்டி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "முன்னோன் (படைத்தலைவன்) கையில் வைத்திருந்த வேலின் நுனியில் என்ன கட்டப்பட்டிருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெற்றிக் கொடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பம் பூ மாலை",
+        "rationale": "சரி. 'வேம்பு தலை யாத்த நோன்காழ் எஃகம்' - வேப்பம்பூ மாலையைத் தலையில் கட்டிய வேல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பனம்பூ மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆத்தி மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "வேப்பம்பூ மாலை ('வேம்பு') குறிப்பிடப்பட்டதன் மூலம் இப்பாடல் அகத்திணையிலிருந்து புறத்திணைக்கு மாற்றப்படக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேப்பம்பூ மருத்துவ குணம் கொண்டது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பம்பூ பாண்டிய மன்னனுக்குரிய அடையாளப் பூ என்பதால் தலைவன் அடையாளம் காட்டப்பட்டுவிட்டது",
+        "rationale": "சரி. அகத்திணையில் தலைவன் பெயர்/அடையாளம் சுட்டப்படக்கூடாது. பாண்டியனின் அடையாளப் பூ (வேம்பு) வந்ததால் இது புறத்திணையில் (வாகை) சேர்க்கப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேப்பம்பூ போருக்கு உரிய பூ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பம்பூ கசப்பானது, அது போரின் கசப்பைக் குறிக்கிறது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "பாசறையில் வீசிய காற்றுக்கு என்ன பெயர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தென்றல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாடை (வடந்தை)",
+        "rationale": "சரி. 'வடந்தைத் தண்வளி' - வடக்கிலிருந்து வீசும் வாடைக்காற்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொண்டல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கச்சான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "பாசறையில் விளக்குகள் ('பாண்டில்') எவ்வாறு எரிந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேராகச் சுடர் விட்டு எரிந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாடைக்காற்றால் அசைந்து தெற்கு நோக்கிச் சாய்ந்து எரிந்தன",
+        "rationale": "சரி. 'தெற்கேர் பிறைஞ்சிய தலைய' - காற்று மோதுவதால் சுடர் தெற்குப் பக்கமாகச் சாய்ந்து எரிந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணைந்து புகைந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்ணெய் இன்றி மங்கின",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "இப்பாடலை இயற்றியவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர் (மதுரைக் கணக்காயனார் மகனார்)",
+        "rationale": "சரி. நூலின் இறுதியில் 'மதுரைக் கணக்காயனார் மகனார் நக்கீரனார் பாடிய நெடுநல்வாடை' எனக் குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒளவையார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "நெடுநல்வாடை எந்தத் திணையைச் சார்ந்தது என்று நச்சினார்க்கினியர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முல்லைத் திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகைத் திணை (கூதிர் பாசறை)",
+        "rationale": "சரி. 'வாகை தானே பாலையது புறனே' என்பதற்கிணங்க, இது வாகைத் திணையைச் சார்ந்தது என்று நச்சினார்க்கினியர் விளக்குகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சித் திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலைத் திணை",
+        "rationale": "தவறு. இது பாலைக்குப் புறனான வாகை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "அரண்மனையைக் கட்டும் தச்சர்கள் ('நூலறி புலவர்') திசையை அறிய எதனைப் பயன்படுத்தினர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திசைகாட்டி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியனின் நிழல் மற்றும் நூல் (கயிறு)",
+        "rationale": "சரி. 'நுண்ணிதிற் கயிறிட்டு... தேஎங் கொண்டு' - சித்திரை மாதத்தில் சூரியனின் நிழல் சாயாத நேரத்தைக் கணித்து நூலால் அளந்து கட்டினர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்சத்திரங்களின் நிலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காற்றின் திசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "அரண்மனையில் 'மதலைப் பள்ளி' என்பது எதனைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குழந்தைகள் பள்ளிக்கூடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறாக்கள் தங்கும் கூரைப்பகுதி (கபோதகத்தலை)",
+        "rationale": "சரி. 'மதலைப் பள்ளி மாறுவன விருப்ப' - கொடுங்கையைத் தாங்கும் பலகைகளில் (Cornice) புறாக்கள் தங்கியிருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசரின் படுக்கையறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை லாயம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "குளிர்காலத்தில் மயில்கள் எவ்வாறு ஒலி எழுப்புவதாகப் பாடல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மகிழ்ச்சியுடன் ஆடியபடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊதுகொம்பு (வயிர்) போன்ற குரலில்",
+        "rationale": "சரி. 'வயிர்மரு ளின்னிசை' - கொம்பு ஊதுவது போன்ற ஒலியை மயில் எழுப்பியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அச்சத்துடன் அலறியபடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதியாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "அரண்மனைச் சுவர்களில் வரையப்பட்டிருந்த ஓவியம் ('கொடி') எவ்வகை ஓவியம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போர்க் காட்சிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வல்லி (Creeper) ஓவியம்",
+        "rationale": "சரி. 'உருவப் பல்பூ வொருகொடி வளைஇ' - பல பூக்களையுடைய கொடி ஓவியம் வரையப்பட்டிருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விலங்குகள் ஓவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள் ஓவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "அரண்மனையின் உள்பகுதி ('நல் இல்') எதனுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொர்க்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருப்பக்கிருகம் (கருவறை)",
+        "rationale": "சரி. 'கருவொடு பெயரிய காண்பி னல்லில்' - கரு என்னும் பெயர்பெற்ற (கருவறை போன்ற) பாதுகாப்பான இடம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறைச்சாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூங்கா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "கட்டிலின் மேல் விரிக்கப்பட்டிருந்த போர்வை ('கலிங்கம்') எவ்வாறு துவைக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நறுமண நீரில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கஞ்சியிட்டு (காடி கொண்ட)",
+        "rationale": "சரி. 'காடி கொண்ட கழுவுறு கலிங்கத்து' - கஞ்சியைத் தன்னிடத்தே கொண்ட, துவைக்கப்பட்ட ஆடை.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆற்று நீரில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெந்நீரில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "அரசி அணிந்திருந்த மோதிரம் ('வாளைப் பகுவாய்') எப்படிப்பட்ட வடிவத்தைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாமரை மொட்டு வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாளை மீனின் திறந்த வாய் வடிவம் (முடக்கு மோதிரம்)",
+        "rationale": "சரி. 'வாளைப் பகுவாய் கடுப்ப' - வாளை மீனின் திறந்த வாயைப் போன்ற வடிவம் கொண்ட மோதிரம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாம்பு வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிங்க முக வடிவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாசறையில் அரசன் எப்போது துயில்கொள்ளவில்லை என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விடியற்காலையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நள்ளென் யாமத்தில் (நடு இரவு)",
+        "rationale": "சரி. 'நள்ளென் யாமத்தும் பள்ளி கொள்ளான்' - நள்ளிரவிலும் தூங்காமல் வீரர்களைப் பார்த்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பகலில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை நேரத்தில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "இப்பாடலில் குறிப்பிடப்படும் போர் எதுவென்று உரையாசிரியர் கருதுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கலிங்கப் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலையாலங்கானத்துச் செரு",
+        "rationale": "சரி. 'தலையாலங்கானத்துச் செருவென்ற நெடுஞ்செழியன்... சென்று பொருதலின்' என்று நச்சினார்க்கினியர் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேனிற் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தகடூர்ப் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "அரசி படுத்திருந்த கட்டிலின் மேற்கூரையில் ('மேல் நிலை') என்ன தொங்கவிடப்பட்டிருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பட்டுத் துணிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து மாலைகள்",
+        "rationale": "சரி. 'முத்துடைச் சாலேக நாற்றி' - முத்து மாலைகள் தொங்கவிடப்பட்டிருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணி விளக்குகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூ மாலைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "அரண்மனைத் தூண்கள் எதனைப் போன்று இருந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தங்கம் போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீல மணி போல (Sapphire)",
+        "rationale": "சரி. 'மணிகண் டன்ன... திண்காழ்' - நீல மணியைக் கண்டாற்போன்ற கருமையான தூண்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பளிங்கு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "கூதிர் காலத்தில் யாழ் வாசிப்பவர்கள் யாழ் நரம்புகளை எவ்வாறு சுருதி கூட்டினர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெருப்பில் காட்டினர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தம் மார்பின் வெப்பத்தில் தடவி (அல்லது நெருப்பின் வெப்பத்தில்) சுருதி கூட்டினர்",
+        "rationale": "சரி. 'கொம்மை வருமுலை வெம்மையிற் றடைஇ' - குளிரால் இிறுகிய நரம்பை மார்பு வெப்பத்தாலோ நெருப்பு வெப்பத்தாலோ சூடுபடுத்தி இசைத்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெயிலில் வைத்தனர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்ணெய் பூசினர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "பெண்கள் வழிபாட்டின் போது கையில் ஏந்திய பொருள் ('கைதொழுது') என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேங்காய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல்லும் மலரும்",
+        "rationale": "சரி. 'நெல்லு மலருந் தூஉய்க்கை தொழுது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "அரசின் பாசறையில் குதிரைகள் எழுப்பிய ஒலி எதன் காரணமாக இருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பசியால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரே இடத்தில் கட்டப்பட்டிருந்த வெறுப்பால் (Boredom)",
+        "rationale": "சரி. 'பணைநிலை முனைஇய... புல்லுணாத் தெவிட்டும்' - பந்தியில் நிற்பதை வெறுத்து புல்லைச் சபித்து ஒலி எழுப்பின.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்க் காயங்களால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழையில் நனைந்ததால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "அரண்மனை வாயில் தூண்கள் ('நெடுநிலை') எப்போது நடப்பட்டன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பௌர்ணமி அன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்ல நாள் (Nal) மற்றும் கோள் (Planets) பார்த்து",
+        "rationale": "சரி. 'நாளொடு பெயரிய கோனமை விழுமரத்து' - நல்ல நாள் பார்த்து நடப்பட்ட தூண்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முடிந்த அன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசனின் பிறந்த நாளில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "நெடுநல்வாடை எவ்வகை பா வகையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசிரியப்பா (அகவற்பா)",
+        "rationale": "சரி. சங்க இலக்கியப் பத்துப்பாட்டு நூல்கள் பெரும்பாலும் ஆசிரியப்பாவால் ஆனவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "'புனையா ஓவியம்' என்று யாரை/எதனைப் பாடல் ஒப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரண்மனைச் சுவரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அலங்காரங்கள் இல்லாத தலைவியை (அரசியை)",
+        "rationale": "சரி. 'புனையா வோவியங் கடுப்ப' - அணிகலன்கள் மற்றும் ஒப்பனைகள் இல்லாத அரசியை வண்ணம் தீட்டாத ஓவியத்திற்கு ஒப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கைவிடப்பட்ட பாவை விளக்கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர்க்களத்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
