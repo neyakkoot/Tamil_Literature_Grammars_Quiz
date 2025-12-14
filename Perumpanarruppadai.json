@@ -1,0 +1,1302 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பெரும்பாணாற்றுப்படை நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறு. இவர் திருமுருகாற்றுப்படையை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடியலூர் உருத்திரங் கண்ணனார்",
+        "rationale": "சரி. பெரும்பாணாற்றுப்படை மற்றும் பட்டினப்பாலை ஆகிய நூல்களை இயற்றியவர் .",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு. இவர் குறிஞ்சிப்பாட்டை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாங்குடி மருதனார்",
+        "rationale": "தவறு. இவர் மதுரைக்காஞ்சியை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "பெரும்பாணாற்றுப்படை யாரை பாட்டுடைத் தலைவனாகக் கொண்டது?",
+    "answerOptions": [
+      {
+        "text": "கரிகால் பெருவளத்தான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொண்டைமான் இளந்திரையன்",
+        "rationale": "சரி. காஞ்சியை ஆண்ட தொண்டைமான் இளந்திரையனே இதன் தலைவன் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "இவ்விலக்கியம் எத்தனை அடிகளைக் கொண்டது?",
+    "answerOptions": [
+      {
+        "text": "317",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "சரி. நூல் 500 அடிகளைக் கொண்டது .",
+        "isCorrect": true
+      },
+      {
+        "text": "583",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "782",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "யாழின் பத்தர் (குடம்) எந்த மலரைப் போன்று இருந்ததாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "பாதிரி மலர்",
+        "rationale": "சரி. 'பாசிலை யொழித்த பராஅரைப் பாதிரி' என்று யாழின் குடம் பாதிரி மலருக்கு ஒப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை மலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை மலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காந்தள் மலர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "யாழின் தண்டு (உள்ளகம்) எதனைப் போன்று இருந்ததாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "மூங்கில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாக்கு மரத்தின் (கமுகு) பாளை",
+        "rationale": "சரி. 'பரியரைக் கமுகின் பாளையம்' என்று கமுக மரத்தின் பாளைக்கு ஒப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "தேக்கு மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனை மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "யாழின் நரம்புகள் எதனைப் போன்று இருந்தன?",
+    "answerOptions": [
+      {
+        "text": "பொன்னை உருக்கிச் செய்தது போல",
+        "rationale": "சரி. 'பொன்வார்ந் தன்ன புரியடங்கு நரம்பின்' என்று குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "வெள்ளி கம்பிகள் போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நார்ப்பட்டு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்பு கம்பி போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "பாலை நிலத்தில் வாழும் எயினர் குடியிருப்பு எதனால் சூழப்பட்டிருந்தது?",
+    "answerOptions": [
+      {
+        "text": "முள் வேலி",
+        "rationale": "சரி. 'வாழ்முள் வேலிச் சூழ்மிளைப் படப்பைக்' என்று முள் வேலியால் சூழப்பட்டிருந்ததாகக் கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்சுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர் அகழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மர வேலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "எயினர் குடியிருப்பில் (பாலை நிலம்) பாணனுக்குக் கிடைக்கும் உணவு யாது?",
+    "answerOptions": [
+      {
+        "text": "நெல் சோறும் உடும்புக் கறியும்",
+        "rationale": "சரி. 'ஈந்தின் காழ்கண் டன்ன... சொன்றி... உடும்பின் வறைகால்' (ஈச்சங்கொட்டை போன்ற அரிசிச் சோறும் உடும்புப் பொரியலும்) கிடைக்கும் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பால் சோறு",
+        "rationale": "தவறு. இது முல்லை நில உணவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன் உணவு",
+        "rationale": "தவறு. இது நெய்தல் நில உணவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "பாலை நிலத்தில் காணப்படும் மரம் எது?",
+    "answerOptions": [
+      {
+        "text": "ஈந்து",
+        "rationale": "சரி. 'களர்வள ரீந்தின்' என்று ஈந்து மரம் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மருதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புன்னை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "உப்பு வணிகர்கள் (உமணர்) பொதி சுமக்க எதனைப் பயன்படுத்தினர்?",
+    "answerOptions": [
+      {
+        "text": "கழுதை",
+        "rationale": "சரி. 'பல்லெருத் துமணர்... கழுதைச் சாத்தொடு' என்று கழுதைகளைப் பயன்படுத்திய குறிப்பு உள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "எருது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "பாலை நிலத்து வழிப்பறிக் கொள்ளையர்கள் எவ்வாறு அழைக்கப்பட்டனர்?",
+    "answerOptions": [
+      {
+        "text": "களவேர் வாழ்க்கையர்",
+        "rationale": "சரி. 'களவேர் வாழ்க்கைக் கொடியோ ரின்றவன்' என்று குறிப்பிடப்படுகிறார்கள் .",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரதவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "முல்லை நிலத்தில் (இடையர் சேரி) பாணனுக்குக் கிடைக்கும் உணவு என்ன?",
+    "answerOptions": [
+      {
+        "text": "தினைச் சோறும் பாலும்",
+        "rationale": "சரி. 'பசுந்தினை மூரல் பாலொடும் பெறுகுவிர்' என்று குறிப்பிடப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன் குழம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறைச்சி சோறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காய்கறிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "இடையர்கள் ஊதும் இசைக் கருவியாகக் குறிப்பிடப்படுவது எது?",
+    "answerOptions": [
+      {
+        "text": "குமிழின் குழல்",
+        "rationale": "சரி. 'குமிழின்... குழலி னின்றீம் பாலை' என்று குமிழ மரத்தால் ஆன குழல் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "வெள்ளி சங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "முல்லை நிலத்தில் காணப்படும் விலங்கு எது?",
+    "answerOptions": [
+      {
+        "text": "குறும்பூழ் (காடை) மற்றும் முயல்",
+        "rationale": "சரி. 'குறும்பூழ் கட்சிச் சேக்கும்', 'குறுமுயல்' போன்ற குறிப்புகள் உள்ளன .",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "மருத நிலத்தில் (உழவர்) பாணனுக்குக் கிடைக்கும் உணவு யாது?",
+    "answerOptions": [
+      {
+        "text": "வெள்ளை அரிசிச் சோறும் அவரைப் பருப்பும்",
+        "rationale": "சரி. 'குறளவிழ்ச் சொன்றி... அவரை வான்புழுக் கட்டி' (வெள்ளை சோறு மற்றும் அவரைப் பருப்பு) .",
+        "isCorrect": true
+      },
+      {
+        "text": "தினை மாவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறைச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "மருத நிலத்தில் கேட்கும் ஒலி என்ன?",
+    "answerOptions": [
+      {
+        "text": "கரும்பாலை எந்திரத்தின் ஒலி",
+        "rationale": "சரி. 'எந்திரஞ் சிலைக்குந் துங்சாக் கம்பலை... கரும்பின் றீஞ்சாறு' (கரும்பு ஆலை எந்திர ஒலி) .",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முரசு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் அலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலி உறுமல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "மருத நிலத்து உழவர்கள் நெல் அறுவடைக்கு எதனைப் பயன்படுத்துவர்?",
+    "answerOptions": [
+      {
+        "text": "எருதுகள் (பகடு)",
+        "rationale": "சரி. 'பகடூர் பிழிந்த பின்றை' என்று எருதுகளைக் கொண்டு நெல் பிரித்தலைச் செய்வர் .",
+        "isCorrect": true
+      },
+      {
+        "text": "குதிரைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயந்திரங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "மருத நிலத்தில் பெண்கள் அணிந்திருக்கும் அணிகலன் எது?",
+    "answerOptions": [
+      {
+        "text": "குழை (காதணி)",
+        "rationale": "சரி. 'செவிவிஅம் பெண்டிர்த்' மற்றும் 'குழை' பற்றிய குறிப்புகள் உள்ளன .",
+        "isCorrect": true
+      },
+      {
+        "text": "வைர மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்க ஒட்டியாணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "நெய்தல் நிலத்தில் பரதவர்கள் எதனை உணவாகக் கொள்வர்?",
+    "answerOptions": [
+      {
+        "text": "மீன் மற்றும் கள்",
+        "rationale": "சரி. 'தண்மீன் சூட்டொடு... நறும்பிழி' (சுட்ட மீனும் கள்ளும்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "பால் சோறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தினை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காய்கறிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "நெய்தல் நிலத்தில் காணப்படும் மரம் எது?",
+    "answerOptions": [
+      {
+        "text": "புன்னை",
+        "rationale": "சரி. 'கொடுங்காற் புன்னைக் கோடுதுமித் தியற்றிய' என்று புன்னை மரம் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "சந்தனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூங்கில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "நெய்தல் நிலத்து விளக்கு (கலங்கரை விளக்கம்) எங்கு ஏற்றப்பட்டிருக்கும்?",
+    "answerOptions": [
+      {
+        "text": "வானளாவிய மாடத்தில்",
+        "rationale": "சரி. 'விண்பொர நிவந்த வேயா மாடத்... இலங்குசுடர் ஞெகிழி' என்று உயரமான மாடத்தில் விளக்கு ஏற்றப்பட்டிருக்கும் .",
+        "isCorrect": true
+      },
+      {
+        "text": "மரக்கிளையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாறை உச்சியில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படகுத் துறையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "அந்தணர்கள் வாழும் பகுதியில் எவை இருக்காது என்று கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "நாயும் கோழியும்",
+        "rationale": "சரி. 'கோழியொடு ஞமலி துன்னாது' (கோழியும் நாயும் நெருங்காத) என்று குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பசுக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிளிகள்",
+        "rationale": "தவறு. கிளிகள் வேதம் சொல்லும் என்று குறிப்பு உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மான்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "அந்தணர் வீட்டில் பாணனுக்குக் கிடைக்கும் உணவு என்ன?",
+    "answerOptions": [
+      {
+        "text": "மாதுளம் பிஞ்சு மற்றும் மிளகு கலந்த ஊறுகாய் சோறு",
+        "rationale": "சரி. 'மாதுளத் துருப்புறு பசுங்காய்ப் போழொடு... மிளகாய்... கறி' கலந்த உணவு .",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன் உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறைச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழங்கள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "தொண்டைமான் இளந்திரையனின் தலைநகர் எது?",
+    "answerOptions": [
+      {
+        "text": "காஞ்சி",
+        "rationale": "சரி. இது 'கச்சியோனே' என்று பாடலில் குறிக்கப்படுகிறது (கச்சி = காஞ்சி) .",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "காஞ்சிபுரத்தின் மதில்கள் எதனால் கட்டப்பட்டவை?",
+    "answerOptions": [
+      {
+        "text": "சுட்ட செங்கல் (சுடுமண்)",
+        "rationale": "சரி. 'சுடும ணோங்கிய நெடுநகர் வரைப்பி' என்று சுட்ட செங்கற்களால் ஆன மதில் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "கருங்கல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "தொண்டைமான் இளந்திரையன் யாருடைய மரபில் வந்தவன்?",
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "சரி. 'முந்நீர் வண்ணன்' (கடல் நிற வண்ணன் - விஷ்ணு) மரபில் வந்தவன் .",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "பாலை நிலத்து யாழ் எவ்வாறு வர்ணிக்கப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "வண்டுகள் மொய்க்கும் தேன் கூடு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாதிரி மலர் போன்ற பத்தர் கொண்டது",
+        "rationale": "சரி. .",
+        "isCorrect": true
+      },
+      {
+        "text": "மூங்கில் போன்றது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்கத்தால் ஆனது",
+        "rationale": "தவறு (நரம்புகள் மட்டுமே பொன்).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "யாழின் துளைகள் எதனைப் போன்று இருந்தன?",
+    "answerOptions": [
+      {
+        "text": "வண்டின் கண்கள்",
+        "rationale": "சரி. 'கருவிருந் தன்ன கண்கூடு' (வண்டின் கண்கள் போன்ற துளைகள்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "எலி வளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்டு வளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிங்க குகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "பாலை நிலத்தில் நீர் வற்றிய சுனை (குளம்) யாழின் எந்தப் பகுதிக்கு உவமையாகிறது?",
+    "answerOptions": [
+      {
+        "text": "யாழின் உறை (போர்வை)",
+        "rationale": "சரி. 'சுனைவறந் தன்ன விருடூங்கு வறுவாய்ப்' (நீர் வற்றிய இருண்ட சுனை போன்ற யாழின் வாய்/உறை) .",
+        "isCorrect": true
+      },
+      {
+        "text": "யாழின் தண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாழின் நரம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாழின் ஆணி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "தொண்டைமான் இளந்திரையன் தன் பகைவர்களுக்கு எப்படிப்பட்டவன்?",
+    "answerOptions": [
+      {
+        "text": "கொடியவன் (நெருப்பு போன்றவன்)",
+        "rationale": "சரி. 'தெறலு மெளிய' (அழித்தலும் எளிது) - பகைவர்களுக்கு நெருப்பு போன்றவன் .",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமாதான விரும்பி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பயந்தவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "தொண்டைமான் இளந்திரையன் பரிசிலர்களுக்கு (இரவலர்களுக்கு) எப்படிப்பட்டவன்?",
+    "answerOptions": [
+      {
+        "text": "குளிர்ச்சி (அருள்) உடையவன்",
+        "rationale": "சரி. 'வளியுந்' (அருளும்) உடையவன் - நண்பர்களுக்கு குளிர்ந்த காற்று போன்றவன் .",
+        "isCorrect": true
+      },
+      {
+        "text": "கண்டிப்பானவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏமாற்றுபவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூரமானவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "இளந்திரையனின் யானை போர்க்களத்தில் எப்படிச் செயல்படும்?",
+    "answerOptions": [
+      {
+        "text": "பகைவரின் மதிலைக் குத்தி அழிக்கும்",
+        "rationale": "சரி. 'பகைவர் கடிமதி லெறிந்து குடுமி கொள்ளும்' என்று யானை மதில்களை அழிக்கும் தன்மை கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓடிவிடும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடனமாடும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதியாக இருக்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "காஞ்சிபுரத்தில் நடைபெறும் விழாக்கள் எதனைப் போன்று இருப்பதாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "இந்திரலோகம் (துறக்கம்)",
+        "rationale": "சரி. 'பெறற்கருந் தொல்சீர்த் துறக்க மேய்க்கும்' (சொர்க்கத்தை ஒத்த) என்று கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "நரகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலைவனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "பாணனின் சுற்றத்தார் எப்படிப்பட்ட நிலையில் இருந்தனர்?",
+    "answerOptions": [
+      {
+        "text": "கடும்பசியில் வாடியவர்கள்",
+        "rationale": "சரி. 'பழம்பசி கூர்ந்தவெம் மிரும்பே ரொக்கலொடு' (பழமையான பசியுடைய சுற்றத்தார்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வந்தர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "அரசன் பாணனுக்கு விருந்தளிக்கும் போது எப்படி நடந்து கொள்கிறான்?",
+    "answerOptions": [
+      {
+        "text": "தானே நின்று உணவளிக்கிறான்",
+        "rationale": "சரி. 'தானா விருப்பிற் றானின் றூட்டி' (விருப்பத்தோடு தானே நின்று ஊட்டி) .",
+        "isCorrect": true
+      },
+      {
+        "text": "பணியாட்களை ஏவுகிறான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனி அறையில் வைக்கிறான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளை மட்டும் தருகிறான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "அரசன் பாணனுக்கு அளிக்கும் ஆடை எப்படிப்பட்டது?",
+    "answerOptions": [
+      {
+        "text": "ஆவி (புகை) போன்ற மெல்லிய ஆடை",
+        "rationale": "சரி. 'ஆவி யன்ன அவிர்நூற் கலிங்க' (புகை போன்ற மெல்லிய நூல் ஆடை) .",
+        "isCorrect": true
+      },
+      {
+        "text": "பட்டாடை",
+        "rationale": "சரி, ஆனால் 'ஆவி அன்ன' என்பது சிறப்பு உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோலாடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரவுரி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "மருத நிலத்தில் 'கம்பலை' என்று குறிப்பிடப்படும் ஒலி எது?",
+    "answerOptions": [
+      {
+        "text": "மக்கள் ஆரவாரம் மற்றும் ஆலை ஒலி",
+        "rationale": "சரி. 'துங்சாக் கம்பலை' (தூங்காத ஆரவாரம்) - ஆலைகள் மற்றும் விழாக்களின் ஒலி .",
+        "isCorrect": true
+      },
+      {
+        "text": "பறவைகளின் ஒலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை ஒலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகளின் ஒலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "விறலியர்களுக்கு அரசன் அளிக்கும் பரிசு என்ன?",
+    "answerOptions": [
+      {
+        "text": "பொன் மாலை",
+        "rationale": "சரி. 'பொன்னின் தொடையமை மாலை விறலியர் மலைய' .",
+        "isCorrect": true
+      },
+      {
+        "text": "பூ மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரத்தின மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாலை நிலத்தில் 'ஈந்து' மரங்கள் எங்கு வளர்ந்திருப்பதாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "களர் நிலத்தில்",
+        "rationale": "சரி. 'களர்வள ரீந்தின்' (களர் நிலத்தில் வளரும் ஈந்து) .",
+        "isCorrect": true
+      },
+      {
+        "text": "மலை உச்சியில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்றங்கரையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயல் வரப்பில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "அரசன் பாணனை வழியனுப்பும் போது எத்தனை அடி நடந்து சென்று வழியனுப்புகிறான்?",
+    "answerOptions": [
+      {
+        "text": "ஏழடி",
+        "rationale": "சரி. பண்டைய மரபுப்படி ஏழடி நடந்து சென்று வழியனுப்புவான் (உரை மரபு, நூலில் 'நின்னிலை தெரியா வளவை' எனக் குறிப்பு) .",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்தடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாயில் வரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேர் வரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "அந்தணர் தெருவில் கிளிகள் எதைச் செய்வதாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      {
+        "text": "மறை (வேதம்) சொல்வதாக",
+        "rationale": "சரி. 'வளைவாய்க் கிள்ளை மறைவிளி பயிற்றும்' (வேத ஒலியைச் சொல்லும்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாட்டு பாடுவதாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாடுவதாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்குவதாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "நெய்தல் நிலத்தில் மணல் மேடுகள் எவ்வாறு வர்ணிக்கப்படுகின்றன?",
+    "answerOptions": [
+      {
+        "text": "மணல் மலி மறுகு",
+        "rationale": "சரி. மணல் நிறைந்த தெருக்கள் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாறை மேடுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புல்வெளிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேற்று நிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "முல்லை நிலத்தில் எருதுகள் எங்கே கட்டப்பட்டிருக்கும்?",
+    "answerOptions": [
+      {
+        "text": "முள் வேலி உடைய தொழுவத்தில்",
+        "rationale": "சரி. 'இடுமுள் வேலி... தொழுவுடை வரைப்பிற்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "வீட்டின் உள்ளே",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரத்தடியில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்றங்கரையில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "மருத நிலத்துப் பெண்கள் எப்போது ஆரவாரம் செய்வார்கள்?",
+    "answerOptions": [
+      {
+        "text": "துணங்கை ஆடும் போது",
+        "rationale": "சரி. 'துணங்கையம் பூதந்... ஆடும்' (துணங்கை கூத்து) .",
+        "isCorrect": true
+      },
+      {
+        "text": "உண்ணும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீராடும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "காஞ்சிபுரத்தின் வீதிகளில் எது ஓடும் அளவுக்கு இடமிருக்கும்?",
+    "answerOptions": [
+      {
+        "text": "தேர்கள்",
+        "rationale": "சரி. 'திண்டேர் குழித்த குண்டுநெடுந் தெருவிற்' (தேர்கள் ஓடி பள்ளம் விழுந்த தெருக்கள்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "கப்பல்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறுகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரைகள் மட்டும்",
+        "rationale": "தவறு, தேர்கள் முக்கியம்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "பாலை நிலத்தில் செல்லும் ஆறலை கள்வர்கள் கையில் என்ன வைத்திருப்பார்கள்?",
+    "answerOptions": [
+      {
+        "text": "கொடுவில் (வளைந்த வில்) மற்றும் அம்பு",
+        "rationale": "சரி. 'கொடுவி லெயினக்' (வளைந்த வில்லையுடைய எயினர்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டாயுதம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "பாணனின் கைகள் எப்படிப்பட்டவை?",
+    "answerOptions": [
+      {
+        "text": "வடு வாழ் நோன்கை (தழும்பேறிய வலிமையான கைகள்)",
+        "rationale": "சரி. யாழ் மீட்டியதால் ஏற்பட்ட தழும்பு .",
+        "isCorrect": true
+      },
+      {
+        "text": "மென்மையான கைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆபரணம் அணிந்த கைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீளமான கைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "பெரும்பாணாற்றுப்படை எந்தத் திணையைச் சார்ந்தது?",
+    "answerOptions": [
+      {
+        "text": "பாடாண் திணை",
+        "rationale": "சரி. ஒருவரின் புகழைப் பாடுவது பாடாண் திணை .",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகை திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பெரும்பாணாற்றுப்படை நூல் எந்தப் பாவகைச் சார்ந்தது?",
+    "answerOptions": [
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "சரி. சங்க இலக்கியங்கள் பெரும்பாலும் ஆசிரியப்பாவால் ஆனவை .",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "பாலை நிலத்தில் பெண்கள் எதனை அணிந்திருப்பார்கள்?",
+    "answerOptions": [
+      {
+        "text": "எயிற்றியர் (எயினர் பெண்கள்)",
+        "rationale": "சரி. எயிற்றியர் என்று அழைக்கப்படுவர் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பரத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆய்ச்சியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறத்தியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
