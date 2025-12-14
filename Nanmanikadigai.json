@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நான்மணிக்கடிகை நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு. இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "சரி. நான்மணிக்கடிகையை இயற்றியவர் விளம்பி நாகனார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருவாயின் முள்ளியார்",
+        "rationale": "தவறு. இவர் ஆசாரக்கோவையின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "தவறு. இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "நான்மணிக்கடிகை எந்த இலக்கியத் தொகுப்பைச் சேர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதினெண் மேற்கணக்கு",
+        "rationale": "தவறு. இது சங்க இலக்கியத்தை (எட்டுத்தொகை, பத்துப்பாட்டு) குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதினெண் கீழ்க்கணக்கு",
+        "rationale": "சரி. நான்மணிக்கடிகை பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்கம் மருவிய காலம்",
+        "rationale": "தவறு. இது காலம் மட்டுமே; இலக்கியத் தொகுப்பல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பியங்கள்",
+        "rationale": "தவறு. இது ஐம்பெருங் காப்பியங்கள் மற்றும் ஐஞ்சிறு காப்பியங்களைக் குறிக்கும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பாடல் 11-இன் படி, ஒரு பெண்ணுக்கு உண்மையான அணிகலன் என்று நான்மணிக்கடிகை எதைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாமரை",
+        "rationale": "தவறு. தாமரை குளத்திற்கு அணியாகச் சொல்லப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாணம்",
+        "rationale": "சரி. 'பெண்மை நலத்துக்கு அணியென்ப நாணம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெல்",
+        "rationale": "தவறு. நெல் நிலத்துக்கு அணியாகச் சொல்லப்பட்டுள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறம்",
+        "rationale": "தவறு. அறம் ஒருவனுக்குத் தான் செல்லும் உலகத்துக்கு அணியாகச் சொல்லப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "நான்மணிக்கடிகையின் கடவுள் வாழ்த்து யாரைப் பற்றிப் பேசுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு. சிவபெருமானைப் பற்றிய குறிப்பு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறு. முருகனைப் பற்றிய குறிப்பு இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாயவன் (திருமால்)",
+        "rationale": "சரி. 'மதிமன்னு மாயவன் வாள்முகம் ஒக்கும்' என்ற தொடர் திருமாலையே குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரம்மன்",
+        "rationale": "தவறு. பிரம்மனைப் பற்றிய குறிப்பு இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "பாடல் 105-இன் படி, மனைக்கு (வீட்டிற்கு) விளக்கமாக இருப்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மடவார் (பெண்கள்)",
+        "rationale": "சரி. 'மனைக்கு விளக்கம் மடவார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "புதல்வர்",
+        "rationale": "தவறு. புதல்வர் பெண்களுக்கு விளக்கமாகச் சொல்லப்பட்டுள்ளனர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணவன்",
+        "rationale": "தவறு. கணவனைப் பற்றி நேரடியாகக் குறிப்பிடவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு. கல்வி புதல்வருக்கு விளக்கமாகச் சொல்லப்பட்டுள்ளது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பாடல் 19-இன் படி, இளமையின் அழகு (இளைநலம்) எதில் முடிவடைகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூத்தல் (முதுமை)",
+        "rationale": "சரி. 'மூத்தல் இறுவாய்த்து இளைநலம்' - இளமை நலனுக்கு முடிவு முதுமை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு. செல்வம் மிகுதி இறுவாய்த்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறு. நட்பு பொய்த்தல் இறுவாய்த்து.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "பாடல் 5-இன் படி, உறவினர்களின் (கேளிர்) பயனை எப்போது அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்புற்ற காலத்தில்",
+        "rationale": "தவறு. இன்புற்ற காலத்தில் அனைவரும் உறவு கொண்டாடுவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்கும்போது",
+        "rationale": "தவறு. இது அறிவு சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கெட்டு அறிப (நிலை தாழ்ந்த போது)",
+        "rationale": "சரி. 'கெட்டறிப கேளிரான் ஆய பயன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணி நலம் அறியும்போது",
+        "rationale": "தவறு. இது கல்லின் தரத்தை அறியும் முறை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "பாடல் 17-இன் படி, இந்த உலகில் நிலைத்து நிற்க (மன்னுதல்) விரும்பினால் எதை நட வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசை (புகழ்)",
+        "rationale": "சரி. 'மன்னுதல் வேண்டின் இசைநடுக'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெகுளி",
+        "rationale": "தவறு. வெகுளியை விட வேண்டும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "பாடல் 101-இன் படி, யாழின் இசைக்கு ஒப்பானது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புண் நோவு",
+        "rationale": "தவறு. புண் நோவு என்பது பகைவர் உடனிருக்க நிகழும் துன்பம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்கள் சொல்லும் இடித்துரை (கழறும் சொல்)",
+        "rationale": "சரி. 'யாழொக்கும் நட்டார் கழறும்சொல்'. நண்பர்கள் கண்டிக்கும் சொற்கள் இன்பம் தரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாழான மனை",
+        "rationale": "தவறு. பாழான மனை என்பது பண்புடைய மனைவி இல்லாத வீட்டை ஒக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூலின் அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "பாடல் 95-இன் படி, எல்லா இடத்தும் தீயது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொலை",
+        "rationale": "சரி. 'எல்லா விடத்தும் கொலைதீது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "களவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மது அருந்துதல்",
+        "rationale": "தவறு. இது கள்ளின் இடும்பை எனப் பாடல் 97-இல் வரும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "பாடல் 57-இன் படி, ஈன்றாளை விட உயர்ந்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அண்ணன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கணவன்",
+        "rationale": "தவறு. கணவன் மனைவியோடு ஒப்பீடு செய்யப்பட்டுள்ளார்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள்",
+        "rationale": "சரி. 'ஈன்றாளோ டெண்ணக் கடவுளு மில்'. தாய்க்குச் சமமாகக் கடவுள் மட்டுமே கருதப்படுகிறார்.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "பாடல் 44-இன் படி, போர் இல்லாவிட்டால் வாடுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருநர் சீர் (வீரர்களின் புகழ்)",
+        "rationale": "சரி. 'போரின்றி வாடும் பொருநர்சீர்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீள்நெய்தல்",
+        "rationale": "தவறு. இது நீர் இல்லாவிட்டால் வாடும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்னர் சீர்",
+        "rationale": "தவறு. மன்னர் சீர் படை இல்லாவிட்டால் வாடும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரம்",
+        "rationale": "தவறு. மரம் வேரின்றி வாடும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "பாடல் 33-இன் படி, பகைவன் முன்னேற்றத்துக்கு வித்தாக (விதை) முளைப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெகுளி (சினம்)",
+        "rationale": "தவறு. வெகுளி சண்டைக்கு வித்தாக அமையும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகை",
+        "rationale": "தவறு. புகை நெருப்புக்கு வித்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவகை",
+        "rationale": "தவறு. உவகைக்கு நகை வித்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்னம் (முன்செய்த தீயவினை)",
+        "rationale": "சரி. 'பகையொருவன் முன்னம்வித் தாக முளைக்கும்'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "பாடல் 18-இன் படி, கற்றவன் எதைக் கடந்து விடுவான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடற்குட்டம்",
+        "rationale": "தவறு. இது கலவரால் கடக்கப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "படைக்குட்டம்",
+        "rationale": "தவறு. இது பாய்மா உடையவனால் கடக்கப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவக்குட்டம்",
+        "rationale": "தவறு. இது தவத்துடையவனால் கடக்கப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவைக்குட்டம் (சபைக்கூட்டம்)",
+        "rationale": "சரி. 'அவைக்குட்டம் கற்றான் கடந்து விடும்'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "பாடல் 75-இன் படி, ஒருமை தான் செய்த கருவி அனைத்தும் எதனால் பொய்யா வித்தாகக் கெடும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்யா வித்து",
+        "rationale": "சரி. 'ஒருமைத்தான் செய்த கருவி தெரிவெண்ணின் பொய்யாவித் தாகி விடும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "பாடல் 78-இன் படி, நாக்கினால் அறியப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனியவை",
+        "rationale": "சரி. 'நாக்கி னறிப இனியதை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலர்",
+        "rationale": "தவறு. மலரை மூக்கினால் அறியலாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணி",
+        "rationale": "தவறு. அணியை கண்ணால் காணலாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு. பொருளை எண்ணினால் எண்ணலாம்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "பாடல் 34-இன் படி, உலகிற்கு அணி (அழகு) போன்றவர்கள் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லறிவினர்",
+        "rationale": "தவறு. இவர்கள் புல் போன்றவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்புடைய மாக்கள்",
+        "rationale": "சரி. 'அணியன்னர் அன்புடை மாக்கள்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பின்நோக்காப் பெண்டிர்",
+        "rationale": "தவறு. இவர்கள் நோய் போன்றவர்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வல்லென்ற நெஞ்சத்தவர்",
+        "rationale": "தவறு. இவர்கள் கல் போன்றவர்கள்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "பாடல் 86-இன் படி, விளைநிலம் எதனால் சிறப்புறும் (வீறு எய்தும்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "சரி. 'நீரான்வீ றெய்தும் விளைநிலம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உழவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "பாடல் 49-இன் படி, மழை இல்லாவிட்டால் எது இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசன்",
+        "rationale": "தவறு. அரசன் இல்லாவிடில் தவம் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாநிலத்தார் (பெரிய நிலத்து மக்கள்)",
+        "rationale": "சரி. 'மழையின்றி மாநிலத்தார்க் கில்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இல்வாழ்வார்",
+        "rationale": "தவறு. இல்வாழ்வார் இல்லாவிடில் அரசன் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவம்",
+        "rationale": "தவறு. தவமிலார் இல்லாவிடில் மழை இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "பாடல் 79-இன் படி, யாண்டும் (எப்போதும்) சாகாத எல்லைக்குள் பிறந்த உயிர்கள் அனைத்தும் எதில் தவறுவதில்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாவாத வலி (நிலை குலையாத வலிமை)",
+        "rationale": "சரி. 'தாவாத இல்லை வலிகளும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நோய்",
+        "rationale": "தவறு. நோய் எப்போதும் இருக்கும் (பாடல் 60).",
+        "isCorrect": false
+      },
+      {
+        "text": "இளமை",
+        "rationale": "தவறு. இளமை மூவாமல் இருக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு. செல்வம் கெடாமல் இருக்காது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "பாடல் 47-இன் படி, விருந்தும், பாடலும், ஊடலும் முறையே எங்கு கெடும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்றறியாதார், விருப்பிலார், பண்ணறியாதார்",
+        "rationale": "தவறு. விருந்து விருப்பிலார் முன் சாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருப்பிலார், பண்ணறியாதார், ஊடல் உணராதார் அகத்து",
+        "rationale": "சரி. விருந்து விருப்பிலார் முன் சாம், பாடல் பண்ணறியாதார் முன் சாம், ஊடல் உணராதார் அகத்து சாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஊடல் உணராதார், நன்றறியாதார், விருப்பிலார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பண்ணறியாதார், விருப்பிலார், நன்றறியாதார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "பாடல் 32-இன் படி, எல்லாவற்றிலும் இன்னாதது (துன்பமானது) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்றல்",
+        "rationale": "தவறு. கற்றல் நன்மையானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை (இன்மை)",
+        "rationale": "சரி. 'இன்மையின் இன்னாதது இல்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துயில்",
+        "rationale": "தவறு. துயில் இன்மை துன்பமானது (பாடல் 9).",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "பாடல் 23-இன் படி, பாலின் சுவையைக் கெடுப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மொய்",
+        "rationale": "தவறு. மொய் ஒற்றுமையைக் கெடுக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய்",
+        "rationale": "தவறு. பொய் பொன்மேனியைக் கெடுக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலம் சிதைக்கும் (ஊற்றப்பட்டுள்ள பாத்திரம்)",
+        "rationale": "சரி. 'பெய்த கலஞ்சிதைக்கும் பாலின் சுவையைக்'. அசுத்தமான பாத்திரம் பாலையும் கெடுக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கூடார்கண் கூடி விடின் (தீயவரோடு சேரின்)",
+        "rationale": "தவறு. இது குலத்தைக் கெடுக்கும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "பாடல் 7-இன் படி, அறநெறி எங்கிருந்து பிறக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லில்",
+        "rationale": "தவறு. உயர் மதம் சொல்லில் பிறக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருளில் (கருணையில்)",
+        "rationale": "சரி. 'மெல்லென்று அருளிற் பிறக்கும் அறநெறி'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்லில்",
+        "rationale": "தவறு. கதிர்மணி கல்லில் பிறக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளில்",
+        "rationale": "தவறு. எல்லாம் பொருளில் பிறக்கும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "பாடல் 61-இன் படி, இனிது உண்பான் (இனிமையாக உண்பவன்) யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயிர்க்கொலை செய்யாதவன்",
+        "rationale": "சரி. 'இனிதுண்பா னென்பான் உயிர்கொல்லா துண்பான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தனியன்",
+        "rationale": "தவறு. தனியன் எனப்படுவான் நன்மை செய்யாதவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனியன்",
+        "rationale": "தவறு. இனியன் எனப்படுவான் கோபமில்லா ஒழுக்கத்தவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முகன் ஒழிந்து வாழ்வான்",
+        "rationale": "தவறு. முகன் ஒழிந்து வாழ்வான் வெறுக்கத்தக்கவன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "பாடல் 58-இன் படி, புல்லறிவினார் (அறிவில்லாதார்) யாருக்கு ஒப்பானவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்றார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு உறையும் புற்று",
+        "rationale": "சரி. 'பாம்புறையும் புற்றன்னர் புல்லறிவி னார்'. அவர்கள் உள்ளே தீமை மறைத்து வைத்திருப்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகைவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "பாடல் 84-இன் படி, எல்லா ஊரும் ஊர் என்று கொள்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துடையார்க்கும் (தங்கைப் பலம் உடையார்க்கும்)",
+        "rationale": "சரி. 'தங்கைத் துடையார்க்கும் எவ்வூரு மூர்'. உழைக்கத் திறனுள்ளவர்களுக்கு எல்லா ஊரும் சொந்த ஊரே.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்லார்",
+        "rationale": "தவறு. நல்லாருக்குத் தம் ஊர் என்று ஊர் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வார்",
+        "rationale": "தவறு. செல்வார்க்குத் தம் ஊர் என்று ஊர் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடையர்",
+        "rationale": "தவறு. கடையர்க்குத் தம் ஊர் என்று ஊர் இல்லை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "பாடல் 9-இன் படி, பொருள் சேர்ப்பவருக்கும் (செய்வமென் பார்க்குந்) காப்பவருக்கும் இல்லாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துயில் (உறக்கம்)",
+        "rationale": "சரி. 'செய்வமென் பார்க்குந் துயிலில்லை', 'காப்பார்க்கும் இல்லை துயில்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருப்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெகுளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "பாடல் 100-இன் படி, மாசு படிந்தாலும் தன் சிறப்பு குன்றாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரும்பு",
+        "rationale": "தவறு. இரும்பை பூசினால் மாசாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கீழ்மகன்",
+        "rationale": "தவறு. கீழ்மகன் மாசுடைமை காட்டுவான்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணி (இரத்தினம்)",
+        "rationale": "சரி. 'மாசுபடினும் மணிதன்சீர் குன்றாதாம்'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "பாடல் 83-இன் படி, குலமும் குடிமையும் எதனால் அழியும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்லாமை",
+        "rationale": "சரி. 'குலனும் குடிமையும் கல்லாமைக் கீழ்ச்சாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்குரவு",
+        "rationale": "தவறு. நல்குரவினால் நலனும் இளமையும் அழியும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பண்டம்",
+        "rationale": "தவறு. பரமல்லாத பண்டத்தினால் மாடு அழியும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல்",
+        "rationale": "தவறு. நெல் வளமில்லாக் குளத்தின்கீழ் அழியும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "பாடல் 38-இன் படி, மலர்க் கண்கள் எதனால் தளிர்க்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மை",
+        "rationale": "சரி. 'மையால் தளிர்க்கும் மலர்க்கண்கள் மாலிருள்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெய்",
+        "rationale": "தவறு. நெய்யால் சுடர் தளிர்க்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை",
+        "rationale": "தவறு. மழையால் இலை தளிர்க்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழங்கல்",
+        "rationale": "தவறு. வழங்கலால் நன்மை தளிர்க்கும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "பாடல் 94-இன் படி, கிளைஞரில்லாத போது குற்றம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சினம்குற்றம்",
+        "rationale": "சரி. 'கிளைஞரில் போழ்திற் சினம்குற்றம்'. உறவினர் இல்லாதபோது சினம் கொள்வது குற்றம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வள்ளன்மை",
+        "rationale": "தவறு. வளம் இல்லாதபோது வள்ளன்மை குற்றம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்லாமை",
+        "rationale": "தவறு. இளமைப் பருவத்துக் கல்லாமை குற்றம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊண்",
+        "rationale": "தவறு. தமரல்லார் கையகத்து ஊண் குற்றம்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "பாடல் 85-இன் படி, மெல்லிய இலைகளை உடைய வாழைக்கு எமன் (கூற்றம்) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தானீன்ற காய் (தான் ஈன்ற காய்)",
+        "rationale": "சரி. 'மெல்லிலை வாழைக்குத் தானீன்ற காய்கூற்றம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தீங்கொழுகுவாள்",
+        "rationale": "தவறு. இது இல்லத்திற்கு எமன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்",
+        "rationale": "தவறு. சொல் கல்லாத ஒருவனுக்கு எமன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறம்",
+        "rationale": "தவறு. அறம் அல்லவை செய்வார்க்கு எமன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "பாடல் 69-இன் படி, புல்லினால் இன்புறும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உழுவை (புலி)",
+        "rationale": "தவறு. புலி ஊன் உண்ணும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலேயம் (காளை மாடு)",
+        "rationale": "சரி. 'புல்லினான் இன்புறூங்உங் காலேயம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கீழ்கள்",
+        "rationale": "தவறு. கீழ்கள் அரிசியால் இன்புறூஉம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "பாடல் 106-இன் படி, வீவிலா வீடு (கெடாத முக்தி) எதனால் உண்டாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வன்சொல்",
+        "rationale": "தவறு. வன்சொல்லால் வசை உண்டாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருள் மனம்",
+        "rationale": "சரி. 'அம்மனத்தான் வீவிலா வீடாய் விடும்'. மென்மையான சொல்லால் உண்டாகும் அருள் மனதால் முக்தி கிட்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிழமை",
+        "rationale": "தவறு. கிழமை இன்சொல்லால் உண்டாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசை",
+        "rationale": "தவறு. வசை துன்பத்தைத் தரும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "பாடல் 88-இன் படி, கள்ளாமை எப்போது வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருதல் கடிய (அடைவது கடினமானவை)",
+        "rationale": "சரி. 'கள்ளாமை வேண்டும் கடிய வருதலால்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வருதல் எளிது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தகுதியுடையன",
+        "rationale": "தவறு. தகுதியுடையன தள்ளாமை வேண்டும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறியரோடு நட்பு",
+        "rationale": "தவறு. சிறியரோடு நள்ளாமை வேண்டும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "பாடல் 24-இன் படி, காணாக் குருடனைப் போலச் செய்வது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேதைமை",
+        "rationale": "தவறு. பேதைமை என்பது ஒருவரைப் பேணாது செய்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மம்மர் (மயக்கம்/அறியாமை)",
+        "rationale": "சரி. 'காணாக் குருடனாச் செய்வது மம்மர்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்பு",
+        "rationale": "தவறு. கற்பு கண்களால் செய்வது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பாடல் 13-இன் படி, பிறர் செய்த நன்றியை எவ்வாறாகக் கொள்ள வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்றாக் கொளல் வேண்டும் (நன்மையாகவே ஏற்க வேண்டும்)",
+        "rationale": "சரி. 'நன்றியை நன்றாக் கொளல்வேண்டும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மறத்தல் வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகை கொள்ள வேண்டும்",
+        "rationale": "தவறு. கன்றாமை வேண்டும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீணாக்குதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாடல் 12-இன் படி, யானையை எதனால் கட்டுவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கந்து (தூண்)",
+        "rationale": "சரி. 'கந்திற் பிணிப்பர் களிற்றைக்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மந்திரம்",
+        "rationale": "தவறு. மந்திரத்தால் பாம்பைக் கட்டுவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்பு",
+        "rationale": "தவறு. இரும்பினால் கயத்தைக் கட்டுவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நயம்",
+        "rationale": "தவறு. நயத்தினால் சான்றோரைக் கட்டுவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "பாடல் 64-இன் படி, பொருளின் ஆக்கத்தை எதனால் அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பழியின்மை",
+        "rationale": "தவறு. இது மக்களால் காணப்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கெழியின்மை",
+        "rationale": "தவறு. இது கேட்டால் அறியப்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிகழ்ச்சியால் (அது இயங்கும் விதத்தால்)",
+        "rationale": "சரி. 'பொருளின் நிகழ்ச்சியா னாக்க மறிக'.",
+        "isCorrect": true
+      },
+      {
+        "text": "புகழ்ச்சி",
+        "rationale": "தவறு. புகழ்ச்சியால் போற்றாதார் போற்றப் படும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாடல் 40-இன் படி, கரப்பவர்க்குச் செல்சாராக (சார்பாக) இருப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தறுகண்மை",
+        "rationale": "தவறு. இது தானைக்குச் செல்சாராகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவிழ்தல் (தொழுது நிற்றல்)",
+        "rationale": "சரி. 'கரப்பவர்க்குச் செல்சார் கவிழ்தலெஞ் ஞான்றும்'. இல்லாதவர் போல் நடித்துத் தப்பித்துக்கொள்வது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்றீவார்",
+        "rationale": "தவறு. இது இரப்பவர்க்குச் செல்சாராகும்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "பாடல் 39-இன் படி, பாடல் எப்போது இனிமை (இனிது) அடையும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நட்டார் நடுவண் (நண்பர்கள் நடுவில்)",
+        "rationale": "தவறு. இது நகை இனிதாக இருப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் வழங்கின்",
+        "rationale": "தவறு. இது பொருளின் தொகை இனிமையாக இருப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேணி வழிபடின்",
+        "rationale": "தவறு. இது பெண் இனிமையாக இருப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் உணர்வார் அகத்து (பாடலின் சுவையை உணர்வார் உள்ளத்தில்)",
+        "rationale": "சரி. 'பண்இனிது பாடல் உணர்வார் அகத்து'.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "பாடல் 25-இன் படி, நட்டார் (நண்பர்கள்) எப்போது நடுங்குவார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அலைப்பினும் (வருத்தினாலும்)",
+        "rationale": "தவறு. இது குழவி ஓடும் நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலைப்பினும் (போரிட்டாலும்)",
+        "rationale": "தவறு. இது யானை தாங்கும் நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடுங்கும் வினைசெய்யார் (நடுங்கச் செய்யும் தீய செயல்கள்)",
+        "rationale": "சரி. 'நட்டார் நடுங்கும் வினைசெய்யார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிலைப்பினும் (சீறினாலும்)",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "பாடல் 53-இன் படி, உள்ளறிந்து சேர்தற்கு உரியது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறநெறி",
+        "rationale": "சரி. 'சேர்தற் பொருள தறநெறி'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உறுதிச்சொல்",
+        "rationale": "தவறு. இது உள்ளற்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு. இது தேர்ந்து அறிவதற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இகழ்தல்",
+        "rationale": "தவறு. இது எள்ளற்கு உரியது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "பாடல் 56-இன் படி, யானை உடையவர் எதை விரும்புவார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கதன் (சினம்/வலிமை)",
+        "rationale": "சரி. 'யானை யுடையார் கதன்உவப்பர்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடும்பரிமா",
+        "rationale": "தவறு. இது மன்னர் விரும்புவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லார்",
+        "rationale": "தவறு. இது நல்லவர் விரும்புவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேடு",
+        "rationale": "தவறு. இது அல்லார் விரும்புவது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "பாடல் 71-இன் படி, வறியவர் யாரை விட நல்லவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லவர்",
+        "rationale": "தவறு. நல்லவர் கைத்திலாரை விட நல்லவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைத்தாரின் (காப்பவர்/பொருள் உடையவர்)",
+        "rationale": "சரி. 'வைத்தாரின் நல்லர் வறியவர்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொறுப்பவர்",
+        "rationale": "தவறு. பொறுப்பவர் வைதாரை விட நல்லவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிதையா தவர்",
+        "rationale": "தவறு. சிதையா தவர் செய்தாரை விட நல்லவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "பாடல் 92-இன் படி, காமம் எங்கு சென்று ஒழுகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பட்டாங்கே (விரும்பியபடியே)",
+        "rationale": "தவறு. இது பண்புடையாளின் செயல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெட்டாங்கு (விரும்பியபடியே)",
+        "rationale": "தவறு. இது பிணையிலியின் செயல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சென்றாங்கே (போன இடத்திலேயே)",
+        "rationale": "சரி. 'சென்றாங்கே சென்றொழுகும் காமம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொன்றான் மேல்",
+        "rationale": "தவறு. இது கொலை நிற்கும் இடம்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "பாடல் 60-இன் படி, உலகில் என்றும் உள்ளவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாளும் இருசுடரும் (நாளும் சூரியனும் சந்திரனும்)",
+        "rationale": "சரி. 'என்றும் உளவாகும் நாளும் இருசுடரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிணியும் தொழிலும்",
+        "rationale": "தவறு. இவை என்றும் ஒக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடுப்பாரும் கொள்வாரும்",
+        "rationale": "தவறு. இவையும் என்றும் அன்னர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிறப்பாரும் சாவாரும்",
+        "rationale": "தவறு. இவையும் என்றும் உளர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பாடல் 74-இன் படி, குடி எதனால் வீறு (சிறப்பு) எய்தும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஊர்ந்தான் வகைய",
+        "rationale": "தவறு. இது குதிரை வீறு எய்துவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோற்றான் (உணவால்)",
+        "rationale": "சரி. 'சோற்றான்வீ றெய்தும் குடி'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏற்றான்",
+        "rationale": "தவறு. ஏற்றினால் இன நிரை (பசுக்கூட்டம்) வீறு எய்தும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வளத்தனைய",
+        "rationale": "தவறு. இது வாழ்வார் வழக்கு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "பாடல் 27-இன் படி, கோடிப் பொருள் பெற்றாலும், நெஞ்சறியக் கூடாத செயல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோடாமை (தவறாமை)",
+        "rationale": "சரி. 'நெஞ்சறியக் கோடாமை கோடி பொருள்பெறினும்'. மனதறியத் தவறு செய்யாமல் இருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அஞ்சாமை",
+        "rationale": "தவறு. அஞ்சாமை அஞ்சப்படாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எஞ்சாமை",
+        "rationale": "தவறு. எஞ்சாமை என்பது அளவெல்லாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்டார்கண் விட்ட வினை",
+        "rationale": "தவறு. நட்டார்கண் விட்ட வினையை நாடக்கூடாது.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
