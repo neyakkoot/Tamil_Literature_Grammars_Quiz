@@ -1,0 +1,1402 @@
+[
+    {
+      "questionNumber": 1,
+      "question": "யாப்பருங்கலக் காரிகை நூலின் ஆசிரியர் யார்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "குணசாகரர்",
+          "rationale": "குணசாகரர் என்பவர் அமிதசாகரரின் ஆசிரியர் அல்லது உரையாசிரியர் ஆவார்.",
+          "isCorrect": false
+        },
+        {
+          "text": "அமிதசாகரர்",
+          "rationale": "யாப்பருங்கலக் காரிகை நூலை இயற்றியவர் அமிதசாகரர் ஆவார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "தொல்காப்பியர்",
+          "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "பவணந்தி முனிவர்",
+          "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இவரின் பெயர் 'அளப்பருங்கடல்' என்ற பொருளைக் குறிக்கும்."
+    },
+    {
+      "questionNumber": 2,
+      "question": "அமிதசாகரர் எந்த நூற்றாண்டைச் சார்ந்தவர் என்று கருதப்படுகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கி.பி. 10 ஆம் நூற்றாண்டு",
+          "rationale": "இது தவறான காலம்.",
+          "isCorrect": false
+        },
+        {
+          "text": "கி.பி. 11 ஆம் நூற்றாண்டு",
+          "rationale": "வரலாற்று ஆசிரியர்களால் இவர் காலம் 11-ஆம் நூற்றாண்டின் தொடக்கம் என வரையறுக்கப்படுகிறது.",
+          "isCorrect": true
+        },
+        {
+          "text": "கி.பி. 12 ஆம் நூற்றாண்டு",
+          "rationale": "இது பிற்காலச் சோழர் காலத்தின் பிற்பகுதி.",
+          "isCorrect": false
+        },
+        {
+          "text": "கி.பி. 9 ஆம் நூற்றாண்டு",
+          "rationale": "இது முற்காலச் சோழர் காலம்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "முதலாம் குலோத்துங்க சோழன் காலத்தை ஒட்டியது."
+    },
+    {
+      "questionNumber": 3,
+      "question": "யாப்பருங்கலக் காரிகை எத்தனை இயல்களாகப் பகுக்கப்பட்டுள்ளது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இரண்டு",
+          "rationale": "இரண்டு இயல்கள் மட்டும் இல்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "மூன்று",
+          "rationale": "இந்நூல் உறுப்பியல், செய்யுளியல், ஒழிபியல் என மூன்று பகுதிகளைக் கொண்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நான்கு",
+          "rationale": "நான்கு இயல்கள் இல்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஐந்து",
+          "rationale": "ஐந்து இயல்கள் இல்லை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "உறுப்பு, செய்யுள், ஒழிபு ஆகிய பெயர்களில் இவை அமையும்."
+    },
+    {
+      "questionNumber": 4,
+      "question": "அமிதசாகரர் பின்பற்றிய சமயம் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சைவம்",
+          "rationale": "இவர் சிவபெருமானை வழிபடவில்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "வைணவம்",
+          "rationale": "இவர் திருமாலை வழிபடவில்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "சமணம்",
+          "rationale": "பாயிரத்தில் 'கடிமலர்ப் பிண்டிக்கண் ணார்நிழற்கீழ்' என்று அருகக் கடவுளை வணங்குவதால் இவர் சமண சமயத்தவர்.",
+          "isCorrect": true
+        },
+        {
+          "text": "பௌத்தம்",
+          "rationale": "இவர் புத்தரை வழிபடவில்லை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "அசோக மரத்தின் நிழலில் அமர்ந்த இறைவனை வணங்குபவர்."
+    },
+    {
+      "questionNumber": 5,
+      "question": "யாப்பருங்கலக் காரிகை எவ்வகை பாவால் இயற்றப்பட்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வெண்பா",
+          "rationale": "இது வெண்பாவால் ஆனதல்ல.",
+          "isCorrect": false
+        },
+        {
+          "text": "கட்டளைக் கலித்துறை",
+          "rationale": "இந்நூல் கட்டளைக் கலித்துறை என்னும் பாவகையால் யாக்கப்பட்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஆசிரியப்பா",
+          "rationale": "இது அகவலோசை கொண்டது, காரிகைக்கு உரியதல்ல.",
+          "isCorrect": false
+        },
+        {
+          "text": "வஞ்சிப்பா",
+          "rationale": "இது வஞ்சிப்பாவால் ஆனதல்ல.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "காரிகை என்றாலே இந்தப் பாவகையைக் குறிக்கும்."
+    },
+    {
+      "questionNumber": 6,
+      "question": "யாப்பருங்கலக் காரிகைக்கு முன் அமிதசாகரர் இயற்றிய நூல் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "யாப்பருங்கலம்",
+          "rationale": "அமிதசாகரர் இக்காரிகைக்கு முன் செய்த விரிவான நூல் யாப்பருங்கலம் ஆகும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வீரசோழியம்",
+          "rationale": "இது புத்தமித்திரர் எழுதியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நன்னூல்",
+          "rationale": "இது பவணந்தியால் எழுதப்பட்டது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நேமிநாதம்",
+          "rationale": "இது குணவீர பண்டிதரால் எழுதப்பட்டது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "காரிகை என்பது சுருக்கம், இதுவே விரிவான நூல்."
+    },
+    {
+      "questionNumber": 7,
+      "question": "அமிதசாகரரின் ஆசிரியர் பெயர் என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "குணசாகரர்",
+          "rationale": "சிறப்புப் பாயிரத்தில் 'குணக்கடற் பெயரோன்' என்று குறிப்பிடப்படுவதால் இவர் ஆசிரியர் குணசாகரர் ஆவார்.",
+          "isCorrect": true
+        },
+        {
+          "text": "அடியார்க்கு நல்லார்",
+          "rationale": "இவர் சிலப்பதிகார உரையாசிரியர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "நச்சினார்க்கினியர்",
+          "rationale": "இவர் தொல்காப்பிய உரையாசிரியர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "இளம்பூரணர்",
+          "rationale": "இவர் தொல்காப்பியத்திற்கு உரை எழுதியவர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "குணக்கடல் என்று பொருள்படும் பெயர்."
+    },
+    {
+      "questionNumber": 8,
+      "question": "அமிதசாகரர் வாழ்ந்த ஊர் எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மதுரை",
+          "rationale": "இது பாண்டிய நாட்டுத் தலைநகர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "காரிகைக் குளத்தூர்",
+          "rationale": "இவர் தொண்டை நாட்டிலிருந்த காரிகைக் குளத்தூர் என்னும் ஊரைச் சார்ந்தவர்.",
+          "isCorrect": true
+        },
+        {
+          "text": "உறையூர்",
+          "rationale": "இது சோழர் தலைநகர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "காஞ்சிபுரம்",
+          "rationale": "இது பல்லவர் தலைநகர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "காரிகை என்ற பெயரும் இவ்வூர்ப் பெயரில் உள்ளது."
+    },
+    {
+      "questionNumber": 9,
+      "question": "செய்யுள் உறுப்புகள் எத்தனை என்று உறுப்பியல் கூறுகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ஐந்து",
+          "rationale": "ஐந்து என்பது பொதுவான இலக்கண வகைகள்.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆறு",
+          "rationale": "எழுத்து, அசை, சீர், தளை, அடி, தொடை எனச் செய்யுள் உறுப்புகள் ஆறு ஆகும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஏழு",
+          "rationale": "ஏழு என்பது திணைகளின் எண்ணிக்கை (அகத்திணையில்).",
+          "isCorrect": false
+        },
+        {
+          "text": "எட்டு",
+          "rationale": "எட்டு என்பது வனப்புகளின் எண்ணிக்கை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "எழுத்து முதல் தொடை வரை."
+    },
+    {
+      "questionNumber": 10,
+      "question": "குறில் தனித்தோ ஒற்றடுத்தோ வருவது எவ்வகை அசை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நிரையசை",
+          "rationale": "இரு குறில் இணைந்தோ, குறில் நெடில் இணைந்தோ வருவது நிரை.",
+          "isCorrect": false
+        },
+        {
+          "text": "நேரசையசை",
+          "rationale": "குறில் தனித்தோ ஒற்றடுத்தோ, நெடில் தனித்தோ ஒற்றடுத்தோ வருவது நேரசை.",
+          "isCorrect": true
+        },
+        {
+          "text": "இயலசை",
+          "rationale": "இது சீரின் வகை.",
+          "isCorrect": false
+        },
+        {
+          "text": "உரியசை",
+          "rationale": "இதுவும் சீரின் வகை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "தனித்து ஒலிப்பது."
+    },
+    {
+      "questionNumber": 11,
+      "question": "குறிலிணைந்து வருவது எவ்வகை அசை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேரசை",
+          "rationale": "நேரசை தனி எழுத்தால் ஆனது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிரையசை",
+          "rationale": "குறிலிணை, குறிலிணை ஒற்று, குறில் நெடில், குறில் நெடில் ஒற்று ஆகியவை நிரையசை.",
+          "isCorrect": true
+        },
+        {
+          "text": "மூவசை",
+          "rationale": "இது சீர் வகை.",
+          "isCorrect": false
+        },
+        {
+          "text": "நாலசை",
+          "rationale": "இதுவும் சீர் வகை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "நிரையாக நிற்பது."
+    },
+    {
+      "questionNumber": 12,
+      "question": "'ஆழி' என்பது எவ்வகை அசைக்கு உதாரணம்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நிரையசை",
+          "rationale": "ஆ (நெடில்), ழி (குறில்) - இது நேர் நேர் எனப் பிரியும். தனித்தனியாகப் பார்த்தால் நேரசை.",
+          "isCorrect": false
+        },
+        {
+          "text": "நேரசை",
+          "rationale": "காரிகையில் நேரசைக்குத் தரப்பட்ட உதாரணம் 'ஆழி'. (ஆ-நேர், ழி-நேர் எனப் பிரித்துக் காட்டப்படுகிறது).",
+          "isCorrect": true
+        },
+        {
+          "text": "காய்ச்சீர்",
+          "rationale": "இது சீர் வகை.",
+          "isCorrect": false
+        },
+        {
+          "text": "கனிச்சீர்",
+          "rationale": "இதுவும் சீர் வகை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "நெடில் தனித்து வருவதைக் குறிக்கும் உதாரணம்."
+    },
+    {
+      "questionNumber": 13,
+      "question": "ஈரசைக் சீர்கள் எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இரண்டு",
+          "rationale": "இரண்டு போதாது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நான்கு",
+          "rationale": "தேமா, புளிமா, கருவிளம், கூவிளம் என ஈரசைக் சீர்கள் நான்கு.",
+          "isCorrect": true
+        },
+        {
+          "text": "எட்டு",
+          "rationale": "எட்டு என்பது மூவசைக் சீர்களின் எண்ணிக்கை.",
+          "isCorrect": false
+        },
+        {
+          "text": "பதினாறு",
+          "rationale": "பதினாறு என்பது நாலசைக் சீர்களின் எண்ணிக்கை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இயற்சீர் அல்லது ஆசிரிய உரிச்சீர் எனப்படும்."
+    },
+    {
+      "questionNumber": 14,
+      "question": "'தேமா' என்பதன் வாய்பாடு என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேர் நேர்",
+          "rationale": "தேமா என்பது நேர் நேர் அசை கொண்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நிரை நேர்",
+          "rationale": "இது புளிமா.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிரை நிரை",
+          "rationale": "இது கருவிளம்.",
+          "isCorrect": false
+        },
+        {
+          "text": "நேர் நிரை",
+          "rationale": "இது கூவிளம்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இரண்டு நேரசைகள் சேர்ந்தது."
+    },
+    {
+      "questionNumber": 15,
+      "question": "'கருவிளம்' என்பதன் வாய்பாடு என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேர் நேர்",
+          "rationale": "இது தேமா.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிரை நிரை",
+          "rationale": "கருவிளம் என்பது நிரை நிரை அசை கொண்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நேர் நிரை",
+          "rationale": "இது கூவிளம்.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிரை நேர்",
+          "rationale": "இது புளிமா.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இரண்டு நிரையசைகள் சேர்ந்தது."
+    },
+    {
+      "questionNumber": 16,
+      "question": "மூவசைக் சீர்களில் 'காய்' சீர்கள் எத்தனை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நான்கு",
+          "rationale": "தேமாங்காய், புளிமாங்காய், கருவிளங்காய், கூவிளங்காய் என நான்கு.",
+          "isCorrect": true
+        },
+        {
+          "text": "எட்டு",
+          "rationale": "மொத்த மூவசைக் சீர்கள் எட்டு.",
+          "isCorrect": false
+        },
+        {
+          "text": "இரண்டு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆறு",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "வெண்பா உரிச்சீர் எனப்படும்."
+    },
+    {
+      "questionNumber": 17,
+      "question": "வெண்பாவிற்கு உரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அகவலோசை",
+          "rationale": "அகவலோசை ஆசிரியப்பாவுக்கு உரியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "செப்பலோசை",
+          "rationale": "வெண்பாவிற்கு உரிய ஓசை செப்பலோசை ஆகும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "துள்ளலோசை",
+          "rationale": "துள்ளலோசை கலிப்பாவுக்கு உரியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "தூங்கலோசை",
+          "rationale": "தூங்கலோசை வஞ்சிப்பாவுக்கு உரியது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இருவர் உரையாடுவது போன்ற ஓசை."
+    },
+    {
+      "questionNumber": 18,
+      "question": "ஆசிரியப்பாவிற்கு உரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "செப்பலோசை",
+          "rationale": "இது வெண்பாவிற்கு உரியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "அகவலோசை",
+          "rationale": "ஆசிரியப்பாவிற்கு உரியது அகவலோசை.",
+          "isCorrect": true
+        },
+        {
+          "text": "துள்ளலோசை",
+          "rationale": "இது கலிப்பாவுக்கு உரியது.",
+          "isCorrect": false
+        },
+        {
+          "text": "தூங்கலோசை",
+          "rationale": "இது வஞ்சிப்பாவுக்கு உரியது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மயிலின் குரலை ஒத்த ஓசை அல்லது அழைப்பது போன்ற ஓசை."
+    },
+    {
+      "questionNumber": 19,
+      "question": "கலிப்பாவிற்கு உரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "செப்பலோசை",
+          "rationale": "இது வெண்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "துள்ளலோசை",
+          "rationale": "கலிப்பாவிற்கு உரியது துள்ளலோசை.",
+          "isCorrect": true
+        },
+        {
+          "text": "அகவலோசை",
+          "rationale": "இது ஆசிரியப்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "தூங்கலோசை",
+          "rationale": "இது வஞ்சிப்பா.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "கன்று துள்ளுவது போன்ற ஓசை."
+    },
+    {
+      "questionNumber": 20,
+      "question": "வஞ்சிப்பாவிற்கு உரிய ஓசை எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தூங்கலோசை",
+          "rationale": "வஞ்சிப்பாவிற்கு உரியது தூங்கலோசை.",
+          "isCorrect": true
+        },
+        {
+          "text": "செப்பலோசை",
+          "rationale": "இது வெண்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "அகவலோசை",
+          "rationale": "இது ஆசிரியப்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "துள்ளலோசை",
+          "rationale": "இது கலிப்பா.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "தாலாட்டு போன்ற ஓசை."
+    },
+    {
+      "questionNumber": 21,
+      "question": "குறளடி என்பது எத்தனை சீர்களைக் கொண்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இரண்டு சீர்",
+          "rationale": "குறளடி என்பது இரண்டு சீர்களைக் கொண்ட அடியாகும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "மூன்று சீர்",
+          "rationale": "மூன்று சீர் கொண்டது சிந்தடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "நான்கு சீர்",
+          "rationale": "நான்கு சீர் கொண்டது அளவடி (அல்லது நேரடி).",
+          "isCorrect": false
+        },
+        {
+          "text": "ஐந்து சீர்",
+          "rationale": "ஐந்து சீர் கொண்டது நெடிலடி.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மிகச் சிறிய அடி."
+    },
+    {
+      "questionNumber": 22,
+      "question": "அளவடி அல்லது நேரடி என்பது எத்தனை சீர்களைக் கொண்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மூன்று",
+          "rationale": "இது சிந்தடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "நான்கு",
+          "rationale": "நான்கு சீர்களைக் கொண்டது அளவடி.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஐந்து",
+          "rationale": "இது நெடிலடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆறு",
+          "rationale": "இது கழிநெடிலடி.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பொதுவாகப் பாடல்களில் அதிகம் பயின்று வரும் அடி."
+    },
+    {
+      "questionNumber": 23,
+      "question": "நெடிலடி எத்தனை சீர்களைக் கொண்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நான்கு",
+          "rationale": "இது அளவடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஐந்து",
+          "rationale": "ஐந்து சீர்களைக் கொண்டது நெடிலடி.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஆறு",
+          "rationale": "இது கழிநெடிலடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஏழு",
+          "rationale": "இதுவும் கழிநெடிலடி வகையைச் சாரும்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "அளவடிக்கு அடுத்த நிலை."
+    },
+    {
+      "questionNumber": 24,
+      "question": "அடிதோறும் முதல் எழுத்து ஒன்றி வருவது எவ்வகைத் தொடை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "எதுகை",
+          "rationale": "இரண்டாம் எழுத்து ஒன்றி வருவது எதுகை.",
+          "isCorrect": false
+        },
+        {
+          "text": "மோனை",
+          "rationale": "முதல் எழுத்து ஒன்றி வருவது மோனை.",
+          "isCorrect": true
+        },
+        {
+          "text": "இயைபு",
+          "rationale": "இறுதி எழுத்தோ சீரோ ஒன்றி வருவது இயைபு.",
+          "isCorrect": false
+        },
+        {
+          "text": "முரண்",
+          "rationale": "சொல்லால் முரண்பட்டு வருவது முரண்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "முதலெழுத்து ஒன்றேல்."
+    },
+    {
+      "questionNumber": 25,
+      "question": "அடிதோறும் இரண்டாம் எழுத்து ஒன்றி வருவது எவ்வகைத் தொடை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "மோனை",
+          "rationale": "இது முதல் எழுத்து.",
+          "isCorrect": false
+        },
+        {
+          "text": "எதுகை",
+          "rationale": "இரண்டாம் எழுத்து ஒன்றி வருவது எதுகை.",
+          "isCorrect": true
+        },
+        {
+          "text": "இயைபு",
+          "rationale": "இது இறுதி.",
+          "isCorrect": false
+        },
+        {
+          "text": "அளபெடை",
+          "rationale": "இது எழுத்து நீண்டு ஒலிப்பது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இரண்டாவது எழுத்து."
+    },
+    {
+      "questionNumber": 26,
+      "question": "இறுதி எழுத்தோ, சீரோ ஒன்றி வருவது எவ்வகைத் தொடை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இயைபு",
+          "rationale": "இறுதி எழுத்தோ சீரோ ஒன்றி வருவது இயைபுத் தொடை.",
+          "isCorrect": true
+        },
+        {
+          "text": "முரண்",
+          "rationale": "இது மாறுபடுவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "அந்தாதி",
+          "rationale": "ஒரு பாடலின் இறுதி அடுத்த பாடலின் முதலாக வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "இரட்டை",
+          "rationale": "வந்த சொல்லே மீண்டும் வருவது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "முடிவு ஒன்றுவது."
+    },
+    {
+      "questionNumber": 27,
+      "question": "குறள் வெண்பா எத்தனை அடிகளைக் கொண்டது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இரண்டு",
+          "rationale": "குறள் வெண்பா இரண்டு அடிகளைக் கொண்டது.",
+          "isCorrect": true
+        },
+        {
+          "text": "மூன்று",
+          "rationale": "மூன்று அடிகள் கொண்டது சிந்தியல் வெண்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "நான்கு",
+          "rationale": "நான்கு அடிகள் கொண்டது நேரிசை அல்லது இன்னிசை வெண்பா.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஐந்து",
+          "rationale": "இது பஃறொடை வெண்பா வகை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "திருக்குறள் இவ்வகையைச் சார்ந்தது."
+    },
+    {
+      "questionNumber": 28,
+      "question": "நான்கு அடிகளைக் கொண்டு, இரண்டாம் அடியின் இறுதியில் தனிச்சொல் பெற்று வருவது எவ்வகை வெண்பா?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இன்னிசை வெண்பா",
+          "rationale": "தனிச்சொல் இன்றி வருவது இன்னிசை வெண்பா (பொதுவாக).",
+          "isCorrect": false
+        },
+        {
+          "text": "நேரிசை வெண்பா",
+          "rationale": "நான்கு அடியாய், இரண்டாம் அடியின் இறுதியில் தனிச்சொல் பெற்று வருவது நேரிசை வெண்பா.",
+          "isCorrect": true
+        },
+        {
+          "text": "பஃறொடை வெண்பா",
+          "rationale": "இது பல அடிகளைக் கொண்டது.",
+          "isCorrect": false
+        },
+        {
+          "text": "சிந்தியல் வெண்பா",
+          "rationale": "இது மூன்று அடிகளைக் கொண்டது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இரண்டாம் அடியில் தனிச்சொல் வரும்."
+    },
+    {
+      "questionNumber": 29,
+      "question": "தனிச்சொல் இல்லாமல் நான்கு அடிகளும் ஒத்து வருவது எவ்வகை வெண்பா?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேரிசை வெண்பா",
+          "rationale": "நேரிசை வெண்பாவில் தனிச்சொல் இருக்கும்.",
+          "isCorrect": false
+        },
+        {
+          "text": "இன்னிசை வெண்பா",
+          "rationale": "தனிச்சொல் இன்றி நான்கு அடியாய் வருவது இன்னிசை வெண்பா.",
+          "isCorrect": true
+        },
+        {
+          "text": "குறள் வெண்பா",
+          "rationale": "இது இரண்டடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "பஃறொடை வெண்பா",
+          "rationale": "இது பல அடி.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "இனிய ஓசைக்காகத் தனிச்சொல் இல்லாமல் வரும்."
+    },
+    {
+      "questionNumber": 30,
+      "question": "எல்லா அடிகளும் நான்கு சீர்களைக் கொண்டு வருவது எவ்வகை ஆசிரியப்பா?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேரிசை ஆசிரியப்பா",
+          "rationale": "ஈற்றயலடி முச்சீராய் வரும்.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிலைமண்டில ஆசிரியப்பா",
+          "rationale": "எல்லா அடிகளும் நான்கு சீர்களைப் பெற்று வருவது நிலைமண்டில ஆசிரியப்பா.",
+          "isCorrect": true
+        },
+        {
+          "text": "இணைக்குறள் ஆசிரியப்பா",
+          "rationale": "முதல், இறுதி அடிகள் நான்கு சீராகவும், இடை அடிகள் இரு சீராகவும் வரும்.",
+          "isCorrect": false
+        },
+        {
+          "text": "அடிமறிமண்டில ஆசிரியப்பா",
+          "rationale": "அடிகளை மாற்றினாலும் பொருள் மாறாதது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "எல்லா அடிகளும் ஒரே அளவு."
+    },
+    {
+      "questionNumber": 31,
+      "question": "ஈற்றயலடி (இறுதிக்கு முந்தைய அடி) முச்சீராய் வருவது எவ்வகை ஆசிரியப்பா?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேரிசை ஆசிரியப்பா",
+          "rationale": "கடையயற் பாதம் முச்சீர் வரின் நேரிசை ஆசிரியப்பா.",
+          "isCorrect": true
+        },
+        {
+          "text": "நிலைமண்டில ஆசிரியப்பா",
+          "rationale": "எல்லா அடியும் நாற்சீர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "இணைக்குறள் ஆசிரியப்பா",
+          "rationale": "இடையடிகள் குறையும்.",
+          "isCorrect": false
+        },
+        {
+          "text": "அடிமறிமண்டில ஆசிரியப்பா",
+          "rationale": "அடிகள் மாற்றத்தக்கவை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "கடைக்கு அயல் அடி மூன்று சீர்."
+    },
+    {
+      "questionNumber": 32,
+      "question": "தரவு, தாழிசை, அராகம், உறுப்பு, தனிச்சொல், சுரிதகம் ஆகிய ஆறு உறுப்புகளையும் கொண்டது எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வெண்பா",
+          "rationale": "வெண்பாவிற்கு இந்த உறுப்புகள் இல்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "கலிப்பா",
+          "rationale": "கலிப்பா (குறிப்பாக வண்ணக ஒத்தாழிசைக் கலிப்பா) இந்த உறுப்புகளைக் கொண்டிருக்கும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "ஆசிரியப்பா",
+          "rationale": "ஆசிரியப்பாவிற்கு இவை இல்லை.",
+          "isCorrect": false
+        },
+        {
+          "text": "வஞ்சிப்பா",
+          "rationale": "வஞ்சிப்பாவிற்கும் இவை இல்லை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "துள்ளல் ஓசை உடைய பா."
+    },
+    {
+      "questionNumber": 33,
+      "question": "வெண்பாவும் ஆசிரியப்பாவும் கலந்து வருவது எவ்வகை பா?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கலிப்பா",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "மருட்பா",
+          "rationale": "வெண்பா முதல் வந்து அகவல் பின்னாக வருவது மருட்பா.",
+          "isCorrect": true
+        },
+        {
+          "text": "வஞ்சிப்பா",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பரிபாடல்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "மயங்கிய வடிவம்."
+    },
+    {
+      "questionNumber": 34,
+      "question": "ஒழிபியலின் படி, தமிழில் உள்ள மொத்த எழுத்துக்கள் எத்தனை (யாப்பு அடிப்படையில்)?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "10",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "13",
+          "rationale": "ஒழிபியல் நூற்பா 'எழுத்துப் பதின்மூன்று' எனக் கூறுகிறது (உயிர் 12 + ஆய்தம் 1).",
+          "isCorrect": true
+        },
+        {
+          "text": "12",
+          "rationale": "உயிர் எழுத்துக்கள் மட்டும்.",
+          "isCorrect": false
+        },
+        {
+          "text": "18",
+          "rationale": "மெய் எழுத்துக்கள்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "குறில், நெடில், உயிர், ஆய்தம் போன்றவை."
+    },
+    {
+      "questionNumber": 35,
+      "question": "ஒழிபியலின் படி, மொத்த சீர்கள் எத்தனை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "16",
+          "rationale": "நாலசைச் சீர்கள்.",
+          "isCorrect": false
+        },
+        {
+          "text": "30",
+          "rationale": "ஓரசை 2 + ஈரசை 4 + மூவசை 8 + நாலசை 16 = 30 சீர்கள்.",
+          "isCorrect": true
+        },
+        {
+          "text": "24",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "rationale": "மூவசைச் சீர்கள்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ஓரசை முதல் நாலசை வரை உள்ள மொத்த எண்ணிக்கை."
+    },
+    {
+      "questionNumber": 36,
+      "question": "ஒழிபியலின் படி, தளைகள் எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "5",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "7",
+          "rationale": "நேரொன்றாசிரியத்தளை முதல் கலித்தளை ஈறாக 7 வகைப்படும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "6",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "பாக்களின் பந்தம்."
+    },
+    {
+      "questionNumber": 37,
+      "question": "'விளமுன் நிரை' வருவது எவ்வகைத் தளை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "நேரொன்றாசிரியத்தளை",
+          "rationale": "மாமுன் நேர் வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நிரையொன்றாசிரியத்தளை",
+          "rationale": "விளமுன் நிரை வருவது நிரையொன்றாசிரியத்தளை.",
+          "isCorrect": true
+        },
+        {
+          "text": "இயற்சீர் வெண்டளை",
+          "rationale": "மாமுன் நிரை அல்லது விளமுன் நேர் வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "வெண்சீர் வெண்டளை",
+          "rationale": "காய்முன் நேர் வருவது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ஆசிரியப்பாவிற்கு உரிய தளைகளில் ஒன்று."
+    },
+    {
+      "questionNumber": 38,
+      "question": "'மாமுன் நிரை' வருவது எவ்வகைத் தளை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இயற்சீர் வெண்டளை",
+          "rationale": "மாமுன் நிரையும், விளமுன் நேரும் இயற்சீர் வெண்டளை.",
+          "isCorrect": true
+        },
+        {
+          "text": "நேரொன்றாசிரியத்தளை",
+          "rationale": "மாமுன் நேர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "வெண்சீர் வெண்டளை",
+          "rationale": "காய்முன் நேர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "கலித்தளை",
+          "rationale": "காய்முன் நிரை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "வெண்பாவிற்கு உரிய தளைகளில் ஒன்று."
+    },
+    {
+      "questionNumber": 39,
+      "question": "'காய்முன் நேர்' வருவது எவ்வகைத் தளை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இயற்சீர் வெண்டளை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "வெண்சீர் வெண்டளை",
+          "rationale": "காய்முன் நேர் வருவது வெண்சீர் வெண்டளை.",
+          "isCorrect": true
+        },
+        {
+          "text": "கலித்தளை",
+          "rationale": "காய்முன் நிரை.",
+          "isCorrect": false
+        },
+        {
+          "text": "வஞ்சித் தளை",
+          "rationale": "கனி முன் நிரை அல்லது நேர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "வெண்பாவிற்கு மிக முக்கியமானது."
+    },
+    {
+      "questionNumber": 40,
+      "question": "'காய்முன் நிரை' வருவது எவ்வகைத் தளை?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "கலித்தளை",
+          "rationale": "காய்முன் நிரை வருவது கலித்தளை.",
+          "isCorrect": true
+        },
+        {
+          "text": "வெண்சீர் வெண்டளை",
+          "rationale": "காய்முன் நேர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "வஞ்சித் தளை",
+          "rationale": "கனி முன் வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆசிரியத் தளை",
+          "rationale": "மா அல்லது விள முன் வருவது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "கலிப்பாவிற்கு உரியது."
+    },
+    {
+      "questionNumber": 41,
+      "question": "வனப்பு எத்தனை வகைப்படும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "6",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "8",
+          "rationale": "வனப்பு எட்டு வகைப்படும் (அம்மை, அழகு, தொன்மை, தோல், விருந்து, இயைபு, புலன், இழைபு).",
+          "isCorrect": true
+        },
+        {
+          "text": "10",
+          "rationale": "குணங்கள் பத்து.",
+          "isCorrect": false
+        },
+        {
+          "text": "4",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "செய்யுளின் அழகு."
+    },
+    {
+      "questionNumber": 42,
+      "question": "ஒரு பாடலின் இறுதியில் வரும் சொல் அல்லது எழுத்து, அடுத்த பாடலின் முதலாக வருவது எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "அந்தாதித் தொடை",
+          "rationale": "அந்தம் (முடிவு) ஆதியாக (முதலாக) வருவது அந்தாதி.",
+          "isCorrect": true
+        },
+        {
+          "text": "இரட்டைத் தொடை",
+          "rationale": "ஒரே சொல் திரும்ப வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "செந்தொடை",
+          "rationale": "எந்தத் தொடை நயமும் இல்லாமல் வருவது.",
+          "isCorrect": false
+        },
+        {
+          "text": "முரண் தொடை",
+          "rationale": "எதிர்ப்பதம் வருவது.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "முடிவும் முதலும்."
+    },
+    {
+      "questionNumber": 43,
+      "question": "'நிரை நேர்' என்ற அசை அமைப்பு தரும் வாய்ப்பாடு எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தேமா",
+          "rationale": "நேர் நேர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "புளிமா",
+          "rationale": "நிரை நேர் என்பது புளிமா.",
+          "isCorrect": true
+        },
+        {
+          "text": "கருவிளம்",
+          "rationale": "நிரை நிரை.",
+          "isCorrect": false
+        },
+        {
+          "text": "கூவிளம்",
+          "rationale": "நேர் நிரை.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ஈரசைச் சீர்களில் ஒன்று."
+    },
+    {
+      "questionNumber": 44,
+      "question": "'நேர் நிரை' என்ற அசை அமைப்பு தரும் வாய்ப்பாடு எது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தேமா",
+          "rationale": "நேர் நேர்.",
+          "isCorrect": false
+        },
+        {
+          "text": "கூவிளம்",
+          "rationale": "நேர் நிரை என்பது கூவிளம்.",
+          "isCorrect": true
+        },
+        {
+          "text": "கருவிளம்",
+          "rationale": "நிரை நிரை.",
+          "isCorrect": false
+        },
+        {
+          "text": "புளிமா",
+          "rationale": "நிரை நேர்.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "விளச் சீர்களில் ஒன்று."
+    },
+    {
+      "questionNumber": 45,
+      "question": "வெண்பாவின் ஈற்றுச் சீர் (இறுதிச் சீர்) எவற்றில் ஒன்றாக முடியும்?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "தேமா, புளிமா",
+          "rationale": "மட்டும் போதாது.",
+          "isCorrect": false
+        },
+        {
+          "text": "நாள், மலர், காசு, பிறப்பு",
+          "rationale": "வெண்பா ஈற்றுச்சீர் நாள், மலர், காசு, பிறப்பு ஆகிய வாய்ப்பாடுகளில் ஒன்றைக் கொண்டு முடியும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "காய், கனி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பூ, நிழல்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "ஓரசைக் சீரின் வாய்பாடுகள்."
+    },
+    {
+      "questionNumber": 46,
+      "question": "அலகிடுதலில் 'நேர்' அசைக்கு உரிய மதிப்பு (Unit) என்ன?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ஒன்று",
+          "rationale": "பொதுவாக அலகிடும் போது நேரசை ஒரு அலகாகக் கொள்ளப்படும்.",
+          "isCorrect": true
+        },
+        {
+          "text": "இரண்டு",
+          "rationale": "நிரையசை இரண்டு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அரை",
+          "rationale": "ஒற்று எழுத்து அரை.",
+          "isCorrect": false
+        },
+        {
+          "text": "பூஜ்யம்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "தனி ஒலி."
+    },
+    {
+      "questionNumber": 47,
+      "question": "யாப்பருங்கலக் காரிகையின் உரை எழுதியவர் குணசாகரர் என்று எவ்வாறு அறியமுடிகிறது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "சிறப்புப் பாயிரம் மூலம்",
+          "rationale": "சிறப்புப் பாயிரத்தில் 'குணக்கடற் பெயரோன்' எனக் குறிப்பிடப்பட்டுள்ளது.",
+          "isCorrect": true
+        },
+        {
+          "text": "நூல் முகப்பு மூலம்",
+          "rationale": "அல்ல.",
+          "isCorrect": false
+        },
+        {
+          "text": "கல்வெட்டு மூலம்",
+          "rationale": "கல்வெட்டு அமிதசாகரரைப் பற்றிக் கூறுகிறது.",
+          "isCorrect": false
+        },
+        {
+          "text": "செவிவழிச் செய்தி",
+          "rationale": "அல்ல.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "நூலின் துவக்கத்தில் உள்ள பாடல்."
+    },
+    {
+      "questionNumber": 48,
+      "question": "நிரலொன்றி வருவது எவ்வகைத் தொடை (பொதுவாக)?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "இரட்டைத் தொடை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "செந்தொடை",
+          "rationale": "எதுகை, மோனை போன்ற தொடைகள் இல்லாமல் வருவது செந்தொடை.",
+          "isCorrect": true
+        },
+        {
+          "text": "முரண் தொடை",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அந்தாதி",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "அலங்காரங்கள் இல்லாத தொடை."
+    },
+    {
+      "questionNumber": 49,
+      "question": "நான்கு சீர்களும் 'கனி'ச் சீர்களாக (வஞ்சி உரிச்சீர்) வருவது எவ்வகை அடி?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "வஞ்சி அடி",
+          "rationale": "வஞ்சிப்பாவிற்கு உரிய சீர்கள் கனிச்சீர்கள்.",
+          "isCorrect": true
+        },
+        {
+          "text": "வெள்ளடி",
+          "rationale": "வெண்பா அடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "கலி அடி",
+          "rationale": "கலிப்பா அடி.",
+          "isCorrect": false
+        },
+        {
+          "text": "ஆசிரிய அடி",
+          "rationale": "ஆசிரியப்பா அடி.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "தூங்கலோசை தரும் அடி."
+    },
+    {
+      "questionNumber": 50,
+      "question": "மகடூஉ முன்னிலை என்பது யாரை விளித்து (அழைத்து) பாடுவது?",
+      "imageUrl": null,
+      "answerOptions": [
+        {
+          "text": "ஆண்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "பெண்",
+          "rationale": "யாப்பருங்கலக் காரிகை ஒரு பெண்ணை முன்னிறுத்தி (மகடூஉ முன்னிலை) பாடப்பெற்றது.",
+          "isCorrect": true
+        },
+        {
+          "text": "இறைவன்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        },
+        {
+          "text": "அரசன்",
+          "rationale": "தவறு.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "காரிகை என்றாலே பெண் என்று பொருள்."
+    }
+]
