@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "சிறுபாணாற்றுப்படை நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடத்தாமக்கண்ணியார்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லூர் நத்தத்தனார்",
+        "rationale": "இந்நூலின் ஆசிரியர் இடைக்கழி நாட்டு நல்லூர் நத்தத்தனார் ஆவார் .",
+        "isCorrect": true
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "சிறுபாணாற்றுப்படை பாடப்பட்ட பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓய்மானாட்டு நல்லியக்கோடன்",
+        "rationale": "பாடப்பட்டவன் ஓய்மானாட்டு நல்லியக்கோடன் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழன் கரிகாலன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் செங்குட்டுவன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "சிறுபாணாற்றுப்படையின் மொத்த அடிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "269",
+        "rationale": "இந்நூலின் மொத்த அடிகள் 269 ஆகும் .",
+        "isCorrect": true
+      },
+      {
+        "text": "310",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "583",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "782",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "இந்நூல் எவ்வகைத் திணையைச் சார்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாடான்திணை",
+        "rationale": "இந்நூலின் திணை பாடான்திணை ஆகும் .",
+        "isCorrect": true
+      },
+      {
+        "text": "வாகைத்திணை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சித்திணை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சித்திணை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "சிறுபாணாற்றுப்படையில் 'சீறியாழ்' எவ்வாறு வருணிக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானையின் தும்பிக்கை போல",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு பிடித்த குரங்கு போல",
+        "rationale": "யாழின் வடிவம் 'பைங்க ணூகம் பாம்புபிடித் தன்ன' (பாம்பு பிடித்த குரங்கு போல) இருப்பதாகக் கூறப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மலர்ந்த தாமரை போல",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வளைந்த வில் போல",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "சேர மன்னன் குட்டுவனின் தலைநகராக நூலில் குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வஞ்சி",
+        "rationale": "குட்டுவனின் 'வருபுனல்வாயில் வஞ்சியும் வறிதே' என்று வஞ்சி நகர் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறானது, இது பாண்டியர் தலைநகர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறையூர்",
+        "rationale": "தவறானது, இது சோழர் தலைநகர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகார்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "பாண்டியன் செழியனின் தலைநகரான மதுரை எதற்குச் சிறப்பானதாகக் கூறப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமிழ்நிலை பெற்ற மரபு",
+        "rationale": "'தமிழ்நிலை பெற்ற தாங்கரு மரபின்... மதுரையும்' என்று சிறப்பிக்கப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "யானைப் படை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து குளித்தல்",
+        "rationale": "கொற்கை முத்து குறிப்பிடப்பட்டாலும், மதுரையின் சிறப்பு தமிழ் நிலையே.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல் வளம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "மயிலுக்குப் போர்வை அளித்த வள்ளல் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேகன்",
+        "rationale": "'கான மஞ்ஞைக்குக் கலிங்க நல்கிய... பேகனும்' என்று குறிப்பிடப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாரி",
+        "rationale": "தவறானது, இவர் முல்லைக்குத் தேர் தந்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆய்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "முல்லைக் கொடிக்குத் தன் தேரை ஈந்த வள்ளல் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாரி",
+        "rationale": "'சிறுவீ முல்லைக்குப் பெருந்தேர் நல்கிய... பாரியும்' என்று பாடப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நள்ளி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அதிகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "இறைவனுக்கு (ஆலமர் செல்வன்) நீல நாகத்தின் உடையை அணிவித்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆய் (அண்டிரன்)",
+        "rationale": "'நீல நாக நல்கிய கலிங்க ஆலமர் செல்வற் கமர்ந்தனன் கொடுத்த... ஆய்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "காரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "ஔவைக்கு அரிய நெல்லிக்கனியை ஈந்த வள்ளல் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அதிகன்",
+        "rationale": "'கவினிய நெல்லி யமிழ்துவிளை தீங்கனி யௌவைக் கீந்த... அதிகனும்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "நள்ளி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "நட்டோர் உவப்ப நடைப்பரி காரம் (குதிரைகள்) கொடுத்த வள்ளல் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நள்ளி",
+        "rationale": "'நட்டோ ருவப்ப நடைப்பரி கார முட்டாது கொடுத்த... நள்ளியும்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "அதிகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "கூத்தர்களுக்குத் தன் நாட்டையே பரிசாகக் கொடுத்த வள்ளல் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓரி",
+        "rationale": "'குறும்பொறை நன்னாடு கோடியர்க் கீந்த... ஓரியும்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "காரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆய்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "நல்லியக்கோடன் எந்த குலத்தைச் சார்ந்தவன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓவியர் குடி",
+        "rationale": "அவன் 'ஓவியர் பெருமகன்' என்று அழைக்கப்படுகிறான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "மறவர் குடி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆவியர் குடி",
+        "rationale": "தவறானது, இது பேகனின் குடி.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேளிர் குடி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "பாணனின் குடும்பம் வறுமையில் இருந்தபோது, குப்பைக்கீரையை (வேளை) எவ்வாறு சமைத்து உண்டனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உப்பு இல்லாமல்",
+        "rationale": "'குப்பை வேளை யுப்பிலி வெந்ததை' (உப்பு இல்லாமல் வெந்தது) என்று வறுமை விவரிக்கப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "நெய்யுடன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பருப்புடன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோருடன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "வறுமையின் காரணமாக பாணனின் வீட்டு நாய் எவ்வாறு இருந்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலில்லாத முலையை குட்டிகள் சுவைக்க குரைத்தது",
+        "rationale": "'கறவாக் பால்முலை கவர்த னோனாது புனிற்றுநாய் குரைக்கும்' என்று வர்ணிக்கப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "வேட்டைக்குச் செல்ல முடியாமல் படுத்திருந்தது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீட்டைக் காக்க முடியாமல் சோர்வுற்றது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவு கேட்டு அழுதது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "நெய்தல் நிலத்தில் பாணனுக்குக் கிடைக்கும் உணவு என்னவாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குழல்மீன் கறியும் கள்ளும்",
+        "rationale": "பரதவர் மடுக்கும் 'பழம்படு தேறல்' (கள்) மற்றும் மீன் உணவு நெய்தல் வழி உணவாகக் கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பால் சோறு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தினை மாவு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரகு சோறு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "முல்லை நிலத்தில் எயிற்றியர் (பெண்கள்) அளிக்கும் உணவு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புளிப்புச் சுவையுடைய சோறு (புளிச்சோறு)",
+        "rationale": "'எயிற்றிய ரட்ட இன்புளி வெஞ்சோறு' என்று முல்லை நில உணவு குறிக்கப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன் வறுவல்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய் சோறு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேன் கலந்த திணை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "மருத நிலத்தில் உழவர் தங்கை அளிக்கும் உணவு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெண்சோறும் நண்டுக் கறியும்",
+        "rationale": "'அமலைவெண் சோறு கவைத்தா ளலவன் (நண்டு) கலவையொடு பெறுகுவிர்' என்று மருத நில விருந்து கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மான் கறி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழங்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிழங்கு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "நல்லியக்கோடன் ஆட்சி செய்யும் ஊர் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூதூர் (எயிற்பட்டினம்)",
+        "rationale": "'சாறயர் மூதூர்' மற்றும் 'கிடங்கிற் கோமான்' என்ற குறிப்புகளால் அவனது ஊர் எயிற்பட்டினம் (மூதூர்) என அறியப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "கொற்கை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தஞ்சை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காஞ்சி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "பாண்டிய மன்னன் 'செழியன்' எதைக் கைப்பற்றியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மண்மாறு கொண்ட மாலை வெண்குடை",
+        "rationale": "பகைவரின் மண்ணைக் கைப்பற்றியவன் ('மண்மாறு கொண்ட') என்று செழியன் புகழப்படுகிறான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "இமயமலை",
+        "rationale": "இது சேரனுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கங்கை நதி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடாரம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "'குணபுலங் காவலர் மருமான்' என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோழன்",
+        "rationale": "உறையூரை ஆண்ட சோழ மன்னன் குணபுலங் காவலர் மருமான் எனப்படுகிறான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன்",
+        "rationale": "தென்புலக் காவலர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன்",
+        "rationale": "குடபுலக் காவலர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "'குடபுலங் காவலர் மருமான்' என்று சிறப்பிக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேரன் (குட்டுவன்)",
+        "rationale": "வஞ்சி நகர் மன்னனான சேரன் குடபுலங் காவலர் எனப்படுகிறான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "நல்லியக்கோடன் தன்னை நாடி வரும் இரவலர்களை எவ்வாறு உபசரிப்பான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிய சொற்களைக் கூறி, வரிசை அறிந்து பரிசளிப்பான்",
+        "rationale": "'இன்முக முடையையு மினிய னாதலுஞ்... வரிசை யறிதலும்' என்று அவன் பண்பு விளக்கப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "காத்திருக்க வைத்து பரிசளிப்பான்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரதீரச் செயல்களைச் செய்யச் சொல்வான்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைச்சரிடம் அனுப்புவான்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "விறலியரின் நெற்றி எவ்வாறு இருந்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறை நிலவு போல (வாணுதல்)",
+        "rationale": "'மடமா னோக்கின் வாணுதல் விறலியர்' (ஒளிபொருந்திய நெற்றி) .",
+        "isCorrect": true
+      },
+      {
+        "text": "அகன்ற தாமரை போல",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில் போல",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறியதாக",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "சேர மன்னன் பொறித்த சின்னம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வில்",
+        "rationale": "'வடபுல விமயத்து வாங்குவிற் பொறித்த' (வில் சின்னம்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "புலி",
+        "rationale": "தவறானது (சோழர்).",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறானது (பாண்டியர்).",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "சோழ மன்னனின் தேரின் சிறப்பு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லிசை நற்றேர்",
+        "rationale": "'நாடா நல்லிசை நற்றேர்ச் செம்பியன்' என்று சோழன் தேர் புகழப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பொன் தேர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்புத் தேர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறக்கும் தேர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "காரியின் (வள்ளல்) குதிரையின் பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரி",
+        "rationale": "'காரிக் குதிரைக் காரியொடு' என்று குதிரைப் பெயரும் மன்னன் பெயரும் ஒன்றாகச் சுட்டப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓரி",
+        "rationale": "தவறானது (வல்வில் ஓரியின் குதிரை).",
+        "isCorrect": false
+      },
+      {
+        "text": "பேகன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "ஓரி (வள்ளல்) ஆண்ட மலைப்பகுதி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொல்லிமலை (நாகுமுதிர் நாகம்)",
+        "rationale": "சுரபுன்னை மரங்கள் நிறைந்த மலைப்பகுதியை (கொல்லிமலை) ஓரி ஆண்டான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "பொதிகை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறம்பு",
+        "rationale": "தவறானது (பாரி).",
+        "isCorrect": false
+      },
+      {
+        "text": "இமயம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "பாரி ஆண்ட மலை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பறம்பு மலை",
+        "rationale": "'பறம்பிற் கோமான் பாரியும்' என்று தெளிவாகக் குறிப்பிடப்பட்டுள்ளது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பழனி மலை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமலை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செஞ்சி மலை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "நல்லியக்கோடனின் முன்னோர்கள் எந்த ஊரைச் சார்ந்தவர்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலங்கை (தொன்மா இலங்கை)",
+        "rationale": "'தொன்மா விலங்கைக் கருவொடு பெயரிய' என்று அவனது குடி இலங்கைத் தொடர்புள்ளது எனக் கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "கடாரம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதுரை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "பாணன் செல்ல வேண்டிய வழியில் உள்ள 'கானல்' (கடற்கரை) எவ்வாறு வருணிக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்துக்கள் சிதறிக் கிடக்கும் வெண்மணல் பரப்பு",
+        "rationale": "'நெடுங்காற் புன்னை நித்திலம் வைப்பவும் கானல் வெண்மணல்...' என்று நெய்தல் வளம் பாடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாறைகள் நிறைந்த பகுதி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முட்கள் நிறைந்த காடு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வற்றிய ஆறு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "நெய்தல் வழியில் பூக்கும் மலராகக் குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கைதை (தாழை) மற்றும் செருந்தி",
+        "rationale": "'அலைநீர்த் தாழை அன்னம் பூப்பவுந் தலைநாட் செருந்தி தமனியம் மருட்டவும்' .",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேங்கை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொன்றை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "முல்லை நிலப் பாதையில் காணப்படும் மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காயா மற்றும் அவரை",
+        "rationale": "'பைந்நனை யவரை... கருநனைக் காயா' என்று முல்லை நில மலர்கள் விவரிக்கப்படுகின்றன .",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறானது (மருதம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்தல்",
+        "rationale": "தவறானது (நெய்தல்).",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "நல்லியக்கோடனின் வலிமை எதனுடன் ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உறுபுலி (வலிமையான புலி)",
+        "rationale": "'உறுபுலித் துப்பி னோவியர் பெருமகன்' என்று அவன் புலிக்கு ஒப்பிடப்படுகிறான் .",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரடி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "கடையேழு வள்ளல்கள் இறந்த பின், அவர்களின் ஈகைத் தன்மையை யார் தாங்கி நிற்பதாக பாணன் கூறுகிறான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "எழுவர் மாய்ந்த பின், 'ஒருதான் றாங்கிய வுரனுடைய நோன்றாள்' என்று நல்லியக்கோடன் ஒருவனே அந்த பாரத்தைத் தாங்குவதாகக் கூறப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோழன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "பாணன் நல்லியக்கோடனைச் சந்திக்கச் செல்லும் நேரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காலை",
+        "rationale": "விடியற்காலை வேளையில் அவனைச் சந்தித்து பரிசில் பெறுவது பற்றி நூல் பேசுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நள்ளிரவு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பாணனின் வறுமை நிலையைக் குறிக்கப் பயன்படும் உவமை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கறையான் அரித்த சுவர்கள்",
+        "rationale": "'காழ்சோர் முதுசுவர்க் கணச்சித லரித்த' (கறையான் அரித்த சுவர்) வறுமையின் அடையாளமாகச் சொல்லப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "பொன் வேய்ந்த கூரை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிறைந்த தானியக் குதிர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புது வர்ணம் பூசிய சுவர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாணன் பரிசு பெற்ற பின் திரும்பும் போது அணியும் ஆடை எப்படிப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூங்கிலின் உரியை உரித்தாற் போன்ற மெல்லிய ஆடை",
+        "rationale": "'காம்புசொலித் தன்ன வறுவை யுடீஇ' என்று நல்லியக்கோடன் அளித்த ஆடை வர்ணிக்கப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "புலித் தோல்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரவுரி",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிழிந்த ஆடை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "நல்லியக்கோடன் பாணர்களுக்கு வழங்கும் பானம் (கள்) எதனைப் போன்றது என உவமிக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பு வெகுண்டது போன்ற வீரியம் மிக்கது",
+        "rationale": "'பாம்புவெகுண் டன்ன தேற னல்கி' (பாம்பின் கோபம் போன்ற வீரியம் கொண்ட கள்) .",
+        "isCorrect": true
+      },
+      {
+        "text": "தேன் போன்ற இனிமையானது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பால் போன்ற வெண்மையானது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர் போன்ற தெளிவானது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "'நைவளம்' என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு வகைப் பண் (இசை)",
+        "rationale": "'நைவளம் பழுநிய நயந்தெரி பாலை' என்று இசையுடன் தொடர்புடையதாகக் குறிப்பிடப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு வகை உணவு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு வகை ஆடை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு வகை ஆயுதம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "நல்லியக்கோடன் அரண்மனை வாயில் எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அடையா வாயில் (எப்போதும் திறந்திருக்கும்)",
+        "rationale": "'அடையா வாயிலவ னருங்கடை குறுகி' என்று வாயில் எப்போதும் இரவலர்க்காகத் திறந்திருப்பது சுட்டப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "இரும்புக் கதவு கொண்டது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காவலர்கள் நிறைந்தது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறுகிய வாயில்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "மருத நிலத்தில் காணப்படும் பறவையாக நூலில் குறிக்கப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணிச்சிரல் (மீன்கொத்தி) மற்றும் வாத்து",
+        "rationale": "'புலவுக்கய லெடுத்த பொன்வாய் மணிச்சிரல்' என்று மருத நிலப் பறவை வருணிக்கப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில்",
+        "rationale": "இது முல்லை/குறிஞ்சி சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழுகு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறா",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "நல்லியக்கோடன் பரிசாக அளிக்கும் யானைகள் எப்படிப்பட்டவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலை போன்ற பெரிய யானைகள்",
+        "rationale": "அவன் யானைகளையும் தேர்களையும் பரிசாக அளிப்பதில் வல்லவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறிய கன்றுகள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயதான யானைகள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "போரில் காயம்பட்ட யானைகள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "பரதவர் பெண்கள் (நுளைமகள்) நெய்தல் நிலத்தில் என்ன செய்வார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கள்ளை (தேறல்) அரிப்பார்கள்",
+        "rationale": "'நுளைமக ளரித்த பழம்படு தேறல்' என்று அவர்கள் செயல் குறிக்கப்படுகிறது .",
+        "isCorrect": true
+      },
+      {
+        "text": "நெல்லு குத்துவார்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலர் பறிப்பார்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடனம் ஆடுவார்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "பாணன் யாருடன் சேர்ந்து நல்லியக்கோடனைப் பாடுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விறலியர் (பெண் கலைஞர்கள்)",
+        "rationale": "விறலியருடன் சென்று பாடுவதாக நூல் அமைகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமைச்சர்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "படைவீரர்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்கள்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "'செய்ந்நன்றி அறிதலும் சிற்றினம் இன்மையு' - இது யாருடைய குணமாகச் சொல்லப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்லியக்கோடன்",
+        "rationale": "நல்லியக்கோடனின் நற்பண்புகளாக இவை அடுக்கப்படுகின்றன .",
+        "isCorrect": true
+      },
+      {
+        "text": "பாணன்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஔவையார்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "மூவேந்தர்களின் தலைநகரங்கள் 'வறிதே' (வெறுமையாக) எனக் குறிப்பிடப்படக் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அங்குள்ள வள்ளன்மை குறைந்து, நல்லியக்கோடனிடம் மட்டுமே இப்போது உள்ளது என்பதைக் காட்ட",
+        "rationale": "மூவேந்தர் ஊர்களும் வறியன என்று கூறி, நல்லியக்கோடனின் சிறப்பை உயர்த்திப் பாடுகிறார் புலவர் .",
+        "isCorrect": true
+      },
+      {
+        "text": "போரினால் அழிந்துவிட்டதால்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பஞ்சம் ஏற்பட்டதால்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மக்கள் வெளியேறிவிட்டதால்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "நல்லியக்கோடன் எதனை விரும்பிப் பேணுபவன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழ் மற்றும் ஈகை",
+        "rationale": "புகழையும் இரவலர்க்கு ஈவதையும் அவன் விரும்புவதாக நூல் முடிகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம் சேர்ப்பது",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர் செய்வது மட்டுமே",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேட்டையாடுதல்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "சிறுபாணாற்றுப்படை எந்தத் தொகுப்பு நூலில் இடம்பெற்றுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பத்துப்பாட்டு",
+        "rationale": "இது பத்துப்பாட்டு நூல்களில் ஒன்றாகும் .",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டுத்தொகை",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதினெண்கீழ்க்கணக்கு",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பெருங்காப்பியம்",
+        "rationale": "தவறானது.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
