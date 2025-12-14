@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பொருநராற்றுப்படை நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரிகால் பெருவளத்தான்",
+        "rationale": "பொருநராற்றுப்படை சோழ மன்னன் கரிகால் பெருவளத்தானைப் புகழ்ந்து பாடப்பட்ட நூலாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெடுஞ்செழியன்",
+        "rationale": "நெடுஞ்செழியன் மதுரைக்காஞ்சியின் பாட்டுடைத் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னன் சேய் நன்னன்",
+        "rationale": "நன்னன் சேய் நன்னன் மலைபடுகடாம் நூலின் பாட்டுடைத் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளந்திரையன்",
+        "rationale": "இளந்திரையன் பெரும்பாணாற்றுப்படையின் பாட்டுடைத் தலைவன்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "பொருநராற்றுப்படையை இயற்றிய புலவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முடத்தாமக்கண்ணியார்",
+        "rationale": "பொருநராற்றுப்படையைப் பாடியவர் முடத்தாமக்கண்ணியார் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "நக்கீரர் திருமுருகாற்றுப்படையை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "கபிலர் குறிஞ்சிப்பாட்டை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருத்திரங்கண்ணனார்",
+        "rationale": "உருத்திரங்கண்ணனார் பட்டினப்பாலையை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பொருநராற்றுப்படையில் விறலியின் கூந்தலுக்கு உவமையாகக் கூறப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறல் (கருமணல்)",
+        "rationale": "விறலியின் கூந்தல் ஆற்றின் அறல் (கருமணல்) போல உள்ளதாகக் கூறப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மேகம்",
+        "rationale": "இது தவறான உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார் காலம்",
+        "rationale": "இது தவறான உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயில் தோகை",
+        "rationale": "இது தவறான உவமை.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "பொருநராற்றுப்படையில் யாழின் போர்வைக்கு உவமையாகக் கூறப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விளக்கின் அழல் (சுடர்)",
+        "rationale": "யாழின் போர்வையானது விளக்கின் செந்நிற அழலைப் போன்ற நிறத்தை உடையதாகக் குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை இதழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாந்தளிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "யாழின் இருபுறமும் உள்ள துளைகள் எதனைப் போன்று இருந்ததாகக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அளையில் வாழும் நண்டின் கண்கள்",
+        "rationale": "யாழின் பத்தலிலுள்ள துளைகள் வளையில் வாழும் நண்டின் கண்களைப் போல இருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாம்பின் கண்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீனின் கண்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்துக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பொருநராற்றுப்படையில் குறிப்பிடப்படும் யாழ் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலை யாழ்",
+        "rationale": "நூலில் 'மருவின் பாலை' என்று பாலை யாழ் பற்றிய குறிப்பு வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி யாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத யாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்தல் யாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "கரிகாலன் பாணர்களுக்கு வழங்கிய உணவு வகைகளில் ஒன்று 'முரவை போகிய' என்று சிறப்பிக்கப்படுகிறது. இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முனை முறியாத அரிசிச் சோறு",
+        "rationale": "'முரவை போகிய முரியா அரிசி' என்பது முனை முறியாத முழுமையான அரிசியால் சமைக்கப்பட்ட சோற்றைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முள்ளில்லாத மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புளிப்பு நீக்கிய தயிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய் கலந்த ஊன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "கரிகாலன் பாணனின் கிழிந்த ஆடைகளை நீக்கி வழங்கிய ஆடை எதனைப் போன்றது என்று உவமிக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பின் தோல் (அரவு உரி)",
+        "rationale": "கரிகாலன் வழங்கிய மெல்லிய ஆடை பாம்பின் சட்டை (தோல்) போன்று மென்மையானது என்று கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மேகக் கூட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயில் தோகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை இலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "கரிகாலன் வெண்ணிப் பறந்தலைப் போரில் யாரை வென்றான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேரர் மற்றும் பாண்டியர்",
+        "rationale": "கரிகாலன் வெண்ணிப் போரில் சேர மன்னனையும் பாண்டிய மன்னனையும் (இரு பெரும் வேந்தர்களையும்) ஒரே களத்தில் தோற்கடித்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்லவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடம்பர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேளிர்கள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "கரிகாலன் பாணனை வழியனுப்பும் போது எத்தனை அடிகள் பின் சென்று வழியனுப்பினான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏழடி",
+        "rationale": "'காலின் ஏழடிப் பின்சென்று' என்று கரிகாலன் விருந்தினரை வழியனுப்பும் பண்பு குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்தடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாயில் வரை",
+        "rationale": "குறிப்பிட்ட அளவு 'ஏழடி' என்பதே சரியானது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "சோழ நாட்டின் வளம் பற்றிக் கூறும்போது, 'வேலி ஆயிரம் விளையுள்' என்று சிறப்பிக்கப்படும் தானியம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சாலி நெல்",
+        "rationale": "ஒரு வேலி நிலத்தில் ஆயிரம் கலம் நெல் விளையும் என்று சோழ நாட்டின் நெல் வளம் சிறப்பிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரும்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேழ்வரகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "'அறாஅ யாணர் அகன்றலைப் பேரூர்' - இதில் 'யாணர்' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புது வருவாய்",
+        "rationale": "யாணர் என்பது புது வருவாயைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழமையான ஊர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகன்ற தெரு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயல் வெளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "விறலியின் விரல்கள் எம்மலருக்கு உவமையாகக் கூறப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காந்தள்",
+        "rationale": "விறலியின் விரல்கள் மலை உச்சியில் வளரும் காந்தள் மலர்களைப் போன்று மென்மையாக இருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்காந்தள்",
+        "rationale": "குறிப்பாக 'காந்தள் மெல் விரல்' என்றே வருகிறது.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "பாணன் அணிந்திருந்த கிழிந்த ஆடை எதனைப் போன்று இருந்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாசியின் வேர்",
+        "rationale": "'பாசி வேரின் மாசொடு குறைந்த' என்று பாசியின் வேர் போல அழுக்குடன் கூடிய கிழிந்த ஆடை வர்ணிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிலந்தியின் வலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனை நார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிழிந்த பாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "கரிகாலன் எந்தக் குலத்தைச் சார்ந்தவன் என்று நூலில் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருவப் பஃறேர் இளையோன் சிறுவன்",
+        "rationale": "கரிகாலன் 'உருவப் பஃறேர் இளையோன்' (இளஞ்சேட் சென்னி) என்பவனின் மகன் என்று குறிப்பிடப்படுகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசும்பூண் பாண்டியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் செங்குட்டுவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அதிகமான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "'எரி அகைந்தன்ன ஏடு இல் தாமரை' என்று பாணனுக்குக் கரிகாலன் வழங்கிய பரிசு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொற்றாமரை பூ",
+        "rationale": "நெருப்புப் போல ஒளிரும், இதழ்கள் உதிராத பொன்னால் ஆன தாமரை மலரைப் பாணனுக்குச் சூட்டினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செந்தாமரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணி மகுடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்கம் இழைத்த ஆடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "பொருநராற்றுப்படையில் 'நில்லா உலகத்து நிலைமை தூக்கி' என்று கரிகாலன் எதை விரும்புவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழ்",
+        "rationale": "உலகம் நிலையற்றது என்பதை உணர்ந்து, நிலையான புகழைப் பெற அவன் விரும்புகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படை பலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "விறலியின் பற்கள் எதற்கு உவமையாகக் கூறப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்துக்கள்",
+        "rationale": "'பல உறு முத்தின் பழி தீர் வெண்பல்' என்று முத்துக்களைப் போன்ற பற்கள் எனக் குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முல்லை அரும்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரிசி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "கரிகாலன் தாயின் வயிற்றில் இருக்கும்போதே எதைப் பெற்றான் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாயம் (அரசுரிமை)",
+        "rationale": "'தாய் வயிற்றிருந்து தாயம் எய்தி' - அவன் பிறக்கும்போதே அரசுரிமையைப் பெற்றவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஞானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "பாணனின் உடுக்கை (தடாரி) எதனைப் போன்று இருந்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "படம் எடுத்த பாம்பின் படம்",
+        "rationale": "தடாரியின் கண் பகுதி, படம் விரித்த பாம்பின் பொறியைப் ('பைத்த பாம்பின் துத்தி') போன்று இருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முரசின் கண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானையின் நெற்றி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை இலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "விறலியின் காதுகள் எக்கருவிக்கு உவமையாகச் சொல்லப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிர்க் குறை கருவி (கத்தரிக்கோல்)",
+        "rationale": "விறலியின் காதுகள் மயிரை வெட்டும் கத்தரிக்கோலின் கடைப்பகுதி (கைப்பிடி) போன்று இருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வள்ளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "சோழ நாட்டில் நெல் அறுவடை செய்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கூனி (வளைந்த முதுகுடையவர்)",
+        "rationale": "நெற்பயிரின் கனத்தால் வளைந்து நிற்பதால், அதனை அறுப்பவர்களும் கூன் விழுந்து (வளைந்து) அறுப்பதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "களமர்",
+        "rationale": "இது பொதுவான பெயர், ஆனால் பாடலில் 'கூனி' என்ற சொல் வருகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளைஞர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "'முடக்காஞ்சிச் செம்மருதின்' - இதில் குறிப்பிடப்படும் மரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காஞ்சி மரம்",
+        "rationale": "ஆற்றங்கரையில் வளைந்து காணப்படும் காஞ்சி மரங்கள் குறிக்கப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருத மரம்",
+        "rationale": "தவறு (செம்மருது என்பது மருத நிலத்தைக் குறிக்கலாம் அல்லது மரத்தைக் குறிக்கலாம், ஆனால் காஞ்சி என்பது மரமே).",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புன்னை மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "மருத நிலத்துப் பெண்கள் எதை விளையாடுகின்றனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வண்டல்",
+        "rationale": "இளையோர் (பெண்கள்) வண்டல் (மணல் வீடு கட்டி) விளையாடுவதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அம்மானை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "சோழ நாட்டின் நீர்நிலைகளில் எவை அதிகம் காணப்படுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொற்றாமரை மற்றும் ஆம்பல்",
+        "rationale": "பாடலில் தாமரை மற்றும் நீர் நிலைகள் பற்றிய குறிப்புகள் வருகின்றன.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதலைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல் குவியல்கள்",
+        "rationale": "நீர்நிலைகள் அருகே நெல் குவியல்கள் மலை போல் குவிந்திருக்கும் என்று கூறப்படுகிறது.",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "கரிகாலன் தன் பகைவர்களுக்கு எத்தகையவன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன் போன்ற சீற்றம் உடையவன்",
+        "rationale": "'முருகற் சீற்றத்து உருகெழு குருசில்' என்று முருகனைப் போன்ற கோபம் கொண்டவன் எனக் கூறப்படுகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவனைப் போன்றவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமாலைப் போன்றவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரனைப் போன்றவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "பாணன் கரிகாலனைக் காணச் சென்ற நேரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெள்ளி முளைத்த விடியல்",
+        "rationale": "வெள்ளி கிரகம் தோன்றிய விடியற்காலையில் பாணன் சென்றான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நள்ளிரவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "சோழ நாட்டில் வசிக்கும் நாரைகள் எங்கு தங்குவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எருமை மீது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனை மடல் மற்றும் தென்னை",
+        "rationale": "கடல் அலைக்கு அஞ்சி நாரைகள் மருத நிலத்துப் பனை மடல்களிலும் தென்னை மரங்களிலும் தங்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீட்டு கூரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில் கோபுரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "'பொருநன்' என்பவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏர்க்களம் அல்லது போர்க்களம் பாடுபவர்",
+        "rationale": "பொருநர் என்பவர் போர்க்களத்திலோ ஏர்க்களத்திலோ பாடும் கலைஞர். இங்கு போர்க்களம் பாடும் பொருநன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணிகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைச்சர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படைவீரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "கரிகாலனின் வாயில் எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நசையுநர் தடையா நன்பெரு வாயில்",
+        "rationale": "விரும்பி வருபவர்களைத் தடுக்காத பெரிய வாயில் என்று கரிகாலனின் அரண்மனை வாயில் சிறப்பிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காவல் மிக்க வாயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்பு கதவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறுகிய வாயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "விறலியின் அல்குல் எதற்கு ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வண்டின் இருப்பு",
+        "rationale": "மேகலையணிந்த அல்குல் வண்டுகள் மொய்த்திருப்பதைப் போன்று உள்ளதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாம்பின் படம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேர் சக்கரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "பாணன் உண்ட இறைச்சி உணவு எவ்வாறு சமைக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காழில் சுட்ட கோழூன்",
+        "rationale": "இரும்புக் கம்பியில் கோர்த்துச் சுடப்பட்ட கொழுமையான இறைச்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "எண்ணெயில் பொரித்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீரில் வேகவைத்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேனில் ஊறவைத்தது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "நச்சினார்க்கினியர் உரையின்படி, 'காவிரி புரக்கும் நாடு கிழவோன்' என்ற தொடர் யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரிகால் வளவன்",
+        "rationale": "காவிரியால் வளம் பெறும் சோழ நாட்டிற்கு உரியவன் கரிகாலன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொண்டைமான்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "கரிகாலன் எவ்விதமான நீதி வழங்கினான் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறனொடு புணர்ந்த திறனறி செங்கோல்",
+        "rationale": "அறத்தோடு பொருந்திய, முறைமை அறிந்த செங்கோல் ஆட்சி நடத்தினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடுமையான தண்டனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரபட்சமான நீதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குலத்திற்கேற்ற நீதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "'பொருநராற்றுப்படை' எந்தத் தொகுப்பு நூலில் உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பத்துப்பாட்டு",
+        "rationale": "பொருநராற்றுப்படை பத்துப்பாட்டு நூல்களுள் ஒன்று.",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டுத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதினெண் கீழ்க்கணக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பெருங்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "கரிகாலனின் முன்னோர்கள் எதை அழித்ததாகக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தூங்கெயில் எறிந்த தொடிதோட் செம்பியன்",
+        "rationale": "கரிகாலனின் முன்னோர் வானத்தில் தொங்கிய கோட்டையை அழித்தவர் (இது ஒரு புராணக் குறிப்பு).",
+        "isCorrect": true
+      },
+      {
+        "text": "இமயமலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நரகாசுரன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "கரிகாலன் பரிசாக அளித்த யானைகள் எவற்றுடன் சேர்த்து அளிக்கப்பட்டன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண் யானை (பிடி) மற்றும் கன்று",
+        "rationale": "'பிடிபுணர் வேழம்... குழவியொடு' என்று ஆண் யானைகளை அவற்றின் பெண் யானைகள் மற்றும் கன்றுகளுடன் வழங்கினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படைவீரர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "பாணனின் பற்கள் இறைச்சியைத் தின்று எவ்வாறு ஆயின?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொல்லை உழு கொழு போல மழுங்கின",
+        "rationale": "தொடர்ந்து இறைச்சியைத் தின்றதால், உழுகின்ற கலப்பையின் கொழு மழுங்குவது போலப் பற்கள் கூர்மை இழந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "கூர்மையாயின",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விழுந்தன",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிறம் மாறின",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "கரிகாலன் எம்மலர் மாலையை அணிந்திருந்தான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆத்தி மாலை",
+        "rationale": "சோழர்களின் அடையாளப் பூ ஆத்தி. கரிகாலன் ஆத்தி மாலையை அணிந்திருந்தான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேப்ப மாலை",
+        "rationale": "பாண்டியர் மாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனம்பூ மாலை",
+        "rationale": "சேரர் மாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "பொருநராற்றுப்படையில் வரும் 'அறல்' என்னும் சொல் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கருமணல் / ஆற்று நீர்",
+        "rationale": "விறலியின் கூந்தலுக்கு உவமையாகச் சொல்லப்படும்போது அது ஆற்று அறலை (அலை அலையான கருமணல்) குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெருப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காற்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "விறலியின் நகங்கள் எதனைப் போன்று இருந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிளியின் அலகு",
+        "rationale": "'கிளி வாய் ஒப்பின் ஒளி விடு வள் உகிர்' - கிளியின் அலகைப் போன்று சிவந்து வளைந்த நகங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிப்பிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை இதழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "'பொருநராற்றுப்படை' நூலின் மொத்த அடிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "248",
+        "rationale": "பொருநராற்றுப்படை 248 அடிகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "317",
+        "rationale": "இது திருமுருகாற்றுப்படையின் அடி எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "269",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "கரிகாலன் பரிசாகக் கொடுத்த தேரின் குதிரைகள் எந்நிறம் கொண்டவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பால் நிறம் (வெள்ளை)",
+        "rationale": "'பால் புரை புரவி' - பால் போன்ற வெண்மையான குதிரைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கருமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழுப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "பாணன் வந்த களைப்பு தீர கரிகாலன் முதலில் என்ன செய்யச் சொன்னான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "என்பு குளிர நோக்குதல்",
+        "rationale": "அவன் எலும்பும் குளிரும்படி கருணையுடன் நோக்கினான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடனடியாக உணவு அளித்தல்",
+        "rationale": "தவறு, முதலில் பார்வை, பிறகு உபசரிப்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீராடச் செய்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடல் பாடச் சொல்லுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "சோழ நாட்டில் காக்கைகள் எதை உண்ணும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செஞ்சோற்றுப் பலி",
+        "rationale": "சோழ நாட்டில் வளம் அதிகம் என்பதால் காக்கைகள் செஞ்சோற்றுப் பலியை உண்ணும் என்று கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எச்சில் உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "'பொருநராற்றுப்படை' என்பதன் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருநனை ஆற்றுப்படுத்துதல் (வழிப்படுத்துதல்)",
+        "rationale": "பரிசு பெற்ற பொருநன் ஒருவன், பரிசு பெற வரும் மற்றொரு பொருநனை வள்ளலிடம் ஆற்றுப்படுத்துவது (வழி காட்டுவது).",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் செய்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளீட்டுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாட்டை ஆளுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "சோழ நாட்டில் பெண் யானைகள் எதற்கு அஞ்சி ஓடுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெல்லரிவோரின் ஆரவாரம்",
+        "rationale": "களமர்களின் ஓசை அல்லது நெல் அரியும் ஓசை கேட்டு யானைகள் அஞ்சுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கத்தின் கர்ஜனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடி முழக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தீ விபத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "விறலியின் கண் எதற்கு உவமையாகக் கூறப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மானின் கண்",
+        "rationale": "பொதுவாக 'மழைக்கண்' என்று கூறப்படினும், மானின் பார்வை போன்ற மருண்ட பார்வை குறிக்கப்பெறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலோற்பலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குவளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "யாழின் தண்டு எதற்கு உவமையாகக் கூறப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பு",
+        "rationale": "யாழின் நீண்ட தண்டு பாம்பு படம் எடுத்தது போல ('பாம்பு அணந்தன்ன') உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூங்கில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைத் தந்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "முடத்தாமக்கண்ணியார் கரிகாலனை எவ்வாறு வாழ்த்துகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஞாயிறு போல பகைவர் நடுங்கத் தோன்றி வாழ்க",
+        "rationale": "சூரியன் எப்படி இருளைப் போக்குகிறதோ, அதுபோல பகைவரை நடுங்க வைத்து வாழ்க என வாழ்த்துகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு போல குளிர்ச்சி தந்து வாழ்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் போல பரந்து வாழ்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை போல அருளி வாழ்க",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
