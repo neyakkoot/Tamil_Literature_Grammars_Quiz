@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தண்டியலங்காரம் என்னும் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தண்டியாசிரியர்",
+        "rationale": "தண்டியலங்காரம் நூலின் ஆசிரியர் தண்டியாசிரியர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புத்தமித்திரர்",
+        "rationale": "புத்தமித்திரர் வீரசோழியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நூலின் பெயரிலேயே ஆசிரியரின் பெயர் அமைந்துள்ளது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "செய்யுள் வகை எத்தனை திறத்ததாகப் பகுக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "செய்யுள் வகை இரண்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "முத்தகம், குளகம், தொகைநிலை, தொடர்நிலை எனச் செய்யுள் நான்கு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "செய்யுள் வகை மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "செய்யுள் வகை ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முத்தகம் முதல் தொடர்நிலை வரை எண்ணிப் பார்க்கவும்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தனிநின்று முடியும் செய்யுள் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளகம்",
+        "rationale": "குளகம் என்பது பல பாடல்கள் ஒரு வினையைக்கொண்டு முடிவதாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்தகம்",
+        "rationale": "முத்தகம் என்பதே தனிநின்று முடியும் செய்யுளாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொகைநிலை",
+        "rationale": "தொகைநிலை என்பது பல பாடல்களின் தொகுப்பாகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பியம்",
+        "rationale": "காப்பியம் என்பது தொடர்நிலைச் செய்யுள் வகையைச் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முத்து உதிர்ந்தாற்போல தனித்து நிற்பது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "பல பாட்டு ஒரு வினை கொள்ளும் செய்யுள் வகை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்தகம்",
+        "rationale": "முத்தகம் தனித்து முடிவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குளகம்",
+        "rationale": "குளகம் என்பது பல பாடல்கள் தொடர்ந்து வந்து ஒரு வினையைக்கொண்டு முடிவதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அந்தாதி",
+        "rationale": "அந்தாதி என்பது ஒரு பாடலின் இறுதி அடுத்த பாடலின் முதலாக வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலம்பகம்",
+        "rationale": "கலம்பகம் என்பது பல்வேறு உறுப்புகளைக் கொண்ட சிற்றிலக்கியம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காவியங்களில் வரும் ஒரு பாடல் அமைப்பு முறை."
+  },
+  {
+    "questionNumber": 5,
+    "question": "தொடர்நிலைச் செய்யுள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "பொருள்தொடர்நிலை, சொற்றொடர்நிலை என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தொடர்நிலைச் செய்யுள் மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தொடர்நிலைச் செய்யுள் நான்கல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தொடர்நிலைச் செய்யுள் ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருளாலும் சொல்லாலும் தொடர்வது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "அறம், பொருள், இன்பம், வீடு ஆகிய நான்கும் பயக்கும் நடைநெறித் தாகி வருவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காப்பியம்",
+        "rationale": "காப்பியம் என்பதில் சில அறங்கள் குறையலாம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருங்காப்பியம்",
+        "rationale": "நாற்பொருள் (அறம், பொருள், இன்பம், வீடு) பயக்கும் தொடர்நிலைச் செய்யுளே பெருங்காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிற்றிலக்கியம்",
+        "rationale": "சிற்றிலக்கியம் அறம் முதலான நான்கினையும் முழுமையாகக் கூறுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனிப்பாடல்",
+        "rationale": "தனிப்பாடல் என்பது முத்தகச் செய்யுள் வகையைச் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிலப்பதிகாரம், கம்பராமாயணம் போன்றவை இவ்வகையைச் சார்ந்தவை."
+  },
+  {
+    "questionNumber": 7,
+    "question": "அறம் முதலிய நான்கினுள் குறைபாடு உடையது எவ்வாறு அழைக்கப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருங்காப்பியம்",
+        "rationale": "பெருங்காப்பியம் நான்கினையும் கொண்டிருக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பியம்",
+        "rationale": "அறம், பொருள், இன்பம், வீடு ஆகியவற்றில் ஒன்று அல்லது சில குறைந்து வருவது காப்பியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புராணம்",
+        "rationale": "புராணம் என்பது பழைய வரலாற்றைக் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலக்கியம்",
+        "rationale": "இலக்கியம் என்பது பொதுப்பெயர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெருங்காப்பியத்தில் இருந்து மாறுபட்டது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "சொற்றொடர்நிலைச் செய்யுளுக்கு எடுத்துக்காட்டு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறள்",
+        "rationale": "குறள் முத்தகச் செய்யுள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அந்தாதி",
+        "rationale": "செய்யுள் அந்தாதி சொற்றொடர் நிலையே என்று தண்டியலங்காரம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோவை",
+        "rationale": "கோவை பொருள்தொடர் நிலையில் வரும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உலா",
+        "rationale": "உலா சிற்றிலக்கிய வகையைச் சார்ந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லால் தொடரும் பாடல் வகை."
+  },
+  {
+    "questionNumber": 9,
+    "question": "செய்யுள் நெறி (Style) எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "வைதருப்பம், கௌடம் என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "செய்யுள் நெறி மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "செய்யுள் நெறி நான்கல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "செய்யுள் நெறி ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடமொழி மரபைப் பின்பற்றிய இரண்டு நெறிகள்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "வைதருப்ப நெறிக்கு உரிய குணங்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "வைதருப்ப நெறிக் குணங்கள் எட்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "செறிவு, தெளிவு உள்ளிட்ட பத்துக் குணங்கள் வைதருப்ப நெறிக்கு உரியன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பன்னிரண்டு",
+        "rationale": "வைதருப்ப நெறிக் குணங்கள் பன்னிரண்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "வைதருப்ப நெறிக் குணங்கள் ஆறல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செறிவு முதல் சமாதி வரை உள்ளவை."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'செறிவு' எனப்படுவது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொருள் புலப்பாடு",
+        "rationale": "பொருள் புலப்பாடு என்பது 'தெளிவு'.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெகிழிசை இன்மை",
+        "rationale": "சொற்கள் நெருங்கி அமைந்து நெகிழ்ச்சி இல்லாமல் இருப்பது செறிவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெறுத்திசை இன்மை",
+        "rationale": "வெறுத்திசை இன்மை என்பது 'ஒழுகிசை'.",
+        "isCorrect": false
+      },
+      {
+        "text": "சுவை படல்",
+        "rationale": "சுவை படல் என்பது 'இன்பம்'.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொற்கள் இடைவெளியின்றி நெருங்கி இருத்தல்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "கௌட நெறி என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பத்துக் குணங்களோடு இயைவது",
+        "rationale": "பத்துக் குணங்களோடு இயைவது வைதருப்பம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்துக் குணங்களோடு கூடாதது",
+        "rationale": "வைதருப்பத்திற்குச் சொன்ன பத்துக் குணங்களோடு மாறுபட்டு நடப்பது கௌட நெறி.",
+        "isCorrect": true
+      },
+      {
+        "text": "எளிமையான நடை",
+        "rationale": "கௌடம் கடினமான நடையைக் கொண்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தமிழ் மரபு",
+        "rationale": "இது வடமொழி மரபில் ஒரு வகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைதருப்பத்திற்கு நேர் மாறானது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "பொருளணிகள் மொத்தம் எத்தனை என்று தண்டியலங்காரம் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "25",
+        "rationale": "பொருளணிகள் 25 அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "பொருளணிகள் 30 அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "35",
+        "rationale": "தன்மை அணி முதல் பாவிக அணி வரை மொத்தம் 35 பொருளணிகள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "40",
+        "rationale": "பொருளணிகள் 40 அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தன்மை முதல் பாவிகம் வரை."
+  },
+  {
+    "questionNumber": 14,
+    "question": "எவ்வகைப் பொருளும் மெய்வகை விளக்கும் சொல்முறை தொடுப்பது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமையணி",
+        "rationale": "உவமையணி ஒப்புமைப்படுத்துவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தன்மையணி",
+        "rationale": "பொருளின் இயல்பை உள்ளவாறு கூறுவது தன்மையணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருவகவணி",
+        "rationale": "உருவகம் வேற்றுமை ஒழிப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தற்குறிப்பேற்றவணி",
+        "rationale": "தற்குறிப்பேற்றம் கவிஞன் குறிப்பை ஏற்றுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இயல்பு நவிற்சி அணி எனவும் படும்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "தன்மையணி எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "தன்மையணி இரண்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "பொருள், குணம், சாதி, தொழில் எனத் தன்மையணி நான்கு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தன்மையணி மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தன்மையணி ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொருள், குணம்... மற்றும் இரண்டு."
+  },
+  {
+    "questionNumber": 16,
+    "question": "ஒப்புமை தோன்றச் செப்புவது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருவகம்",
+        "rationale": "உருவகம் ஒன்றென மாட்டுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "பொருளோடு பொருளைப் புணர்த்து ஒப்புமை தோன்றக் கூறுவது உவமையணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேற்றுமை",
+        "rationale": "வேற்றுமை வேறுபடுத்திக் காட்டுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடை",
+        "rationale": "சிலேடை இருபொருள் தருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போல, புரைய போன்ற உருபுகள் வரும் அணி."
+  },
+  {
+    "questionNumber": 17,
+    "question": "உவமையையும் பொருளையும் வேற்றுமை ஒழிவித்து ஒன்றென மாட்டுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமை",
+        "rationale": "உவமை வேறுபாடு உடையது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உருவகம்",
+        "rationale": "உவமேயத்தின் மேல் உவமையை ஏற்றிக் கூறுவது (வேறுபாடு நீக்குவது) உருவகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தீவகம்",
+        "rationale": "தீவகம் விளக்கு போன்றது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டு",
+        "rationale": "ஒட்டு குறிப்பால் உணர்த்துவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முகமதி (முகம் வேறு மதி வேறு அல்ல)."
+  },
+  {
+    "questionNumber": 18,
+    "question": "குணம், தொழில், சாதி, பொருள் குறித்து ஒரு சொல் பலவிடத்தும் பொருள் தருவது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பின்வருநிலை",
+        "rationale": "பின்வருநிலை சொல்லோ பொருளோ மீண்டும் வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தீவகம்",
+        "rationale": "ஓரிடத்தில் நின்ற சொல் பல இடங்களிலும் சென்று பொருள் தருவது தீவகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிரல்நிறை",
+        "rationale": "நிரல்நிறை வரிசையாக நிறுத்துவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடை",
+        "rationale": "சிலேடை இருபொருள் தருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விளக்கு வெளிச்சம் தருவது போல."
+  },
+  {
+    "questionNumber": 19,
+    "question": "முன்வரும் சொல்லும் பொருளும் பலவழியில் பின்வருவது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்பொருள் பின்வருநிலை",
+        "rationale": "முன்வந்த சொல்லும் பொருளும் மீண்டும் மீண்டும் வருவது சொற்பொருள் பின்வருநிலையணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொல் பின்வருநிலை",
+        "rationale": "சொல் பின்வருநிலையில் சொல் மட்டும் வரும், பொருள் மாறுபடும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் பின்வருநிலை",
+        "rationale": "பொருள் பின்வருநிலையில் பொருள் மட்டும் வரும், சொல் மாறுபடும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தீவகம்",
+        "rationale": "தீவகம் ஒரே சொல் பல இடத்திற்குச் செல்வது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லும் பொருளும் மீண்டும் வருதல்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "குறிப்பு, வெளிப்படுக்கும் சத்துவம், பிறிதின் மறைத்து உரையாடல் என்பது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நுட்பம்",
+        "rationale": "நுட்பம் அரிதுணர் வினைத்திறன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலேசம்",
+        "rationale": "உள்ளக் குறிப்பை மறைத்து வேறு ஒன்றாகக் கூறுவது இலேசம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரியாயம்",
+        "rationale": "பரியாயம் வேறு விதமாகக் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமாதானம்",
+        "rationale": "சமாதானம் என்பது அமைதி கூறுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்றை மறைத்து இன்னொன்றைப் பேசுதல்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "உலகம் அறியாத காரணத்தை விடுத்து, வேறு ஒரு காரணத்தை இயல்பாகவோ குறிப்பாகவோ கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விபாவனை",
+        "rationale": "இயல்பான காரணத்தை நீக்கி, வேறு காரணத்தைக் கற்பித்துக் கூறுவது விபாவனை.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறப்பு",
+        "rationale": "சிறப்பு அணி வேறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏது",
+        "rationale": "ஏது அணி காரணத்தைக் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அதிசயம்",
+        "rationale": "அதிசயம் மிகைபடக் கூறுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காரணம் இன்றி காரியம் நிகழ்வது போலத் தோன்றும்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "பெயர், பொருள் என்று இரு பொருட்களிலும் இயல்பாக நடக்கும் நிகழ்ச்சியின் மேல் கவிஞர் தன் குறிப்பை ஏற்றுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தன்மையணி",
+        "rationale": "தன்மையணி இயல்பைக் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தற்குறிப்பேற்றவணி",
+        "rationale": "இயல்பான நிகழ்ச்சியின் மீது கவிஞர் தன் குறிப்பை ஏற்றிக் கூறுவது தற்குறிப்பேற்றம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமையணி",
+        "rationale": "உவமையணி ஒப்பிடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடையணி",
+        "rationale": "சிலேடை இருபொருள் தருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எ.கா: போருழந் தெடுத்த ஆரெயில் நெடுங்கொடி..."
+  },
+  {
+    "questionNumber": 23,
+    "question": "ஒரு சொல் பல பொருள் தருமாறு அமைவது எந்த அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிலேடை",
+        "rationale": "ஒரு சொல் அல்லது தொடர் பல பொருள் தருவது சிலேடை ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யமகம்",
+        "rationale": "யமகம் சொல்லணியைச் சார்ந்தது (மடக்கு).",
+        "isCorrect": false
+      },
+      {
+        "text": "திரிபு",
+        "rationale": "திரிபு எழுத்து மாறுபடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோனை",
+        "rationale": "மோனை முதல் எழுத்து ஒன்றி வருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரட்டுற மொழிதல் என்றும் அழைப்பர்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "சிலேடை அணி எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "செம்மொழிச் சிலேடை, பிரிமொழிச் சிலேடை என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "சிலேடை வகை மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "சிலேடை வகை நான்கல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "சிலேடை வகை ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லைப் பிரிக்காமல் வருவது மற்றும் பிரித்து வருவது."
+  },
+  {
+    "questionNumber": 25,
+    "question": "மாறுபடு சொற்பொருள் மாறுபாட்டு இயற்கை விளைவு தர உரைப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விரோதவணி",
+        "rationale": "சொல்லும் பொருளும் மாறுபட்டு முரண்படத் தோன்றுவது விரோதவணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறுபடு புகழ்நிலை",
+        "rationale": "இது பழிப்பது போலப் புகழ்வது அல்லது புகழ்வது போலப் பழிப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "விபாவனை",
+        "rationale": "விபாவனை காரணம் இன்றி காரியம் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறப்பு",
+        "rationale": "சிறப்பு அணி வேறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நெருப்பும் நீரும் போல."
+  },
+  {
+    "questionNumber": 26,
+    "question": "கருதிய பொருள் தொகுத்து ஆங்கு அது பழித்தற்கு வேறொன்று புகழ்வது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழாப் புகழ்ச்சி",
+        "rationale": "புகழாப் புகழ்ச்சி பழிப்பது போலப் புகழ்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாறுபடு புகழ்நிலை",
+        "rationale": "ஒன்றைப் பழிப்பதற்காக வேறொன்றைப் புகழ்வது மாறுபடு புகழ்நிலை.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சப் புகழ்ச்சி",
+        "rationale": "வஞ்சப் புகழ்ச்சி புகழ்வது போலப் பழிப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதாத்தம்",
+        "rationale": "உதாத்தம் உயர்ந்த பொருளைக் கூறுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒருவரைத் திட்டுவதற்குப் பதில் இன்னொருவரைப் பாராட்டுவது போலப் பேசுதல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "பழிப்பது போலும் பான்மையின் மேன்மை புலப்பட மொழிவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழாப் புகழ்ச்சி",
+        "rationale": "வெளிப்படையாகப் பழிப்பது போலத் தோன்றினாலும் உள்ளூரப் புகழ்வது புகழாப் புகழ்ச்சி.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாறுபடு புகழ்நிலை",
+        "rationale": "இது புகழும் சாக்கில் பழிப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிந்தாஸ்துதி",
+        "rationale": "இது வடமொழிப் பெயர், தமிழில் புகழாப் புகழ்ச்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை",
+        "rationale": "இது ஒப்புமை அணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைவது போல வாழ்த்துவது."
+  },
+  {
+    "questionNumber": 28,
+    "question": "எழுத்தின் கூட்டம் இடைபிறிதின்றியும், பெயர்த்தும் வேறு பொருள்தரின் அது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மடக்கு",
+        "rationale": "சொல்லோ எழுத்தோ மீண்டும் வந்து வேறு பொருள் தருவது மடக்கு (யமகம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "துடக்கு",
+        "rationale": "இப்படி ஓர் அணி இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முடுக்கு",
+        "rationale": "இது ஓசை நயம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "இது இரண்டாம் எழுத்து ஒன்றி வருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்லணியில் ஒன்று."
+  },
+  {
+    "questionNumber": 29,
+    "question": "சித்திர கவிகளில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோமூத்திரி",
+        "rationale": "கோமூத்திரி, கூடசதுக்கம் போன்றவை சித்திர கவி வகைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "வெண்பா பா வகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "கலிப்பா பா வகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "வஞ்சி பா வகை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பசுவின் மூத்திரம் பெய்தது போன்ற வடிவம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "வழுக்களின் வகைகள் எத்தனை எனத் தண்டியலங்காரம் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்பது",
+        "rationale": "பிரிபொருட்சொற்றொடர் முதல் சந்தி வழு ஈறாக ஒன்பது வழுக்கள் கூறப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "வழுக்கள் ஏழல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "வழுக்கள் ஐந்தல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "வழுக்கள் மூன்றல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிரிபொருட்சொற்றொடர், மாறுபடுபொருள்மொழி..."
+  },
+  {
+    "questionNumber": 31,
+    "question": "பிரிபொருட் சொற்றொடர் வழுவிற்குச் சிறப்பு விதி என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களியினும் பித்தினுங் கடிவரை இன்று",
+        "rationale": "கள்ளுண்ட களிப்பிலும், பித்திலும் இக்குற்றம் ஏற்றுக்கொள்ளப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காமமும் அச்சமும்",
+        "rationale": "இது மாறுபடு பொருண்மொழிக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "விரைவிலும் சிறப்பிலும்",
+        "rationale": "இது மொழிந்தது மொழிவுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழக்காறு",
+        "rationale": "இது சொல் வழுவுக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மயக்க நிலையில் உளறுவது குற்றமாகாது."
+  },
+  {
+    "questionNumber": 32,
+    "question": "மலைவு (முரண்பாடு) எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆறு",
+        "rationale": "இடம், காலம், கலை, உலகம், நியாயம், ஆகமம் என மலைவு ஆறு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "மலைவு நான்கல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "மலைவு எட்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "மலைவு பத்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடமலைவு, காலமலைவு..."
+  },
+  {
+    "questionNumber": 33,
+    "question": "இடமலைவு என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலம், நாடு, ஊர் பற்றிய முரண்பாடு",
+        "rationale": "மலை, நாடு, ஆறு போன்றவற்றின் இயல்பு மாறுபடக் கூறுவது இடமலைவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "காலம் பற்றிய முரண்பாடு",
+        "rationale": "இது காலமலைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நூல் பற்றிய முரண்பாடு",
+        "rationale": "இது ஆகம மலைவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உலக வழக்கு பற்றிய முரண்பாடு",
+        "rationale": "இது உலக மலைவு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோழ நாட்டில் வைகை ஆறு பாய்வதாகக் கூறுவது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "கலை மலைவு என்பதில் கலைகள் எத்தனை எனக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "64",
+        "rationale": "ஆயக்கலைகள் அறுபத்து நான்கு.",
+        "isCorrect": true
+      },
+      {
+        "text": "32",
+        "rationale": "அறங்கள் முப்பத்திரண்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "புராணங்கள் பதினெட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "96",
+        "rationale": "சிற்றிலக்கியங்கள் தொண்ணூற்றாறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயக்கலைகள்..."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பா விகம் என்பது எதனுடைய பண்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனிப்பாடல்",
+        "rationale": "தனிப்பாடலுக்குப் பாவிகம் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காப்பியம்",
+        "rationale": "காப்பியம் முழுவதிலும் ஊடாடி நிற்கும் பண்பு (Moral) பாவிகம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலா",
+        "rationale": "உலாவிற்குப் பாவிகம் சிறப்பு அன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "அந்தாதி",
+        "rationale": "அந்தாதிக்குத் தொடை நயமே சிறப்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காவியம் சொல்ல வரும் நீதி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "சங்கீரண அணி என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல அணிகள் கலந்து வருவது",
+        "rationale": "பல அணிகள் தம்முள் தழுவி வருவது சங்கீரணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓர் அணி மட்டும் வருவது",
+        "rationale": "இது தனி அணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணியே இல்லாமல் வருவது",
+        "rationale": "இது இயல்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமை மட்டும் வருவது",
+        "rationale": "இது உவமையணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலவை அணி."
+  },
+  {
+    "questionNumber": 37,
+    "question": "வாழ்த்தணி என்பது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னார்க்கு இன்னது இயைக என்று கூறுதல்",
+        "rationale": "ஒருவருக்கு நன்மை உண்டாகுக என்று வேண்டுவது வாழ்த்தணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "தன்னைத்தான் புகழ்வது",
+        "rationale": "இது தன்மேம்பாட்டுரை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிறரைப் பழிப்பது",
+        "rationale": "இது அங்கதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒப்பிட்டுக் கூறுவது",
+        "rationale": "இது உவமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாழ்க அந்தணர்..."
+  },
+  {
+    "questionNumber": 38,
+    "question": "உதாத்த அணியின் இலக்கணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வமும் மேம்படும் உள்ளமும் கூறுதல்",
+        "rationale": "வியத்தகு செல்வத்தையும், உயர்ந்த உள்ளத்தையும் கூறுவது உதாத்தம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையைக் கூறுதல்",
+        "rationale": "இது உதாத்தம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பைக் கூறுதல்",
+        "rationale": "இது தன்மையணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரணத்தைக் கூறுதல்",
+        "rationale": "இது ஏது அணி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெருமிதச் சுவை பயப்பது."
+  },
+  {
+    "questionNumber": 39,
+    "question": "அவநுதி அணியின் மறுபெயர் என்னவாக இருக்கலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மறுத்து மொழிதல்",
+        "rationale": "உள்ளதை மறுத்து வேறொன்றை நாட்டுவதால் அவநுதி எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடன்படல்",
+        "rationale": "இது அவநுதிக்கு எதிரானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினா விடை",
+        "rationale": "இது வேறு வகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிரல்நிறை",
+        "rationale": "இது வரிசைப்படுத்துதல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லை என்று சொல்லி இன்னொன்று என்று சொல்வது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "சிலேடை அணியின் வகைகள் எத்தனை என்று நூல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஏழு",
+        "rationale": "ஒருவினை, பலவினை, முரண்வினை, நியமம், நியமவிலக்கு, விரோதம், அவிரோதம் என ஏழு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "ஐந்தல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "ஒன்பதல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செம்மொழி, பிரிமொழி என்பதற்குள் வரும் உள்வகைகள்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "தன்மேம்பாட்டுரை அணி என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தான் தன் புகழைத் தானே கூறுவது",
+        "rationale": "தலைவன் அல்லது தலைவி தம் புகழைத் தாமே கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிறர் புகழைக் கூறுவது",
+        "rationale": "இது வாழ்த்து அல்லது புகழ்நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறைவனைப் புகழ்வது",
+        "rationale": "இது துதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாட்டைப் புகழ்வது",
+        "rationale": "இது நாட்டு வாழ்த்து.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தற்புகழ்ச்சி."
+  },
+  {
+    "questionNumber": 42,
+    "question": "சுவை அணி எத்தனை வகை மெய்ப்பாடுகளைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "வீரம், அச்சம், இழிபு, வியப்பு, காமம், அவலம், உருத்திரம், நகை என எட்டு.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒன்பது",
+        "rationale": "நவரசம் என்பது வடமொழி வழக்கு, தொல்காப்பியமும் தண்டியலங்காரமும் எட்டு என்கின்றன.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "பத்தல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "ஏழல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எண்சுவை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஆர்வ மொழி அணியின் இயல்பு யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆர்வத்தை மிகுத்துக் கூறுவது",
+        "rationale": "சொல்பவரின் ஆர்வ மிகுதியால் ஒன்றை மிகைபட அல்லது விரைந்து கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமைதியாகக் கூறுவது",
+        "rationale": "இது சமாதானம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபமாகக் கூறுவது",
+        "rationale": "இது உருத்திரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பமாகக் கூறுவது",
+        "rationale": "இது அவலம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருப்பத்தின் மிகுதி."
+  },
+  {
+    "questionNumber": 44,
+    "question": "நிரல்நிறை அணியின் இலக்கணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொற்களை வரிசையாக நிறுத்திப் பொருள் கொள்வது",
+        "rationale": "பெயரையோ வினையையோ வரிசையாக நிறுத்தி, அவற்றிற்குரிய பயனிலைகளையும் வரிசையாக நிறுத்துவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாற்றிப் பொருள் கொள்வது",
+        "rationale": "இது கொண்டு கூட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசையோடு பாடுவது",
+        "rationale": "இது இசைப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரித்துப் பொருள் கொள்வது",
+        "rationale": "இது பிரிமொழி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்பும் அறனும் உடைத்தாயின்..."
+  },
+  {
+    "questionNumber": 45,
+    "question": "ஒட்டணியின் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு",
+        "rationale": "அடையும் பொருளும் அயல்பட மொழிதல் உள்ளிட்ட நான்கு வகைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "இரண்டல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "மூன்றல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "ஐந்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிப்புப் பொருள் தரும் முறைமைகள்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "வேற்றுப்பொருள் வைப்பணி எத்தனை இயல்புகளை உடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எட்டு",
+        "rationale": "முழுவதும் சேறல், ஒருவழிச் சேறல் உள்ளிட்ட எட்டு இயல்புகளை உடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "நான்கல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "ஆறல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்து",
+        "rationale": "பத்தல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உலக அறி பெற்றியை ஏற்றி வைத்து உரைப்பது."
+  },
+  {
+    "questionNumber": 47,
+    "question": "முன்னவிலக்கு அணி எதனை அடிப்படையாகக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விலக்குதல் / மறுத்தல்",
+        "rationale": "ஒன்றைக் கூறுவது போலத் தொடங்கி அதனை விலக்குவது (மறுப்பது).",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏற்றுக்கொள்ளுதல்",
+        "rationale": "இது உடன்படல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒப்பிடுதல்",
+        "rationale": "இது உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிகைகூறல்",
+        "rationale": "இது அதிசயம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முன்னத்தின் மறுப்பது."
+  },
+  {
+    "questionNumber": 48,
+    "question": "உவமை அணியின் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "24",
+        "rationale": "விரி உவமை, தொகை உவமை எனத் தொடங்கி மாலை உவமை ஈறாக 24 வகைகள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "rationale": "பன்னிரண்டு அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "பத்து அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "ஐந்து அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விரி, தொகை, இதரவிதா, சமுச்சயம்..."
+  },
+  {
+    "questionNumber": 49,
+    "question": "உவம உருபுகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போல, புரைய, அன்ன, இன்ன",
+        "rationale": "இவை உவமை உருபுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆயின், ஆனால்",
+        "rationale": "இவை நிபந்தனைச் சொற்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மற்றும், அல்லது",
+        "rationale": "இவை இணைப்புச் சொற்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆக, படி",
+        "rationale": "இவை வினையெச்ச விகுதிகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒப்புமையை உணர்த்தும் இடைச்சொற்கள்."
+  },
+  {
+    "questionNumber": 50,
+    "question": "அதிசய அணியின் அடிப்படை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகு வரம்பு இறவா நிலை",
+        "rationale": "உலக வரம்பினைக் கடந்து (மிகையாக) உயர்ந்தோ தாழ்ந்தோ கூறுவது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உலக வரம்பிற்கு உட்பட்ட நிலை",
+        "rationale": "இது தன்மை அணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "உண்மை நிலை",
+        "rationale": "இதுவும் தன்மை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறைபொருள் நிலை",
+        "rationale": "இது இலைமறை காய்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலை விழுங்கி மகாதேவன்."
+  }
+]
