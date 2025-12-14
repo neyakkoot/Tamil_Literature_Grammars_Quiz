@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "'அரம்பை' என்ற சொல் குறிக்கும் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாழை",
+        "rationale": "வடமலை நிகண்டுவின்படி 'அரம்பை' என்பது தெய்வப்பெண்ணையும், வாழையையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மா",
+        "rationale": "மா என்பது ஒரு மரவகை, ஆனால் அது அரம்பை என்று அழைக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பலா",
+        "rationale": "பலா என்பது முக்கனிகளுள் ஒன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "தென்னை",
+        "rationale": "தென்னை அரம்பை எனப் பொருள்படாது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது முக்கனிகளுள் ஒன்றான பழத்தைக் கொடுக்கும் மரமாகும்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "'அம்பரம்' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆடை",
+        "rationale": "அம்பரம் என்பது ஆடை, விசும்பு, கடல் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணிகலன்",
+        "rationale": "அணிகலன் என்பது ஆபரணங்களைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவு",
+        "rationale": "உணவு என்பது உண்ணும் பொருள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீடு",
+        "rationale": "வீடு வசிப்பிடத்தைக் குறிக்கும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாம் உடுத்திக்கொள்வது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "'அவந்தி' என்ற சொல் குறிக்கும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிளி",
+        "rationale": "அவந்தி என்பது கிளியின் பெயராகவும், உஞ்சை நகரத்தின் பெயராகவும் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில்",
+        "rationale": "மயில் அவந்தி என்று அழைக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குயில்",
+        "rationale": "குயில் அவந்தி அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகம்",
+        "rationale": "காகம் அவந்தி அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பச்சை நிறமுடைய, பேசும் பறவை."
+  },
+  {
+    "questionNumber": 4,
+    "question": "'அகி' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரும்பு",
+        "rationale": "அகி என்பது அரவு (பாம்பு) மற்றும் இரும்பு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தங்கம் அகி அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளி",
+        "rationale": "வெள்ளி ஒரு உலோகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பு",
+        "rationale": "செம்பு ஒரு உலோகம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது ஒரு கடினமான உலோகம்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'அன்னம்' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோறு",
+        "rationale": "அன்னம் என்பது சோறு மற்றும் ஓதிமம் (அன்னப்பறவை) ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பால்",
+        "rationale": "பால் அன்னம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்",
+        "rationale": "நெய் உணவுப்பொருள், அன்னம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "தயிர்",
+        "rationale": "தயிர் அன்னம் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தினசரி நாம் உண்ணும் முக்கிய உணவு."
+  },
+  {
+    "questionNumber": 6,
+    "question": "'அறுவை' என்ற சொல் குறிக்கும் நட்சத்திரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சித்திரை",
+        "rationale": "அறுவை என்பது சித்திரை நாளையும், தூசு (ஆடை) என்பதையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கார்த்திகை",
+        "rationale": "கார்த்திகை ஒரு விண்மீன் கூட்டம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரோகிணி",
+        "rationale": "ரோகிணி ஒரு நட்சத்திரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாதிரை",
+        "rationale": "திருவாதிரை அறுவை அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தமிழ் மாதங்களில் ஒன்றின் பெயரைக் கொண்ட நட்சத்திரம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'அடுப்பு' என்ற சொல் குறிக்கும் தெய்வம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயமன்",
+        "rationale": "அடுப்பு என்ற சொல் இயமன், அச்சம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "சிவன் அடுப்பு என்று அழைக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் தேவர்களின் தலைவன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் மழைக் கடவுள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எருமை வாகனத்தை உடையவர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "'அங்கதம்' என்னும் சொல் எவ்வகை அணிகலனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தோளணி",
+        "rationale": "அங்கதம் என்பது தோளில் அணியும் அணி (தோளணி), பாம்பு, வசைக்கவிதை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காதணி",
+        "rationale": "காதணி குண்டலம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோதிரம்",
+        "rationale": "மோதிரம் விரலில் அணிவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலம்பு",
+        "rationale": "சிலம்பு காலில் அணிவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கைகளின் மேல் பகுதியில் (தோளில்) அணியப்படுவது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "'அரி' என்ற சொல் குறிக்கும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிங்கம்",
+        "rationale": "அரி என்பது சிங்கம், திருமால், சூரியன் எனப் பலபொருள் தரும் சொல்லாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானை",
+        "rationale": "யானை கரி அல்லது களிறு எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மான்",
+        "rationale": "மான் உழை எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நரி",
+        "rationale": "நரி ஓரி எனப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காட்டின் ராஜா."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'அஞ்சனம்' என்ற சொல் குறிக்கும் நிறம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கருமை",
+        "rationale": "அஞ்சனம் என்பது கருமை நிறத்தையும், கண் மையையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்மை",
+        "rationale": "வெண்மை வெள்ளை நிறம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்மை",
+        "rationale": "செம்மை சிவப்பு நிறம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசுமை",
+        "rationale": "பசுமை பச்சை நிறம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணில் இடப்படும் மையின் நிறம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'அங்கி' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சட்டை",
+        "rationale": "அங்கி என்பது அனல் (நெருப்பு) மற்றும் சட்டை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொப்பி",
+        "rationale": "தொப்பி தலையில் அணிவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலணி",
+        "rationale": "காலணி காலில் அணிவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கைக்கடிகாரம்",
+        "rationale": "கைக்கடிகாரம் கையில் அணிவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலின் மேல் பகுதியில் அணியும் உடை."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'அயம்' என்ற சொல் குறிக்கும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குதிரை",
+        "rationale": "அயம் என்பது குதிரை, குளம், இரும்பு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசு",
+        "rationale": "பசு ஆ அல்லது கோ எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எருது",
+        "rationale": "எருது இடபம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலி",
+        "rationale": "புலி வயமா எனப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேகமாக ஓடும் விலங்கு, சவாரிக்கு பயன்படுவது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'அளகம்' என்ற சொல் எதைக்குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயிர்",
+        "rationale": "அளகம் என்பது புனல் (நீர்) மற்றும் மயிர் (கூந்தல்) ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முகம்",
+        "rationale": "முகம் வதனம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை",
+        "rationale": "கை கரம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்",
+        "rationale": "கால் பாதம் எனப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலையில் வளர்வது."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'அளறு' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நரகம்",
+        "rationale": "அளறு என்பது நரகம் மற்றும் சேறு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொர்க்கம்",
+        "rationale": "சொர்க்கம் வானுலகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூமி",
+        "rationale": "பூமி உலகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "கடல் ஆழி எனப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீயவர்கள் செல்லும் இடமாக நம்பப்படுவது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'அந்தரி' என்ற சொல் குறிக்கும் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துர்க்கை",
+        "rationale": "அந்தரி என்பது துர்க்கையையும் உமையையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "லட்சுமி",
+        "rationale": "லட்சுமி திருமகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சரஸ்வதி",
+        "rationale": "சரஸ்வதி கலைமகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கங்கை",
+        "rationale": "கங்கை ஒரு நதி தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரத்தின் அடையாளமாக வணங்கப்படும் பெண் தெய்வம்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'அல்கல்' என்ற சொல் குறிக்கும் பொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரவு",
+        "rationale": "அல்கல் என்பது தங்குதல், நாள், இரவு, கருங்கல் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகல்",
+        "rationale": "பகல் சூரியன் உள்ள நேரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலை",
+        "rationale": "காலை விடியல் பொழுது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "நண்பகல் மதிய நேரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூரியன் மறைந்த பின் வரும் நேரம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "'அந்தி' என்ற சொல் எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை",
+        "rationale": "அந்தி என்பது மாலைப் பொழுதையும், இரவையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காலை",
+        "rationale": "காலை விடியல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதியம்",
+        "rationale": "மதியம் நண்பகல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விடியல்",
+        "rationale": "விடியல் வைகறை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூரியன் மறையும் நேரம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'அன்றில்' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூல நாள்",
+        "rationale": "அன்றில் என்பது மூல நட்சத்திர நாளையும், ஒரு வகை பறவையையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரணி நாள்",
+        "rationale": "பரணி ஒரு நட்சத்திரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார்த்திகை நாள்",
+        "rationale": "கார்த்திகை ஒரு நட்சத்திரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ரோகிணி நாள்",
+        "rationale": "ரோகிணி ஒரு நட்சத்திரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நட்சத்திரங்களில் ஒன்று."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'அணு' என்ற சொல் குறிக்கும் தத்துவப் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயிர்",
+        "rationale": "அணு என்பது நுண்மை, உயிர், மந்திரம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடல்",
+        "rationale": "உடல் தேகம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உலகம்",
+        "rationale": "உலகம் அண்டம் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "வானம் ஆகாயம் எனப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலுக்குள் இருக்கும் ஜீவன்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'அருப்பம்' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நோய்",
+        "rationale": "அருப்பம் என்பது நோய், காடு, சோலை, ஊர்ப்பொது ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மருந்து",
+        "rationale": "மருந்து நோயைத் தீர்ப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "உணவு",
+        "rationale": "உணவு பசி தீர்ப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "இன்பம் மகிழ்ச்சி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலுக்கு துன்பம் தருவது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'அடை' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலை",
+        "rationale": "அடை என்பது இலை, கனம், அப்பம், வழி ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காய்",
+        "rationale": "காய் பிஞ்சு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழம்",
+        "rationale": "பழம் கனி.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூ",
+        "rationale": "பூ மலர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாவரத்தின் ஒரு பகுதி, பச்சையாக இருக்கும்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'அருவி' என்ற சொல் குறிக்கும் தானிய உறுப்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தினைத்தாள்",
+        "rationale": "அருவி என்பது மலைச்சாரல் நதியையும், தினையின் தாளையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெல்தாள்",
+        "rationale": "நெல்தாள் வைக்கோல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரும்புத்தாள்",
+        "rationale": "கரும்புத்தாள் சோகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழைத்தாள்",
+        "rationale": "வாழைத்தாள் மட்டை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முருகனுக்கு படைக்கப்படும் தானியத்தின் அடிப்பகுதி."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'அயிரி' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நுண்மணல்",
+        "rationale": "அயிரி என்பது நுண்மணல் மற்றும் மீன் முள் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "களிமண்",
+        "rationale": "களிமண் சேறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்மண்",
+        "rationale": "செம்மண் சிவந்த மண்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருங்கல்",
+        "rationale": "கருங்கல் பாறை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடற்கரையில் காணப்படும் மிகச் சிறிய துகள்கள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "'அணை' என்ற சொல் குறிக்கும் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெத்தை",
+        "rationale": "அணை என்பது மெத்தை, சயனம், செய்கரை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாற்காலி",
+        "rationale": "நாற்காலி அமர்வதற்கு பயன்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேசை",
+        "rationale": "மேசை பொருட்கள் வைக்க பயன்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதவு",
+        "rationale": "கதவு வாயிலில் இருப்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "படுப்பதற்குப் பயன்படும் மென்மையான பொருள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'அகம்' என்ற சொல் எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீடு",
+        "rationale": "அகம் என்பது இல்லம் (வீடு), மனம், இடம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீதி",
+        "rationale": "வீதி தெரு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குளம்",
+        "rationale": "குளம் நீர்நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடு",
+        "rationale": "காடு வனம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நாம் வசிக்கும் இடம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'அங்கணம்' என்பது வீட்டின் எப்பகுதியைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்றில்",
+        "rationale": "அங்கணம் என்பது முன்றில் (முற்றம்), தூம்பு வாயில், சேறு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சமையலறை",
+        "rationale": "சமையலறை உணவு சமைக்கும் இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "படுக்கையறை",
+        "rationale": "படுக்கையறை தூங்கும் இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூஜையறை",
+        "rationale": "பூஜையறை சாமி கும்பிடும் இடம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீட்டின் முன்பகுதி அல்லது முற்றம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'அரசன்' என்ற சொல் குறிக்கும் கோள் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வியாழன்",
+        "rationale": "அரசன் என்பது மன்னனையும், வியாழ கிரகத்தையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செவ்வாய்",
+        "rationale": "செவ்வாய் ஒரு கோள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சனி",
+        "rationale": "சனி ஒரு கோள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதன்",
+        "rationale": "புதன் ஒரு கோள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேவர்களின் குரு என்று அழைக்கப்படும் கோள்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'அன்னை' என்ற சொல் தாயைத் தவிர வேறு யாரைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தமக்கை",
+        "rationale": "அன்னை என்பது தாயையும், தமக்கையையும் (முன்பிறந்தாள்) குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கை",
+        "rationale": "தங்கை இளைய சகோதரி.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகள்",
+        "rationale": "மகள் பெண் பிள்ளை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேத்தி",
+        "rationale": "பேத்தி மகளின் மகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூத்த சகோதரி."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'அம்மை' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மறுபிறப்பு",
+        "rationale": "அம்மை என்பது தாய், மறுபிறப்பு, யாப்பின் வனப்பு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இறப்பு",
+        "rationale": "இறப்பு மரணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதுமை",
+        "rationale": "முதுமை கிழத்தன்மை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "வறுமை ஏழ்மை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மீண்டும் பிறத்தல்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'அணி' என்ற சொல் குறிக்கும் பண்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழகு",
+        "rationale": "அணி என்பது அழகு, பெருமை, ஆபரணம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "அறிவு ஞானம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்றல்",
+        "rationale": "ஆற்றல் வலிமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்பு",
+        "rationale": "அன்பு பாசம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பார்ப்பதற்கு நன்றாக இருக்கும் தன்மை."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'அரலை' என்ற சொல் எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விதை",
+        "rationale": "அரலை என்பது அருங்கனி விதை, மால், கழலை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இலை",
+        "rationale": "இலை தழை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூ",
+        "rationale": "பூ மலர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேர்",
+        "rationale": "வேர் மூலம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழத்திற்குள் இருப்பது."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'அக்காரம்' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சருக்கரை",
+        "rationale": "அக்காரம் என்பது சருக்கரை (சர்க்கரை) மற்றும் புடவை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உப்பு",
+        "rationale": "உப்பு உவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புளி",
+        "rationale": "புளி சுவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காரம்",
+        "rationale": "காரம் உறைப்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இனிப்பு சுவையுடையது."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'அழனம்' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிணம்",
+        "rationale": "அழனம் என்பது அனல் மற்றும் பிணம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பணம்",
+        "rationale": "பணம் செல்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணம்",
+        "rationale": "மணம் வாசனை.",
+        "isCorrect": false
+      },
+      {
+        "text": "குணம்",
+        "rationale": "குணம் பண்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயிர் நீங்கிய உடல்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'அரிட்டம்' என்ற சொல் குறிக்கும் பானம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கள்",
+        "rationale": "அரிட்டம் என்பது பிறவிக்குற்றம், கள், காக்கை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பால்",
+        "rationale": "பால் வெண்மையான பானம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "நீர் தண்ணீர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேன்",
+        "rationale": "தேன் இனிப்பானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போதை தரும் பானம்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'அக்கு' என்ற சொல் உடலின் எப்பகுதியை குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலும்பு",
+        "rationale": "அக்கு என்பது சங்கு மணி மற்றும் எலும்பு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தசை",
+        "rationale": "தசை சதை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோல்",
+        "rationale": "தோல் உடலை மூடியிருப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரத்தம்",
+        "rationale": "இரத்தம் குருதி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலுக்கு வடிவம் கொடுக்கும் கடினமான பகுதி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'அனந்தம்' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொன்",
+        "rationale": "அனந்தம் என்பது பொன், ஆகாயம், அளவின்மை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெள்ளி",
+        "rationale": "வெள்ளி உலோகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பு",
+        "rationale": "செம்பு உலோகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரும்பு",
+        "rationale": "இரும்பு உலோகம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மஞ்சள் நிறமுள்ள விலையுயர்ந்த உலோகம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'அலங்கல்' என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை",
+        "rationale": "அலங்கல் என்பது அசைவு, தொடையல் (மாலை), தளிர் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காலை",
+        "rationale": "காலை பொழுது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேலை",
+        "rationale": "வேலை பணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோலை",
+        "rationale": "சோலை பூங்கா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கழுத்தில் அணியும் பூக்களால் ஆனது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'அரத்தை' என்ற சொல் குறிக்கும் உணர்வு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பம்",
+        "rationale": "அரத்தை என்பது குறிஞ்சி யாழிசை மற்றும் துன்பம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "இன்பம் மகிழ்ச்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபம்",
+        "rationale": "கோபம் சினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அச்சம்",
+        "rationale": "அச்சம் பயம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மகிழ்ச்சிக்கு எதிரானது."
+  },
+  {
+    "questionNumber": 39,
+    "question": "'அடல்' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வலிமை",
+        "rationale": "அடல் என்பது சமர் (போர்), பெலம் (வலிமை), வெற்றி ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மென்மை",
+        "rationale": "மென்மை சாதுவானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுமை",
+        "rationale": "சிறுமை சிறியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழைமை",
+        "rationale": "பழைமை தொன்மையானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடல் பலம்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'அயில்' என்பது எவ்வகை ஆயுதத்தைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேல்",
+        "rationale": "அயில் என்பது வேல், கூர்மை ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாள்",
+        "rationale": "வாள் வெட்டும் கருவி.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில்",
+        "rationale": "வில் அம்பு எய்யும் கருவி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கதை",
+        "rationale": "கதை அடிக்கும் ஆயுதம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முருகப் பெருமானின் ஆயுதம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "'அரணம்' என்ற சொல் குறிக்கும் பாதுகாப்பு அமைப்பு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதில்",
+        "rationale": "அரணம் என்பது காவற்காடு, மதில், கவசம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கதவு",
+        "rationale": "கதவு வாயில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜன்னல்",
+        "rationale": "ஜன்னல் பலகணி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூரை",
+        "rationale": "கூரை வீட்டின் மேல் பகுதி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோட்டையைச் சுற்றி கட்டப்படும் சுவர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "'அம்பணம்' என்ற சொல் குறிக்கும் வாகனம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மரக்கலம்",
+        "rationale": "அம்பணம் என்பது மரக்கலம் (கப்பல்), நீர்ப்பந்தல் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேர்",
+        "rationale": "தேர் நிலத்தில் ஓடுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "விமானம்",
+        "rationale": "விமானம் வானில் பறப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வண்டி",
+        "rationale": "வண்டி மாடு பூட்டியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்ணீரில் செல்லும் வாகனம்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "'அளித்தல்' என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொடுத்தல்",
+        "rationale": "அளித்தல் என்பது கொடுத்தல், காத்தல், செறிவு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எடுத்தல்",
+        "rationale": "எடுத்தல் பெறுதல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறைத்தல்",
+        "rationale": "மறைத்தல் ஒளித்தல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தடுத்தல்",
+        "rationale": "தடுத்தல் நிறுத்துதல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறருக்கு உதவுதல் அல்லது ஈதல்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "'அச்சம்' என்ற சொல் குறிக்கும் மரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தி",
+        "rationale": "அச்சம் என்பது பயம் மற்றும் அகத்தி மரத்தை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆலமரம்",
+        "rationale": "ஆலமரம் பெரிய மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசமரம்",
+        "rationale": "அரசமரம் புனித மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பமரம்",
+        "rationale": "வேப்பமரம் கசப்பானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதன் இலை சமைத்து உண்ணப்படும், கால்நடைகளுக்கும் உணவாகும்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "'அருணம்' என்ற சொல் குறிக்கும் கனி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலுமிச்சை",
+        "rationale": "அருணம் என்பது செம்மறி ஆடு, மான், எலுமிச்சை, சிவப்பு ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மாம்பழம்",
+        "rationale": "மாம்பழம் இனிப்பானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழைப்பழம்",
+        "rationale": "வாழைப்பழம் நீண்டது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொய்யாப்பழம்",
+        "rationale": "கொய்யாப்பழம் விதை நிறைந்தது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புளிப்புச் சுவையுடைய மஞ்சள் நிற பழம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'அம்பல்' என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பழிமொழி",
+        "rationale": "அம்பல் என்பது பழிமொழி, புறங்கூறல் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புகழ்மொழி",
+        "rationale": "புகழ்மொழி பாராட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேன்மொழி",
+        "rationale": "தேன்மொழி இனிமையான பேச்சு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாய்மொழி",
+        "rationale": "வாய்மொழி பேச்சு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறரைப் பற்றி தவறாகப் பேசுதல்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'அலர்' என்ற சொல் எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூ",
+        "rationale": "அலர் என்பது மலர்ந்த பூ மற்றும் பழிமொழி ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காய்",
+        "rationale": "காய் பிஞ்சு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலை",
+        "rationale": "இலை தழை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேர்",
+        "rationale": "வேர் மூலம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாவரத்தின் வாசனை உள்ள பகுதி."
+  },
+  {
+    "questionNumber": 48,
+    "question": "'அரற்றல்' என்பதன் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழுகை",
+        "rationale": "அரற்றல் என்பது அழுகை மற்றும் ஒலித்தல் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிரிப்பு",
+        "rationale": "சிரிப்பு மகிழ்ச்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூக்கம்",
+        "rationale": "தூக்கம் உறக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓட்டம்",
+        "rationale": "ஓட்டம் விரைவு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துன்பத்தில் வெளிப்படுவது."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'அஞ்சலி' என்ற சொல் குறிக்கும் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாவல்",
+        "rationale": "அஞ்சலி என்பது இறைஞ்சுதல் மற்றும் வாவல் பறவையைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கழுகு",
+        "rationale": "கழுகு பெரிய பறவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறா",
+        "rationale": "புறா தூது செல்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மைனா",
+        "rationale": "மைனா சிறிய பறவை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரவில் பறக்கும் பாலூட்டி."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'அலகு' என்ற சொல் வீட்டில் பயன்படும் எந்தப் பொருளைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துடைப்பம்",
+        "rationale": "அலகு என்பது நுளம்பு, நெற்கதிர் மற்றும் துடைப்பம் ஆகியவற்றை குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முறம்",
+        "rationale": "முறம் புடைக்க பயன்படுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகப்பை",
+        "rationale": "அகப்பை கரண்டி.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூடை",
+        "rationale": "கூடை பொருட்கள் வைக்க பயன்படுவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீட்டைச் சுத்தம் செய்யப் பயன்படுவது."
+  }
+]
