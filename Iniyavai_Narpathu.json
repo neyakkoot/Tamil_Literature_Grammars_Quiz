@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 51,
+    "question": "இன்னா நாற்பதில் 'தந்தையில் லாத புதல்வன்' எதைக் கொண்டிருந்தாலும் இன்னா என்று கபிலர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழகு",
+        "rationale": "பாடல்: 'தந்தையில் லாத புதல்வ னழகின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாடல் தொகுப்பின் இரண்டாம் வரி."
+  },
+  {
+    "questionNumber": 52,
+    "question": "இன்னா நாற்பதின்படி, 'கடும்புலி வாழு மதர்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'கடும்புலி வாழு மதர் இன்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "30-வது பாடல்."
+  },
+  {
+    "questionNumber": 53,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்."
+  },
+  {
+    "questionNumber": 54,
+    "question": "இன்னா நாற்பதின்படி, 'சிறையில் கரும்பினை' என்ன செய்வது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காத்தோம்பல்",
+        "rationale": "பாடல்: 'சிறையில் கரும்பினைக் காத்தோம்ப லின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பறித்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விற்றல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உண்ணுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "5-வது பாடல்."
+  },
+  {
+    "questionNumber": 55,
+    "question": "இன்னா நாற்பதில் 'நற்கேள்வி யில்லெனிற் சந்தின் வனப்பு இன்னா' என்ற வரி எந்த கருத்தை வலியுறுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சான்றோர் இல்லாத வீடு அழகு அற்றது",
+        [cite_start]"rationale": "பாடல்: 'பந்தமில் லாத மனையின் வனப்பின்னா'. (சான்றோர் இல்லாத வீட்டின் வனப்பு இன்னா) [cite: 25] என்ற வரியின் கருத்தாகவே இதுவும் அமைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுற்றம் இல்லாத செல்வம் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி இல்லாத செல்வம் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழகாத நண்பர்கள் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    [cite_start]"hint": "முதல் பாடல் தொகுப்பு[cite: 25]."
+  },
+  {
+    "questionNumber": 56,
+    "question": "இன்னா நாற்பதின்படி, 'கள்ளுண்பான் கூறுங் கருமப் பொருள்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'கள்ளுண்பான் கூறுங் கருமப் பொருளின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறப்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்."
+  },
+  {
+    "questionNumber": 57,
+    "question": "இன்னா நாற்பதில், 'குறியறியான் மாநாக மாட்டுவித்தல' என்னவாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'குறியறியான் மாநாக(@) மாட்டுவித்த லின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "29-வது பாடல்."
+  },
+  {
+    "questionNumber": 58,
+    "question": "இன்னா நாற்பதில் 'மன்றப்பின்னாது' என்ற பாட வேறுபாடு எங்கு காணப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடவுள் வாழ்த்து",
+        "rationale": "கடவுள் வாழ்த்துப் பாடலில் (23) 'மன்றப்பின்னாது' என்ற பாட வேறுபாடு குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "9-வது பாடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "16-வது பாடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "22-வது பாடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    [cite_start]"hint": "இரண்டாம் பக்கத்தில் உள்ள கடவுள் வாழ்த்துப் பாடலைப் பார்க்கவும்[cite: 23]."
+  },
+  {
+    "questionNumber": 59,
+    "question": "இன்னா நாற்பதின்படி, 'ஆற்ற லிலாதான் பிடித்த படை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'ஆற்ற லிலாதான் பிடித்த படையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆபத்து",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பயம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "7-வது பாடல்."
+  },
+  {
+    "questionNumber": 60,
+    "question": "இன்னா நாற்பதில் 'நன்மை யிலாளர் தொடர்பு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'நன்மை யிலாளர் தொடர்பின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறான விடை.",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "32-வது பாடல்."
+  },
+  {
+    "questionNumber": 61,
+    "question": "இனியவை நாற்பது நூலின் வேறு பெயர்களில் இல்லாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நன்மையவை நாற்பது",
+        [cite_start]"rationale": "இனியது நாற்பது, இனிது நாற்பது, இனிய நாற்பது ஆகிய பெயர்களால் இந்நூல் வழங்கப்படுகிறது[cite: 61, 62].",
+        "isCorrect": true
+      },
+      {
+        "text": "இனியது நாற்பது",
+        [cite_start]"rationale": "தவறான விடை[cite: 61, 62].",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது நாற்பது",
+        [cite_start]"rationale": "தவறான விடை[cite: 61, 62].",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிய நாற்பது",
+        [cite_start]"rationale": "தவறான விடை[cite: 61, 62].",
+        "isCorrect": false
+      }
+    ],
+    [cite_start]"hint": "நூலின் அறிமுகப் பகுதியை பார்க்கவும்[cite: 61, 62]."
+  },
+  {
+    "questionNumber": 62,
+    "question": "இனியவை நாற்பதின்படி, 'கொல்லாமை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்இனிது",
+        "rationale": "பாடல்: 'கொல்லாமை முன்இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "5-வது பாடல்."
+  },
+  {
+    "questionNumber": 63,
+    "question": "இனியவை நாற்பதில் 'மனமாண்பி லாதவரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அஞ்சி அகறல்",
+        "rationale": "பாடல்: 'மனமாண்பி லாதவரை யஞ்சி யகறல்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழித்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "10-வது பாடல்."
+  },
+  {
+    "questionNumber": 64,
+    "question": "இனியவை நாற்பதின்படி, 'மாமலைபோல் யானை மதமுழக்கங் கேட்டல்' யாருடைய வாசலில் இனிது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மறமன்னர்",
+        "rationale": "பாடல்: 'மறமன்னர் தங்கடையுள் மாமலைபோல் யானை மதமுழக்கங் கேட்டல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வள்ளல்கள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறவோர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேளாளர்கள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "15-வது பாடல்."
+  },
+  {
+    "questionNumber": 65,
+    "question": "இனியவை நாற்பதில் 'சுற்றார்முன் கல்வி உரைத்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிக இனிது",
+        "rationale": "பாடல்: 'சுற்றார்முன் கல்வி உரைத்தல் மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "16-வது பாடல்."
+  },
+  {
+    "questionNumber": 66,
+    "question": "இனியவை நாற்பதின்படி, 'மன்றின் முதுமக்கள் வாழும் பதி' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'மன்றின் முதுமக்கள் வாழும் பதி இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "18-வது பாடல்."
+  },
+  {
+    "questionNumber": 67,
+    "question": "இனியவை நாற்பதில் 'எள்துணை யானும் இரவாது தான்ஈதல்' எத்துணையும் எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆற்ற இனிது",
+        "rationale": "பாடல்: 'எள்துணை யானும் இரவாது தான்ஈதல் எத்துணையும் ஆற்ற இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "16-வது பாடல்."
+  },
+  {
+    "questionNumber": 68,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்."
+  },
+  {
+    "questionNumber": 69,
+    "question": "இனியவை நாற்பதில் 'ஆற்றாமை யாற்றென் றலையாமை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்இனிது",
+        "rationale": "பாடல்: 'ஆற்றாமை யாற்றென் றலையாமை முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "28-வது பாடல்."
+  },
+  {
+    "questionNumber": 70,
+    "question": "இனியவை நாற்பதில் 'இளமையை மூப்பென் றுணர்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'இளமையை மூப்பென் றுணர்தல் இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "37-வது பாடல்."
+  },
+  {
+    "questionNumber": 71,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் யானைகள் சக்கரம் சுமந்து நிற்கும் மலைபோல இருந்ததாகப் புலவர் கூறுகிறார். இங்கு 'சக்கரம்' என்று எதனைக் குறிப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேரின் பரிதி",
+        "rationale": "பாடல்: 'பரிதி சுமந்தெழுந்த யானை'. பரிதி என்பது தேர்ச்சக்கரம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமாலின் சக்கரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "4-வது பாடல்."
+  },
+  {
+    "questionNumber": 72,
+    "question": "களவழி நாற்பதில் 'செங்குளக் கோட்டுக்கீழ் நீர்த்தூம்பு நீருமிழ்வ போன்ற' உவமையின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யானைகளின் பாதங்களில் இருந்து வழியும் குருதி",
+        "rationale": "பாடல்: 'போர்ப்பி லிடிமுரசி னூடுபோ மொண்குருதி... நீர்த்தூம்பு நீருமிழ்வ போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மழை நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புனல் நாடன் ஆட்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்."
+  },
+  {
+    "questionNumber": 73,
+    "question": "களவழி நாற்பதில், இரத்தத்தில் குளித்த காகம் எதனைப் போல உருவிழந்து காணப்பட்டதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குக்கிற் புறத்த சிரல்வாய் (மீன்கொத்திப் பறவையின் வாய்)",
+        "rationale": "பாடல்: 'குருதி படிந்துண்ட காகம் உருவிழந்து குக்கிற் புறத்த சிரல்வாய போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அண்டங்காக்கை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரு மேகம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "5-வது பாடல்."
+  },
+  {
+    "questionNumber": 74,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் தும்பிக்கை எதனைப் போலத் தோன்றும் எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருமெறி பாம்பிற் புரளும் (இடி தாக்கிய பாம்பு)",
+        "rationale": "பாடல்: 'வரைபுரை யானைக்கை நூற வரைமேல் உருமெறி பாம்பிற் புரளுஞ்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேங்கை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புனல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "13-வது பாடல்."
+  },
+  {
+    "questionNumber": 75,
+    "question": "களவழி நாற்பதில் 'புலான்முகந்த வெண்குடை' எதனைப் போலத் தோன்றும் எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பஞ்சிபெய் தாலமே போன்ற (பஞ்சியால் செய்யப்பட்ட குடை)",
+        "rationale": "பாடல்: 'புலான்முகந்த வெண்குடை பஞ்சிபெய் தாலமே போன்ற புனனாடன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆடை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயில்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "39-வது பாடல்."
+  },
+  {
+    "questionNumber": 76,
+    "question": "முதுமொழிக்காஞ்சியில் 'மேதையிற் சிறந்தது' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்றது மறவாமை",
+        "rationale": "பாடல்: 'மேதையிற் சிறந்தன்று கற்றது மறவாமை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்றாரை வழிபடுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நானுடைமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 3-வது பாடல்."
+  },
+  {
+    "questionNumber": 77,
+    "question": "முதுமொழிக்காஞ்சியில் 'யாப்பி லோரை' எதைக்கொண்டு பழியார் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயல்குணம் பழியார்",
+        "rationale": "பாடல்: 'யாப்பி லோரை இயல்குணம் பழியார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழியாப் பத்து - 22-வது பாடல்."
+  },
+  {
+    "questionNumber": 78,
+    "question": "முதுமொழிக்காஞ்சியின் 'இல்லைப் பத்து' அதிகாரத்தில் 'எதனைக் காட்டிலும் கொடுமை இல்லை' என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயைவது கரத்தலின்",
+        "rationale": "பாடல்: 'இயைவது கரத்தலின் கொடுமை இல்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரத்தலின்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாக்காடு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்குரவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 55-வது பாடல்."
+  },
+  {
+    "questionNumber": 79,
+    "question": "முதுமொழிக்காஞ்சியில் 'இரப்போர்க்கு ஈதலின்' எது இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எய்தும் சிறப்பில்லை",
+        "rationale": "பாடல்: 'இரப்போர்க்கு ஈதலின் எய்தும் சிறப்பில்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இளிவரவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்குரவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 60-வது பாடல்."
+  },
+  {
+    "questionNumber": 80,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'காலம் அறியாதோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கையுऱல் பொய்",
+        "rationale": "பாடல்: 'காலம்அறி யாதோன் கையுறல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம் செய்தல் பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முறையிடல் பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்தல் பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 65-வது பாடல்."
+  },
+  {
+    "questionNumber": 81,
+    "question": "முதுமொழிக்காஞ்சியில் 'உண்டி வெய்யோர்க்குப்' எது எளிது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உறுபிணி எளிது",
+        "rationale": "பாடல்: 'உண்டிவெய் யோர்க்குப் உறுபிணி எளிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "படுபழி எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எளிய பத்து - 77-வது பாடல்."
+  },
+  {
+    "questionNumber": 82,
+    "question": "முதுமொழிக்காஞ்சியில் 'சார்பு இலோர்க்கு' எது எளிது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உறுகொலை எளிது",
+        "rationale": "பாடல்: 'சார்பு இலோர்க்கு உறுகொலை எளிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "படுபழி எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எளிய பத்து - 80-வது பாடல்."
+  },
+  {
+    "questionNumber": 83,
+    "question": "முதுமொழிக்காஞ்சியில் 'செற்றுடன் உறவோனைச் சேர்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'செற்றுடன் உறவோனைச் சேர்தல்நல் கூர்ந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 83-வது பாடல்."
+  },
+  {
+    "questionNumber": 84,
+    "question": "முதுமொழிக்காஞ்சியில் 'வீங்கல் வேண்டுவோன்' (புகழால் பெரியவனாக இருக்க விரும்புவோன்) எதனைத் தண்டான் (கைவிடமாட்டான்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்புகழ்",
+        "rationale": "பாடல்: 'வீங்கல் வேண்டுவோன் பல்புகழ் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழிபாடு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 92-வது பாடல்."
+  },
+  {
+    "questionNumber": 85,
+    "question": "முதுமொழிக்காஞ்சியில் 'காமம் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறிப்புச்சொல்",
+        "rationale": "பாடல்: 'காமம் வேண்டுவோன் குறிப்புச்சொல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்வு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 100-வது பாடல்."
+  },
+  {
+    "questionNumber": 86,
+    "question": "இன்னா நாற்பதில் 'காப்பாற்றா வேந்தன்' எதனை இன்னா ஆக்குவான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உலகு",
+        "rationale": "பாடல்: 'காப்பாற்றா வேந்த னுலகு [இன்னா]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைச்சன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாவது பாடல்."
+  },
+  {
+    "questionNumber": 87,
+    "question": "இன்னா நாற்பதின்படி, 'ஆன்றவித்த சான்றோருள்' எவன் புகுவது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேதை",
+        "rationale": "பாடல்: 'ஆன்றவித்த சான்றோருட் பேதை புகலின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "புலவன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வள்ளல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "17-வது பாடல்."
+  },
+  {
+    "questionNumber": 88,
+    "question": "இனியவை நாற்பதில் 'உடையான் வழக்குப்' எப்போது இனிதாகும் என்று பூதஞ்சேந்தனார் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒப்ப முடிந்தால்",
+        "rationale": "பாடல்: 'உடையான் வழக்கினி தொப்ப முடிந்தால்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அவன் விரும்பினால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவன் வெற்றி பெற்றால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவன் தனியாக இருந்தால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரண்டாவது பாடல்."
+  },
+  {
+    "questionNumber": 89,
+    "question": "இனியவை நாற்பதில் 'ஆற்றுந் துணையால்' எதைச் செய்கை முன் இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறஞ்செய்கை",
+        "rationale": "பாடல்: 'ஆற்றுந் துணையால் அறஞ்செய்கை முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் செய்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்றல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மானம் காத்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்."
+  },
+  {
+    "questionNumber": 90,
+    "question": "இனியவை நாற்பதின்படி, 'அவ்வித் தழுக்கா றுரையாமை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்இனிதே",
+        "rationale": "பாடல்: 'அவ்வித் தழுக்கா றுரையாமை முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்ற இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "36-வது பாடல்."
+  },
+  {
+    "questionNumber": 91,
+    "question": "களவழி நாற்பதில், 'திண்டோண் மறவர் எறிய' அறுந்து கிடக்கும் தலைகள் எதனைப் போலப் புரள்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெண்ணை அம் தோட்டம் (பனை தோட்டம்)",
+        "rationale": "பாடல்: 'பெண்ணையந் தோட்டம் பெருவளி புக்கேற்றது போல'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பந்து",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சக்கரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "24-வது பாடல்."
+  },
+  {
+    "questionNumber": 92,
+    "question": "களவழி நாற்பதில், பிணங்களின் மீது 'முத்தடைக் கோட்ட களிறு' என்ன செய்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈர்ப்ப (இழுத்துச் செல்ல)",
+        "rationale": "பாடல்: 'அரசர் பிணங்கான்ற நெய்த்தோர் முரசொடு முத்தடைக் கோட்ட களிறீர்ப்ப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீழ",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஓட",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுக",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "37-வது பாடல்."
+  },
+  {
+    "questionNumber": 93,
+    "question": "முதுமொழிக்காஞ்சியின் 'பழியாப் பத்து' அதிகாரத்தில், 'முறையில் அரசர் நாட்டில் இருந்து' என்ன செய்யக்கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பழியார்",
+        "rationale": "பாடல்: 'முறையில் அரசர்நாட் டிருந்து பழியார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம் சேர்க்க",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்க",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழியாப் பத்து - 26-வது பாடல்."
+  },
+  {
+    "questionNumber": 94,
+    "question": "முதுமொழிக்காஞ்சியில் 'ஈரம் உடைமை' எதனால் அறியப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈகையின் அறிப",
+        "rationale": "பாடல்: 'ஈரம் உடைமை ஈகையின் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேச்சின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடத்தையால் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவால் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 12-வது பாடல்."
+  },
+  {
+    "questionNumber": 95,
+    "question": "முதுமொழிக்காஞ்சியின் 'அல்ல பத்து' அதிகாரத்தில் 'அறத்தாற்றின் ஈயாத(து)' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈனை அன்று (ஈகை அன்று)",
+        "rationale": "பாடல்: 'அறத்தாற்றின் ஈயாத(து) ஈனை யன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாழ்வு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 48-வது பாடல்."
+  },
+  {
+    "questionNumber": 96,
+    "question": "இன்னா நாற்பது மற்றும் இனியவை நாற்பது ஆகிய நூல்கள் எக்காலகட்டத்தைச் சேர்ந்தவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதினெண் கீழ்க்கணக்கு நூல்கள்",
+        [cite_start]"rationale": "இந்நான்கு நூல்களும் பதினெண் கீழ்க்கணக்கு நூல்களில் ஒன்றாகும்[cite: 5, 6, 16, 60, 96, 111].",
+        "isCorrect": true
+      },
+      {
+        "text": "சங்க இலக்கியம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பெரும் காப்பியம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐஞ்சிறு காப்பியம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    [cite_start]"hint": "நூல்களின் பொதுவான அறிமுகத்தைப் பார்க்கவும்[cite: 5, 6, 16, 60, 96, 111]."
+  },
+  {
+    "questionNumber": 97,
+    "question": "இன்னா நாற்பதின்படி, 'பெருமை யுடையாரைப்' என்ன செய்வது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பீடழித்தல",
+        "rationale": "பாடல்: 'பெருமை யுடையாரைப் பீடழித்த லின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வழிபடுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்."
+  },
+  {
+    "questionNumber": 98,
+    "question": "இன்னா நாற்பதின்படி, 'இளமையுண் மூப்புப் புகல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'இளமையுண் மூப்புப் புகல்... இன்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்."
+  },
+  {
+    "questionNumber": 99,
+    "question": "இனியவை நாற்பதில் 'நற்சலையில் கைக்கொடுத்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சாலவும் முன்னினிதே",
+        "rationale": "பாடல்: 'நற்சலையில் கைக்கொடுத்தல் சாலவும் முன்னினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாடல்."
+  },
+  {
+    "questionNumber": 100,
+    "question": "இனியவை நாற்பதில் 'வண்மை யிலாளர் வனப்பு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா (துன்பம் தருவது)",
+        "rationale": "இன்னா நாற்பதின் பாடல்: 'வண்மை யிலாளர் வனப்பின்னா'. இங்கு இந்த வரி இனியவை நாற்பதில் வரவில்லை என்றாலும், இது இன்னா நாற்பதின் கருத்தை ஒட்டியே உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இன்னா நாற்பதின் 9-வது பாடலைக் காண்க. நூலானது 'இன்னா' என்ற பொதுவான தலைப்பை ஒட்டியே அமைவது."
+  }
+]
