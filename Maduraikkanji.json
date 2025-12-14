@@ -1,0 +1,1352 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பத்துப்பாட்டு நூல்களுள் ஒன்றான மதுரைக்காஞ்சி நூலின் மொத்த அடிகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "782",
+        "rationale": "மதுரைக்காஞ்சி நூலின் மொத்த அடிகள் 782 ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "583",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "650",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "890",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "மதுரைக்காஞ்சி நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தலையாலங்கானத்துச் செருவென்ற பாண்டியன் நெடுஞ்செழியன்",
+        "rationale": "இந்நூல் தலையாலங்கானத்துச் செருவென்ற பாண்டியனைப் பாட்டுடைத் தலைவனாகக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பல்யாகசாலை முதுகுடுமிப் பெருவழுதி",
+        "rationale": "இவர் பாண்டியனின் முன்னோராகக் குறிப்பிடப்படுகிறாரே தவிர, பாட்டுடைத் தலைவன் இவரல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரிகால் பெருவளத்தான்",
+        "rationale": "இவர் சோழ மன்னர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரன் செங்குட்டுவன்",
+        "rationale": "இவர் சேர மன்னர்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "மதுரைக்காஞ்சி நூலில் பயின்று வரும் திணை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காஞ்சி",
+        "rationale": "இந்நூலின் திணை காஞ்சி ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாலை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாகை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "மதுரைக்காஞ்சி நூலை இயற்றிய ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாங்குடி மருதனார்",
+        "rationale": "இந்நூலின் ஆசிரியர் மாங்குடி மருதனார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரணர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "மதுரைக்காஞ்சியில் குறிப்பிடப்படும் 'நாளங்காடி' என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகல் நேரக் கடைவீதி",
+        "rationale": "நாளங்காடி நனந்தலைக் கம்பலை என்று பகல் நேரக் கடைவீதியின் ஆரவாரம் குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரவு நேரக் கடைவீதி",
+        "rationale": "இரவு நேரக் கடைவீதி 'அல்லங்காடி' எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர்க்களம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசவை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பாண்டிய மன்னனின் முன்னோர் என்று மதுரைக்காஞ்சியில் குறிப்பிடப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்சாலை முதுகுடுமி",
+        "rationale": "'பல் சாலை முது குடுமியின் நல் வேள்வித் துறை போகிய' என்று பாண்டியனின் முன்னோர் குறிப்பிடப்படுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசும்பூண் பாண்டியன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூதப்பாண்டியன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆரியப்படை கடந்த நெடுஞ்செழியன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "மதுரைக்காஞ்சியில் 'மாயோன் மேய' என்று குறிப்பிடப்படும் திருவிழா எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஓண நன்னாள்",
+        "rationale": "'மாயோன் மேய ஓண நன்னாட்' என்று ஓணத் திருவிழா குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தைப்பூசம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார்த்திகை விளக்கீடு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொங்கல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "மதுரைக்காஞ்சியில் போர்க்களம் எங்கு நிகழ்ந்ததாகக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆலங்கானம்",
+        "rationale": "'ஆலங் கானத் தஞ்சுவர விறுத்து' என்று போர்க்களம் குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்ணி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழுமலம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தக்கோலம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "'மண்ணுற ஆழ்ந்த மணிநீர்க் கிடங்கின்' - இவ்வரி எதனை வருணிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கோட்டையின் அகழி",
+        "rationale": "மண்ணில் ஆழமாக அமைந்துள்ள தெளிந்த நீரையுடைய அகழியை இது குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைகை ஆறு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை குளம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "மதுரையின் இரவு நேரக் கடைவீதி எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அல்லங்காடி",
+        "rationale": "'அல்லங் காடி அழிதரு கம்பலை' என்று இரவு நேரக் கடைவீதியின் ஒலி குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாளங்காடி",
+        "rationale": "இது பகல் நேரக் கடைவீதி.",
+        "isCorrect": false
+      },
+      {
+        "text": "பட்டினம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேரி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "பாண்டிய மன்னனின் ஆட்சி எல்லைகளாகக் குறிப்பிடப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தென்குமரி, வடபெருங்கல், குணகுட கடல்",
+        "rationale": "'தென் குமரி வட பெருங்கல் குண குட கடலா வெல்லைத்' என்று எல்லைகள் குறிக்கப்பட்டுள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேங்கடம் முதல் குமரி வரை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "காவிரி முதல் வைகை வரை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இமயம் முதல் இலங்கை வரை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "மதுரைக்காஞ்சியில் குறிப்பிடப்படும் 'சாவகர்' என்போர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சமணர்கள் (அல்லது பௌத்தர்கள்)",
+        "rationale": "'பூவும் புகையுஞ் சாவகர் பழிச்ச' என்று வழிபாட்டு முறையுடன் குறிப்பிடப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அந்தணர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர்வீரர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "மதுரையின் கோட்டை வாயில் எதனைப் போன்றது என்று உவமிக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைகை ஆறு",
+        "rationale": "'வையை யன்ன வழக்குடை வாயில்' என்று வைகை நதியைப் போல மக்கள் நடமாட்டம் மிக்க வாயில் என்று வருணிக்கப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலை குகை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "மதுரைக்காஞ்சியில் 'புணர்கூட்டு' என்ற சொல் எதனைக் குறிக்கப் பயன்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சங்கம் (தமிழ் அவை)",
+        "rationale": "'தொல் லாணை நல் லாசிரியர் புணர்கூட் டுண்ட புகழ்சால் சிறப்பின்' என்று சங்கத்தைக் குறிக்கப் பயன்படுத்தப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் கூட்டணி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகக் குழு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசைக்கருவிகள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "பாண்டிய மன்னனின் வெற்றிகளைக் குறிப்பிடும்போது 'பரதவர்' என்ற சொல் எந்த நில மக்களைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெய்தல் நில மக்கள்",
+        "rationale": "'தென் பரதவர் போ ரேறே' என்று நெய்தல் நிலத் தலைவனாகவும் பாண்டியன் போற்றப்படுகிறான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி நில மக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை நில மக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத நில மக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "மதுரை நகரின் இரவுக்காவலர்கள் எவ்வாறு வருணிக்கப்படுகிறார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துஞ்சாக் கண்ணர், அஞ்சாக் கொள்கையர்",
+        "rationale": "இரவுக்காவலர்கள் 'துஞ்சாக் கண்ணர் அஞ்சாக் கொள்கையர்' என்று குறிப்பிடப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிய சொலினர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மென்மையான ஆடையினர்",
+        "rationale": "தவறான பதில், அவர்கள் 'தொடுதோல் அடியர்' (காலணி அணிந்தவர்) என்று கூறப்படுகின்றனர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறங்கும் கண்களை உடையவர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "'வான மூழ்கி' என்று மதுரையில் எவை உயர்ந்து நின்றதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொடி (Flags)",
+        "rationale": "'வகைபெற எழுந்து வான மூழ்கி' என்று கொடிகள் வானளாவிப் பறந்ததாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோபுரங்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரங்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலைகள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "பாண்டியன் நெடுஞ்செழியன் யாரைத் தோற்கடித்ததாக மதுரைக்காஞ்சி கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருபெரு வேந்தரொடு வேளிர்",
+        "rationale": "'இருபெரு வேந்தரொடு வேளிர் சாய' என்று சேர, சோழ மன்னர்களையும் வேளிர்களையும் வென்றதாகக் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வடபுல மன்னர்கள் மட்டும்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடற் கொள்ளையர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிங்கள மன்னர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "மதுரைக்காஞ்சியின் திணையான 'காஞ்சி' எதனை உணர்த்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலையாமை மற்றும் அறவுரை",
+        "rationale": "உலக வாழ்வின் நிலையாமையை எடுத்துரைத்து, மன்னனுக்கு அறநெறி கூறுவது காஞ்சித் திணையாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காதல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெற்றி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூது",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "மதுரை நகரின் ஒலியைப் புலவர் எதனுடன் ஒப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முழங்கு கடல் (பெருங்கடல் ஒலி)",
+        "rationale": "'மாகா லெடுத்த முந்நீர் போல' மற்றும் 'முழங்கு கடல்' என்று கடலின் ஒலிக்கு ஒப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடி முழக்கம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை பிளிறல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறவைகளின் ஒலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "'பல்வேறு பண்டம் இழிதரும்' என்று எந்த இடத்தின் வளம் சிறப்பிக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பட்டினம் (துறைமுகம்)",
+        "rationale": "'பல்வேறு பண்ட மிழிதரும் பட்டினத்' என்று துறைமுகப் பட்டினத்தின் வளம் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலைநாடு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை நிலம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலை நிலம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "மதுரைக்காஞ்சியில் குறிப்பிடப்படும் 'கொற்றவை' அல்லது 'அணங்கு' வழிபாட்டுடன் தொடர்புடைய ஆட்டம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துணங்கை",
+        "rationale": "'துணங்கை யஞ்சீர்த் தழூஉ மறப்ப' மற்றும் 'பேய்க் மகளிர்' ஆடுவது துணங்கை என்று குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரகாட்டம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒயிலாட்டம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கும்மி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "மதுரைக்காஞ்சியில் 'நிலந்தரு திருவின் நெடியோன்' என்ற தொடர் யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "இது பாண்டியர்களின் முன்னோனான நெடியோனைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறான பதில் (இங்கு மன்னரையே குறிக்கிறது).",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "மதுரைக்காஞ்சியில் 'நால்வேறு தெரு' என்று குறிப்பிடப்படுபவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அந்தணர், அரசர், வணிகர், வேளாளர் தெருக்கள்",
+        "rationale": "நால்வகை வருணத்தார் வாழும் தெருக்களை 'நால்வேறு தெருவினுங்' என்று நூல் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிழக்கு, மேற்கு, வடக்கு, தெற்கு தெருக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன், மணி, முத்து, ஆடை விற்கும் தெருக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை, குதிரை, தேர், காலாள் செல்லும் தெருக்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "புலவர் மன்னனுக்குக் கூறும் இறுதி அறிவுரை (வாழ்த்து) என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மகிழ்ந்தினிது உறைமதி",
+        "rationale": "பாடலின் இறுதியில் 'மகிழ்ந்தினி துறைமதி பெரும்... வரைந்துநீ பெற்ற நல்லூ ழியையே' என்று அறிவுறுத்துகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் செய்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாட்டை விரிவுபடுத்து",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம் சேர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "மதுரைக்காஞ்சியில் 'இஞ்சி' என்ற சொல் எதனைப் பயிராகக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இஞ்சி (Ginger)",
+        "rationale": "'இஞ்சி மஞ்சட் பைங்கறி பிறவும்' என்று மலைபடு திரவியங்களில் ஒன்றாக இஞ்சி குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மதில் சுவர்",
+        "rationale": "இங்கு இஞ்சி என்பது பயிரைக் குறிக்க வந்துள்ளது, மதிலை அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிப்பு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு வகை மலர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "மதுரையில் 'எழுநாள் அந்தி' விழா என்று எதனைக் கொண்டாடியதாகக் குறிப்பு உள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கழுநீர் கொண்ட விழா",
+        "rationale": "'கழுநீர் கொண்ட எழுநாள் அந்தி ஆடுதுவன்று விழவி னாடார்த் தன்றே' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பங்குனி உத்திரம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆடிப் பெருக்கு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார்த்திகை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "மதுரைக்காஞ்சியின் பா வகை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியப்பா",
+        "rationale": "இந்நூலின் பா வகை ஆசிரியப்பா ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்பா",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சிப்பா",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலிப்பா",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "'பருந்து பறக்கல்லாப் பார்வற் பாசறை' - இத்தொடர் உணர்த்துவது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாசறையின் பாதுகாப்பு மற்றும் பரப்பளவு",
+        "rationale": "பருந்துகள் கூட பறந்து கடக்க முடியாத அல்லது நுழைய முடியாத அளவு பாதுகாப்பான/பரந்த பாசறை.",
+        "isCorrect": true
+      },
+      {
+        "text": "பருந்துகள் நிறைந்த பாசறை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலை நிலப் பாசறை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறிய பாசறை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "மதுரைக்காஞ்சியில் 'கோசர்' என்போர் எவ்வாறு புகழப்படுகின்றனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்மொழிக் கோசர் / வாய்மொழி",
+        "rationale": "'நான்மொழிக் கோசர் தோன்றி யன்ன' மற்றும் 'வாய்மொழி கேட்ப' என்று அவர்களின் மொழித்திறன் மற்றும் வாய்மை புகழப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வஞ்சகக் கோசர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகக் கோசர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோழை கோசர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "'செம்பியன்' என்ற சொல் மதுரைக்காஞ்சியில் எதனுடன் ஒப்பிட்டுப் பேசப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கட்டடக் கலை / சுவர்க்கலை",
+        "rationale": "'செம்பியன் றன்ன செஞ்சுவர் புனைந்து' என்று சோழர்களின் (செம்பியன்) கட்டடக் கலைக்கு இணையான செம்மையான சுவர்கள் குறிப்பிடப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாண்டிய மன்னன்",
+        "rationale": "தவறான பதில் (இங்கு உவமையாக வந்துள்ளது).",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "மதுரையில் 'அறங்கூறவையம்' இருந்ததாகக் குறிப்பிடும் வரி எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறந்த கொள்கை அறங்கூறவையமும்",
+        "rationale": "'சிறந்த கொள்கை அறங்கூறவையமும்' என்று நீதி வழங்கும் அவை குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறநெறி பிழையா அன்புடை நெஞ்சிற்",
+        "rationale": "இது பொதுவான அறநெறியைக் குறிக்கிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாடர வந்த விழுக்கல மனைத்தும்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மன்றுதொறு நின்ற குரவை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "மதுரைக்காஞ்சியில் 'பழையன் மோகூர்' என்ற ஊர் எதற்காகக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவையகம் விளங்க",
+        "rationale": "'பழையன் மோகூர் அவையகம் விளங்க' என்று அதன் சபைச் சிறப்பு குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்க்களம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "துறைமுகம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "இரவு நேரக் கடைவீதியில் (அல்லங்காடி) விற்கப்பட்ட உணவாகக் குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மோதகம், அப்பம் (இறால் போன்ற)",
+        "rationale": "'நல்வரி இறாஅல் புரையு மெல்லடை... வகையமை மோதகந்' போன்றவை விற்கப்பட்டதாகக் குறிப்பு உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழங்கள் மட்டும்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பால் சோறு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இறைச்சி மட்டும்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "மதுரைக்காஞ்சியில் வைகறைப் பொழுதில் (காலை) எழும் ஓசையாகக் குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேதாளிகர், நாழிகை இசைப்போர், முரசு",
+        "rationale": "'வேதா ளிகரொடு நாழிகை இசைப்ப இமிழ்முர சிரங்க' என்று காலை நேர ஓசைகள் கூறப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேய் மகளிர் பாடல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "துணங்கைக் கூத்து",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அந்தி விழா ஓசை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "'கயங்குடைந் தன்ன இயந்தொட் டிமிழிசை' - இது எதன் ஒலியைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவிழாக் கால இசைக்கருவிகள்",
+        "rationale": "குளத்தைக் கலக்கினாற் போன்ற பேரொலியுடன் இசைக்கருவிகள் முழங்கியதை இது குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யானைகளின் பிளிறல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேரோட்டம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை ஒலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "பாண்டியனின் யானைப்படை எதனை அழித்ததாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகைவரின் காவல் காடுகள் (மிளை)",
+        "rationale": "'அருங் குழுமிளைக்... மரந் தின்னூஉ வரை யுதிர்க்கும்' என்று யானைகள் பகைவரின் காவல் காடுகளை அழித்தமை கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைவரின் கப்பல்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகைவரின் வயல்கள் மட்டும்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகைவரின் அணைகள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "மதுரைக்காஞ்சியில் 'காவிதி மாக்கள்' என்று அழைக்கப்படுபவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமைச்சர்கள் / உயர்ந்த உத்தியோகத்தர்கள்",
+        "rationale": "'செம்மை சான்ற காவிதி மாக்களும்' என்று அரசனுக்குத் துணை நின்ற சான்றோர்கள் குறிக்கப்படுகின்றனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காவலர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "'நீனிற விசும்பில் அமர்ந்தனர் ஆடும் வானவ மகளிர்' - இத்தொடர் யாரை உவமைப்படுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாளிகைகளில் ஆடும் பெண்கள்",
+        "rationale": "உயர்ந்த மாளிகைகளில் விளக்கொளியில் ஆடும் பெண்கள் வானவ மகளிரைப் போல இருந்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோயில் சிலைகள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "போர்க்களப் பேய்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோட்டத்தில் உள்ள மயில்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "மதுரைக்காஞ்சியில் 'ஐம்பெரும் பூதங்கள்' (நீர், நிலம், தீ, வளி, ஆகாயம்) யாரால் படைக்கப்பட்டதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மழுவாள் நெடியோன் (சிவன்)",
+        "rationale": "'ஐந்துட னியற்றிய மழுவா ணெடியோன் றலைவ னாக' என்று சிவன் படைத்ததாகக் குறிப்பு உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "மதுரைக்காஞ்சியில் 'கொற்கை' ஊர் எதற்குக் பெயர் பெற்றதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்து",
+        "rationale": "'விளைந்து முதிர்ந்த விழு முத்தின்... நற் கொற்கை' என்று முத்துக்குப் பெயர்பெற்றதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குதிரை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "பாண்டிய மன்னன் எதனை அணிந்து கொண்டதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேப்பம் பூ மாலை (நிம்பம்/பிண்டி)",
+        "rationale": "'ஒண்பூம் பிண்டி அவிழ்ந்த காவிற்' மற்றும் பாண்டியனுக்குரிய வேப்பம்பூ மாலை குறிக்கப்பெறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அத்திப் பூ மாலை",
+        "rationale": "இது சோழருக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனம் பூ மாலை",
+        "rationale": "இது சேரருக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை மாலை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "மதுரைக்காஞ்சியில் 'யானையங் குருகின் சேவல்' எப்போது ஒலிப்பதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைகறை (விடியற்காலை)",
+        "rationale": "விடியற்காலையில் 'யானையங் குருகின் சேவலொடு... அன்னங் கரைய' என்று பறவைகள் ஒலிப்பது வருணிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நள்ளிரவு",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "'பல்வேறு புள்ளின் இசையெழுந் தற்றே' - இந்த உவமை எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடைவீதி மக்கள் ஒலி",
+        "rationale": "மக்கள் கலங்கும் ஓசை பல்வேறு பறவைகள் ஒலிப்பது போல் இருந்ததாகக் குறிப்பிடப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இசைக்கருவிகள் ஒலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேர்களின் ஒலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் ஒலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "மதுரையில் அந்தணர்கள் எதனைப் பாடியதாகக் குறிப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வேதம்",
+        "rationale": "'ஓத லந்தணர் வேதம் பாட' என்று வைகறையில் அந்தணர்கள் வேதம் ஓதியது குறிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேவாரம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாசகம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்கப் பாடல்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "'நீனிற விசும்பின் மின்னுநிமிர்ந் தனைய ராகி' - இத்தொடர் யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போர் வீரர்கள்",
+        "rationale": "ஆடவர்கள் அல்லது வீரர்கள் மின்னல் போன்று ஒளி வீசும் தோற்றத்துடன் இருந்தனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெண்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைகள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "மதுரைக்காஞ்சியின் படி, 'பரதவர்' கொண்டு வந்த பொருட்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பல்வேறு கூலம் (தானியங்கள்) மற்றும் கடல் வளம்",
+        "rationale": "'பரதர் தந்த பல்வேறு கூலம்' என்று நெய்தல் நில மக்கள் கொண்டு வந்த பொருட்கள் குறிப்பிடப்படுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைத் தந்தம்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலர்கள்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "'கொடும் புணரி விலங்கு போழ' - இத்தொடர் எதனுடன் தொடர்புடையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கப்பல் / நாவாய்",
+        "rationale": "கொடிய அலைகளைப் பிளந்து செல்லும் நாவாய் அல்லது கப்பல் பற்றிய குறிப்பு இது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேர்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதலை",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "பாண்டியன் நெடுஞ்செழியனின் வெற்றிச் சிறப்பைக் குறிக்கப் புலவர் பயன்படுத்தும் உவமை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஞாயிறு மற்றும் திங்கள்",
+        "rationale": "'முந்நீர் நாப்பண் ஞாயிறு போலவும் பன்மீன் நடுவண் திங்கள் போலவும்' அரசன் விளங்குவதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கம் மற்றும் புலி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை மற்றும் கடல்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன் மற்றும் வருணன்",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "மதுரைக்காஞ்சியில் 'குறுநில மன்னர்' எவ்வாறு அரசனைப் போற்றியதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகழ்ந்து ஏத்தி",
+        "rationale": "'குறுநில மன்ன ரவரும் பிறகும் துவன்றிப் பொற்புவிளங்கு புகழவை நிற்புகழ்ந் தேத்த' என்று மன்னனைப் புகழ்ந்து நின்றதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைத்து நின்று",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அஞ்சி ஓடி",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதியாக இருந்து",
+        "rationale": "தவறான பதில்.",
+        "isCorrect": false
+      }
+    ]
+  }
+]
