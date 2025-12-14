@@ -1,0 +1,4202 @@
+[
+  {
+    "questionNumber": 301,
+    "question": "இன்னா நாற்பதின்படி, 'ஆற்று லிலாதான்' எது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிடித்த படை",
+        "rationale": "பாடல்: 'ஆற்ற லிலாதான் பிடித்த படையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "7-வது பாடல்"
+  },
+  {
+    "questionNumber": 302,
+    "question": "இன்னா நாற்பதில் 'நட்பின்மை' யாருக்கு இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நகையாய நண்பினார்",
+        "rationale": "பாடல்: 'நகையாய நண்பினார் நாரின்மை யின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேந்தனுக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மக்களுக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழவர்க்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "8-வது பாடல்"
+  },
+  {
+    "questionNumber": 303,
+    "question": "இன்னா நாற்பதின்படி, 'வண்மை யிலாளர்' எதைக் கொண்டிருந்தாலும் இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வனப்பு",
+        "rationale": "பாடல்: 'வண்மை யிலாளர் வனப்பின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "9-வது பாடல்"
+  },
+  {
+    "questionNumber": 304,
+    "question": "இன்னா நாற்பதில் 'பொருளறிவார் இல்லாவிடில்' எது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டுரைத்தல்",
+        "rationale": "பாடல்: 'பொருளணர்வா ரில்வழிப் பாட்டுரைத்த லின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "10-வது பாடல்"
+  },
+  {
+    "questionNumber": 305,
+    "question": "இன்னா நாற்பதில் 'கடனுடையார்' காண என்ன செய்வது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புகல் (உள்நுழைதல்)",
+        "rationale": "பாடல்: 'கடனுடையார் காணப் புகல் [இன்னா]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரைத்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "11-வது பாடல்"
+  },
+  {
+    "questionNumber": 306,
+    "question": "இன்னா நாற்பதில் 'முலையிள்ளாள் பெண்மை விழைவு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'முலையிள்ளாள் பெண்மை விழைவு [இன்னா]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12-வது பாடல்"
+  },
+  {
+    "questionNumber": 307,
+    "question": "இன்னா நாற்பதில் 'நண்ணாப் பகைவர்' எதைக் கொண்டிருந்தால் நனியின்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புணர்ச்சி",
+        "rationale": "பாடல்: 'நண்ணாப் பகைவர் புணர்ச்சி நனியின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "16-வது பாடல்"
+  },
+  {
+    "questionNumber": 308,
+    "question": "இன்னா நாற்பதின்படி, 'மான்றிருண்ட போழ்தின் வழங்கல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெரிதின்னா",
+        "rationale": "பாடல்: 'மான்றிருண்ட போழ்தின் வழங்கல் பெரிதின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நனியின்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "17-வது பாடல்"
+  },
+  {
+    "questionNumber": 309,
+    "question": "இன்னா நாற்பதில் 'மறனுடை யாளுடையான் மார்பு' எப்போது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆர்த்தல் (கவசம் இன்றி இருப்பது)",
+        "rationale": "பாடல்: 'மறனுடை யாளுடையான் மார்பார்த்த லின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கவசம் இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கவசம் உடைமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மடிதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "18-வது பாடல்"
+  },
+  {
+    "questionNumber": 310,
+    "question": "இன்னா நாற்பதில் 'நிலத்திட்ட நல்வித்து' எப்போது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாறாமை (முளைக்காமல் போனால்)",
+        "rationale": "பாடல்: 'நிலத்திட்ட நல்வித்து நாறாமை யின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "விளைச்சல் இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளைச்சல் உடைமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈரமின்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "19-வது பாடல்"
+  },
+  {
+    "questionNumber": 311,
+    "question": "இனியவை நாற்பதில் 'ஏவது மாறா இளங்கிளைமை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்இனிதே",
+        "rationale": "பாடல்: 'ஏவது மாறா இளங்கிளைமை முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிகஇனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்ற இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "3-வது பாடல்"
+  },
+  {
+    "questionNumber": 312,
+    "question": "இனியவை நாற்பதில் 'நாளும் நவைபோகான் கற்றல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகஇனிதே",
+        "rationale": "பாடல்: 'நாளும் நவைபோகான் கற்றல் மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்ற இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "3-வது பாடல்"
+  },
+  {
+    "questionNumber": 313,
+    "question": "இனியவை நாற்பதின்படி, 'ஊனைத்தின்று' என்ன செய்யாமை முன்இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஊனைப் பெருக்காமை",
+        "rationale": "பாடல்: 'ஊனைத்தின் றூனைப் பெருக்காமை முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொல்லாமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொல்லாங்குரையாமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறஞ்செய்கை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "4-வது பாடல்"
+  },
+  {
+    "questionNumber": 314,
+    "question": "இனியவை நாற்பதில் 'செங்கோலன் ஆகுதல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எய்துந் திறத்தால் இனிது",
+        "rationale": "பாடல்: 'எய்துங் திறத்தால் இனிதென்ப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிகஇனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முன்இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "5-வது பாடல்"
+  },
+  {
+    "questionNumber": 315,
+    "question": "இனியவை நாற்பதில் 'வாய்ப்புடைய ராகி வலவைகள் அல்லாரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காப்படையக் கோடல்",
+        "rationale": "பாடல்: 'வாய்ப்புடைய ராகி வலவைகள் அல்லாரைக் காப்படையக் கோடல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்புக்கொள்ளல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் கொடுத்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 316,
+    "question": "இனியவை நாற்பதில் 'அந்தணரோத்து உடைமை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆற்ற மிகஇனிதே",
+        "rationale": "பாடல்: 'அந்தண ரோத்துடைமை ஆற்ற மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "7-வது பாடல்"
+  },
+  {
+    "questionNumber": 317,
+    "question": "இனியவை நாற்பதில் 'நிறைமாண்பில் பெண்டிரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீக்கல்",
+        "rationale": "பாடல்: 'நிறைமாண்பில் பெண்டிரை நீக்கல் இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சேர்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேணுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணிகலன் கொடுத்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "10-வது பாடல்"
+  },
+  {
+    "questionNumber": 318,
+    "question": "இனியவை நாற்பதில் 'ஊனமொன்றின்றி உயர்ந்த பொருளுடைமை' யாருக்கு இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மானிடவர்க் கெல்லாம்",
+        "rationale": "பாடல்: 'ஊனமொண் றின்றி உயர்ந்த பொருளுடைமை மானிடவர்க் கெல்லாம் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மன்னருக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சான்றோர்க்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலவருக்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "13-வது பாடல்"
+  },
+  {
+    "questionNumber": 319,
+    "question": "இனியவை நாற்பதில் 'சுற்றார்முன் கல்வி உரைத்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மிகஇனிதே",
+        "rationale": "பாடல்: 'சுற்றார்முன் கல்வி உரைத்தல் மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்கினிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்ற இனிதே",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "16-வது பாடல்"
+  },
+  {
+    "questionNumber": 320,
+    "question": "இனியவை நாற்பதில் 'பற்பல தானியத்தது ஆகிப் பலருடையும்' என்ன சேரல் இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெய்த்துணையுஞ் சேரல்",
+        "rationale": "பாடல்: 'பற்பல தானியத்தது ஆகிப் பலருடையும் மெய்த்துணையுஞ் சேரல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "படை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "17-வது பாடல்"
+  },
+  {
+    "questionNumber": 321,
+    "question": "களவழி நாற்பதில், 'நாள்ஞாயிற்றுக் காலையிலே போர் முடிந்து' குருதியாலே சகதி ஆனது எப்போது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்பகல்",
+        "rationale": "பாடல்: 'முன்பசு(@) லெல்லாங் குழம்பாகிப் பின்பகல்(%) துப்புத் துகளிற் கெழூஉம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிற்பகல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாடல்"
+  },
+  {
+    "questionNumber": 322,
+    "question": "களவழி நாற்பதில் 'ஒழுக்குங் குருதி உழக்கித் தளர்வார்' எதனை ஊன்றி எழுவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களிற்றுக் கோடு (யானையின் கொம்பு)",
+        "rationale": "பாடல்: 'இழுக்குங் களிற்றுக்கோ டூன்றி யெழுவர்(@)'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "3-வது பாடல்"
+  },
+  {
+    "questionNumber": 323,
+    "question": "களவழி நாற்பதில் 'தேரின் பரிதி சுமந்தெழுந்த யானை' எதனைப் போலத் தோன்றும் எனக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்சுடர் சேர்ந்த மலை",
+        "rationale": "பாடல்: 'பரிதி சுமந்தெழுந்த யானை யிருவிசும்பிற் செல்சுடர் சேர்ந்த மலைபோன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மேகம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "4-வது பாடல்"
+  },
+  {
+    "questionNumber": 324,
+    "question": "களவழி நாற்பதில், 'நானாற் றிசையும் பிணம்பிறங்க யானை யடுக்குபு வேற்றிக் கிடந்தது' எதனைப் போல உள்ளதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருமெறித் தெங்கும் பெருமலை தூறெறிந்தற்று (இடி தாக்கிய மலை போல)",
+        "rationale": "பாடல்: 'அங்கண் விசும்பி னுருமெறித் தெங்கும் பெருமலை தூறெறிந்த(@) தற்றே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆவுதை காளாம்பி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்பிறழ்வன",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்குளக் கோட்டுக்கீழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 325,
+    "question": "களவழி நாற்பதில் 'ஒவாக் கணை பாய ஒல்கி எழில்வேழம்' குருதி ஒழுகிய காட்சி எதனைப் போல இருந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூவலங் குன்றம் புயற்கேற்ற போன்றன",
+        "rationale": "பாடல்: 'தீவாய்க் குருதி யிழிதலாற் செந்தலைப் பூவலங் குன்றம் புயற்கேற்ற போன்றவெ'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடி தாக்கிய பாம்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காளான்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12-வது பாடல்"
+  },
+  {
+    "questionNumber": 326,
+    "question": "முதுமொழிக்காஞ்சியில் 'காதலிற் சிறந்தது' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணஞ்சப் படுதல்",
+        "rationale": "பாடல்: 'காதலிற் சிறந்தன்று கண்ணஞ்சப் படுதல்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாய்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 2-வது பாடல்"
+  },
+  {
+    "questionNumber": 327,
+    "question": "முதுமொழிக்காஞ்சியில் 'நலனுடை மையின்' சிறந்தது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாணுச் சிறந்தன்று",
+        "rationale": "பாடல்: 'நலனுடை மையின் நாணுச் சிறந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதவி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்பிணி இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 6-வது பாடல்"
+  },
+  {
+    "questionNumber": 328,
+    "question": "முதுமொழிக்காஞ்சியில் 'சேரா நல்நட்(பு)' எதனால் அறியப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உதவியின் அறிப",
+        "rationale": "பாடல்: 'சேரா நல்நட்(பு) உதவியின் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஈகையின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காட்சியின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈரத்தின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 13-வது பாடல்"
+  },
+  {
+    "questionNumber": 329,
+    "question": "முதுமொழிக்காஞ்சியில் 'கற்றது உடைமை' எதனால் அறியப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காட்சியின் அறிப",
+        "rationale": "பாடல்: 'கற்றது உடைமை காட்சியின் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உதவியின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈகையின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈரத்தின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 14-வது பாடல்"
+  },
+  {
+    "questionNumber": 330,
+    "question": "முதுமொழிக்காஞ்சியில் 'குத்திரம் செய்தலின்' எதனை அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கள்வனாதல் அறிப",
+        "rationale": "பாடல்: 'குத்திரம் செய்தலின் கள்வனாதல் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்வு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமிதம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 17-வது பாடல்"
+  },
+  {
+    "questionNumber": 331,
+    "question": "முதுமொழிக்காஞ்சியின்படி, 'பெருமை உடையதன்' என்னவென்று பழியார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அருமை பழியார்",
+        "rationale": "பாடல்: 'பெருமை உடையதன் அருமை பழியார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறிய தன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடக்கமின்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழியாப் பத்து - 23-வது பாடல்"
+  },
+  {
+    "questionNumber": 332,
+    "question": "முதுமொழிக்காஞ்சியில் 'கழிதறு கண்மை' எதனால் துவ்வாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேடியின் துவ்வாது",
+        "rationale": "பாடல்: 'கழிதறு கண்மை பேடியின் துவ்வாது'. (பேடியைவிடத் துன்பம் தருவது).",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசித்தலின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனிமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துவ்வாப் பத்து - 32-வது பாடல்"
+  },
+  {
+    "questionNumber": 333,
+    "question": "முதுமொழிக்காஞ்சியில் 'அறிவிலி துணைப்பாடு' எதனால் துவ்வாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனிமையின் துவ்வாது",
+        "rationale": "பாடல்: 'அறிவிலி துணைப்பாடு தனிமையின் துவ்வாது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசித்தலின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேடியின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துவ்வாப் பத்து - 38-வது பாடல்"
+  },
+  {
+    "questionNumber": 334,
+    "question": "முதுமொழிக்காஞ்சியில் 'ஈரலில் லாதது' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிளைநட் பன்று",
+        "rationale": "பாடல்: 'ஈரலில் லாதது கிளைநட் பன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாழ்வு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருத்தம் அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 43-வது பாடல்"
+  },
+  {
+    "questionNumber": 335,
+    "question": "முதுமொழிக்காஞ்சியில் 'சோராக் கையன்' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "பாடல்: 'சோராக் கையன் சொன்மலை யல்லன்'. (உதவி செய்யாதவன் சொல்லால் பயன்பட மாட்டான்).",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருத்தம் அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 44-வது பாடல்"
+  },
+  {
+    "questionNumber": 336,
+    "question": "முதுமொழிக்காஞ்சியில் 'இசையின் பெரியதோர்' எது இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எச்ச மில்லை (நிலைத்த புகழ்)",
+        "rationale": "பாடல்: 'இசையின் பெரியதோர் எச்ச மில்லை'. (புகழைக் காட்டிலும் பெரியதோர் நிலைத்த செல்வம் இல்லை).",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்குரவு இல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடுமை இல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சாக்காடு இல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 58-வது பாடல்"
+  },
+  {
+    "questionNumber": 337,
+    "question": "முதுமொழிக்காஞ்சியில் 'இரத்தலின் ஊஉங்கு' எது இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இளிவரவு இல்லை",
+        "rationale": "பாடல்: 'இரத்தலின் ஊஉங்கு இளிவரவு இல்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறப்பில்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்குரவு இல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடுமை இல்லை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 59-வது பாடல்"
+  },
+  {
+    "questionNumber": 338,
+    "question": "முதுமொழிக்காஞ்சியில் 'மேல்வரவு அறியாதோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தற்காத்தல் பொய்",
+        "rationale": "பாடல்: 'மேல்வரவு அறியாதோன் தற்காத் தல்பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "முறையிடல் பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்தல் பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சினம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 65-வது பாடல்"
+  },
+  {
+    "questionNumber": 339,
+    "question": "முதுமொழிக்காஞ்சியில் 'பெண்டிர் வெய்யோர்க்குப்' எது எளிது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "படுபழி எளிது",
+        "rationale": "பாடல்: 'பெண்டிர்வெய் யோர்க்குப் படுபழி எளிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பம் எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறுபிணி எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எளிய பத்து - 78-வது பாடல்"
+  },
+  {
+    "questionNumber": 340,
+    "question": "முதுமொழிக்காஞ்சியில் 'விழுத்தகு நூலும்' யாருக்கு இன்னா என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விழையாதார்க்கு (விரும்பாதவர்களுக்கு)",
+        "rationale": "இன்னா நாற்பதில் இந்தப் பாடல் காணப்படவில்லை. இருப்பினும், இன்னா நாற்பதில் 34-வது பாடல்: 'விழுத்தகு நூலும் (%) விழையாதார்க் கின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "புகழ்வோர்க்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரர்க்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்றோர்க்கு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இன்னா நாற்பதின் 34-வது பாடல்"
+  },
+  {
+    "questionNumber": 341,
+    "question": "இன்னா நாற்பதில் 'கல்லாதான் கோட்டி கொளல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'கல்லாதான் கோட்டி கொளல் [இன்னா]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "28-வது பாடல்"
+  },
+  {
+    "questionNumber": 342,
+    "question": "இனியவை நாற்பதில் 'குதர்சென்று கொள்ளாத கூர்மை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'குதர்சென்று கொள்ளாத கூர்மை இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மிக இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "11-வது பாடல்"
+  },
+  {
+    "questionNumber": 343,
+    "question": "இனியவை நாற்பதில் 'பிறன் கைப் பொருள் வௌவான் வாழ்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'பிறன்கைப் பொருள்வௌவான் வாழ்தல் இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "21-வது பாடல்"
+  },
+  {
+    "questionNumber": 344,
+    "question": "களவழி நாற்பதில் 'வெள்ளி வெள் நாஞ்சிலான்' என்று குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பலராமன் (நாஞ்சிலைப் பிடித்தவன்)",
+        "rationale": "களவழி நாற்பதில் 40-வது பாடல்: 'வெள்ளிவெண் ணாஞ்சிலான் ஞால முழுவனபோல்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "40-வது பாடல்"
+  },
+  {
+    "questionNumber": 345,
+    "question": "களவழி நாற்பதில் 'செஞ்சேற்றுட் செல்யானை சீறி மிதித்தலால்' உண்டான குருதி எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற (பூக்களால் செய்யப்பட்ட கலயம் போல)",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 346,
+    "question": "முதுமொழிக்காஞ்சியில் 'கற்றலின்' சிறந்தது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்றாரை வழிபடுதல்",
+        "rationale": "பாடல்: 'கற்றலின் கற்றாரை வழிபடுதல் சிறந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாய்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்பிணி இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 8-வது பாடல்"
+  },
+  {
+    "questionNumber": 347,
+    "question": "முதுமொழிக்காஞ்சியில் 'மறுபிறப்பு அறியாதது' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூப்பு அன்று",
+        "rationale": "பாடல்: 'மறுபிறப் பறியா ததுமூப் பன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவம் அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 50-வது பாடல்"
+  },
+  {
+    "questionNumber": 348,
+    "question": "முதுமொழிக்காஞ்சியில் 'விழைச்சின்' (விருப்பம்) எது தீவிழைச்சு இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாயா விழைச்சின்",
+        "rationale": "பாடல்: 'வாயா விழைச்சின் தீவிழைச்சு இல்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்விழைச்சு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இச்சை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 54-வது பாடல்"
+  },
+  {
+    "questionNumber": 349,
+    "question": "முதுமொழிக்காஞ்சியில் 'கள்ளுண் போன் சோர்வு இன்மை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்",
+        "rationale": "பாடல்: 'கள்ளுண் போன்சோர்வு இன்மை பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மெய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறப்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 64-வது பாடல்"
+  },
+  {
+    "questionNumber": 350,
+    "question": "முதுமொழிக்காஞ்சியில் 'உறுவினை காய்வோன்' எதை வேண்டுதல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயர்வுவேண்டல் பொய்",
+        "rationale": "பாடல்: 'உறுவினை காய்வோன் உயர்வுவேண் டல்பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சினம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 66-வது பாடல்"
+  },
+  {
+    "questionNumber": 351,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 352,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 353,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 354,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 355,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 356,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 357,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 358,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 359,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 360,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 361,
+    "question": "இன்னா நாற்பதின்படி, 'கடும்மொழி யாளர்' எதைச் செய்வது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொடர்பு",
+        "rationale": "பாடல்: 'கடுமொழி யாளர் தொடர்பின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொடை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "3-வது பாடல்"
+  },
+  {
+    "questionNumber": 362,
+    "question": "இன்னா நாற்பதில் 'முறையின்றி ஆளும் அரசு' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'முறையின்றி யாளு மரசின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவசியம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "5-வது பாடல்"
+  },
+  {
+    "questionNumber": 363,
+    "question": "இனியவை நாற்பதில் 'தந்தையே ஆயினும் தான் அடங்கான் ஆகுமேல்' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொண்டடையா நாகல் (சேராமல் இருப்பது)",
+        "rationale": "பாடல்: 'தந்தையே ஆயினுந் தானடங்கான் ஆகுமேல் கொண்டடையா னாகல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணங்குதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் கொடுத்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "7-வது பாடல்"
+  },
+  {
+    "questionNumber": 364,
+    "question": "இனியவை நாற்பதில் 'ஊர்முனியா செய்தொழுகும்' எது மிக இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஊக்கம்",
+        "rationale": "பாடல்: 'ஊர்முனியா செய்தொழுகும் ஊக்கம் மிகஇனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாழ்வு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மானம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 365,
+    "question": "களவழி நாற்பதில், 'நாள்ஞாயிற்றுக் காலையிலே போர் முடிந்து' குருதியாலே சகதி ஆனது எப்போது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்பகல்",
+        "rationale": "பாடல்: 'முன்பசு(@) லெல்லாங் குழம்பாகிப் பின்பகல்(%) துப்புத் துகளிற் கெழூஉம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிற்பகல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாடல்"
+  },
+  {
+    "questionNumber": 366,
+    "question": "முதுமொழிக்காஞ்சியில் 'நலனுடை மையின்' சிறந்தது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாணுச் சிறந்தன்று",
+        "rationale": "பாடல்: 'நலனுடை மையின் நாணுச் சிறந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கற்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதவி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்பிணி இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 6-வது பாடல்"
+  },
+  {
+    "questionNumber": 367,
+    "question": "முதுமொழிக்காஞ்சியில் 'ஈரம் உடைமை' எதனால் அறியப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈகையின் அறிப",
+        "rationale": "பாடல்: 'ஈரம் உடைமை ஈகையின் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேச்சின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடத்தையால் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவால் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 12-வது பாடல்"
+  },
+  {
+    "questionNumber": 368,
+    "question": "முதுமொழிக்காஞ்சியின் 'பழியாப் பத்து' அதிகாரத்தில் 'அறியாத் தேசத்து' என்னவென்று பழியார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசாரம் பழியார்",
+        "rationale": "பாடல்: 'அறியாத் தேசத்து ஆசாரம் பழியார்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அடக்கமின்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழியாப் பத்து - 28-வது பாடல்"
+  },
+  {
+    "questionNumber": 369,
+    "question": "முதுமொழிக்காஞ்சியில் 'இழிவுடை மூப்பு' எதனால் துவ்வாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கதத்தின் துவ்வாது (கோபத்தை விடத் துன்பம்)",
+        "rationale": "பாடல்: 'இழிவுடை மூப்புக் கதத்தின் துவ்வாது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசித்தலின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனிமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துவ்வாப் பத்து - 39-வது பாடல்"
+  },
+  {
+    "questionNumber": 370,
+    "question": "முதுமொழிக்காஞ்சியில் 'தானோர் இன்புறல்' எதனால் துவ்வாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தனிமையின் துவ்வாது",
+        "rationale": "பாடல்: 'தானோர் இன்புறல் தனிமையின் துவ்வாது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசித்தலின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேடியின் துவ்வாது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "துவ்வாப் பத்து - 40-வது பாடல்"
+  },
+  {
+    "questionNumber": 371,
+    "question": "இன்னா நாற்பதின்படி, 'ஆற்று லிலாதான்' எது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிடித்த படை",
+        "rationale": "பாடல்: 'ஆற்ற லிலாதான் பிடித்த படையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "7-வது பாடல்"
+  },
+  {
+    "questionNumber": 372,
+    "question": "இன்னா நாற்பதில் 'பெருவலியார்க்கு' என்ன செய்வது இன்னா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா செயல்",
+        "rationale": "பாடல்: 'பெருவலியார்க் கின்னா செயல்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உதவி செய்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வழிபடுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்தல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "4-வது பாடல்"
+  },
+  {
+    "questionNumber": 373,
+    "question": "இனியவை நாற்பதில் 'செவ்வியனாய்ச் செற்றுச் சினங்கடிந்து வாழ்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாழ்வினிதே",
+        "rationale": "பாடல்: 'செவ்வியனாய்ச் செற்றுச் சினங்கடிந்து வாழ்வினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "36-வது பாடல்"
+  },
+  {
+    "questionNumber": 374,
+    "question": "இனியவை நாற்பதில் 'எத்துணையும் ஆற்ற இனிதென்ப' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பால்படுங் சுற்றா உடையான் விருந்து",
+        "rationale": "பாடல்: 'எத்துணையும் ஆற்ற இனிதென்ப பால்படுங் சுற்றா உடையான் விருந்து'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "38-வது பாடல்"
+  },
+  {
+    "questionNumber": 375,
+    "question": "களவழி நாற்பதில் 'நீலச் சுறா மீன்கள்' எதனைப் போலப் பிறழ்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரர்களின் கழற்கால்",
+        "rationale": "பாடல்: 'இருங்கடலுணீலச்சுறாப்பிறழ்வ போன்ற புனனாடன் நேராரை யட்ட களத்து'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேல்கள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்கள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈட்டிகள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "9-வது பாடல்"
+  },
+  {
+    "questionNumber": 376,
+    "question": "களவழி நாற்பதில் 'ஆடிக் கிடக்கும் வாள்' எதனைப் போல ஒளிர்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதியை நக்கும்பரம் (நிலவை நக்கும் பாம்பு)",
+        "rationale": "பாடல்: 'கோடுகொ ளொண்மதியை நக்கும்பரம் பொக்குமே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மின்னல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "22-வது பாடல்"
+  },
+  {
+    "questionNumber": 377,
+    "question": "முதுமொழிக்காஞ்சியின் 'அறிவுப்பத்து' அதிகாரத்தில் 'ஏற்ற முடைமை' எதனால் அறியப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எதிர்கொளின் அறிப",
+        "rationale": "பாடல்: 'ஏற்ற முடைமை எதிர்கொளின் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "காட்சியின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈகையின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதவியின் அறிப",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 15-வது பாடல்"
+  },
+  {
+    "questionNumber": 378,
+    "question": "முதுமொழிக்காஞ்சியில் 'சொற்சோர்வு உடைமையின்' எதனை அறியலாம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எச்சோர்வும் அறிப",
+        "rationale": "பாடல்: 'சொற்சோர்வு உடைமையின் எச்சோர்வும் அறிப'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கள்வன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமிதம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிவுப்பத்து - 18-வது பாடல்"
+  },
+  {
+    "questionNumber": 379,
+    "question": "முதுமொழிக்காஞ்சியின் 'அல்ல பத்து' அதிகாரத்தில் 'வாழாமல் வருந்தியது' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருத்தம் அன்று",
+        "rationale": "பாடல்: 'வாழாமல் வருந்தியது வருத்தம் அன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈகை அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 47-வது பாடல்"
+  },
+  {
+    "questionNumber": 380,
+    "question": "முதுமொழிக்காஞ்சியில் 'முதிர்வுடையோன் மேனி அணி' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'முதிர்வுடை யோன்மேனி அணிநல் கூர்ந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 86-வது பாடல்"
+  },
+  {
+    "questionNumber": 381,
+    "question": "இன்னா நாற்பதில் 'நற்கேள்வி யில்லெனிற் சந்தின் வனப்பு இன்னா' என்ற வரி எந்த கருத்தை வலியுறுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சான்றோர் இல்லாத வீடு அழகு அற்றது",
+        "rationale": "பாடல்: 'பந்தமில் லாத மனையின் வனப்பின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுற்றம் இல்லாத செல்வம் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி இல்லாத செல்வம் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழகாத நண்பர்கள் இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல் பாடல் தொகுப்பு"
+  },
+  {
+    "questionNumber": 382,
+    "question": "இன்னா நாற்பதில் 'கடும்புலி வாழு மதர்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'கடும்புலி வாழு மதர் [இன்னா]'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "30-வது பாடல்"
+  },
+  {
+    "questionNumber": 383,
+    "question": "இனியவை நாற்பதில் 'பிறன் கைப் பொருள் வௌவான் வாழ்தல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிதே",
+        "rationale": "பாடல்: 'பிறன்கைப் பொருள்வௌவான் வாழ்தல் இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்னா",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "21-வது பாடல்"
+  },
+  {
+    "questionNumber": 384,
+    "question": "இனியவை நாற்பதில் 'ஐவாய வேட்கை' என்ன செய்வது முன் இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவாவடக்கல்",
+        "rationale": "பாடல்: 'ஐவாய வேட்கை யவாவடக்கல் முன்இனிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சினம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆசை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 385,
+    "question": "களவழி நாற்பதில் 'வெள்ளி வெள் நாஞ்சிலான்' என்று குறிப்பிடப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பலராமன் (நாஞ்சிலைப் பிடித்தவன்)",
+        "rationale": "களவழி நாற்பதில் 40-வது பாடல்: 'வெள்ளிவெண் ணாஞ்சிலான் ஞால முழுவனபோல்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "40-வது பாடல்"
+  },
+  {
+    "questionNumber": 386,
+    "question": "களவழி நாற்பதில் 'ஆடிக் கிடக்கும் வாள்' எதனைப் போல ஒளிர்வதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மதியை நக்கும்பரம் (நிலவை நக்கும் பாம்பு)",
+        "rationale": "பாடல்: 'கோடுகொ ளொண்மதியை நக்கும்பரம் பொக்குமே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மின்னல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "22-வது பாடல்"
+  },
+  {
+    "questionNumber": 387,
+    "question": "முதுமொழிக்காஞ்சியில் 'கற்றலின்' சிறந்தது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கற்றாரை வழிபடுதல்",
+        "rationale": "பாடல்: 'கற்றலின் கற்றாரை வழிபடுதல் சிறந்தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாய்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மெய்பிணி இன்மை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறந்த பத்து - 8-வது பாடல்"
+  },
+  {
+    "questionNumber": 388,
+    "question": "முதுமொழிக்காஞ்சியில் 'மறுபிறப்பு அறியாதது' எதுவல்ல?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூப்பு அன்று",
+        "rationale": "பாடல்: 'மறுபிறப் பறியா ததுமூப் பன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தவம் அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 50-வது பாடல்"
+  },
+  {
+    "questionNumber": 389,
+    "question": "முதுமொழிக்காஞ்சியில் 'விழைச்சின்' (விருப்பம்) எது தீவிழைச்சு இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாயா விழைச்சின்",
+        "rationale": "பாடல்: 'வாயா விழைச்சின் தீவிழைச்சு இல்லை'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நல்விழைச்சு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இச்சை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இல்லைப் பத்து - 54-வது பாடல்"
+  },
+  {
+    "questionNumber": 390,
+    "question": "முதுமொழிக்காஞ்சியில் 'கள்ளுண் போன் சோர்வு இன்மை' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய்",
+        "rationale": "பாடல்: 'கள்ளுண் போன்சோர்வு இன்மை பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மெய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறப்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 64-வது பாடல்"
+  },
+  {
+    "questionNumber": 391,
+    "question": "முதுமொழிக்காஞ்சியில் 'உறுவினை காய்வோன்' எதை வேண்டுதல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயர்வுவேண்டல் பொய்",
+        "rationale": "பாடல்: 'உறுவினை காய்வோன் உயர்வுவேண் டல்பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சினம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 66-வது பாடல்"
+  },
+  {
+    "questionNumber": 392,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 393,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 394,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 395,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 396,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 397,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 398,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 399,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 400,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 401,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 402,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 403,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 404,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 405,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 406,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 407,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 408,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 409,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 410,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 411,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 412,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 413,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 414,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 415,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 416,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 417,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 418,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 419,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 420,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 421,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 422,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 423,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 424,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 425,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 426,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 427,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 428,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 429,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 430,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 431,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 432,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 433,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 434,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 435,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 436,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 437,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 438,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 439,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 440,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  },
+  {
+    "questionNumber": 441,
+    "question": "முதுமொழிக்காஞ்சியில் 'நிற்றல் வேண்டுவோன்' எதனைத் தண்டான்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தவஞ்செயல் தண்டான்",
+        "rationale": "பாடல்: 'நிற்றல் வேண்டுவோன் தவஞ்செயல் தண்டான்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உயர்மொழி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூழ்ச்சி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தண்டாப் பத்து - 94-வது பாடல்"
+  },
+  {
+    "questionNumber": 442,
+    "question": "இன்னா நாற்பதின்படி, 'ஆடைகளுக்கிடையேயான இடைவெளி' உள்ள உடுப்பு எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாத்தில் புடைவை யுடையின்னா",
+        "rationale": "பாடல்: 'பாத்தில் புைைடவை யுடையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வசதி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "2-வது பாடல்"
+  },
+  {
+    "questionNumber": 443,
+    "question": "இன்னா நாற்பதில் 'வெள்ளம் படுமாக் கொலை' எத்தகையது என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்னா",
+        "rationale": "பாடல்: 'வெள்ளம் படுமாக் கொலையின்னா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "33-வது பாடல்"
+  },
+  {
+    "questionNumber": 444,
+    "question": "இனியவை நாற்பதில் 'பாற்பட்டார் கூறும்' எது மாண்பினிதே?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பயமொழி",
+        "rationale": "பாடல்: 'பாற்பட்டார் கூறும் பயமொழி மாண்பினிதே'.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "6-வது பாடல்"
+  },
+  {
+    "questionNumber": 445,
+    "question": "இனியவை நாற்பதில் 'நில்லாத காட்சி நிறையில் மனிதரை' என்ன செய்வது இனிது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல்லா விடுதல்",
+        "rationale": "பாடல்: 'நில்லாத காட்சி நிறையில் மனிதரைப் புல்லா விடுதல் இனிது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பு கொள்ளுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அணுகுதல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை வழங்கல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "25-வது பாடல்"
+  },
+  {
+    "questionNumber": 446,
+    "question": "களவழி நாற்பதில், போர்க்களத்தில் அறுந்த யானையின் அழகிய ஓடை எதனைப் போல மிளிரும் என்று கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னுக் கொடியின்",
+        "rationale": "பாடல்: 'கோடேந்து கொல்களிற்றுக் கும்பத் தெழிலோடை மின்னுக் கொடியின் மிளிரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "31-வது பாடல்"
+  },
+  {
+    "questionNumber": 447,
+    "question": "களவழி நாற்பதில் 'செங்குருதி' எதனைப் போல நின்றதாகப் புலவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பூநீர் வியன்றமிடாப் போன்ற",
+        "rationale": "பாடல்: 'ஒண்செங் குருதிகள் தொக்கீண்டி நின்றவை பூநீர் வியன்றமிடாப்(@) போன்ற'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடல்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேறு",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "27-வது பாடல்"
+  },
+  {
+    "questionNumber": 448,
+    "question": "முதுமொழிக்காஞ்சியில் 'நீரறிந்து ஒழுகாதான்' எவன் அல்லன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாரம் அல்லன்",
+        "rationale": "பாடல்: 'நீரறிந்து ஒழுகாதான் தாரம் அல்லன்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்டோன் அல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொன்மலை யல்லன்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி அன்று",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அல்ல பத்து - 41-வது பாடல்"
+  },
+  {
+    "questionNumber": 449,
+    "question": "முதுமொழிக்காஞ்சியின் 'பொய்ப் பத்து' அதிகாரத்தில் 'பொருள்நசை வேட்கையோன்' எதைச் செய்தல் பொய்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறைசெயல் பொய்",
+        "rationale": "பாடல்: 'பொருள்நசை வேட்கையோன் முறைசெயல் பொய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தவம்செய் தல்பொய்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொறுமை",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொய்ப் பத்து - 69-வது பாடல்"
+  },
+  {
+    "questionNumber": 450,
+    "question": "முதுமொழிக்காஞ்சியில் 'அகம்வறி யோன் நண்ணல்' எத்தகையது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நல்கூர்ந் தன்று",
+        "rationale": "பாடல்: 'அகம்வறி யோன்நண்ணல் நல்கூர்ந் தன்று'.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறந்தது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எளிது",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்கூர்ந்த பத்து - 88-வது பாடல்"
+  }
+]
