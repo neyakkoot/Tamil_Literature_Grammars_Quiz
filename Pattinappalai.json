@@ -1,0 +1,502 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "பட்டினப்பாலை நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "நக்கீரர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கடியலூர் உருத்திரங் கண்ணனார்", "isCorrect": true, "rationale": "பட்டினப்பாலையின் ஆசிரியர் கடியலூர் உருத்திரங் கண்ணனார் ஆவார் ." },
+      { "text": "மாங்குடி மருதனார்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முடத்தாமக் கண்ணியார்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 2,
+    "question": "பட்டினப்பாலை நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "answerOptions": [
+      { "text": "பாண்டியன் நெடுஞ்செழியன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சேரன் செங்குட்டுவன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "திருமாவளவன் (கரிகாற் பெருவளத்தான்)", "isCorrect": true, "rationale": "திருமாவளவன் என்னும் கரிகாற் பெருவளத்தான் பாட்டுடைத் தலைவன் ஆவான் ." },
+      { "text": "இராஜராஜ சோழன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 3,
+    "question": "பட்டினப்பாலை உணர்த்தும் துறை எது?",
+    "answerOptions": [
+      { "text": "ஆற்றுப்படை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "செலவழுங்குதல்", "isCorrect": true, "rationale": "தலைவன் பிரிந்து செல்வதைத் தவிர்த்தல் (செலவழுங்குதல்) இதன் துறையாகும் ." },
+      { "text": "களவியல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மடல் ஏறுதல்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 4,
+    "question": "பட்டினப்பாலை நூலின் மொத்த அடிகள் எத்தனை?",
+    "answerOptions": [
+      { "text": "261", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "301", "isCorrect": true, "rationale": "இந்நூல் மொத்தம் 301 அடிகளைக் கொண்டது ." },
+      { "text": "103", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "500", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 5,
+    "question": "'வான்பொய்ப்பினும் தான்பொய்யா' என்று ஆசிரியர் எந்த ஆற்றைச் சிறப்பிக்கிறார்?",
+    "answerOptions": [
+      { "text": "வைகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவிரி", "isCorrect": true, "rationale": "மழை பொய்த்தாலும் தான் பொய்யாது வளம் தரும் காவிரி என்று சிறப்பிக்கப்பட்டுள்ளது ." },
+      { "text": "தாமிரபரணி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பாலாறு", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 6,
+    "question": "பட்டினப்பாலையின் தொடக்கத்தில் குறிப்பிடப்படும் 'வயங்குவெண்மீன்' எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "துருவ நட்சத்திரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வெள்ளி கோள் (Venus)", "isCorrect": true, "rationale": "வசையில்புகழ் வயங்குவெண்மீன் (வெள்ளி) திசை மாறித் தெற்கே சென்றாலும் காவிரி வறளாது ." },
+      { "text": "நிலவு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சூரியன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 7,
+    "question": "காவிரிப்பூம்பட்டினத்தின் வயல்களில் விளைந்த கரும்பு எதன் காரணமாக வாடியதாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "வெயிலின் கொடுமையால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஆலைப்புகையின் வெப்பத்தால்", "isCorrect": true, "rationale": "கரும்பின் ஆலைக் கரும்புகை வெப்பத்தால் (தீத்தெறுவிற்) பூக்கள் வாடின ." },
+      { "text": "நீர் பற்றாக்குறையால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பூச்சிகளால்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 8,
+    "question": "எருமைக்கன்றுகள் எதன் நிழலில் உறங்குவதாகப் பட்டினப்பாலை கூறுகிறது?",
+    "answerOptions": [
+      { "text": "ஆலமரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நெற்கூடு (வைக்கோல் போர்)", "isCorrect": true, "rationale": "மோட்டெருமை முழுக்குழவி கூட்டுநிழல் துயில்வதியும் ." },
+      { "text": "தென்னை மரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பனை மரம்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 9,
+    "question": "சோழநாட்டு முற்றங்களில் சிறுவர்கள் எதனை உருட்டி விளையாடினர்?",
+    "answerOptions": [
+      { "text": "வண்டிச் சக்கரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பொற்கால் சிறுதேர்", "isCorrect": true, "rationale": "பொற்காற் புதல்வர் புரவியின் றுருட்டும் முக்காற் சிறுதேர் ." },
+      { "text": "இரும்பு வளையம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பனங்காய் வண்டி", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 10,
+    "question": "'விலங்குபகை யல்லது கலங்குபகை யறியாக்' என்ற வரி எதனை உணர்த்துகிறது?",
+    "answerOptions": [
+      { "text": "நாட்டின் வறுமை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நாட்டின் அமைதி மற்றும் பாதுகாப்பு", "isCorrect": true, "rationale": "விளையாட்டுத் தேரை விலக்கும் பகையைத் தவிர வேறு போர் பகையை அறியாத அமைதியான நாடு ." },
+      { "text": "விலங்குகளின் தொல்லை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மன்னனின் கோபம்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 11,
+    "question": "புகார் நகரில் அறச்சாலைகளில் (தர்ம ஸ்தாபனங்களில்) எது ஆறு போலப் பாய்ந்ததாகக் கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "பால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சோறு சமைத்த கஞ்சி", "isCorrect": true, "rationale": "'சோறுவாக்கிய கொழுங்கஞ்சி யாறுபோலப் பரந்தொழுகி' ." },
+      { "text": "நெய்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தேன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 12,
+    "question": "பரதவர்கள் (மீனவர்கள்) எந்த மீனின் கொம்பை நட்டுத் தெய்வத்தை வழிபட்டனர்?",
+    "answerOptions": [
+      { "text": "திருக்கை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சுறா", "isCorrect": true, "rationale": "'சினைச்சுறவின் கோடுநட்டு மனைச்சேர்த்திய வல்லணங்கினால்' ." },
+      { "text": "திமிங்கலம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வாளை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 13,
+    "question": "'பல்கேள்வித் துறைபோகிய தொல்லாணை நல்லாசிரியர்' - இது யாரைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "வணிகர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கல்வி மற்றும் வேள்வி சிறந்த அந்தணர்கள்/சான்றோர்கள்", "isCorrect": true, "rationale": "பல நூல்களைக் கற்றறிந்த நல்லாசிரியர்கள் அங்கு இருந்தனர் ." },
+      { "text": "அரசர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சிற்பிகள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 14,
+    "question": "புகார் துறைமுகத்தில் பண்டங்களுக்குச் சுங்கச் சான்றாகப் பொறிக்கப்பட்ட சின்னம் எது?",
+    "answerOptions": [
+      { "text": "மீன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புலி", "isCorrect": true, "rationale": "'புலிபொறித்துப் புறம்போக்கி' - சுங்கச் சாவடியில் புலிச்சின்னம் பொறிக்கப்பட்டது ." },
+      { "text": "வில்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 15,
+    "question": "துறைமுகத்தில் கப்பல்கள் எப்படி நின்றிருந்தன என்று உவமிக்கப்படுகிறது?",
+    "answerOptions": [
+      { "text": "மலைகள் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானைக் கூட்டம் போல", "isCorrect": true, "rationale": "'வெளிலிளக்குங் களிறுபோல' - கப்பல்களின் பாய்மரங்கள் யானைகள் அசைவது போல அசைந்தன ." },
+      { "text": "மேகக் கூட்டம் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குதிரைகள் போல", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 16,
+    "question": "'நீரின் வந்த நிமிர்பரிப் புரவியும்' - இதில் குறிப்பிடப்படும் இறக்குமதிப் பொருள் எது?",
+    "answerOptions": [
+      { "text": "யானைகள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குதிரைகள்", "isCorrect": true, "rationale": "கடல் வழியாக வந்த குதிரைகள் (புரவி) ." },
+      { "text": "முத்துக்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பவளங்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 17,
+    "question": "வடமலையிலிருந்து (இமயமலை) இறக்குமதி செய்யப்பட்ட பொருட்கள் எவை?",
+    "answerOptions": [
+      { "text": "ஆரமும் அகிலும்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மணியும் பொன்னும்", "isCorrect": true, "rationale": "'வடமலைப் பிறந்த மணியும் பொன்னும்' ." },
+      { "text": "மிளகு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முத்து", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 18,
+    "question": "குடமலையிலிருந்து (மேற்கு மலை) வந்த பொருட்கள் எவை?",
+    "answerOptions": [
+      { "text": "பொன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஆரமும் அகிலும் (சந்தனமும் அகிலும்)", "isCorrect": true, "rationale": "'குடமலைப் பிறந்த ஆரமும் அகிலும்' ." },
+      { "text": "பவளம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உணவு", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 19,
+    "question": "தென்கடலில் இருந்து கிடைத்ததாகப் பட்டினப்பாலை கூறுவது எது?",
+    "answerOptions": [
+      { "text": "பவளம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முத்து", "isCorrect": true, "rationale": "'தென்கடல் முத்து' என்று குறிப்பிடப்பட்டுள்ளது ." },
+      { "text": "சங்கு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உப்பு", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 20,
+    "question": "குணகடல் (கிழக்குக் கடல்) பகுதியிலிருந்து பெறப்பட்ட பொருள் எது?",
+    "answerOptions": [
+      { "text": "துகிர் (பவளம்)", "isCorrect": true, "rationale": "'குணகடல் துகிரும்' என்று குறிப்பிடப்பட்டுள்ளது ." },
+      { "text": "வைரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குதிரை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 21,
+    "question": "'காலின் வந்த கருங்கறி மூடையும்' என்பதில் 'கருங்கறி' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "நிலக்கரி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மிளகு", "isCorrect": true, "rationale": "தரைவழியாக (வண்டி) வந்த மிளகு மூடைகள் ." },
+      { "text": "கத்தரிக்காய்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கரித்துண்டு", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 22,
+    "question": "ஈழத்திலிருந்து இறக்குமதி செய்யப்பட்டதாகக் கூறப்படுவது எது?",
+    "answerOptions": [
+      { "text": "உணவுப் பொருட்கள்", "isCorrect": true, "rationale": "'ஈழத் துணவும்' என்று குறிப்பிடப்பட்டுள்ளது ." },
+      { "text": "பட்டு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வாசனை திரவியம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பொன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 23,
+    "question": "பட்டினப்பாலையில் வணிகர்களின் நேர்மையைக் குறிக்கும் வரிகள் எவை?",
+    "answerOptions": [
+      { "text": "யாதும் ஊரே யாவரும் கேளிர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கொள்வதூஉ மிகைகொளாது கொடுப்பதூஉங் குறைகொடாது", "isCorrect": true, "rationale": "பொருளை வாங்கும் போது அதிகமாக வாங்காமலும், கொடுக்கும் போது குறைவாகக் கொடுக்காமலும் இருந்தனர் ." },
+      { "text": "தீதும் நன்றும் பிறர்தர வாரா", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கற்க கசடற", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 24,
+    "question": "'நடுவுநின்ற நன்னெஞ்சினோர்' என்று ஆசிரியர் யாரைப் புகழ்கிறார்?",
+    "answerOptions": [
+      { "text": "அரசர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வணிகர்கள்", "isCorrect": true, "rationale": "நேர்மையான வணிகர்களை 'நடுவுநின்ற நன்னெஞ்சினோர்' என்று புகழ்கிறார் ." },
+      { "text": "உழவர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அந்தணர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 25,
+    "question": "புகார் நகரில் பல மொழிகள் பேசும் மக்கள் வாழ்ந்ததை எவ்வரி குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "மொழிபல பெருகிய பழிதீர் தேஎத்து", "isCorrect": true, "rationale": "'மொழிபல பெருகிய பழிதீர் தேஎத்து புலம்பெயர் மாக்கள்' - பல மொழி பேசும் மக்கள் அங்கு வாழ்ந்தனர் ." },
+      { "text": "வசைஇல் புகழ்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பல்வே றுருவிற் பதாகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தொல்லிசைத் தொழில்மாக்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 26,
+    "question": "தலைவன் தன் நெஞ்சிற்குச் சொல்வதாக வரும் மிகப் பிரபலமான வரி எது?",
+    "answerOptions": [
+      { "text": "முட்டாச் சிறப்பிற் பட்டினம் பெறினும் வாரேன்", "isCorrect": true, "rationale": "புகார் நகரமே கிடைப்பதானாலும் தலைவியைப் பிரிந்து வரமாட்டேன் என்று தலைவன் கூறுகிறான் ." },
+      { "text": "காவிரி நாடன் திகிரி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வையம் ்தலைகீழாய் மாறினும்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உண்டி கொடுத்தோர் உயிர் கொடுத்தோரே", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 27,
+    "question": "கரிகாலன் இளமையில் எதனைப் போலச் சிறை வைக்கப்பட்டிருந்தான்?",
+    "answerOptions": [
+      { "text": "கூண்டில் கிளி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கூட்டுக்குள் வளர்ந்த புலிக்குட்டி", "isCorrect": true, "rationale": "'கொடுவரிக் குருளை கூட்டு வளர்ந்தாங்கு' - புலிக்குட்டி கூண்டில் வளர்ந்தது போலச் சிறையில் இருந்தான் ." },
+      { "text": "வலைப்பட்ட மான்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சங்கிலியிட்ட யானை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 28,
+    "question": "கரிகாலன் சிறையிலிருந்து எவ்வாறு தப்பினான் என்று நூல் கூறுகிறது?",
+    "answerOptions": [
+      { "text": "சுவரில் துளையிட்டு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உறையிலிருந்து வாளை உருவுவது போல", "isCorrect": true, "rationale": "'உறைவாள் கழித்து' - வாளை உறையிலிருந்து உருவி எடுப்பது போலத் தன் வலிமையால் தப்பினான் ." },
+      { "text": "மாறுவேடத்தில்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பறவை போலப் பறந்து", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 29,
+    "question": "'காடுகொன்று நாடாக்கி' என்ற தொடர் யாரைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "பாண்டியன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கரிகால சோழன்", "isCorrect": true, "rationale": "காடுகளை அழித்து நாடாக்கியவன் கரிகாலன் ." },
+      { "text": "சேரன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பல்லவன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 30,
+    "question": "'குளந்தொட்டு வளம்பெருக்கி' என்பதன் பொருள் என்ன?",
+    "answerOptions": [
+      { "text": "மீன் வளம் பெருக்குதல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புதிய நீர்நிலைகளை (குளங்களை) வெட்டி விவசாய வளத்தைப் பெருக்குதல்", "isCorrect": true, "rationale": "கரிகாலன் குளங்களை வெட்டி நாட்டின் வளத்தைப் பெருக்கினான் ." },
+      { "text": "குளத்தை மூடுதல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குளத்தில் நீராடுதல்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 31,
+    "question": "கரிகாலன் எந்த நகரை விரிவுபடுத்திச் செழுமைப்படுத்தினான்?",
+    "answerOptions": [
+      { "text": "மதுரை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உறையூர்", "isCorrect": true, "rationale": "'பிறங்குநிலை மாடத் துறந்தை போக்கிக் கோயிலொடு குடிநிறீஇ' - உறையூரின் சிறப்பை மேம்படுத்தினான்/விரிவுபடுத்தினான் (உறந்தை=உறையூர்) ." },
+      { "text": "காஞ்சி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வஞ்சி", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 32,
+    "question": "கரிகாலனிடம் தோற்ற வடபுலத்து மன்னர்கள் யார்?",
+    "answerOptions": [
+      { "text": "வடவர்", "isCorrect": true, "rationale": "'வடவர் வாட' என்று கரிகாலனின் வெற்றியைக் குறிப்பிடுகிறது ." },
+      { "text": "சிங்களவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யவனர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கடம்பர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 33,
+    "question": "கரிகாலனிடம் திறமை இழந்ததாகக் ('திறல்கெட') குறிப்பிடப்படும் தென் மன்னன் யார்?",
+    "answerOptions": [
+      { "text": "சேரன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தென்னவன் (பாண்டியன்)", "isCorrect": true, "rationale": "'தென்னவன் திறல்கெடச் சீறி' என்று பாண்டியனை வென்றதைக் குறிப்பிடுகிறது ." },
+      { "text": "பல்லவன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "களப்பிரன்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 34,
+    "question": "தலைவன் செல்லும் காட்டு வழி எதனை விடக் கொடியது (வெம்மையானது)?",
+    "answerOptions": [
+      { "text": "சூரியன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "திருமாவளவனின் வேல்", "isCorrect": true, "rationale": "'திருமாவளவன் தெவ்வர்க் கோக்கிய வேலினும் வெய்ய கானமவன்' - மன்னனின் வேலை விடக் காடு வெம்மையானது ." },
+      { "text": "நெருப்பு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பாலைவனம்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 35,
+    "question": "தலைவியின் தோள்கள் எதனை விடக் குளிர்ந்தவை?",
+    "answerOptions": [
+      { "text": "நிலவு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "திருமாவளவனின் செங்கோல்", "isCorrect": true, "rationale": "'கோலினுந் தண்ணிய தடமென் தோளே' - மன்னனின் செங்கோலை விடக் குளிர்ச்சியானவை தலைவியின் தோள்கள் ." },
+      { "text": "சந்தனம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நீர்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 36,
+    "question": "காவிரிப்பூம்பட்டினத்தில் முருகக் கடவுளை வழிபட்டு ஆடிய ஆட்டம் எது?",
+    "answerOptions": [
+      { "text": "வெறியாடல்", "isCorrect": true, "rationale": "'வெறியாடு மகளிரொடு' - முருகனுக்குரிய வெறியாட்டத்தை மகளிர் ஆடினர் ." },
+      { "text": "கரகாட்டம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மயிலாட்டம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கும்மி", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 37,
+    "question": "சுங்கச் சாவடி ஊழியர்கள் யாரைப் போலச் சோர்வின்றி உழைத்தனர்?",
+    "answerOptions": [
+      { "text": "எறும்புகள் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஞாயிற்றின் தேர்க் குதிரைகள் போல", "isCorrect": true, "rationale": "'கதிர்ச்செல்வன் தேர்பூண்ட மாஅபோல' - சூரியனின் குதிரைகள் போல நாள்தோறும் உழைத்தனர் ." },
+      { "text": "தேனீக்கள் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காளைகள் போல", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 38,
+    "question": "உழவர்கள் எதனைப் போல நடுவு நிலைமை உடையவர்கள் என்று கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "தராசு முள் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஏரின் நுகத்தடி போல (பகல் போல)", "isCorrect": true, "rationale": "'நெடுநுகத்துப் பகல்போல நடுவுநின்ற நன்னெஞ்சினோர்' ." },
+      { "text": "அளவுகோல் போல", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மன்னன் போல", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 39,
+    "question": "'பசும்பதங் கொடுத்தும்' என்பதில் 'பசும்பதம்' என்பது என்ன?",
+    "answerOptions": [
+      { "text": "சமைக்காத உணவுப் பொருட்கள்", "isCorrect": true, "rationale": "பதம் என்றால் பக்குவம் செய்யப்படாத பச்சை உணவுப் பண்டங்கள் ." },
+      { "text": "தங்கம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பசுவின் பால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இலை தழைகள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 40,
+    "question": "கரிகாலன் தன் பகைவர்களை எப்படிக் கருதினான்?",
+    "answerOptions": [
+      { "text": "நண்பர்களாக", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "செற்றோர் (பகைவர்) என்று சினந்து அழித்தான்", "isCorrect": true, "rationale": "'செற்றோர் கடியரண் தொலைத்த' - பகைவரின் அரண்களை அழித்தான் ." },
+      { "text": "உறவினர்களாக", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வணிகர்களாக", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 41,
+    "question": "பட்டினப்பாலையின் இறுதியில் கூறப்படும் 'அரிமா அன்ன அணங்குடைத் துப்பின்' என்ற வரி யாரை வருணிக்கிறது?",
+    "answerOptions": [
+      { "text": "திருமாவளவன் (கரிகாலன்)", "isCorrect": true, "rationale": "சிங்கம் போன்ற வலிமை உடையவன் கரிகாலன் என்று இறுதியில் புகழப்படுகிறான் ." },
+      { "text": "புலவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவிரி ஆறு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 42,
+    "question": "தலைவன் 'வாரேன் வாழிய நெஞ்சே' என்று யாளிடம் கூறுகிறான்?",
+    "answerOptions": [
+      { "text": "தலைவியிடம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தன் நெஞ்சிடம்", "isCorrect": true, "rationale": "தன் நெஞ்சிற்குக் கூறுவதாகப் பாடல் அமைந்துள்ளது ." },
+      { "text": "பாணனிடம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தோழனிடம்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 43,
+    "question": "பட்டினப்பாலை எந்தத் தொகுப்பு நூலில் இடம்பெற்றுள்ளது?",
+    "answerOptions": [
+      { "text": "எட்டுத்தொகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பத்துப்பாட்டு", "isCorrect": true, "rationale": "பட்டினப்பாலை பத்துப்பாட்டு நூல்களில் ஒன்பதாவது ஆகும் ." },
+      { "text": "பதினெண்கீழ்க்கணக்கு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஐம்பெருங்காப்பியம்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 44,
+    "question": "காவிரிப்பூம்பட்டினத்தின் வீதிகளில் தொங்கிய கொடிகள் எதனால் அசையாதிருந்தன?",
+    "answerOptions": [
+      { "text": "காற்று இல்லாததால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கொடிகளின் நெருக்கத்தால்", "isCorrect": true, "rationale": "கொடிகள் மிக நெருக்கமாக இருந்ததால் காற்று நுழைய இடமின்றி அசையாமல் இருந்தன ('செல்கதிர் நுழையாச் செழுநகர்') ." },
+      { "text": "கனமான துணியால்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கட்டி வைத்திருந்ததால்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 45,
+    "question": "பட்டினப்பாலையில் குறிப்பிடப்படும் இசைக்கருவிகள் எவை?",
+    "answerOptions": [
+      { "text": "யாழ், முழவு, முரசு", "isCorrect": true, "rationale": "'குழலகவ யாழ்முரல முழவதிர முரசியம்ப' ." },
+      { "text": "வீணை, மிருதங்கம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நாகசுரம், தவில்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பியானோ, கிதார்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 46,
+    "question": "கரிகாலன் போரில் வென்ற பிறகு தோற்ற மன்னர்களின் நிலை என்னவானது?",
+    "answerOptions": [
+      { "text": "அவர்கள் நண்பர்கள் ஆயினர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அவர்கள் ஒளி மழுங்கிப் போயினர்", "isCorrect": true, "rationale": "'மின்னொளியெறிப்பத் தம்மொளி மழுங்கி' - கரிகாலனின் ஒளி முன் மற்ற வேந்தர்களின் ஒளி மழுங்கியது ." },
+      { "text": "அவர்கள் நாடு கடத்தப்பட்டனர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அவர்கள் சிறைபிடிக்கப்பட்டனர்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 47,
+    "question": "கரிகாலன் எதை அழித்து, எதை உருவாக்கினான்?",
+    "answerOptions": [
+      { "text": "நகரை அழித்துக் காடாக்கினான்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காட்டை அழித்து நாடாக்கினான்", "isCorrect": true, "rationale": "'காடுகொன்று நாடாக்கி' ." },
+      { "text": "கடலை அழித்து நிலமாக்கினான்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மலையை அழித்து வயலாக்கினான்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 48,
+    "question": "'பல்லொளியர் பணிபொடுங்க' - இதில் 'ஒளியர்' என்பர் யார்?",
+    "answerOptions": [
+      { "text": "ஒரு வகை இனக்குழு/சிற்றரசர்கள்", "isCorrect": true, "rationale": "ஒளியர் என்னும் சிற்றரசர்கள் கரிகாலனுக்குப் பணிந்து அடங்கினர் ." },
+      { "text": "விளக்கு ஏந்துபவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஒளிந்து வாழ்பவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மீனவர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 49,
+    "question": "கரிகாலனின் முன்னோர்கள் எதனைப் போக்கினர் என்று கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "காற்றின் திசையை", "isCorrect": true, "rationale": "முன்னோர் காற்றின் போக்கை அறிந்து கலங்களைச் செலுத்தினர் ('வளிமாற்றுவன்') ." },
+      { "text": "பகையை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வறுமையை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இருளை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  },
+  {
+    "questionNumber": 50,
+    "question": "பட்டினப்பாலையின் இறுதியில் கரிகாலன் எதனைப் போன்றவன் எனக் கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "புலி", "isCorrect": false, "rationale": "தவறு (தொடக்கத்தில் புலிக்குட்டி, இறுதியில் அரிமா)." },
+      { "text": "அரிமா (சிங்கம்)", "isCorrect": true, "rationale": "'அரிமா அன்ன அணங்குடைத் துப்பின்' - சிங்கம் போன்ற வலிமை ." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காளை", "isCorrect": false, "rationale": "தவறு." }
+    ]
+  }
+]
