@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "திருக்குறளில் மொத்தம் எத்தனை அதிகாரங்கள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "133",
+        "rationale": "திருக்குறள் 133 அதிகாரங்களைக் கொண்டது. ஒவ்வொரு அதிகாரத்திற்கும் 10 பாடல்கள் வீதம் 1330 குறட்பாக்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "1330",
+        "rationale": "இது மொத்த பாடல்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "13",
+        "rationale": "இது தவறான எண்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "இது ஓர் அதிகாரத்திற்குரிய பாடல்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "133 x 10 = 1330 பாடல்கள்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "திருக்குறளின் மூன்று பால்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அறம், பொருள், இன்பம்",
+        "rationale": "திருக்குறள் அறத்துப்பால், பொருட்பால், இன்பத்துப்பால் (காமத்துப்பால்) என மூன்று பிரிவுகளைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறம், பொருள், வீடு",
+        "rationale": "திருக்குறளில் வீடு பற்றித் தனியாகப் பால் இல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயல், இசை, நாடகம்",
+        "rationale": "இவை முத்தமிழைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாழ்த்து, வருணனை, வரலாறு",
+        "rationale": "இவை நூலின் பகுப்புகள் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மனித வாழ்வின் முக்கிய அங்கங்கள்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "'அகர முதல எழுத்தெல்லாம்' - இக்குறள் எதனை வலியுறுத்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இறைவன் உலகின் தொடக்கம்",
+        "rationale": "எழுத்துக்களுக்கு 'அ' எப்படி தொடக்கமோ, அதுபோல உலகுக்கு ஆதிபகவன் தொடக்கமாக உள்ளார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வியின் சிறப்பு",
+        "rationale": "இது கடவுள் வாழ்த்து அதிகாரத்தில் உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்துக்களின் தோற்றம்",
+        "rationale": "இது இலக்கணம் அன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேளாண்மை",
+        "rationale": "இது தொடர்பற்றது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதற்பொருள்."
+  },
+  {
+    "questionNumber": 4,
+    "question": "வள்ளுவர் எதனை 'அமிழ்தினும் ஆற்ற இனிது' என்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தம் மக்கள் சிறுகை அளாவிய கூழ்",
+        "rationale": "தம் குழந்தைகள் கையால் பிசைந்த கூழ் அமிழ்தத்தை விட இனிமையானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருந்தினர் இட்ட உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசையின் இனிமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறச்செயல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குழந்தையின் ஸ்பரிசம் பட்ட உணவு."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'நீர்இன்று அமையாது உலகு' - எனின் யார்யார்க்கும் 'வான்இன்று அமையாது' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒழுக்கு",
+        "rationale": "மழை இல்லாவிட்டால் உலகில் ஒழுக்கம் நிலைபெறாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உணவு",
+        "rationale": "உணவு மழையால் வரும், ஆனால் குறள் குறிப்பிடுவது ஒழுக்கத்தை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேளாண்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மழை பெய்யாவிட்டால் இது கெடும்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "எந்தப் பூ மோந்தால் வாடிவிடும் என்று வள்ளுவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அனிச்சம்",
+        "rationale": "மோப்பக் குழையும் அனிச்சம்; முகம் திரிந்து நோக்கக் குழையும் விருந்து.",
+        "isCorrect": true
+      },
+      {
+        "text": "குவளை",
+        "rationale": "குவளை கண் போன்றது எனச் சொல்லப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தாமரை மலர்ச்சிக்கு உவமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விருந்தினர் முகம் வாடுவதற்கு உவமையான பூ."
+  },
+  {
+    "questionNumber": 7,
+    "question": "'என்பு உரியர்' என்று வள்ளுவர் யாரைக் குறிப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அன்புடையார்",
+        "rationale": "அன்புடையவர்கள் தம் உடலையும் (எலும்பையும்) பிறருக்கு உரியதாக்குவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அன்பிலார்",
+        "rationale": "அன்பிலார் எல்லாம் தமக்கு உரியர் என்பர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "துறவிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறருக்காகத் தம்மையே கொடுப்பவர்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "தீயினால் சுட்ட புண் ஆறும், ஆனால் எது ஆறாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நாவினால் சுட்ட வடு",
+        "rationale": "தீய சொற்களால் ஏற்பட்ட காயம் மனதை விட்டு அகலாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைவர் செய்த தீங்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விபத்தால் வந்த காயம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள் இழப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடுஞ்சொல்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "ஒருவன் எப்போது 'தெய்வத்துள் வைக்கப்படுவான்'?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வையத்து வாழ்வாங்கு வாழ்பவன்",
+        "rationale": "உலகத்தில் வாழும் நெறிப்படி வாழ்பவன் தெய்வத்திற்கு இணையாக மதிக்கப்படுவான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "துறவறம் பூண்டவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தானம் செய்பவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில் கட்டுபவன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முறையான இல்லற வாழ்க்கை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "யார் உயிருடன் இருந்தாலும் இறந்தவரைப் போன்றவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒப்புரவு (சமூக நல்லிணக்கம்) அறியாதவர்",
+        "rationale": "ஒப்புரவு அறிந்து ஒழுகாதவர் உயிரோடு இருந்தாலும் இறந்தவரைப் போன்றவரே.",
+        "isCorrect": true
+      },
+      {
+        "text": "வறுமையில் வாடுபவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நோயுற்றவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்காதவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறருக்கு உதவி வாழத் தெரியாதவர்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "'கேடில் விழுச்செல்வம்' என்று வள்ளுவர் எதைக் குறிப்பிடுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்வி",
+        "rationale": "கல்வியே அழிவில்லாத சிறந்த செல்வம்; மற்றவை செல்வம் ஆகா.",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிறருக்குக் கொடுத்தாலும் குறையாதது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "'எண்ணென்ப ஏனை எழுத்தென்ப' - இவை இரண்டும் எதற்கு ஒப்பாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்",
+        "rationale": "எண்ணும் எழுத்தும் வாழும் உயிர்களுக்குக் கண்கள் போன்றவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பார்வைக்கு உதவுவது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "அறிவுடையார் எதனை அஞ்சுவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பழி",
+        "rationale": "அறிவுடையவர்கள் பழிக்கு அஞ்சுவர்; அறிவிலார் அஞ்சமாட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீய செயல்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "'பகல் வெல்லும் கூகையைக் காக்கை' - இது எதை உணர்த்துகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காலம் அறிதல்",
+        "rationale": "வலிமையான கூகையையும் பகலில் காக்கை வெல்லும். எனவே, பகைவரை வெல்ல காலம் முக்கியம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடம் அறிதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வலிமை அறிதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகை அறிதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சரியான நேரம் பார்த்தல்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "'கொக்கு' எதற்கான உவமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காலம் வரும் வரை காத்திருத்தல்",
+        "rationale": "வாய்ப்பு வரும் வரை கொக்கைப் போல அமைதியாகக் காத்திருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேகமாகச் செயல்படுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒற்றைக் காலில் நிற்றல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூய்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொறுமை."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'செல்வத்துள் செல்வம்' எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செவிச்செல்வம் (கேள்வி)",
+        "rationale": "கேள்வி ஞானமே செல்வங்களில் எல்லாம் தலையாய செல்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருட்செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அருட்செல்வம்",
+        "rationale": "தவறு (இத்தொடர் குறளில் கேள்விக்கே பயன்படுத்தப்பட்டுள்ளது).",
+        "isCorrect": false
+      },
+      {
+        "text": "மக்கட்செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேட்டல்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "எந்தப் பண்பு இல்லாதவன் பெற்ற செல்வம், நன்பால் திரிந்தது போன்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பண்புடைமை",
+        "rationale": "பண்பு இல்லாதவன் பெற்ற செல்வம், பாத்திரத்தின் தூய்மையின்மையால் பால் கெடுவது போன்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வலிமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நல்ல பால் கெட்டுப்போவது போல."
+  },
+  {
+    "questionNumber": 18,
+    "question": "'ஊருணி நீர்நிறைந் தற்றே' - யாருடைய செல்வம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பேரறிவாளன் (ஒப்புரவு அறிபவன்)",
+        "rationale": "உலகிற்கு உதவும் பேரறிவாளனின் செல்வம், ஊர் மக்கள் நீர் உண்ணும் குளம் நிரம்பியது போலப் பயன்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கஞ்சன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊர் மக்கள் பயன்படுத்தும் குளம்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "'நச்சப் படாதவன் செல்வம்' எதற்கு ஒப்பாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நச்சு மரம் பழுத்தது போன்று",
+        "rationale": "பிறருக்கு உதவாதவனின் செல்வம், ஊர் நடுவே உள்ள நச்சு மரம் பழம் தருவது போன்று யாருக்கும் பயன்படாது/தீங்கானது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாழடைந்த கிணறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை இல்லாத வானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உப்பில்லாத உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விஷ மரம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "'உழுவார் உலகத்தார்க்கு ஆணி' - ஏன்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மற்றத் தொழில் செய்வாரையும் தாங்குவதால்",
+        "rationale": "உழவு செய்யாத மற்றவர்களையும் உணவளித்துத் தாங்குவதால் உழவர்கள் உலகிற்கு அச்சாணி போன்றவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வரி செலுத்துவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுளை வணங்குவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மண்ணை உழுவதால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உலகத்தைத் தாங்குபவர்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "வள்ளுவர் 'இன்னா செய்தாரை ஒறுத்தல்' என்று எதைக் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அவர் நாண நன்னயம் செய்து விடல்",
+        "rationale": "துன்பம் செய்தவர் வெட்கப்படும்படி அவருக்கு நன்மை செய்வதே அவரைத் தண்டிக்கும் வழி.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழிக்குப் பழி வாங்குதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசனிடம் முறையிடுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவரைத் திட்டுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவர் வெட்கப்படும்படி நன்மை செய்தல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "'வாய்மை' என்பதன் இலக்கணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தீமை இல்லாத சொற்களைச் சொல்லுதல்",
+        "rationale": "பிறருக்குச் சிறிதும் தீங்கு தராத சொற்களைப் பேசுவதே வாய்மை.",
+        "isCorrect": true
+      },
+      {
+        "text": "உள்ளதை உள்ளபடி சொல்லுதல்",
+        "rationale": "முழுமையான விளக்கம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொய் சொல்லாமை",
+        "rationale": "முழுமையான விளக்கம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிய சொற்களைப் பேசுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தீங்கு தராத சொல்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "'தன்னைத்தான் காக்கின்' எதைக் காக்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சினம்",
+        "rationale": "தன்னைக் காக்க விரும்பினால் சினம் வராமல் காக்க வேண்டும்; இல்லையேல் சினம் அவனையே அழிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தன்னையே கொல்லும் குணம்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "அறவழியில் நடக்காதவனின் செல்வம் எதற்கு ஒப்பாகும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பச்சை மண்கலத்தில் நீர் ஊற்றியது போல",
+        "rationale": "முறையற்ற வழியில் சேர்த்த செல்வம், சுடாத மண்பானையில் ஊற்றிய நீர் கரைந்து போவது போல அழியும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாறையில் விதைத்தது போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எரியும் தீயில் நெய் ஊற்றியது போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆற்றில் கரைத்த புளி போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சுடாத பானை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "'எழுமை எழுபிறப்பும்' உள்ளுவர் - யாரை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பத்தைத் துடைத்தவர் நட்பு",
+        "rationale": "தமது துன்பத்தைப் போக்கியவரின் நட்பை ஏழு பிறப்பிலும் நினைப்பார்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெற்ற தாய் தந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி கற்ற ஆசிரியர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறம் செய்தவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆபத்தில் உதவியவர்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "'பீலிபெய் சாகாடும் அச்சிறும்' - எப்போது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அப்பண்டம் சால மிகுத்துப் பெயின்",
+        "rationale": "மெல்லிய மயில் இறகாக இருந்தாலும், அளவுக்கு அதிகமாக ஏற்றினால் வண்டியின் அச்சு முறியும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வண்டி பழையதானால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேகமாக ஓட்டினால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாதை சரியில்லை என்றால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அளவுக்கு மிஞ்சினால்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "'நுண்ணிய நூல் பல கற்பினும்' எது மேலோங்கி நிற்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஊழ் (இயற்கை அறிவு)",
+        "rationale": "எவ்வளவு கற்றாலும் ஊழ்வினைப்படி அமைந்த அறிவே மேலோங்கி நிற்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செயற்கை அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பதவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விதி அல்லது இயற்கை."
+  },
+  {
+    "questionNumber": 28,
+    "question": "'குணம் என்னும் குன்றேறி நின்றார்' - இவர்களிடம் எது நிலைக்காது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வெகுளி (சினம்)",
+        "rationale": "பெரியவர்கள் கோபம் கொண்டாலும் அது ஒரு கணம் கூட நிலைக்காது.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோபம்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "'உடுக்கை இழந்தவன் கைபோல' - இது எதற்கான உவமை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நட்பு",
+        "rationale": "ஆடை நெகிழும் போது கை உடனே உதவுவது போல, நண்பன் துன்பத்தில் உடனே உதவ வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாய்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருத்துவம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடுக்கண் களைவது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "எந்த இரு பறவைகளை வைத்து வள்ளுவர் காலத்தின் வலிமையை விளக்குகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காகம் மற்றும் கூகை",
+        "rationale": "பகலில் காகம் கூகையை வெல்லும்; இரவில் கூகை வெல்லும். காலமறிதலின் முக்கியத்துவம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில் மற்றும் வான்கோழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறா மற்றும் பருந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன்னம் மற்றும் கொக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பகல்/இரவு வேறுபாடு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "'சொல்லுக சொல்லை' - எப்போது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அச்சொல்லை வெல்லும் வேறொரு சொல் இல்லை என அறிந்து",
+        "rationale": "நாம் பேசும் சொல்லை வெல்லக்கூடிய மாற்றுச்சொல் இல்லை என்பதை உறுதி செய்த பிறகே பேச வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேட்பவர் விரும்பும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சபை கூடியிருக்கும் போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபம் இல்லாத போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சொல்வன்மை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "'ஈன்ற பொழுதின் பெரிதுவக்கும்' - தாய் எப்போது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தன் மகனைச் சான்றோன் எனக் கேட்ட தாய்",
+        "rationale": "தன் மகன் அறிவுடையவன் என்று ஊரார் சொல்லக் கேட்கும் போது தாய் மகிழ்வாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மகன் செல்வம் ஈட்டிய போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகன் திருமணம் செய்த போது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகன் பிறந்த போது",
+        "rationale": "பிறந்த பொழுதை விட சான்றோன் எனக் கேட்கும் போதே அதிகம் மகிழ்வாள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புகழ்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "அறத்துப்பாலில் உள்ள இயல்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாயிரம், இல்லறவியல், துறவறவியல், ஊழியல்",
+        "rationale": "அறத்துப்பால் இந்த நான்கு இயல்களை உள்ளடக்கியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசியல், அமைச்சியல், ஒழிபியல்",
+        "rationale": "இவை பொருட்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "களவியல், கற்பியல்",
+        "rationale": "இவை காமத்துப்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாயிரம், அரசியல், கற்பியல்",
+        "rationale": "கலப்பு விடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்கு இயல்கள்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'நெருநல் உளன் ஒருவன் இன்று இல்லை' - இது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலையாமையின் பெருமை",
+        "rationale": "நேற்று இருந்தவன் இன்று இல்லை என்பது உலகின் நிலையாமைத் தன்மை.",
+        "isCorrect": true
+      },
+      {
+        "text": "போரின் கொடுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வறுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பின் பிரிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நேற்று இருந்தான், இன்று இல்லை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "திருக்குறளின் உரையாசிரியர்களில் சிறந்தவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரிமேலழகர்",
+        "rationale": "பரிமேலழகர் உரையே சிறந்தது மற்றும் நுட்பமானது எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணக்குடவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரிதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலிங்கர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பழங்கால உரையாசிரியர்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'பொருளல்லவரைப் பொருளாகச் செய்யும்' ஆற்றல் எதற்கு உண்டு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வம் (பொருள்)",
+        "rationale": "ஒரு தகுதியும் இல்லாதவனையும் மதிக்க வைப்பது செல்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பணம்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "'அன்பின் வழியது உயிர்நிலை' - அஃது இல்லாதவர்க்கு உடம்பு எது போன்றது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலும்பைத் தோல் போர்த்தியது போன்றது",
+        "rationale": "அன்பு இல்லாவிட்டால் அது உயிருள்ள உடல் அல்ல, வெறும் எலும்பும் தோலும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மரம் போன்றது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல் போன்றது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிணம் போன்றது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெறும் கூடு."
+  },
+  {
+    "questionNumber": 38,
+    "question": "'கற்க கசடற' - இதில் 'கசடு' என்பதன் பொருள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குற்றம் (பிழை)",
+        "rationale": "நூல்களைப் பிழையில்லாமல் அல்லது ஐயமில்லாமல் கற்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அழுக்கு",
+        "rationale": "தவறு (இங்கு அறிவு சார்ந்த பிழை).",
+        "isCorrect": false
+      },
+      {
+        "text": "கசப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தயக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குற்றம்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "வள்ளுவர் எதனை 'துன்பத்திற்குத் துன்பம்' உண்டாக்குவது என்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பம் வந்தபோது கலங்காமல் இருத்தல் (இடுக்கண் அழியாமை)",
+        "rationale": "துன்பம் வந்தபோது துவளாமல் சிரித்து மகிழ்ந்தால், அது அந்தத் துன்பத்திற்கே துன்பத்தைத் தரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடும்பைக்கு இடும்பை படுப்பர்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'இலக்கம் உடம்பு இடும்பைக்கு' - பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உடம்பு துன்பத்திற்கு ஒரு இலக்கு",
+        "rationale": "அம்புகளுக்கு இலக்கு போல, உடம்பு துன்பங்களுக்கு இருப்பிடமாக உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடம்பு இன்பத்தின் இருப்பிடம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உடம்பு நிலையானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உடம்பு வலிமையானது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாக்குதலுக்கு ஆளாகும் இடம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "எந்த இரு உறுப்புகள் இருந்தும் பயனில்லை என்று வள்ளுவர் கூறுகிறார் (ஒப்புரவு அறிவில்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்ணோட்டம் இல்லாத கண்",
+        "rationale": "இரக்கப் பார்வை (கண்ணோட்டம்) இல்லாத கண்கள், முகத்தில் உள்ள புண் போன்றவை; அவை கண்கள் ஆகா.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேளாத செவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈயாத கை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடவாத கால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முகத்தில் இரண்டு புண்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "துறவறத்தில் 'தவம்' செய்வோரை எது சுடும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பம்",
+        "rationale": "சுடச்சுடரும் பொன்போல், தவம் செய்பவரைத் துன்பம் சுடச்சுட ஞானம் வளரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தீ",
+        "rationale": "உவமை மட்டுமே தீ.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சோதனை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "எந்தப் பகையை ஏர் உழவர் பகையோடு ஒப்பிட்டு வள்ளுவர் தவிர்க்கச் சொல்கிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல் ஏர் உழவர் பகை",
+        "rationale": "வில் ஏர் உழவர் (வீரர்) பகையை ஏற்றாலும், சொல் ஏர் உழவர் (அறிஞர்) பகையை ஏற்கக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "உறவினர் பகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசர் பகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வணிகர் பகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அறிஞர்கள்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "காமத்துப்பாலில் 'ஊடுதல்' எதற்கு இன்பம் தரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காமத்திற்கு",
+        "rationale": "ஊடுதல் காமத்திற்கு இன்பம்; அதற்கின்பம் கூடி முயங்கப் பெறின்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்பிற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறத்திற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழுக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறு பிணக்கு."
+  },
+  {
+    "questionNumber": 45,
+    "question": "திருக்குறள் வேறு எப்பெயரால் அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உத்தரவேதம்",
+        "rationale": "திருக்குறள் உத்தரவேதம், பொதுமறை, தெய்வநூல் போன்ற பல பெயர்களால் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாலடியார்",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருவாசகம்",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆத்திசூடி",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பொதுவான வேதம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'எப்பொருள் யார்யார்வாய்க் கேட்பினும்' - வள்ளுவர் அறிவுறுத்துவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெய்ப்பொருள் காண்பது அறிவு",
+        "rationale": "யார் எதைச் சொன்னாலும், அதன் உண்மையான பொருளை ஆராய்வதே அறிவு.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேட்டதை நம்புவது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மறுப்பது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிறருக்குச் சொல்வது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆராய்ச்சி."
+  },
+  {
+    "questionNumber": 47,
+    "question": "'குடிசெய்வார்க்கு' எவை இரண்டும் இல்லை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பருவம், மடி",
+        "rationale": "குடியை உயர்த்த நினைப்பவர் கால நேரம் பார்க்கக் கூடாது, சோம்பல் கொள்ளக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பசி, தாகம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூக்கம், ஓய்வு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்பம், துன்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காலமும் சோம்பலும்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "திருக்குறளில் 'இறைமாட்சி' அதிகாரம் எதைப் பற்றிப் பேசுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசனின் இயல்பு",
+        "rationale": "படைகுடி கூழ்அமைச்சு... உடையான் அரசருள் ஏறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடவுள் வாழ்த்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒழுக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மன்னன்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'அவா' (ஆசை) எதற்குக் காரணம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறப்பு",
+        "rationale": "அவா என்பதே எல்லா உயிர்க்கும் எஞ்ஞான்றும் தவாஅப் பிறப்பீனும் வித்து.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மறுபிறவி."
+  },
+  {
+    "questionNumber": 50,
+    "question": "காமத்துப்பால் எத்தனை இயல்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "களவியல், கற்பியல் என இரண்டு இயல்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களவு, கற்பு."
+  }
+]
