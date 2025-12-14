@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "தொன்னூல் விளக்கம் என்னும் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வீரமாமுனிவர்",
+        "rationale": "தொன்னூல் விளக்கம் நூலின் ஆசிரியர் வீரமாமுனிவர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் அகத்தியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் இத்தாலி நாட்டிலிருந்து தமிழகம் வந்தவர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "தொன்னூல் விளக்கம் எத்தனை வகையான இலக்கணங்களைக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "எழுத்து, சொல், பொருள் என மூன்று இலக்கணம் கூறுவது தொல்காப்பியம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "எழுத்து, சொல், பொருள், யாப்பு, அணி என ஐந்து இலக்கணங்களை இந்நூல் விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "வீரசோழியம் ஐந்து இலக்கணம் கூறினாலும், தொன்னூல் விளக்கமும் ஐந்து இலக்கணம் கூறும் நூலே.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "பொதுவாகத் தமிழில் ஐந்து இலக்கணங்களே வகைப்படுத்தப்பட்டுள்ளன.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து முதல் அணி வரை உள்ள இலக்கணங்களை எண்ணிப் பாருங்கள்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "தொன்னூல் விளக்கத்தின் முதல் அதிகாரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சொல்லதிகாரம்",
+        "rationale": "இது இரண்டாவது அதிகாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருளதிகாரம்",
+        "rationale": "இது மூன்றாவது அதிகாரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுத்ததிகாரம்",
+        "rationale": "நூலின் வைப்பு முறைப்படி எழுத்ததிகாரமே முதலாவதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாப்பதிகாரம்",
+        "rationale": "இது நான்காவது அதிகாரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழியின் அடிப்படை ஒலி வடிவம் பற்றியது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "உயிரெழுத்துக்களில் குறில் எழுத்துக்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "அ, இ, உ, எ, ஒ ஆகிய ஐந்தும் உயிர்க்குறில் எழுத்துக்களாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "rationale": "ஏழு என்பது உயிர் நெடில் எழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "பன்னிரண்டு என்பது மொத்த உயிரெழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "பதினெட்டு என்பது மெய்யெழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ ஆகிய எழுத்துக்களை எண்ணுங்கள்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "கசடதபற என்பன எவ்வகை மெய்யெழுத்துக்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மெல்லினம்",
+        "rationale": "மெல்லினம் ஙஞணநமன ஆகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடையினம்",
+        "rationale": "இடையினம் யரலவழள ஆகும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வல்லினம்",
+        "rationale": "வன்மையாக ஒலிக்கும் கசடதபற வல்லின எழுத்துக்களாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆய்தம்",
+        "rationale": "ஆய்தம் ஃ என்ற தனி எழுத்தாகும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வன்மையாக ஒலிக்கக்கூடிய எழுத்துக்கள்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "குறில் எழுத்து ஒலிப்பதற்குரிய மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒன்று",
+        "rationale": "குறில் எழுத்துக்கள் ஒரு மாத்திரை கால அளவில் ஒலிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "இரண்டு மாத்திரை நெடில் எழுத்துக்களுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரை",
+        "rationale": "அரை மாத்திரை மெய்யெழுத்துக்களுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்",
+        "rationale": "கால் மாத்திரை மகரக் குறுக்கம் போன்றவற்றுக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண் இமைக்கும் நேரம் அல்லது கை நொடிக்கும் நேரம்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "சொற்கள் எத்தனை வகைப்படும் என்று தொன்னூல் விளக்கம் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "திணை இரண்டு வகைப்படும், சொல் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "இடம் மூன்று வகைப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "பெயர், வினை, இடை, உரி எனச் சொற்கள் நான்கு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "பால் ஐந்து வகைப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயர், வினை... என்று தொடங்கிச் சிந்தித்துப் பாருங்கள்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "வேற்றுமை உருபுகள் மொத்தம் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "ஆறு என்பது தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "7",
+        "rationale": "ஏழு என்பது தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "முதல் வேற்றுமை முதல் எட்டாம் வேற்றுமை வரை மொத்தம் எட்டு வேற்றுமைகள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "ஐந்து என்பது பால்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுவாய் வேற்றுமை முதல் விளி வேற்றுமை வரை."
+  },
+  {
+    "questionNumber": 9,
+    "question": "இரண்டாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆல்",
+        "rationale": "ஆல் என்பது மூன்றாம் வேற்றுமை உருபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கு",
+        "rationale": "கு என்பது நான்காம் வேற்றுமை உருபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐ",
+        "rationale": "ஐ என்பது இரண்டாம் வேற்றுமை உருபு.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்",
+        "rationale": "இன் என்பது ஐந்தாம் வேற்றுமை உருபு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'ராமனை' என்ற சொல்லில் இறுதியில் ஒலிக்கும் சத்தம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "பொருளிலக்கணம் எத்தனை வகையாகப் பிரிக்கப்பட்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகம், புறம் என இரண்டு",
+        "rationale": "பொருளிலக்கணம் அகப்பொருள், புறப்பொருள் என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயல், இசை, நாடகம் என மூன்று",
+        "rationale": "இது முத்தமிழின் பிரிவுகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "சொற்களின் வகைகள் நான்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "திணைகளின் வகைகள் ஐந்து.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாழ்வியல் மற்றும் போர் சார்ந்த பிரிவுகள்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "குறிஞ்சி நிலத்திற்குரிய தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "திருமால் முல்லை நிலத் தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் மருத நிலத் தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குமரன் (முருகன்)",
+        "rationale": "மலையும் மலை சார்ந்த இடமுமான குறிஞ்சிக்கு முருகன் (குமரன்) தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் நெய்தல் நிலத் தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலைகளில் உறைபவர்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "முல்லை நிலத்திற்குரிய தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முராரி (திருமால்)",
+        "rationale": "காடும் காடு சார்ந்த இடமுமான முல்லைக்குத் திருமால் தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாசவன்",
+        "rationale": "வாசவன் (இந்திரன்) மருத நிலத்திற்குரியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "கொற்றவை பாலை நிலத்திற்குரியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் நெய்தல் நிலத்திற்குரியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காடு சார்ந்த நிலத்தின் கடவுள்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "மருத நிலத்திற்குரிய தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருணன்",
+        "rationale": "கடல் தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாசவன் (இந்திரன்)",
+        "rationale": "வயலும் வயல் சார்ந்த இடமுமான மருதத்திற்கு இந்திரன் தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "மலை தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "காடு தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மழைக்கு அதிபதியானவர்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "நெய்தல் நிலத்திற்குரிய தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இந்திரன்",
+        "rationale": "மருத நிலத் தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "குறிஞ்சி நிலத் தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "கடலும் கடல் சார்ந்த இடமுமான நெய்தலுக்கு வருணன் தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "பாலை நிலத் தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் கடவுள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "யாப்பிலக்கணத்தில் எத்தனை உறுப்புகள் உள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நான்கு",
+        "rationale": "சொல் நான்கு வகைப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "இலக்கணம் ஐந்து வகைப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "எழுத்து, அசை, சீர், தளை, அடி, தொடை என யாப்பு உறுப்புகள் ஆறு.",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "வேற்றுமை எட்டு வகைப்படும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுத்து, அசை, சீர் என்று தொடங்கும் பட்டியல்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "வெண்பாவிற்குரிய ஓசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகவலோசை",
+        "rationale": "அகவலோசை ஆசிரியப்பாவுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "துள்ளலோசை",
+        "rationale": "துள்ளலோசை கலிப்பாவுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "வெண்பா செப்பலோசை பெற்று வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "தூங்கலோசை வஞ்சிப்பாவுக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருவர் உரையாடுவது போன்ற ஓசை."
+  },
+  {
+    "questionNumber": 17,
+    "question": "ஆசிரியப்பாவிற்குரிய ஓசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செப்பலோசை",
+        "rationale": "இது வெண்பாவின் ஓசை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "ஆசிரியப்பா அகவலோசை பெற்று வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "துள்ளலோசை",
+        "rationale": "இது கலிப்பாவின் ஓசை.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "இது வஞ்சிப்பாவின் ஓசை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மயிலின் குரல் அல்லது ஒருவர் பேசுவது போன்ற ஓசை."
+  },
+  {
+    "questionNumber": 18,
+    "question": "முதல் எழுத்துக்கள் ஒன்றி வருவது எவ்வகைத் தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எதுகை",
+        "rationale": "இரண்டாம் எழுத்து ஒன்றி வருவது எதுகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோனை",
+        "rationale": "அடி அல்லது சீரின் முதல் எழுத்து ஒன்றி வருவது மோனை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "இறுதி எழுத்து அல்லது ஓசை ஒன்றி வருவது இயைபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முரண்",
+        "rationale": "சொற்கள் முரண்பட்டு வருவது முரண்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'முதலாவது' என்ற சொல்லின் முதல் எழுத்தை நினைவில் கொள்ளுங்கள்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "இரண்டாம் எழுத்து ஒன்றி வருவது எவ்வகைத் தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மோனை",
+        "rationale": "முதல் எழுத்து ஒன்றி வருவது மோனை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "இறுதி எழுத்து ஒன்றி வருவது இயைபு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "அடி அல்லது சீரின் இரண்டாம் எழுத்து ஒன்றி வருவது எதுகை.",
+        "isCorrect": true
+      },
+      {
+        "text": "அளபெடை",
+        "rationale": "எழுத்துக்கள் நீண்டு ஒலிப்பது அளபெடை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருக்குறளில் பெரும்பாலும் முதல் சீரின் இரண்டாம் எழுத்தும், அடியின் இரண்டாம் எழுத்தும் ஒன்றி வரும்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "அணியிலக்கணம் எதனை விளக்குகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்துகளின் பிறப்பு",
+        "rationale": "இது எழுத்திலக்கணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "செய்யுளின் அழகு",
+        "rationale": "அணி என்றால் அழகு. செய்யுளுக்கு அழகு சேர்ப்பது அணியிலக்கணம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சொற்களின் வகை",
+        "rationale": "இது சொல்லிலக்கணம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலங்களின் பாகுபாடு",
+        "rationale": "இது பொருளிலக்கணம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெண்கள் அணிகலன் அணிவது போலப் பாடலுக்கு அழகு சேர்ப்பது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "ஓர் எழுத்து தனித்தோ, பல எழுத்துக்கள் தொடர்ந்தோ பொருள் தருவது எவ்வாறு அழைக்கப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எழுத்து",
+        "rationale": "தனி எழுத்து சொல் ஆகாது (பொருள் தராவிடில்).",
+        "isCorrect": false
+      },
+      {
+        "text": "அசை",
+        "rationale": "அசை என்பது யாப்பின் உறுப்பு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்",
+        "rationale": "எழுத்து தனித்தோ தொடர்ந்தோ பொருள் தருவது சொல் (பதம்) எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொடை",
+        "rationale": "தொடை என்பது செய்யுள் உறுப்பு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழி, பதம், கிளவி என்பன இதன் வேறு பெயர்கள்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "பகுதி, விகுதி, இடைநிலை எனப் பிரிக்கக்கூடிய சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகாப்பதம்",
+        "rationale": "பகாப்பதம் பிரிக்க முடியாதது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகுபதம்",
+        "rationale": "பகுக்க (பிரிக்க) கூடிய சொல் பகுபதம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஓரெழுத்து ஒருமொழி",
+        "rationale": "இதுவும் ஒரு வகைச் சொல்லே, ஆனால் பிரிக்கும் தன்மை முக்கியமானது பகுபதத்திற்கே.",
+        "isCorrect": false
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "உரிச்சொல் ஒரு சொல் வகை, பிரித்தல் பற்றியது அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே 'பகு' (பிரி) என்று உள்ளது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "பகுதி, விகுதி எனப் பிரிக்க முடியாத சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகுபதம்",
+        "rationale": "பகுபதம் பிரிக்கக்கூடியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பகாப்பதம்",
+        "rationale": "பிரிக்க முடியாத சொல் பகாப்பதம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினைமுற்று",
+        "rationale": "பெரும்பாலான வினைமுற்றுகள் பகுபதங்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினையெச்சம்",
+        "rationale": "இவையும் பகுபதங்களே.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயரிலேயே 'பகா' (பிரிக்காத) என்று உள்ளது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "குறிஞ்சி நிலம் எவ்வகை நிலப்பகுதி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "இது முல்லை நிலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "இது மருத நிலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையும் மலை சார்ந்த இடமும்",
+        "rationale": "குறிஞ்சி என்பது மலையும் மலை சார்ந்த பகுதியாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடலும் கடல் சார்ந்த இடமும்",
+        "rationale": "இது நெய்தல் நிலம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலைப் பிரதேசம்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "நெடில் எழுத்து ஒலிப்பதற்குரிய மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1",
+        "rationale": "1 மாத்திரை குறிலுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "நெடில் எழுத்துக்கள் இரண்டு மாத்திரை கால அளவில் ஒலிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "0.5",
+        "rationale": "அரை மாத்திரை மெய்க்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "மூன்று மாத்திரை அளபெடைக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிலை விட இரண்டு மடங்கு நேரம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "மெய்யெழுத்து ஒலிப்பதற்குரிய மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1",
+        "rationale": "1 மாத்திரை குறிலுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "2 மாத்திரை நெடிலுக்கு உரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரை",
+        "rationale": "மெய்யெழுத்துக்கள் அரை மாத்திரை கால அளவில் ஒலிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்",
+        "rationale": "கால் மாத்திரை குறுக்கங்களுக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குறிலில் பாதி."
+  },
+  {
+    "questionNumber": 27,
+    "question": "ஆய்த எழுத்து ஒலிப்பதற்குரிய மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1",
+        "rationale": "குறிலுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரை",
+        "rationale": "ஆய்த எழுத்தும் மெய்யெழுத்தைப் போல அரை மாத்திரை பெறும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "நெடிலுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5",
+        "rationale": "இது ஐகாரக் குறுக்கத்தின் ஒரு வகை அளவு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மெய்யெழுத்தின் மாத்திரையே இதற்கும்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "தமிழ் எழுத்துக்களில் மெல்லின எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கசடதபற",
+        "rationale": "இவை வல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யரலவழள",
+        "rationale": "இவை இடையினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஙஞணநமன",
+        "rationale": "மூக்கினால் மென்மையாக ஒலிக்கும் ஙஞணநமன மெல்லினம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அஆஇஈ",
+        "rationale": "இவை உயிரெழுத்துக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூக்கின் உதவியுடன் ஒலிப்பவை."
+  },
+  {
+    "questionNumber": 29,
+    "question": "இடையின எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கசடதபற",
+        "rationale": "வல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யரலவழள",
+        "rationale": "வல்லினத்திற்கும் மெல்லினத்திற்கும் இடைப்பட்டு ஒலிக்கும் யரலவழள இடையினம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஙஞணநமன",
+        "rationale": "மெல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஷஸஜஹ",
+        "rationale": "வடமொழி எழுத்துக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வல்லினத்திற்கும் மெல்லினத்திற்கும் இடையில் உள்ளவை."
+  },
+  {
+    "questionNumber": 30,
+    "question": "மூன்றாம் வேற்றுமை உருபுகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐ",
+        "rationale": "இரண்டாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல், ஆன், ஒடு, ஓடு",
+        "rationale": "இவை மூன்றாம் வேற்றுமை உருபுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன், இல்",
+        "rationale": "ஐந்தாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'கத்தியால் வெட்டினான்' - இதில் வரும் உருபு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "நான்காம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை உருபு 'கு' ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஐ",
+        "rationale": "இரண்டாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது",
+        "rationale": "ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'அவனுக்குக் கொடு' - இதில் வரும் உருபு."
+  },
+  {
+    "questionNumber": 32,
+    "question": "ஐந்தாம் வேற்றுமை உருபுகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இல், இன்",
+        "rationale": "நீங்கல் பொருளில் வரும் இல், இன் ஆகியவை ஐந்தாம் வேற்றுமை உருபுகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது, ஆது",
+        "rationale": "ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல்",
+        "rationale": "மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'ஊரின் நீங்கினான்' - இதில் வரும் உருபு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "ஆறாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அது",
+        "rationale": "உடைமைப் பொருளில் வரும் 'அது' ஆறாம் வேற்றுமை உருபு.",
+        "isCorrect": true
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐ",
+        "rationale": "இரண்டாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'ராமனது வில்' - இதில் வரும் உருபு."
+  },
+  {
+    "questionNumber": 34,
+    "question": "ஏழாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்",
+        "rationale": "இடப்பொருளில் வரும் 'கண்' ஏழாம் வேற்றுமை உருபு.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது",
+        "rationale": "ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல்",
+        "rationale": "மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'வீட்டின் கண் உள்ளது' - இடத்தைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "பாலை நிலத்திற்குரிய தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "குறிஞ்சி நிலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை (பகவதி)",
+        "rationale": "வறண்ட நிலமான பாலைக்குக் கொற்றவை தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "முல்லை நிலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "மருத நிலம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெண் தெய்வம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "முல்லை நிலம் எவ்வகை நிலப்பகுதி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலையும் மலை சார்ந்த இடமும்",
+        "rationale": "குறிஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "முல்லை என்பது காடும் காடு சார்ந்த இடமும் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "மருதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடலும் கடல் சார்ந்த இடமும்",
+        "rationale": "நெய்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரங்கள் அடர்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 37,
+    "question": "மருத நிலம் எவ்வகை நிலப்பகுதி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "மருதம் என்பது வயலும் வயல் சார்ந்த பகுதியாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலையும் மலை சார்ந்த இடமும்",
+        "rationale": "குறிஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "முல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணலும் மணல் சார்ந்த இடமும்",
+        "rationale": "பாலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விவசாயம் நடைபெறும் இடம்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "நெய்தல் நிலம் எவ்வகை நிலப்பகுதி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடலும் கடல் சார்ந்த இடமும்",
+        "rationale": "நெய்தல் என்பது கடலும் கடல் சார்ந்த பகுதியாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "முல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையும் மலை சார்ந்த இடமும்",
+        "rationale": "குறிஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "மருதம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மீனவர்கள் வசிக்கும் பகுதி."
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாலை நிலம் எவ்வகை நிலப்பகுதி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணலும் மணல் சார்ந்த வறண்ட இடமும்",
+        "rationale": "பாலை என்பது நீர் வற்றிய வறண்ட நிலப்பகுதியாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "முல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "மருதம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடலும் கடல் சார்ந்த இடமும்",
+        "rationale": "நெய்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீர் இல்லாத வறண்ட பகுதி."
+  },
+  {
+    "questionNumber": 40,
+    "question": "அசையின் வகைகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நேர், நிரை",
+        "rationale": "அசை, நேரசை மற்றும் நிரையசை என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயல், இசை",
+        "rationale": "தமிழின் பிரிவுகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறில், நெடில்",
+        "rationale": "எழுத்தின் வகைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகம், புறம்",
+        "rationale": "பொருள் வகைகள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "யாப்பின் அடிப்படை உறுப்புகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 41,
+    "question": "கலிப்பாவிற்குரிய ஓசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துள்ளலோசை",
+        "rationale": "கலிப்பா துள்ளலோசை பெற்று வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "வெண்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "ஆசிரியப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "வஞ்சிப்பா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கன்று துள்ளுவது போன்ற ஓசை."
+  },
+  {
+    "questionNumber": 42,
+    "question": "வஞ்சிப்பாவிற்குரிய ஓசை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தூங்கலோசை",
+        "rationale": "வஞ்சிப்பா தூங்கலோசை பெற்று வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "துள்ளலோசை",
+        "rationale": "கலிப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகவலோசை",
+        "rationale": "ஆசிரியப்பா.",
+        "isCorrect": false
+      },
+      {
+        "text": "செப்பலோசை",
+        "rationale": "வெண்பா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாலாட்டுப் பாடுவது போன்ற ஓசை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "ஒரு பொருளை மற்றொரு பொருளோடு ஒப்பிட்டுக் கூறுவது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமையணி",
+        "rationale": "ஒன்றை மற்றொன்றோடு ஒப்பிடுவது உவமையணி.",
+        "isCorrect": true
+      },
+      {
+        "text": "உருவக அணி",
+        "rationale": "உவமையும் பொருளும் வேறு வேறல்ல என்று கூறுவது உருவகம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பின்வருநிலையணி",
+        "rationale": "சொல்லோ பொருளோ திரும்ப வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலேடை அணி",
+        "rationale": "ஒரு சொல் பல பொருள் தருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "'போல' என்ற உருபு மறைந்தோ வெளிப்படையோ வரும்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "உவமையும் பொருளும் வேறு வேறல்ல, ஒன்றே என ஒற்றுமைப்படுத்திக் கூறுவது எவ்வகை அணி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருவக அணி",
+        "rationale": "உவமேயத்தின் மேல் உவமையை ஏற்றிக் கூறுவது உருவகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உவமையணி",
+        "rationale": "ஒப்பிட்டுக் கூறுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தற்குறிப்பேற்ற அணி",
+        "rationale": "இயல்பாக நடக்கும் நிகழ்ச்சியின் மீது கவிஞர் தன் குறிப்பை ஏற்றுவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சப்புகழ்ச்சி அணி",
+        "rationale": "பழிப்பது போலப் புகழ்வதும், புகழ்வது போலப் பழிப்பதும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மதிமுகம் என்பது உவமை, முகமதி என்பது..."
+  },
+  {
+    "questionNumber": 45,
+    "question": "அடியில் உள்ள இறுதி எழுத்து, அசை அல்லது சீர் ஒன்றி வருவது எவ்வகைத் தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயைபு",
+        "rationale": "இறுதியில் ஒன்றி வருவது இயைபுத் தொடை.",
+        "isCorrect": true
+      },
+      {
+        "text": "மோனை",
+        "rationale": "முதலில் ஒன்றி வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "இரண்டாவதாக ஒன்றி வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முரண்",
+        "rationale": "மாறுபட்டு வருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ரைமிங் (Rhyming) என்று ஆங்கிலத்தில் கூறுவர்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "சொற்கள் முரண்பட்டு வருவது எவ்வகைத் தொடை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முரண்",
+        "rationale": "சொல்லோ பொருளோ முரண்பட்டு வருவது முரண் தொடை (எ-டு: இரவு - பகல்).",
+        "isCorrect": true
+      },
+      {
+        "text": "இயைபு",
+        "rationale": "ஒன்றி வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோனை",
+        "rationale": "ஒன்றி வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எதுகை",
+        "rationale": "ஒன்றி வருவது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எதிர்ச்சொற்கள் வருவது போல அமைவது."
+  },
+  {
+    "questionNumber": 47,
+    "question": "தொன்னூல் விளக்கம் எந்த நூற்றாண்டு நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "18-ஆம் நூற்றாண்டு",
+        "rationale": "வீரமாமுனிவர் 18-ஆம் நூற்றாண்டில் வாழ்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "12-ஆம் நூற்றாண்டு",
+        "rationale": "கம்பர், ஒட்டக்கூத்தர் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "20-ஆம் நூற்றாண்டு",
+        "rationale": "பாரதியார் காலம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சங்க காலம்",
+        "rationale": "மிகப் பழமையானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐரோப்பியர் வருகை இருந்த காலம்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "தொன்னூல் விளக்கத்தின் ஆசிரியர் எந்த நாட்டைச் சேர்ந்தவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இத்தாலி",
+        "rationale": "வீரமாமுனிவர் இத்தாலி நாட்டைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இங்கிலாந்து",
+        "rationale": "போப் ஐயர் இங்கிலாந்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரான்ஸ்",
+        "rationale": "தவறான விடை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஜெர்மனி",
+        "rationale": "சீகன் பால்கு ஐயர் ஜெர்மனி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ரோம் நகரம் உள்ள நாடு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "பெயருக்கும் வினைக்கும் இடையில் நின்று பொருள் உணர்த்தும் சொல் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இடைச்சொல்",
+        "rationale": "பெயரையும் வினையையும் சார்ந்து இயங்கும் சொல் இடைச்சொல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "பண்பை உணர்த்தும் சொல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "ஒன்றின் பெயரைக்குறிப்பது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "செயலைக் குறிப்பது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உம், மற்று, ஏ போன்றவை."
+  },
+  {
+    "questionNumber": 50,
+    "question": "செய்யுளுக்குப் பலவகையான பண்புகளைக் கூறி அழகு சேர்ப்பது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உரிச்சொல்",
+        "rationale": "சால, உறு போன்றவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடைச்சொல்",
+        "rationale": "சார்ந்து வருவது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெயர்ச்சொல்",
+        "rationale": "பெயரைச் சொல்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினைச்சொல்",
+        "rationale": "வினையைச் சொல்வது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சாலச் சிறந்தது - இதில் 'சால' என்பது."
+  }
+]
