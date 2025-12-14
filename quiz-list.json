@@ -53,11 +53,18 @@
   {
     "category": "இலக்கணங்கள்",
     "quizzes": [
-      { "file": "Agathiyam.json", "title": "அகத்தியம்" },
+      { "file": "Agapporul_Vilakkam.json", "title": "அகப்பொருள் விளக்கம்" },
+      { "file": "Ilakkana_Churukkam.json", "title": "இலக்கணச்சுருக்கம்" },
+      { "file": "Iraiyanar_Agapporul.json", "title": "இறையனார் அகப்பொருள்" },
+      { "file": "Sindhuppaviyal.json", "title": "சிந்துப்பாவியல்" },
+      { "file": "Choodamani_Nigandu.json", "title": "சூடாமணி நிகண்டு" },
+      { "file": "Thandialangaram.json", "title": "தண்டியலங்காரம்" },
       { "file": "Tolkappiyam.json", "title": "தொல்காப்பியம்" },
+      { "file": "Thonnool_Vilakkam.json", "title": "தொன்னூல் விளக்கம்" },
       { "file": "Nannul.json", "title": "நன்னூல்" },
-      { "file": "Yapperungalam.json", "title": "யாப்பருங்கலம்" },
-      { "file": "Thandialangaram.json", "title": "தண்டியலங்காரம்" }
+      { "file": "Neminatham.json", "title": "நேமிநாதம்" },
+      { "file": "Yapperungala_Karigai.json", "title": "யாப்பருங்கலக் காரிகை" },
+      { "file": "Vadamalai_Nigandu.json", "title": "வடமலை நிகண்டு" }
     ]
   }
 ]
