@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "ஆசாரக்கோவையின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "தவறு. இவர் சங்கப் புலவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளம்பி நாகனார்",
+        "rationale": "தவறு. இவர் நான்மணிக்கடிகை ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருவாயின் முள்ளியார்",
+        "rationale": "சரி. ஆசாரக்கோவையை இயற்றியவர் பெருவாயின் முள்ளியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூதஞ்சேந்தனார்",
+        "rationale": "தவறு. இவர் இனியவை நாற்பது ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வ.எண் 3 மற்றும் 12-ல் ஆசிரியர் பெயர் குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 2,
+    "question": "ஆசாரக்கோவை குறிப்பிடும் 'ஆசார வித்துக்கள்' எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எட்டு",
+        "rationale": "சரி. நன்றி அறிதல், பொறையுடைமை, இன்சொல், இன்னாத செய்யாமை, கல்வி, ஒப்புரவு அறிதல், அறிவுடைமை, நல்லினத்தாரோடு நட்டல் ஆகிய எட்டும் ஆசார வித்துக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பத்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 1: 'நன்றி யறிதல்...' எனத் தொடங்கும் பாடலில் எண்ணிக்கை குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "ஒழுக்கம் தவறாதவர் அடையும் நன்மைகளாக ஆசாரக்கோவை எவற்றைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிறப்பு, நெடுவாழ்க்கை, செல்வம், வனப்பு, நிலக்கிழமை, மீக்கூற்றம், கல்வி, நோயின்மை",
+        "rationale": "சரி. ஒழுக்கம் பிழையாதவர் இந்த எட்டு நன்மைகளையும் அடைவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அறம், பொருள், இன்பம், வீடு",
+        "rationale": "தவறு. இவை உறுதிப் பொருட்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம், வெற்றி, புகழ்",
+        "rationale": "தவறு. இவை போர்க்களப் பண்புகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன், பொருள், பூமி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 2: 'இவ்வெட்டும் எய்துப' என்று குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "எவற்றை முப்பால் ஒழுக்கத்துடன் காக்க வேண்டும், இல்லையேல் அவை கெடும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மனை, மக்கள், சுற்றம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தக்கிணை, வேள்வி, தவம், கல்வி",
+        "rationale": "சரி. இந்நான்கும் ஒழுக்கத்தினால் காக்கப்பட வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாடு, அரண், படை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொன், மணி, நெல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 3-ல் வேள்வி மற்றும் தவத்தோடு தொடர்புடைய பட்டியல் உள்ளது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "வைகறையில் துயிலெழுந்து எவற்றைச் சிந்திக்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உணவு மற்றும் உடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நல்லறமும் ஒண்பொருளும்",
+        "rationale": "சரி. அறத்தையும் பொருளையும் சிந்தித்து பெற்றோரைத் தொழ வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைவர் மற்றும் போர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேளிக்கை மற்றும் விளையாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 4: 'நல்லறமும் ஒண்பொருளும் சிந்தித்து'."
+  },
+  {
+    "questionNumber": 6,
+    "question": "எச்சிலுடன் தீண்டத் தகாதவை எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பசு, பார்ப்பார், தீ, தேவர், தலை",
+        "rationale": "சரி. எச்சிலுடன் இருக்கும்போது பசு, அந்தணர், தீ, கடவுள் மற்றும் தலையைத் தொடக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கதவு, சுவர், தூண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆடை, அணிகலன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர், நிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 5: புனிதமானவற்றையும் தலையையும் எச்சிலுடன் தொடக்கூடாது."
+  },
+  {
+    "questionNumber": 7,
+    "question": "எச்சிலுடன் எவற்றைப் பார்க்கக் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வானம், பூமி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலை, திங்கள், ஞாயிறு, நாய், வீழ்மீன்",
+        "rationale": "சரி. புலையர், சந்திரன், சூரியன், நாய், எரிநட்சத்திரம் ஆகியவற்றை எச்சிலுடன் பார்க்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மரம், செடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல், ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 6: வானில் உள்ள சுடர்கள் மற்றும் நாயுடன் தொடர்புடையது."
+  },
+  {
+    "questionNumber": 8,
+    "question": "ஆசாரக்கோவை குறிப்பிடும் நால்வகை எச்சில்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உணவு, நீர், வெற்றிலை, மருந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயக்கம் இரண்டும், இணைவிழைச்சு, வாயின் விழைச்சு",
+        "rationale": "சரி. மல ஜலம் கழித்தல் (2), பாலுறவு, வாய் எச்சில் ஆகியவை நால்வகை எச்சில்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தும்மல், இருமல், கொட்டாவி, வியர்வை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை, கால், கண், காது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 7-ல் உடல் கழிவுகள் மற்றும் உறவு பற்றிக் கூறப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "எத்தனை சந்தர்ப்பங்களில் ஐயுறாது நீராட வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈரைந்து (பத்து)",
+        "rationale": "சரி. தேவர் வழிபாடு, தீக்கனா, வாலாமை உள்ளிட்ட பத்து சந்தர்ப்பங்களில் குளிக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பன்னிரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 10: 'ஈரைந்தும் ஐயுறாது ஆடுக நீர்'."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நீராடும் முறை குறித்து ஆசாரக்கோவை கூறுவது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உடுத்திய ஆடையை நீருள் பிழியக் கூடாது",
+        "rationale": "சரி. உடுத்தாடை நீருள் பிழியார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆடையின்றி நீராட வேண்டும்",
+        "rationale": "தவறு. 'ஒன்றுடுத்து உண்ணார்' என்பது போல 'உடுத்தலால் நீராடார்' (முழு நிர்வாணமாக நீராடக்கூடாது) என்றும் கூறப்படுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்ணெய் தேய்க்கக் கூடாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவில் நீராட வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 11-ல் ஆடை பிழிதல் பற்றிக் கூறப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 11,
+    "question": "எண்ணெய் தேய்த்த பின் எதைத் தீண்டக் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எவ்வுறுப்பையும்",
+        "rationale": "சரி. தலையுரைத்த எண்ணெயால் எவ்வுறுப்பும் தீண்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துணியை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தரையை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 12: தலையில் வைத்த கையை உடலில் வைக்கக்கூடாது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "தம் உடலைப் போலவே போற்றத்தக்க ஐம்பூதங்கள் (சக்திகள்) எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலம், நீர், தீ, வளி, வெளி",
+        "rationale": "தவறு. இவை இயற்கைப் பூதங்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பூதம், பார்ப்பார், பசு, திங்கள், ஞாயிறு",
+        "rationale": "சரி. பஞ்சபூதங்களோடு அந்தணர், பசு, சந்திரன், சூரியன் ஆகியவற்றை இகழாமல் போற்ற வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசன், அந்தணன், வணிகன், வேளாளன், குரு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தாய், தந்தை, குரு, தெய்வம், விருந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 15: இயற்கைச் சக்திகளுடன் பசுவையும் அந்தணரையும் சேர்க்கிறது."
+  },
+  {
+    "questionNumber": 13,
+    "question": "தேவரைப் போலத் தொழத்தக்க ஐவர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அரசன், உவாத்தியான், தாய், தந்தை, தம்முன்",
+        "rationale": "சரி. அரசன், ஆசிரியர், தாய், தந்தை, தமையன் (மூத்த சகோதரன்) ஆகியோர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிரம்மா, விஷ்ணு, சிவன், முருகன், விநாயகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைச்சர், சேனாதிபதி, தூதுவர், சாரணர், ஒற்றர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர், பகைவர், அயலார், உறவினர், நதுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 16: குடும்ப உறவுகள் மற்றும் குரு, அரசன்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "உண்ணும் போது எந்தத் திசையை நோக்கி உண்ண வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வடக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிழக்கு",
+        "rationale": "சரி. 'உண்ணுங்கால் நோக்கும் திசை கிழக்கு' என்று பாடல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 20-ல் சூரியன் உதிக்கும் திசை குறிப்பிடப்பட்டுள்ளது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "யார் யாருக்கு உணவு அளித்த பின்பே உண்ண வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விருந்தினர், மூத்தோர், பசு, சிறை, பிள்ளை",
+        "rationale": "சரி. விருந்தினர், முதியோர், பசு, பறவைகள்/விலங்குகள் (சிறை), குழந்தைகள் ஆகியோருக்கு அளித்த பின்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசன், சேவகன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்கள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தானே முதலில் உண்ணலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 21: விருந்தினர் மற்றும் வாயில்லா ஜீவன்கள்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "கைப்பு (கசப்பு) மற்றும் இனிப்பு சுவைகளை உண்ணும் வரிசை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இனிப்பு கடைசியில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கைப்பன எல்லாம் கடைதலை, தித்திப்ப மெச்சும் வகையால் ஒழிந்த இடையாக",
+        "rationale": "சரி. கசப்புச் சுவையுடையன கடைசியிலும், இனிப்பு முதலிலும், மற்றவை இடையிலும் உண்ண வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "எல்லாம் கலந்து உண்ண வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கசப்பு முதலில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 25-ல் சுவைகளின் வரிசை உள்ளது."
+  },
+  {
+    "questionNumber": 17,
+    "question": "உண்ணும் கலங்களைக் கையாளும் முறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெரிய கலத்தை தான் வைத்துக்கொள்ள வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உண்பவற்றுள் எல்லாம் சிறிய கடைப்பிடித்து",
+        "rationale": "சரி. உண்பவர்களுள் சிறிய கலத்தைத் தான் எடுத்துக்கொள்ள வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முதியவரை பக்கத்தில் வைக்க வேண்டும்",
+        "rationale": "தவறு. 'முதியவரைப் பக்கத்து வையார்' என்று பாடல் கூறுகிறது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கலத்தை மாற்றிக்கொள்ளலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 26: அன்பினால் சிறிய கலத்தைத் தான் கொள்ள வேண்டும்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "உண்ட பின் வாய் சுத்தம் செய்யும் முறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முக்கால் குடித்து, துடைத்து, விரலுறுத்தி வாய்பூசல்",
+        "rationale": "சரி. மூன்று முறை நீர் குடித்து, விரலால் தேய்த்து வாய் கழுவ வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உடனே படுக்க வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெற்றிலை போட வேண்டும்",
+        "rationale": "தவறு. (இது பின்னர் வரலாம், ஆனால் சுத்தப்படுத்தும் முறை இதுவல்ல).",
+        "isCorrect": false
+      },
+      {
+        "text": "பேச வேண்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 27: நீர் அருந்தி விரலால் சுத்தம் செய்தல்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "தண்ணீர் பருகும் போது தவிர்க்க வேண்டியது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருகையால் தண்ணீர் பருகார்",
+        "rationale": "சரி. இரண்டு கைகளையும் பிடித்துக் குடிக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமர்ந்து பருகுதல்",
+        "rationale": "தவறு. இது நல்ல பழக்கம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு கையில் பருகுதல்",
+        "rationale": "தவறு. ஒரு கையில் குவளையைப் பிடிப்பது தவறல்ல, இரு கையும் கூடாது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அண்ணாந்து குடித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 28: கைகளின் பயன்பாடு பற்றி."
+  },
+  {
+    "questionNumber": 20,
+    "question": "மாலை நேரத்தில் (அந்திப் பொழுது) செய்யக்கூடாதவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிடத்தல், நடத்தல், உண்ணல், வெகுளல், விளக்கு இகழ்தல்",
+        "rationale": "சரி. மாலையில் உறங்க, நடக்க, உண்ண, கோபப்பட, விளக்கினை இகழக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோவில் செல்லுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாடுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 29: ஐந்து செயல்கள் தவிர்க்கப்பட வேண்டும்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "உறங்கும் போது தலை வைக்கக் கூடாத திசைகள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிழக்கு மற்றும் மேற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வடக்கு மற்றும் கோணம்",
+        "rationale": "சரி. வடக்கிலும், மூலைகளிலும் தலை வைக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தெற்கு மற்றும் கிழக்கு",
+        "rationale": "தவறு. இவை நல்ல திசைகள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எத் திசையும் ஆகலாம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 30: காந்த திசையும் மூலைகளும்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "மலசலம் கழிக்கக் கூடாத இடங்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புல், ஆப்பி (சாணம்), சுடலை, வழி, தீர்த்தம், தேவகுலம், நிழல்",
+        "rationale": "சரி. புல், சாணம், சுடுகாடு, வழி, நீர், கோவில், நிழல் ஆகிய இடங்களில் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கழிவறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "காடு",
+        "rationale": "தவறு. ஒதுக்குப்புறமான காடு அனுமதிக்கப்படலாம் (நிழல் தவிர்த்து).",
+        "isCorrect": false
+      },
+      {
+        "text": "மணல் வெளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 32: புனிதமான மற்றும் பொது இடங்கள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "மலசலம் கழிக்கும் போது தவிர்க்க வேண்டிய திசைகள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகல் தெற்கு நோக்கார், இரா வடக்கு நோக்கார்",
+        "rationale": "சரி. பகலில் தெற்கையும், இரவில் வடக்கையும் நோக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிழக்கு மற்றும் மேற்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எப்போதும் வடக்கு நோக்கக் கூடாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எப்போதும் தெற்கு நோக்கக் கூடாது",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 33: பகலிலும் இரவிலும் திசை மாறுபடும்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "வாய் பூசக் (கழுவ) கூடாத இடங்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நடைவரவு, நீரகத்து, வழிநிலை",
+        "rationale": "சரி. நடக்கும்போது, நீருக்குள் இருக்கும்போது, வழியில் நின்று வாய் கொப்பளிக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீட்டின் பின்புறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குளியலறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 35: நீருக்குள் இருந்தே நீர் உமிழ்வது தவறு."
+  },
+  {
+    "questionNumber": 25,
+    "question": "எவற்றைச் சிந்தித்தால் நரகம் கிடைக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பொய், குறளை, வௌவல், அழுக்காறு",
+        "rationale": "சரி. பொய், புறங்கூறுதல், பிறர் பொருள் கவர்தல், பொறாமை ஆகியவற்றைச் சிந்தித்தாலே நரகம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொலை, களவு",
+        "rationale": "தவறு. இவை செயல்கள் (பாடல் 37), சிந்தனைப் பாவங்கள் பாடல் 38-ல் உள்ளன.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபம், காமம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சோம்பல், உறக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 38: நான்கு மனக் குற்றங்கள்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "எப்போது உணவு உண்ண வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பசி எடுத்தவுடன்",
+        "rationale": "தவறு. (பொது விதி சரி என்றாலும், ஆசாரக்கோவை கூறுவது வேறு).",
+        "isCorrect": false
+      },
+      {
+        "text": "மனைப்பலி ஊட்டினமை கண்டு",
+        "rationale": "சரி. தெய்வங்களுக்குப் பலி இட்ட பின்பே உண்ண வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "விருந்தினர் வந்த பிறகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவு நேரத்தில் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 39: பலி இடுதல் முக்கியம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "கணவன் மனைவி சேரக் கூடாத நாட்கள் (தீண்டாநாள்)?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தீண்டாநாள் முந்நாளும், நீராடிய பின் ஈராறு நாளும்",
+        "rationale": "சரி. மாதவிடாய் மறும் விரத காலங்களில் விலக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாரம் முழுவதும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமாவாசை மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பௌர்ணமி மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 42: மூன்று மற்றும் பன்னிரண்டு நாட்கள்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "உடன் உறைதலுக்கு ஆகாத காலங்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உச்சியம் போழ்து, இடையாமம், ஈரந்தி, உவா, அட்டமி, பிறந்தநாள்",
+        "rationale": "சரி. நண்பகல், நள்ளிரவு, சந்தி வேளைகள், உவா, அட்டமி, பிறந்தநாள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "காலை வேளை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழைக்காலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விடுமுறை நாட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 43: பொழுதுகள் மற்றும் திதிகள்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "வீட்டைப் பேணும் முறையில் அடுப்பில் எப்போது தீ இட வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிறுகாலை (விடியற்காலை)",
+        "rationale": "சரி. வீட்டைத் தூய்மை செய்து சிறுகாலையில் தீ இட வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 46: தூய்மை செய்த பின் காலையில்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "நூல் ஓதக் (படிக்கக்) கூடாத நாட்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அட்டமி, உவா, பதினான்கு (சதுர்த்தசி)",
+        "rationale": "சரி. மேலும் நில நடுக்கம் போன்ற காலங்களிலும் ஓதக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திங்கள், புதன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஞாயிறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 47: திதிகள் மற்றும் இயற்கைப் பேரிடர் காலங்கள்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "அறம் செய்வதற்கும் விருந்து அளிப்பதற்கும் சிறந்த ஐந்து நாட்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கல்யாணம், தேவர் விழா, பிதிர் விழா, வேள்வி",
+        "rationale": "சரி. (பாடல் 48-ல் ஐவகை நாள் என்றுள்ளது).",
+        "isCorrect": true
+      },
+      {
+        "text": "பிறந்த நாள்",
+        "rationale": "தவறு (இதில் மட்டும் அடங்காது).",
+        "isCorrect": false
+      },
+      {
+        "text": "பண்டிகை நாட்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஞாயிறு தோறும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 48: மங்கல மற்றும் புனித நாட்கள்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "குடிமைக்கும் கல்விக்கும் தக்க செயல்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உடை, நடை, சொற்சோர்வு இன்மை, வைதல் இன்மை",
+        "rationale": "சரி. உடை, நடை, சொல், திట్టாமை ஆகியவை தகுதிக்கு ஏற்ப இருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செல்வம், செல்வாக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம், வெற்றி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அழகு, இளமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 49: வெளித் தோற்றம் மற்றும் பேச்சு."
+  },
+  {
+    "questionNumber": 33,
+    "question": "கேள்வி அறிவு உடையவர் எதைச் செய்ய மாட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பலருள் உறங்கார், இசையாத நேர்ந்து கரவார்",
+        "rationale": "சரி. சபையில் உறங்கமாட்டார், செய்ய முடியாததைச் செய்வேன் என்று கூறமாட்டார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பேச மாட்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உண்ண மாட்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிரிக்க மாட்டார்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 50: சபையில் உறக்கம் மற்றும் பொய் வாக்குறுதி."
+  },
+  {
+    "questionNumber": 34,
+    "question": "தம் உடல் ஒளி வேண்டுபவர் எதைப் பார்க்கக் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னல், வீழ்மீன், வேசையர் கோலம், சூரியன்",
+        "rationale": "சரி. கண்கள் மற்றும் மனதைக் கெடுப்பவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு, விண்மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல், மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 51: பிரகாசமான மற்றும் கவர்ச்சியானவை."
+  },
+  {
+    "questionNumber": 35,
+    "question": "தளராத உள்ளம் கொண்டவர் எதைச் சொல்ல மாட்டார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "படிறு, பயனில, பட்டியுரை, வசை, புறன்",
+        "rationale": "சரி. வஞ்சனை, பயனற்றது, பொய், பழி, புறங்கூறுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உண்மை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவுரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 52: தீய சொற்கள்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "விருந்தினர்க்குச் செய்யும் சிறப்பு?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முறுவல், இனிதுரை, கால்நீர், இணைபாய், கிடக்கை",
+        "rationale": "சரி. புன்னகை, இன்சொல், கால் கழுவ நீர், படுக்கப் பாய்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பணம் தருதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உடை அளித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்ந்து பேசுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 54: உபசரிப்பு முறைகள்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "அறிவினார் விரும்பாத இடங்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பகைமுனை, கள்ளாட்டுக் கண்",
+        "rationale": "சரி. போர்முனை மற்றும் களியாட்டம் நடைபெறும் இடங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பள்ளி, சபை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீடு, தோட்டம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 55: ஆபத்தான இடங்கள்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தனியாகச் செல்லக் கூடாத இடங்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாழ்மனை, தேவகுலம், சுடுகாடு, ஒற்றை முதுமரம்",
+        "rationale": "சரி. பாழடைந்த வீடு, தனிக்கோவில், சுடுகாடு, ஒற்றை மரம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடைவீதி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர் வீடு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொது வழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 57: அச்சம் தரும் இடங்கள்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "புறப்படும் போது எவை நிகழ்ந்தால் செல்லக்கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிற்கூவார், தும்மார், வழுக்கியும்",
+        "rationale": "சரி. பின்னால் அழைத்தல், தும்முதல், வழுக்குதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மணி ஒலித்தால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை பெய்தால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்லி கத்தினால்",
+        "rationale": "தவறு (இதுவும் சகுனம் தான், ஆனால் பாடலில் உள்ளவை வேறு).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 58: தடங்கல்கள்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "பெரியோருடன் செல்லும் போது செய்ய வேண்டியவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செருப்பு ஏறார், வெயில் மறையார், நிழல் மிதிக்கார்",
+        "rationale": "சரி. செருப்பு அணியக்கூடாது, நிழலை மிதிக்கக்கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன் செல்லுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேசிக் கொண்டே செல்லுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை கோர்த்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 60: அடக்கம் மற்றும் மரியாதை."
+  },
+  {
+    "questionNumber": 41,
+    "question": "நான்மறையாளர் (வேதியர்) யாரைப் போல மதிக்கப்பட வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தம் குரவரைப் போல (பெற்றோர்/ஆசிரியர்)",
+        "rationale": "சரி.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரசரைப் போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பரைப் போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெய்வம் போல",
+        "rationale": "தவறு (பாடல் குறிப்பிடுவது குரவர்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 61: 'பால் தம் குரவரைப் போலொழுகல்'."
+  },
+  {
+    "questionNumber": 42,
+    "question": "குரவர்க்குச் செய்யும் ஆசாரங்கள் (மரியாதை) எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கால்வாய்த் தொழுவு, சமயம் எழுந்திருப்பு",
+        "rationale": "சரி. காலில் விழுதல், கண்டவுடன் எழுந்து நிற்றல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பணம் தருதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விருந்து வைத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 62: உடல் மொழி மரியாதை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "யார் தனித்து இருக்கக் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஈன்றாள், மகள், உடன்பிறந்தாள் ஆயினும் சான்றார் தமித்து உறையற்க",
+        "rationale": "சரி. தாய், மகள், சகோதரியுடன் ஆண்கள் தனித்திருக்கக் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முதியவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 65: ஐம்புலன் அடக்கம் அரிது என்பதால்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "மன்னருடன் பழகும் முறை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடைவிலக்கில் காயார் (நெருப்பைப் போல)",
+        "rationale": "சரி. தீயில் குளிர் காய்வது போல அளவாக இருக்க வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மிக நெருக்கமாக",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலகி நின்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நட்புடன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 66: நெருப்பு உதாரணம்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "மன்னன் முன் செய்யக் கூடாதவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உமிழ்தல், உயர்ந்துழி ஏறல், பாக்கு மெல்லல்",
+        "rationale": "சரி. துப்புதல், உயர்ந்த ஆசனத்தில் அமர்தல், வெற்றிலை போடுதல் கூடாது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வணங்குதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பேசுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிரித்தல்",
+        "rationale": "தவறு (நகைத்தல் கூடாது என்றாலும், மேற்கண்ட மூன்றும் முக்கியம்).",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 70: அவமரியாதையான செயல்கள்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "சான்றோர் அவையில் செய்யக் கூடாதவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உடுக்கை இகவார், செவிசொறுண்டார், கைமேல் எடுத்துரையார்",
+        "rationale": "சரி. ஆடை நெகிழ்வதைப் பொருட்படுத்தாமை, காது குடைதல், கை ஓங்கிப் பேசுதல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினா கேட்டல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறிப்பு எடுத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதி காத்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 75: சபையின் கண்ணியம் கெடும் செயல்கள்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "எவற்றைப் பொன்னைப் போலப் போற்றிக் காக்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தன்னுடம்பு, தாரம், அடைக்கலம், தன்னுயிர்க்கு என்று வைத்த பொருள்",
+        "rationale": "சரி. உடல், மனைவி, அடைக்கலப் பொருள், சேமிப்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலம், வீடு, வாகனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புகழ், பெருமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி, கேள்வி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 95: பாதுகாப்பிற்குரிய சொந்தப் பொருட்கள்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "எறும்பு, தூக்கணாங்குருவி, காகம் இவற்றிடம் இருந்து எவற்றைக் கற்க வேண்டும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தம் கருமம் நல்ல கடைப்பிடித்தல் (சேமிப்பு மற்றும் ஒற்றுமை)",
+        "rationale": "சரி. எறும்பு/குருவி போல் சேமிப்பும், காகம் போல் சுற்றம் தழுவலும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுறுசுறுப்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூடு கட்டுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறக்கும் திறன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 96: எதிர்காலத் தேவை மற்றும் பகிர்வு."
+  },
+  {
+    "questionNumber": 49,
+    "question": "பழகியவை என்று எவற்றை இகழக் கூடாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பு, அரசு, நெருப்பு, சிங்கம்",
+        "rationale": "சரி. இவை இளையதாக/சிறியதாக இருந்தாலும் ஆபத்தானவை.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாய், பூனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உறவினர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாடல் 84: ஆபத்தான நான்கு."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஆசாரக்கோவை எந்த நூல் தொகுப்பைச் சேர்ந்தது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பதினெண்கீழ்க்கணக்கு",
+        "rationale": "சரி.",
+        "isCorrect": true
+      },
+      {
+        "text": "எட்டுத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பத்துப்பாட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐம்பெருங்காப்பியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சங்க மருவிய கால நீதி நூல்கள்."
+  }
+]
