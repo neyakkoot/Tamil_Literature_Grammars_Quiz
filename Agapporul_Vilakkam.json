@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "அகப்பொருள் விளக்கம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொல்காப்பியர்",
+        "rationale": "தொல்காப்பியர் தொல்காப்பியத்தை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாற்கவிராச நம்பி",
+        "rationale": "அகப்பொருள் விளக்கம் நூலை இயற்றியவர் நாற்கவிராச நம்பி ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பவணந்தி முனிவர்",
+        "rationale": "பவணந்தி முனிவர் நன்னூலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் அகத்தியம் நூலின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் திருப்புலிங்குடி உய்யவந்தான் என்பவரின் புதல்வர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "அகப்பொருள் விளக்கம் எத்தனை இயல்களைக் கொண்டுள்ளது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "அகத்திணை இயல், களவியல், வரைவியல், கற்பியல், ஒழிபியல் என ஐந்து இயல்களைக் கொண்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணை, களவு, வரைவு, கற்பு, ஒழிபு ஆகியன."
+  },
+  {
+    "questionNumber": 3,
+    "question": "அகப்பொருள் விளக்க நூலில் உள்ள மொத்த நூற்பாக்களின் (சூத்திரங்கள்) எண்ணிக்கை யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "252",
+        "rationale": "நூலடைவின்படி ஆக மொத்தம் 252 சூத்திரங்கள் உள்ளன.",
+        "isCorrect": true
+      },
+      {
+        "text": "300",
+        "rationale": "இது தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "116",
+        "rationale": "116 என்பது அகத்திணை இயலின் சூத்திர எண்ணிக்கை மட்டுமே.",
+        "isCorrect": false
+      },
+      {
+        "text": "500",
+        "rationale": "இது தவறான எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அகத்திணை இயல் (116) + மற்ற இயல்களின் கூட்டுத்தொகை."
+  },
+  {
+    "questionNumber": 4,
+    "question": "அகத்திணை எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "ஐந்திணை என்பது அகத்திணையின் ஒரு பகுதி மட்டுமே.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏழு",
+        "rationale": "கைக்கிளை, ஐந்திணை, பெருந்திணை என அகத்திணை ஏழு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கைக்கிளை, பெருந்திணை மற்றும் ஐந்திணைகளை உள்ளடக்கியது."
+  },
+  {
+    "questionNumber": 5,
+    "question": "'ஒருதலைக் காமம்' என்று அழைக்கப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெருந்திணை",
+        "rationale": "பெருந்திணை என்பது பொருந்தாக் காமம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்திணை",
+        "rationale": "ஐந்திணை என்பது அன்புடைக் காமம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கைக்கிளை",
+        "rationale": "கைக்கிளை என்பது ஒருதலைக் காமம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாலை",
+        "rationale": "பாலை என்பது ஐந்திணைகளில் ஒன்று.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது காமம் சாலா இளமையோள் வயின் நிகழ்வது."
+  },
+  {
+    "questionNumber": 6,
+    "question": "'பொருந்தாக் காமம்' என்று அழைக்கப்படுவது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "குறிஞ்சி ஐந்திணையில் ஒன்று.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருந்திணை",
+        "rationale": "பெருந்திணை என்பது பொருந்தாக் காமம் ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கைக்கிளை",
+        "rationale": "கைக்கிளை என்பது ஒருதலைக் காமம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "முல்லை ஐந்திணையில் ஒன்று.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது அகத்திணையின் ஏழு வகைகளில் ஒன்று."
+  },
+  {
+    "questionNumber": 7,
+    "question": "அகப்பொருளுக்குரிய பொருள்கள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூன்று",
+        "rationale": "முதற்பொருள், கருப்பொருள், உரிப்பொருள் என மூன்று வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முதல், கரு, உரி ஆகியன."
+  },
+  {
+    "questionNumber": 8,
+    "question": "முதற்பொருள் என்பது எவற்றைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தெய்வம் மற்றும் மக்கள்",
+        "rationale": "இவை கருப்பொருள்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலமும் பொழுதும்",
+        "rationale": "நிலம் மற்றும் பொழுது ஆகிய இரண்டும் முதற்பொருள் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புணர்தலும் பிரிதலும்",
+        "rationale": "இவை உரிப்பொருள்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மரம் மற்றும் விலங்கு",
+        "rationale": "இவை கருப்பொருள்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காலமும் இடமும் சார்ந்தது."
+  },
+  {
+    "questionNumber": 9,
+    "question": "குறிஞ்சித் திணைக்குரிய நிலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காடும் காடு சார்ந்த இடமும்",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையும் மலை சார்ந்த இடமும்",
+        "rationale": "வரையே (மலையே) குறிஞ்சிக்குரிய நிலமாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயலும் வயல் சார்ந்த இடமும்",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடலும் கடல் சார்ந்த இடமும்",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வரை அல்லது குன்று சார்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 10,
+    "question": "முல்லைத் திணைக்குரிய நிலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுரம் (மணல்)",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புறவு (காடு)",
+        "rationale": "புறவு என்பது காடும் காடு சார்ந்த இடமும், இது முல்லைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பழனம் (வயல்)",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரை (கடல்)",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமால் உறையும் காடு சார்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 11,
+    "question": "மருதத் திணைக்குரிய நிலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வரை",
+        "rationale": "இது குறிஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழனம்",
+        "rationale": "பழனம் (வயல்) மருதத் திணைக்குரிய நிலமாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுரம்",
+        "rationale": "இது பாலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரை",
+        "rationale": "இது நெய்தல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உழவர்கள் வாழும் வயல் பகுதி."
+  },
+  {
+    "questionNumber": 12,
+    "question": "நெய்தல் திணைக்குரிய நிலம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலை",
+        "rationale": "இது குறிஞ்சி.",
+        "isCorrect": false
+      },
+      {
+        "text": "திரை (கடல்)",
+        "rationale": "திரை என்பது கடலைக் குறிக்கும், இது நெய்தலுக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காடு",
+        "rationale": "இது முல்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணல்",
+        "rationale": "இது பாலை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உப்பு விளையும் இடம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "பெரும்பொழுதுகள் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "கார், கூதிர், முன்பனி, பின்பனி, இளவேனில், முதுவேனில் என ஆறு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஓர் ஆண்டின் ஆறு பிரிவுகள்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "குறிஞ்சித் திணைக்குரிய பெரும்பொழுதுகள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கார் காலம்",
+        "rationale": "கார் காலம் முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூதிர், முன்பனி",
+        "rationale": "குளிரும் பனியும் மிகுந்த கூதிர் மற்றும் முன்பனி குறிஞ்சிக்குரியன.",
+        "isCorrect": true
+      },
+      {
+        "text": "வேனில்",
+        "rationale": "வேனில் பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளவேனில்",
+        "rationale": "இது மருதம் மற்றும் நெய்தலுக்கும் உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குளிரும் பனியும் நிலவும் காலங்கள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "முல்லைத் திணைக்குரிய பெரும்பொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முன்பனி",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார் காலம்",
+        "rationale": "மழை பொழியும் கார் காலம் முல்லைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பின்பனி",
+        "rationale": "இது பாலை மற்றும் மருதத்திற்கு வரும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூதிர்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேகம் மழை பொழியும் காலம்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "பாலைத் திணைக்குரிய பெரும்பொழுதுகள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கார், கூதிர்",
+        "rationale": "இவை முறையே முல்லை மற்றும் குறிஞ்சிக்குரியன.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேனில், பின்பனி",
+        "rationale": "இளவேனில், முதுவேனில் மற்றும் பின்பனி ஆகியவை பாலைக்குரியன.",
+        "isCorrect": true
+      },
+      {
+        "text": "முன்பனி",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூதிர்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெப்பம் மிகுந்த காலங்கள்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "குறிஞ்சித் திணைக்குரிய சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை",
+        "rationale": "மாலை முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாமம்",
+        "rationale": "நள்ளிரவான யாமம் குறிஞ்சிக்குரிய சிறுபொழுதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "நண்பகல் பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைகறை",
+        "rationale": "வைகறை மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நடுஇரவு நேரம்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "முல்லைத் திணைக்குரிய சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாமம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "மாலைப் பொழுது முல்லைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைகறை",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எற்பாடு",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கதிரவன் மறையும் நேரம், பசுக்கள் திரும்பும் நேரம்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "மருதத் திணைக்குரிய சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நண்பகல்",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலை (வைகறை)",
+        "rationale": "இருள் புலர் காலை (வைகறை/விடியல்) மருதத்திற்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாமம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாலை",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விடியற்காலை நேரம்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "நெய்தல் திணைக்குரிய சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நண்பகல்",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "எற்பாடு",
+        "rationale": "வெய்யோன் பாடு எனப்படும் எற்பாடு நெய்தலுக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாமம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைகறை",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சூரியன் சாயும் நேரம் (பிற்பகல்)."
+  },
+  {
+    "questionNumber": 21,
+    "question": "பாலைத் திணைக்குரிய சிறுபொழுது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மாலை",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நண்பகல்",
+        "rationale": "சூரியன் சுட்டெரிக்கும் நண்பகல் பாலைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "யாமம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வைகறை",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உச்சி வெயில் நேரம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "குறிஞ்சி நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "திருமால் முல்லை நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேயோன் (முருகன்)",
+        "rationale": "சேயோன் என்று அழைக்கப்படும் முருகன் குறிஞ்சி நில தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் மருத நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் நெய்தல் நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையில் உறையும் கடவுள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "முல்லை நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெடுமால் (திருமால்)",
+        "rationale": "காடுறை கடவுளான திருமால் முல்லை நிலத்திற்குரியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இவர் குறிஞ்சி நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "இவர் நெய்தல் நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "இவர் பாலை நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயர்களின் கடவுள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "மருத நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருணன்",
+        "rationale": "இவர் நெய்தல் நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "வேந்தன் என்று அழைக்கப்படும் இந்திரன் மருத நில தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "இவர் முல்லை நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இவர் குறிஞ்சி நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேவர்களின் தலைவன், மழைக் கடவுள்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "நெய்தல் நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வருணன்",
+        "rationale": "கடல் கடவுளான வருணன் நெய்தல் நிலத்திற்குரியவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இவர் மருத நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "இவர் பாலை நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "இவர் குறிஞ்சி நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் கடவுள்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "பாலை நிலத்தின் தெய்வம் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால்",
+        "rationale": "இவர் முல்லை நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கன்னி (கொற்றவை)",
+        "rationale": "கன்னி அல்லது கொற்றவை பாலை நில தெய்வம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இவர் மருத நில தெய்வம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "இவர் நெய்தல் நில தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வெற்றித் தெய்வம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "குறிஞ்சி நில மக்கள் யாவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆயர், ஆய்ச்சியர்",
+        "rationale": "இவர்கள் முல்லை நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறவர், குறத்தியர்",
+        "rationale": "குறவர் மற்றும் குறத்தியர் குறிஞ்சி நில மக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "உழவர், உழத்தியர்",
+        "rationale": "இவர்கள் மருத நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பரதர், பரத்தியர்",
+        "rationale": "இவர்கள் நெய்தல் நில மக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையில் வாழ்ந்து தேன் எடுப்பவர்கள்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "முல்லை நில மக்கள் யாவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எயினர், எயிற்றியர்",
+        "rationale": "இவர்கள் பாலை நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இடையர், ஆயர்",
+        "rationale": "இடையர், இடைச்சியர், ஆயர், ஆய்ச்சியர் ஆகியோர் முல்லை நில மக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரதர், நுளையர்",
+        "rationale": "இவர்கள் நெய்தல் நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறவர், கானவர்",
+        "rationale": "இவர்கள் குறிஞ்சி நில மக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆடு மாடு மேய்ப்பவர்கள்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "மருத நில மக்கள் யாவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உழவர், உழத்தியர்",
+        "rationale": "வயல் தொழில் செய்யும் உழவர் மற்றும் உழத்தியர் மருத நில மக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மறவர், மறத்தியர்",
+        "rationale": "இவர்கள் பாலை நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆயர், ஆய்ச்சியர்",
+        "rationale": "இவர்கள் முல்லை நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறவர், குறத்தியர்",
+        "rationale": "இவர்கள் குறிஞ்சி நில மக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேளாண்மை செய்பவர்கள்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "நெய்தல் நில மக்கள் யாவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பரதர், பரத்தியர்",
+        "rationale": "மீன் பிடிக்கும் பரதர் மற்றும் பரத்தியர் நெய்தல் நில மக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடையர், இடைச்சியர்",
+        "rationale": "இவர்கள் முல்லை நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "உழவர், கடையர்",
+        "rationale": "இவர்கள் மருத நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குறவர், கானவர்",
+        "rationale": "இவர்கள் குறிஞ்சி நில மக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடல் தொழில் செய்பவர்கள்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "பாலை நில மக்கள் யாவர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உழவர்",
+        "rationale": "இவர்கள் மருத நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எயினர், எயிற்றியர்",
+        "rationale": "எயினர், எயிற்றியர், மறவர் ஆகியோர் பாலை நில மக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பரதர்",
+        "rationale": "இவர்கள் நெய்தல் நில மக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆயர்",
+        "rationale": "இவர்கள் முல்லை நில மக்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வழிப்பறி மற்றும் போர் தொழில் புரிபவர்கள்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "குறிஞ்சி நிலத்தின் மரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காஞ்சி",
+        "rationale": "காஞ்சி மருத நில மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேங்கை",
+        "rationale": "வேங்கை, அகில், தேக்கு போன்றவை குறிஞ்சி நில மரங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புன்னை",
+        "rationale": "புன்னை நெய்தல் நில மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வஞ்சி",
+        "rationale": "வஞ்சி மருத நில மரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புலி போன்ற மலர்களை உடைய மரம்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "முல்லை நிலத்தின் பூ எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தாமரை",
+        "rationale": "தாமரை மருத நில பூ.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லை",
+        "rationale": "முல்லை, கொன்றை, பிடவம் போன்றவை முல்லை நில பூக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சி",
+        "rationale": "குறிஞ்சி குறிஞ்சி நில பூ.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்தல்",
+        "rationale": "நெய்தல் நெய்தல் நில பூ.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலத்தின் பெயரையே கொண்ட பூ."
+  },
+  {
+    "questionNumber": 34,
+    "question": "மருத நிலத்தின் பறவை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மயில்",
+        "rationale": "மயில் குறிஞ்சி நில பறவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாரை, அன்னம்",
+        "rationale": "நாரை, அன்னம், மகன்றில் போன்றவை மருத நில பறவைகள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கடற்காகம்",
+        "rationale": "கடற்காகம் நெய்தல் நில பறவை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பருந்து",
+        "rationale": "பருந்து பாலை நில பறவை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீர்நிலைகளில் காணப்படும் பறவைகள்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "நெய்தல் நிலத்தின் மரம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சந்தனம்",
+        "rationale": "சந்தனம் குறிஞ்சி நில மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "புன்னை",
+        "rationale": "புன்னை, ஞாழல் ஆகியவை நெய்தல் நில மரங்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொன்றை",
+        "rationale": "கொன்றை முல்லை நில மரம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "இருப்பை",
+        "rationale": "இருப்பை பாலை நில மரம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடற்கரையோரம் வளரும் மரம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "பாலை நிலத்தின் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எருமை",
+        "rationale": "எருமை மருத நில விலங்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செந்நாய்",
+        "rationale": "செந்நாய் பாலை நில விலங்காகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முயல்",
+        "rationale": "முயல் முல்லை நில விலங்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்நாய்",
+        "rationale": "நீர்நாய் மருத நில விலங்கு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேட்டையாடும் இயல்புடைய நாய் வகை."
+  },
+  {
+    "questionNumber": 37,
+    "question": "குறிஞ்சித் திணைக்குரிய உரிப்பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரிதலும் பிரிதல் நிமித்தமும்",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புணர்தலும் புணர்தல் நிமித்தமும்",
+        "rationale": "தலைவனும் தலைவியும் கூடும் புணர்தல் குறிஞ்சிக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இருத்தலும் இருத்தல் நிமித்தமும்",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடலும் ஊடல் நிமித்தமும்",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதலர் ஒன்று கூடுதல்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "முல்லைத் திணைக்குரிய உரிப்பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரங்கலும் இரங்கல் நிமித்தமும்",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இருத்தலும் இருத்தல் நிமித்தமும்",
+        "rationale": "தலைவன் வரும் வரை காத்திருக்கும் இருத்தல் முல்லைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஊடலும் ஊடல் நிமித்தமும்",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புணர்தலும் புணர்தல் நிமித்தமும்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காத்திருத்தல்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "மருதத் திணைக்குரிய உரிப்பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரிதல்",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடலும் ஊடல் நிமித்தமும்",
+        "rationale": "தலைவன் பரத்தையிற் பிரிந்து வருங்கால் நிகழும் ஊடல் மருதத்திற்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புணர்தல்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரங்கல்",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறு பிணக்கு."
+  },
+  {
+    "questionNumber": 40,
+    "question": "நெய்தல் திணைக்குரிய உரிப்பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இருத்தல்",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரங்கலும் இரங்கல் நிமித்தமும்",
+        "rationale": "தலைவன் வராமை கண்டு வருந்தும் இரங்கல் நெய்தலுக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "புணர்தல்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடல்",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வருந்துதல்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "பாலைத் திணைக்குரிய உரிப்பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புணர்தல்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரிதலும் பிரிதல் நிமித்தமும்",
+        "rationale": "தலைவன் தலைவியை விட்டுப் பிரியும் பிரிவு பாலைக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இருத்தல்",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடல்",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதலர் பிரிந்து செல்லுதல்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "அகத்திணையில் உள்ள 'கைக்கோள்' எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இரண்டு",
+        "rationale": "களவு மற்றும் கற்பு என இரண்டு வகைப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "நான்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐந்து",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களவு, கற்பு."
+  },
+  {
+    "questionNumber": 43,
+    "question": "களவின் வகைகளில் முதன்மையானது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாங்கற் கூட்டம்",
+        "rationale": "இது பின்னர் நிகழ்வது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இயற்கைப் புணர்ச்சி",
+        "rationale": "தெய்வத்தால் கூடும் இயற்கைப் புணர்ச்சி களவின் முதல் நிலையாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இடந்தலைப்பாடு",
+        "rationale": "இது இயற்கைப் புணர்ச்சிக்கு அடுத்த நிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "மதி உடன்பாடு",
+        "rationale": "இது தோழிக்கு உரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தலைவனும் தலைவியும் முதன்முதலில் சந்திப்பது."
+  },
+  {
+    "questionNumber": 44,
+    "question": "குறிஞ்சி நிலத்தின் பறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மீன்கோட்பறை",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தொண்டகம்",
+        "rationale": "தொண்டகப் பறை குறிஞ்சிக்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏறு கோட்பறை",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணமுழவு",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையின மக்களால் இசைக்கப்படுவது."
+  },
+  {
+    "questionNumber": 45,
+    "question": "முல்லை நிலத்தின் பறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணமுழவு",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஏறு கோட்பறை",
+        "rationale": "ஏறு கோட்பறை முல்லை நிலத்திற்குரியது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொண்டகம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்கோட்பறை",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆயர் ஏறு தழுவுதலோடு தொடர்புடையது."
+  },
+  {
+    "questionNumber": 46,
+    "question": "மருத நிலத்தின் பறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துடி",
+        "rationale": "இது பாலைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணமுழவு (நெல்லரி கிணை)",
+        "rationale": "மணமுழவு மற்றும் நெல்லரி கிணை மருத நிலத்திற்குரியன.",
+        "isCorrect": true
+      },
+      {
+        "text": "தொண்டகம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்கோட்பறை",
+        "rationale": "இது நெய்தலுக்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமண நிகழ்வுகளிலும் வயல் வேலைகளிலும் இசைப்பது."
+  },
+  {
+    "questionNumber": 47,
+    "question": "பாலை நிலத்தின் பறை எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தொண்டகம்",
+        "rationale": "இது குறிஞ்சிக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "துடி",
+        "rationale": "துடி பாலை நிலத்திற்குரிய பறையாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஏறு கோட்பறை",
+        "rationale": "இது முல்லைக்குரியது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெல்லரி கிணை",
+        "rationale": "இது மருதத்திற்குரியது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போர் அறிவிப்பிற்குப் பயன்படும் சிறிய பறை."
+  },
+  {
+    "questionNumber": 48,
+    "question": "கற்பு என்பதன் இலக்கணம் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவு வெளிப்படாமல் மறைத்தல்",
+        "rationale": "இது களவியல் சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரணம் (திருமணம்) ஓடு புணரக் கடி அயர்ந்து கொள்ளல்",
+        "rationale": "பெற்றோர் மற்றும் பெரியோர் முன்னிலையில் சடங்குகளுடன் திருமணம் செய்து கொள்வது கற்பு.",
+        "isCorrect": true
+      },
+      {
+        "text": "காதலர் தனித்துச் செல்லுதல்",
+        "rationale": "இது உடன்போக்கு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தோழியின் உதவி நாடல்",
+        "rationale": "இது களவியல் நிகழ்வு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சடங்குகளுடன் கூடிய திருமணம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "வரைவு என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிரிவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமணம்",
+        "rationale": "வரைவு என்பது திருமணத்தைக் குறிக்கும் சொல்லாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "களவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஊடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களவு வாழ்வு முடிந்து கற்பு வாழ்வில் இணைவது."
+  },
+  {
+    "questionNumber": 50,
+    "question": "ஒழிபியல் எதைப் பற்றிக் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "களவு முறைகளை மட்டும்",
+        "rationale": "இது களவியலில் உள்ளது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சொல்லாத ஒழிந்த செய்திகளை",
+        "rationale": "முந்தைய இயல்களில் கூறப்படாத எஞ்சிய செய்திகளைக் கூறுவது ஒழிபியல்.",
+        "isCorrect": true
+      },
+      {
+        "text": "போர் முறைகளை",
+        "rationale": "இது புறப்பொருள் சார்ந்தது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நில வளம் பற்றி",
+        "rationale": "இது அகத்திணை இயலில் உள்ளது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எஞ்சிய விஷயங்கள்."
+  }
+]
