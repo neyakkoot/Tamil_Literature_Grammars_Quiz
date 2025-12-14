@@ -64,7 +64,10 @@
       { "file": "Nannul.json", "title": "நன்னூல்" },
       { "file": "Neminatham.json", "title": "நேமிநாதம்" },
       { "file": "Yapperungala_Karigai.json", "title": "யாப்பருங்கலக் காரிகை" },
-      { "file": "Vadamalai_Nigandu.json", "title": "வடமலை நிகண்டு" }
+      { "file": "Vadamalai_Nigandu.json", "title": "வடமலை நிகண்டு" },
+      { "file": "Chidamparappqttiyal.json", "title": "சிதம்பரப் பாட்டியல்" },
+      { "file": "Purapporul_Venpaa_Malai.json", "title": "புறப்பொருள் வெண்பா மாலை" }
     ]
   }
 ]
+
