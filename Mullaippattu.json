@@ -1,0 +1,552 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "முல்லைப்பாட்டு நூலின் ஆசிரியர் யார்?",
+    "answerOptions": [
+      { "text": "நக்கீரர்", "isCorrect": false, "rationale": "இவர் நெடுநல்வாடையை இயற்றியவர்." },
+      { "text": "நப்பூதனார்", "isCorrect": true, "rationale": "காவிரிப்பூம்பட்டினத்துப் பொன்வாணிகனார் மகனார் நப்பூதனார் என்பதே சரியான விடை." },
+      { "text": "கபிலர்", "isCorrect": false, "rationale": "இவர் குறிஞ்சிப்பாட்டை இயற்றியவர்." },
+      { "text": "மாங்குடி மருதனார்", "isCorrect": false, "rationale": "இவர் மதுரைக்காஞ்சியை இயற்றியவர்." }
+    ],
+    "hint": "காவிரிப்பூம்பட்டினத்து வணிகர் மகன்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "பத்துப்பாட்டு நூல்களுள் அடிகள் அளவில் மிகச் சிறிய நூல் எது?",
+    "answerOptions": [
+      { "text": "குறிஞ்சிப்பாட்டு", "isCorrect": false, "rationale": "இது 261 அடிகளைக் கொண்டது." },
+      { "text": "முல்லைப்பாட்டு", "isCorrect": true, "rationale": "முல்லைப்பாட்டு 103 அடிகளை மட்டுமே கொண்டு பத்துப்பாட்டில் மிகச் சிறியதாக உள்ளது." },
+      { "text": "பட்டினப்பாலை", "isCorrect": false, "rationale": "இது 301 அடிகளைக் கொண்டது." },
+      { "text": "பொருநராற்றுப்படை", "isCorrect": false, "rationale": "இது 248 அடிகளைக் கொண்டது." }
+    ],
+    "hint": "மொத்தம் 103 அடிகள் மட்டுமே கொண்டது."
+  },
+  {
+    "questionNumber": 3,
+    "question": "முல்லைப்பாட்டின் பா வகை என்ன?",
+    "answerOptions": [
+      { "text": "வெண்பா", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஆசிரியப்பா (அகவற்பா)", "isCorrect": true, "rationale": "முல்லைப்பாட்டு ஆசிரியப்பாவால் இயற்றப்பட்டது." },
+      { "text": "கலிப்பா", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வஞ்சிப்பா", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "சங்கப் பாடல்கள் பெரும்பாலும் இந்த வகையைச் சார்ந்தவை."
+  },
+  {
+    "questionNumber": 4,
+    "question": "'நனந்தலை உலகம்' என்ற தொடரில் 'நன' என்பதன் பொருள் என்ன?",
+    "answerOptions": [
+      { "text": "சிறிய", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அகலமான (விரிந்த)", "isCorrect": true, "rationale": "நச்சினார்க்கினியர் உரைப்படி 'நன' என்பது அகலத்தை உணர்த்தும் உரிச்சொல்." },
+      { "text": "நனைந்த", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நடுங்கின", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "உலகத்தின் பரப்பைக் குறிக்கும் சொல்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "முல்லைப்பாட்டில் மேகத்திற்கு உவமையாகக் கூறப்பட்டுள்ள தெய்வம் யார்?",
+    "answerOptions": [
+      { "text": "சிவன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "திருமால் (திரிவிக்ரம அவதாரம்)", "isCorrect": true, "rationale": "மாவலி வார்த்த நீர் கையில் பட்டதும் விண்ணுயர வளர்ந்த திருமாலைப் போல மேகம் எழுந்தது." },
+      { "text": "முருகன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இந்திரன்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "கையில் நீர் வார்க்க விண்ணுயர வளர்ந்தவர்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "தலைவிக்காக நிமித்தம் (விரிச்சி) கேட்கச் சென்றவர்கள் யார்?",
+    "answerOptions": [
+      { "text": "தோழியர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பெருமுது பெண்டிர்", "isCorrect": true, "rationale": "வயதில் முதிர்ந்த பெண்கள் ஊர் எல்லைக்குச் சென்று விரிச்சி கேட்டனர்." },
+      { "text": "பாணர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவலர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "அனுபவம் வாய்ந்த முதிய பெண்கள்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "விரிச்சி கேட்கும் போது முதுபெண்டிர் எதனைத் தூவி வழிபட்டனர்?",
+    "answerOptions": [
+      { "text": "சந்தனம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நெல்லும் முல்லை மலரும்", "isCorrect": true, "rationale": "'நெல்லொடு நாழி கொண்ட நறுவீ முல்லை' தூவி வழிபட்டனர்." },
+      { "text": "எள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வேப்பிலை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "நாழியில் கொண்டு சென்ற தானியமும் மலரும்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "முதுபெண்டிர் கேட்ட நற்சொல் யாரால் கூறப்பட்டது?",
+    "answerOptions": [
+      { "text": "குறத்தி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஆய்மகள் (இடைச்சிறுமி)", "isCorrect": true, "rationale": "கன்றை நோக்கிக் கூறிய இடைச்சிறுமியின் சொல்லை நற்சொல்லாகக் கொண்டனர்." },
+      { "text": "தலைவி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வழிப்போக்கன்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "ஆடு மாடு மேய்க்கும் குலத்தைச் சேர்ந்தவள்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "ஆய்மகள் கன்றிடம் என்ன கூறினாள்?",
+    "answerOptions": [
+      { "text": "மழை வரும்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தாய்மார் இப்பொழுதே வருவர்", "isCorrect": true, "rationale": "'இன்னே வருகுவர் தாயர்' என்று கூறி கன்றைத் தேற்றினாள்." },
+      { "text": "தந்தை வருவார்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "புலி வரும்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "பிரிந்தவர் விரைவில் வருவர் என்ற பொருளில்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "'கொடுங்கோல் கோவலர்' என்பதில் 'கொடுங்கோல்' எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "கொடிய ஆட்சி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வளைந்த கம்பு (வீசு தடி)", "isCorrect": true, "rationale": "ஆடு மாடுகளை மேய்க்க இடையர் பயன்படுத்தும் வளைந்த குச்சியே கொடுங்கோல்." },
+      { "text": "செங்கோல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அம்பு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "இடையர்கள் கையில் வைத்திருக்கும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "தலைவிக்கு ஆறுதல் கூறும் பெண்கள் அவளை 'மாயோய்' என அழைக்கின்றனர். இதன் பொருள் என்ன?",
+    "answerOptions": [
+      { "text": "மாயை செய்பவள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மாமை நிறம் கொண்டவள்", "isCorrect": true, "rationale": "மாந்தளிர் போன்ற நிறத்தை உடையவள் என்பது பொருள்." },
+      { "text": "மயக்கம் கொண்டவள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மூத்தவள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "ஒரு வகை அழகிய தோல் நிறம்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "அரசனின் பாசறை எங்கு அமைக்கப்பட்டிருந்தது?",
+    "answerOptions": [
+      { "text": "நகரத்தின் நடுவே", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கான்யாறு தழுவிய காட்டுப்பகுதியில்", "isCorrect": true, "rationale": "'கான்யாறு தழீஇய அகல் நெடும் புறவில்' பாசறை இருந்தது." },
+      { "text": "மலை உச்சியில்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கடற்கரையில்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "முல்லை நிலத்திற்கே உரிய இடம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "'உவலைக் கூரை' என்பது எதனால் வேயப்பட்டது?",
+    "answerOptions": [
+      { "text": "ஓடு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தழை (இலைகள்)", "isCorrect": true, "rationale": "பாசறைக் கூடாரங்கள் தழைகளால் (உவலை) வேயப்பட்டிருந்தன." },
+      { "text": "தோல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "துணி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "காட்டில் எளிதாகக் கிடைக்கும் பொருள்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "பாசறையில் யானைகளுக்கு உணவாக என்ன வழங்கப்பட்டது?",
+    "answerOptions": [
+      { "text": "வைக்கோல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கரும்பும் நெற்கதிரும்", "isCorrect": true, "rationale": "கரும்போடு கதிர்மிடைந்து யாத்த உணவு வழங்கப்பட்டது." },
+      { "text": "பழங்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மாமிசம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "வயலில் விளையும் இனிப்பான பயிர்கள்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "யானைகளைப் பாகர்கள் எந்த மொழியில் அதட்டினர்?",
+    "answerOptions": [
+      { "text": "தமிழ்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வடமொழி", "isCorrect": true, "rationale": "'கவைமுட் கருவியின் வடமொழி பயிற்றி' - யானைப் பாகர்கள் வடசொற்களைப் பயன்படுத்தினர்." },
+      { "text": "தெலுங்கு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பாளி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "இளைஞர்கள் இதற்காகவே கற்றுக்கொண்ட மொழி."
+  },
+  {
+    "questionNumber": 16,
+    "question": "'கல் தோய்த்து உடுத்த படிவப் பார்ப்பான்' - இதில் 'கல்' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "பாறை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவிக்கல்", "isCorrect": true, "rationale": "துகிலைக் காவிக்கல்லில் தோய்த்து உடுத்திய அந்தணர்கள்." },
+      { "text": "மாணிக்கம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சுண்ணாம்பு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "ஆடைக்கு நிறம் ஏற்றப் பயன்படும் பொருள்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "பாசறையில் அந்தணர்கள் எதனை நட்டு வழிபாடு செய்தனர்?",
+    "answerOptions": [
+      { "text": "வேல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முக்கோல்", "isCorrect": true, "rationale": "தங்கள் விரத அடையாளமான முக்கோலை ஊன்றி வைத்திருந்தனர்." },
+      { "text": "வாள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கலப்பை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "துறவிகளுக்கு உரிய மூன்று தண்டு."
+  },
+  {
+    "questionNumber": 18,
+    "question": "அரசனின் படுக்கையறை எதனால் பிரிக்கப்பட்டிருந்தது?",
+    "answerOptions": [
+      { "text": "சுவர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பல நிறத் திரைகள் (கண்டம்)", "isCorrect": true, "rationale": "பல வண்ணத் துணிகளால் ஆன திரைகளால் (Kandam) வளைக்கப்பட்டிருந்தது." },
+      { "text": "மரப் பலகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வேலி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "துணியால் ஆன தடுப்பு."
+  },
+  {
+    "questionNumber": 19,
+    "question": "இரவில் விளக்கு அணையாமல் பாதுகாத்தவர்கள் யார்?",
+    "answerOptions": [
+      { "text": "முதியவர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வாள் ஏந்திய மங்கையர்", "isCorrect": true, "rationale": "குறுந்தொடி முன்கை மங்கையர் நெய் ஊற்றி விளக்கைப் பாதுகாத்தனர்." },
+      { "text": "யவனர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மிலேச்சர்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "இடுப்பில் கச்சு அணிந்த பெண்கள்."
+  },
+  {
+    "questionNumber": 20,
+    "question": "மங்கையர் அணிந்திருந்த 'விரவு வரிக் கச்சு' என்பது என்ன?",
+    "answerOptions": [
+      { "text": "தலைப்பாகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இடுப்புப் பட்டி (Belt)", "isCorrect": true, "rationale": "பல நிற நூல்களால் ஆன இடுப்பில் அணியும் கச்சில் வாளைப் பூண்டிருந்தனர்." },
+      { "text": "காலணி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கழுத்தணி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "வாளைத் தாங்க இடுப்பில் அணிவது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "'நெடுநா ஒள்மணி' எப்போது ஒலித்தது?",
+    "answerOptions": [
+      { "text": "காலை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நடுநாள் (நள்ளிரவு)", "isCorrect": true, "rationale": "நள்ளிரவில் யாமம் அறிவதற்காக மணி ஒலிக்கப்பட்டது." },
+      { "text": "மாலை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நண்பகல்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "அனைவரும் உறங்கும் நேரம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "அரசனைச் சுற்றி நின்ற 'யவனர்' எப்படிப்பட்டவர்கள்?",
+    "answerOptions": [
+      { "text": "இனிமையானவர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வன்கண் யவனர் (அச்சம் தரும் தோற்றம்)", "isCorrect": true, "rationale": "வன்மையான பார்வையும் வலிமையான உடலும் கொண்டவர்கள்." },
+      { "text": "பெண்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குள்ளமானவர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மெய்ப்பை அணிந்த காவலர்கள்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "யவனர்கள் அணிந்திருந்த 'மெய்ப்பை' என்பது என்ன?",
+    "answerOptions": [
+      { "text": "பை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "சட்டை (கவசம்)", "isCorrect": true, "rationale": "உடலை மூடும் சட்டை அல்லது கவசத்தையே மெய்ப்பை என்கின்றனர்." },
+      { "text": "தொப்பி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காலணி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "உடம்பின் மேல் அணியும் உடை."
+  },
+  {
+    "questionNumber": 24,
+    "question": "அரசனின் படுக்கை அருகே நின்ற 'மிலேச்சர்' யார்?",
+    "answerOptions": [
+      { "text": "புலவர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஊமையர் (சைகையால் பேசுபவர்)", "isCorrect": true, "rationale": "நாவால் பேசாமல் உடலால் குறிப்பு உணர்த்தும் ஊமையர்கள்." },
+      { "text": "யவனர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பெண்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "உடம்பின் உரைக்கும் உரையா நாவினர்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "அரசன் பாசறையில் தூங்காமல் எதனை நினைத்துக் கொண்டிருந்தான்?",
+    "answerOptions": [
+      { "text": "மனைவியை", "isCorrect": false, "rationale": "முக்கிய சிந்தனை அதுவல்ல." },
+      { "text": "போர்க்களக் காட்சிகள் (யானை, வீரர்)", "isCorrect": true, "rationale": "காயம்பட்ட யானைகள், வீரர்கள் மற்றும் குதிரைகளை நினைத்து உறங்காமல் இருந்தான்." },
+      { "text": "விருந்து", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நாட்டு வளம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "புண்கூர்ந்த யானையும் குதிரையும்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "யானையின் வெட்டப்பட்ட துதிக்கை எதைப் போலத் துடித்தது?",
+    "answerOptions": [
+      { "text": "மீன்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பாம்பு", "isCorrect": true, "rationale": "'பாம்பு பதைப்பன்ன பரூஉக்கை துமிய' - துதிக்கை பாம்பு போலத் துடித்தது." },
+      { "text": "புழு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கயிறு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "தரையில் ஊரும் உயிரினம்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "குதிரைகள் ஏன் வருத்தத்துடன் காணப்பட்டன?",
+    "answerOptions": [
+      { "text": "உணவில்லை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அம்புகள் பாய்ந்ததால்", "isCorrect": true, "rationale": "கூர்மையான அம்புகள் (வைந்நுனைப் பகழி) பாய்ந்ததால் புல்லுண்ணாமல் வருந்தின." },
+      { "text": "மழை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பயம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "போரில் ஏற்பட்ட காயம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "அரசன் தன் தலையை எதன் மீது வைத்துப் படுத்திருந்தான்?",
+    "answerOptions": [
+      { "text": "தலையணை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தன் கை (ஒருகை பள்ளி ஒற்றி)", "isCorrect": true, "rationale": "ஒரு கையைப் படுக்கையில் ஊன்றி, அதன் மேல் தலையை வைத்திருந்தான்." },
+      { "text": "மடி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கேடயம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "தலையணை இல்லாத சூழல்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "தலைவி எங்குத் தங்கியிருந்தாள்?",
+    "answerOptions": [
+      { "text": "குடிசை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "எழுநிலை மாடம்", "isCorrect": true, "rationale": "ஏழு அடுக்குகளைக் கொண்ட மாளிகையில் இருந்தாள்." },
+      { "text": "குகை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தோட்டம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மிக உயரமான அரண்மனைப் பகுதி."
+  },
+  {
+    "questionNumber": 30,
+    "question": "'பாவை விளக்கு' என்பது என்ன?",
+    "answerOptions": [
+      { "text": "பெண் உருவம் தாங்கிய விளக்கு", "isCorrect": true, "rationale": "பாவை (பெண்) கையில் ஏந்தியவாறு உள்ள விளக்கு." },
+      { "text": "மண் விளக்கு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மெழுகுவர்த்தி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தீப்பந்தம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "உலோகச் சிலை விளக்கு."
+  },
+  {
+    "questionNumber": 31,
+    "question": "தலைவி யாருடைய வரவை எதிர்பார்த்துக் காத்திருந்தாள்?",
+    "answerOptions": [
+      { "text": "தோழி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தலைவன் (அரசன்)", "isCorrect": true, "rationale": "போருக்குச் சென்ற தலைவன் கார்காலத்தில் வருவதாகச் சொல்லியிருந்தான்." },
+      { "text": "தாய்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மகன்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "முல்லைத் திணையின் உரிப்பொருள்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "தலைவியின் காதில் கேட்ட 'இமிழ் இசை' எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "கடல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வெற்றி முழக்கம் (சங்கு/முரசு)", "isCorrect": true, "rationale": "அரசன் வெற்றியுடன் திரும்பும் போது எழுந்த முரசொலியும் சங்கு முழக்கமும்." },
+      { "text": "இடி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "தலைவன் வருகையை உணர்த்தும் ஒலி."
+  },
+  {
+    "questionNumber": 33,
+    "question": "'காயா' மலர் எதற்கு உவமையாகக் கூறப்பட்டுள்ளது?",
+    "answerOptions": [
+      { "text": "தங்கம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அஞ்சனம் (மை)", "isCorrect": true, "rationale": "காயா மலர் கருமை நிற மை (அஞ்சனம்) போல இருந்தது." },
+      { "text": "இரத்தம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நெருப்பு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "கண்ணில் தீட்டும் மை."
+  },
+  {
+    "questionNumber": 34,
+    "question": "'கொன்றை' மலர் எதற்கு உவமையாகக் கூறப்பட்டுள்ளது?",
+    "answerOptions": [
+      { "text": "வெள்ளி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நன்பொன் (தங்கம்)", "isCorrect": true, "rationale": "கொன்றை மலர்கள் பொன்னைச் சொரிந்தது போல இருந்தன." },
+      { "text": "முத்து", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பவளம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மஞ்சள் நிற உலோகம்."
+  },
+  {
+    "questionNumber": 35,
+    "question": "'தோன்றி' மலர்கள் எதைப் போலப் பூத்திருந்தன?",
+    "answerOptions": [
+      { "text": "நெருப்பு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குருதி (இரத்தம்)", "isCorrect": true, "rationale": "தோன்றி மலர்கள் சிவந்த இரத்தம் போலக் காட்சி அளித்தன." },
+      { "text": "வானம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "மேகம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "சிவப்பு நிற திரவம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "'கோடல்' மலர்கள் எதைப் போலத் தோன்றின?",
+    "answerOptions": [
+      { "text": "அங்கை (உள்ளங்கை)", "isCorrect": true, "rationale": "கோடல் மலர்கள் உள்ளங்கை விரிவது போல மலர்ந்தன." },
+      { "text": "முகம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கண்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கால்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மனித உடலின் விரல்கள் கொண்ட பகுதி."
+  },
+  {
+    "questionNumber": 37,
+    "question": "காட்டில் துள்ளி விளையாடிய விலங்குகள் எவை?",
+    "answerOptions": [
+      { "text": "சிங்கம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "இரலையும் மடமானும்", "isCorrect": true, "rationale": "ஆண் மானும் பெண் மானும் மகிழ்ச்சியாகத் துள்ளி விளையாடின." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முயல்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "முறுக்குக் கொம்புகளை உடையது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "தலைவன் வரும் தேர் எதை பூண்டிருந்தது?",
+    "answerOptions": [
+      { "text": "காளை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "குதிரை (மா)", "isCorrect": true, "rationale": "வினைவிளங்கு நெடுந்தேர் குதிரைகளால் இழுக்கப்பட்டது." },
+      { "text": "யானை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கழுதை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "தேரை இழுக்கும் விலங்கு."
+  },
+  {
+    "questionNumber": 39,
+    "question": "முல்லைப்பாட்டின் திணை என்ன?",
+    "answerOptions": [
+      { "text": "குறிஞ்சி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "முல்லை", "isCorrect": true, "rationale": "காடும் காடு சார்ந்த இடமும், இருத்தலும் இருத்தல் நிமித்தமும்." },
+      { "text": "மருதம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நெய்தல்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "நூலின் பெயரிலேயே உள்ளது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "முல்லைப்பாட்டு உணர்த்தும் பருவம் எது?",
+    "answerOptions": [
+      { "text": "கோடை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கார்காலம்", "isCorrect": true, "rationale": "மழை பொழியும் கார்காலம் முல்லைக்குரிய பெரும்பொழுது." },
+      { "text": "குளிர்காலம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பனிக்காலம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "மேகம் மழை பொழியும் காலம்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "நச்சினார்க்கினியர் உரையில் 'கன்னல்' என்பது எதைக் குறிக்கிறது?",
+    "answerOptions": [
+      { "text": "கரும்பு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நாழிகை வட்டில் (Water Clock)", "isCorrect": true, "rationale": "நீரை வைத்து நேரத்தை அளக்கும் கருவி." },
+      { "text": "இனிப்பு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தூண்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "நேரத்தை அளக்கும் கருவி."
+  },
+  {
+    "questionNumber": 42,
+    "question": "தலைவி எதைப் போல நடுங்கினாள் என்று உவமை கூறப்படுகிறது?",
+    "answerOptions": [
+      { "text": "கோழி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அம்பு தைத்த மயில்", "isCorrect": true, "rationale": "'ஏவுறு மஞ்ஞையின்' - அம்பு பாய்ந்த மயில் போல நடுங்கினாள்." },
+      { "text": "மான்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "விளக்கு", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "தோகை உள்ள பறவை."
+  },
+  {
+    "questionNumber": 43,
+    "question": "பாசறையில் 'பொழுது அளந்து அறியும் பொய்யா மாக்கள்' யார்?",
+    "answerOptions": [
+      { "text": "ஜோதிடர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நாழிகை கணக்கர்", "isCorrect": true, "rationale": "சரியாக நேரத்தைக் கணித்துச் சொல்பவர்கள்." },
+      { "text": "அமைச்சர்கள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவலர்கள்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "நேரத்தைச் சொல்பவர்கள்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "அரசன் போருக்குச் செல்லும் போது சூடும் பூ எது?",
+    "answerOptions": [
+      { "text": "வெட்சி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வஞ்சி", "isCorrect": true, "rationale": "பகைவர் நாட்டின் மீது படையெடுத்துச் செல்லும் போது வஞ்சிப் பூ சூடுவர்." },
+      { "text": "உழிஞை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "தும்பை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "படையெடுப்பைக் குறிக்கும் பூ."
+  },
+  {
+    "questionNumber": 45,
+    "question": "பாசறையின் மதிலாக (அரண்) எது அமைந்திருந்தது?",
+    "answerOptions": [
+      { "text": "கல்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வில் (Bows)", "isCorrect": true, "rationale": "வீரர்களின் விற்களையே ஊன்றி வேலியாக அமைத்திருந்தனர்." },
+      { "text": "முள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "நீர்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "வீரர்களின் ஆயுதம்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "'செஞ்சோற்றுக் கடன்' கழித்தல் என்றால் என்ன?",
+    "answerOptions": [
+      { "text": "தானம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "உயிர் தியாகம்", "isCorrect": true, "rationale": "அரசன் அளித்த உணவுக்கு நன்றியாகப் போரில் உயிரைக் கொடுத்தல்." },
+      { "text": "விருந்து", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கடன் தீர்த்தல்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "சோறு உண்டதற்கு நன்றி காட்டுதல்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "தலைவன் திரும்பும் போது காடு எப்படி இருந்தது?",
+    "answerOptions": [
+      { "text": "வறண்டு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பூத்துக் குலுங்கி மகிழ்ச்சியாக", "isCorrect": true, "rationale": "மழை பெய்து வளம் பெற்று, மலர்கள் பூத்துக் குலுங்கின." },
+      { "text": "எரிந்து", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அமைதியாக", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "கார்காலத்தின் வளம்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "நப்பூதனார் எந்த ஊரைச் சேர்ந்தவர்?",
+    "answerOptions": [
+      { "text": "மதுரை", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "காவிரிப்பூம்பட்டினம்", "isCorrect": true, "rationale": "சோழநாட்டுத் துறைமுக நகரத்தைச் சேர்ந்தவர்." },
+      { "text": "உறையூர்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "வஞ்சி", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "புகார் நகரம்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'பிடவம்' என்பது என்ன?",
+    "answerOptions": [
+      { "text": "ஒரு வகை மரம்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "ஒரு வகை செடி/புதர்", "isCorrect": true, "rationale": "பாசறை அமைப்பதற்காக வெட்டப்பட்ட செடி." },
+      { "text": "விலங்கு", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "பறவை", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "காட்டில் வளரும் சிறு செடி."
+  },
+  {
+    "questionNumber": 50,
+    "question": "'வைந்நுனைப் பகழி' என்பதில் 'பகழி' என்பதன் பொருள் என்ன?",
+    "answerOptions": [
+      { "text": "வாள்", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "அம்பு", "isCorrect": true, "rationale": "கூர்மையான நுனியை உடைய அம்பு." },
+      { "text": "ஈட்டி", "isCorrect": false, "rationale": "தவறு." },
+      { "text": "கேடயம்", "isCorrect": false, "rationale": "தவறு." }
+    ],
+    "hint": "வில்லிலிருந்து விடுபடுவது."
+  }
+]
