@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "மலைபடுகடாம் நூலின் பாட்டுடைத் தலைவன் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குமண வள்ளல்",
+        "rationale": "இவர் பெருந்தலைச் சாத்தனாரால் பாடப்பெற்றவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நன்னன் சேய் நன்னன்",
+        "rationale": "செங்கண்மாவைத் தலைநகராகக் கொண்டு ஆண்ட குறுநில மன்னன் நன்னன் சேய் நன்னனே இந்நூலின் தலைவன்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அதியமான்",
+        "rationale": "இவர் ஔவையாரால் பாடப்பெற்றவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாரி",
+        "rationale": "இவர் கபிலரால் பாடப்பெற்றவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "செங்கண்மா எனும் ஊரைத் தலைநகராகக் கொண்டவன்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "மலைபடுகடாம் நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கபிலர்",
+        "rationale": "இவர் குறிஞ்சிப் பாட்டின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "நக்கீரர்",
+        "rationale": "இவர் திருமுருகாற்றுப்படையின் ஆசிரியர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெருங்கௌசிகனார்",
+        "rationale": "இரணிய முட்டத்துப் பெருங்குன்றூர்ப் பெருங்கௌசிகனார் என்பதே சரியான விடை.",
+        "isCorrect": true
+      },
+      {
+        "text": "முடத்தாமக்கண்ணியார்",
+        "rationale": "இவர் பொருநராற்றுப்படையின் ஆசிரியர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரணிய முட்டத்துப் பெருங்குன்றூரைச் சேர்ந்தவர்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "‘மலைபடுகடாம்’ என்ற பெயரின் காரணம் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலையில் வாழும் யானைகள்",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையில் உண்டாகும் பலவகை ஓசைகள்",
+        "rationale": "மலையை ஒரு யானையாக உருவகம் செய்து, அதில் எழும் பலவகைப்பட்ட ஓசைகளை யானையின் கன்னத்தில் வடியும் மதநீருக்கு (கடாம்) ஒப்பிட்டுப் பாடியதால் இப்பெயர் பெற்றது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலையில் உள்ள அருவிகள்",
+        "rationale": "இது முழுமையான காரணமல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையில் கிடைக்கும் தேன்",
+        "rationale": "இது தவறானது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையை யானையாக உருவகம் செய்து அதிலிருந்து எழும் ஓசைகளை மதம் (கடாம்) என வருணிப்பது."
+  },
+  {
+    "questionNumber": 4,
+    "question": "மலைபடுகடாம் நூலின் வேறு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமுருகாற்றுப்படை",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூத்தராற்றுப்படை",
+        "rationale": "கூத்தன் ஒருவனை ஆற்றுப்படுத்துவதாக அமைந்ததால் இது கூத்தராற்றுப்படை எனவும் அழைக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பொருநராற்றுப்படை",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுபாணாற்றுப்படை",
+        "rationale": "இது வேறு நூல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கூத்தர்களை மையமாகக் கொண்ட நூல்."
+  },
+  {
+    "questionNumber": 5,
+    "question": "நன்னனின் நாட்டில் பாயும் ஆறு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காவிரி",
+        "rationale": "இது சோழ நாட்டு ஆறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சேயாறு",
+        "rationale": "நன்னனின் நவிர மலையிலிருந்து தோன்றிப் பாயும் ஆறு சேயாறு ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வைகை",
+        "rationale": "இது பாண்டிய நாட்டு ஆறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாலாறு",
+        "rationale": "இது தொண்டை நாட்டு ஆறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முருகனின் பெயரோடு (சேய்) தொடர்புடைய ஆறு."
+  },
+  {
+    "questionNumber": 6,
+    "question": "நவிர மலையில் உறையும் தெய்வம் எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காரி உண்டிக் கடவுள்",
+        "rationale": "நஞ்சை உண்ட கடவுளான சிவன் (நீலகண்டன்/காளகண்டேசுவரர்) நவிர மலையில் உறைகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "செவ்வேள்",
+        "rationale": "முருகன்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாயோன்",
+        "rationale": "திருமால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கொற்றவை",
+        "rationale": "பாலை நிலத் தெய்வம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நஞ்சை (காரி) உண்டவர்."
+  },
+  {
+    "questionNumber": 7,
+    "question": "‘ஆகுளி’ என்பது எவ்வகை இசைக் கருவி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெறும்பறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுபறை",
+        "rationale": "ஆகுளி என்பது ஒரு வகைச் சிறுபறை என உரையாசிரியர் நச்சினார்க்கினியர் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குழல்",
+        "rationale": "இது காற்று இசைக் கருவி.",
+        "isCorrect": false
+      },
+      {
+        "text": "யாழ்",
+        "rationale": "இது நரம்பு இசைக் கருவி.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிறிய தோல் கருவி."
+  },
+  {
+    "questionNumber": 8,
+    "question": "முசுண்டைக் கொடியின் வெண்ணிற மலர்கள் எதற்கு உவமையாகக் கூறப்பட்டுள்ளன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முத்துக்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கார்த்திகை விண்மீன்கள் (ஆரல்)",
+        "rationale": "வானத்தில் தோன்றும் கார்த்திகை விண்மீன் (ஆரல்) கூட்டத்தைப் போல முசுண்டை மலர்கள் வெண்மையாக மலர்ந்திருந்தன.",
+        "isCorrect": true
+      },
+      {
+        "text": "மழைத்துளிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெண் மணல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வானத்தில் ஒளிரும் விண்மீன் கூட்டம்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "மலையில் பூத்துக் குலுங்கும் செங்காந்தள் மலர்கள் எதற்கு ஒப்பிடப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தீ (நெருப்பு)",
+        "rationale": "காந்தள் மலர்கள் தீப்பிழம்பு போலச் செக்கச் சிவந்து காணப்படுவதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இரத்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாணிக்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தொட்டால் சுடுவது போன்ற நிறம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "‘கழை’ என்ற சொல் மலைபடுகடாமில் எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கரும்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூங்கில்",
+        "rationale": "கழை என்பது மூங்கிலைக் குறிக்கும். மூங்கில் நெல் மலையில் உணவாகக் கிடைக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சந்தனம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேக்கு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புல்லினத்தைச் சேர்ந்த நெடிது வளரும் தாவரம்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "கானவர்கள் விருந்தினர்களுக்கு அளிக்கும் உணவு வகைகளில் ஒன்று யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூங்கில் அரிசி சோறு",
+        "rationale": "மலையில் விளையும் மூங்கில் அரிசியைச் சமைத்து, அதனுடன் தேனும் கிழங்கும் சேர்த்து விருந்தளிப்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கோதுமை உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பழைய சோறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மூங்கிலில் இருந்து கிடைப்பது."
+  },
+  {
+    "questionNumber": 12,
+    "question": "மலைப்பாதையில் எதைக் கண்டு அஞ்ச வேண்டாம் என்று ஆற்றுப்படுத்துபவர் கூறுகிறார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு (மாசுணம்)",
+        "rationale": "துஞ்சும் மரம் (விழுந்து கிடக்கும் மரம்) போலக் கிடக்கும் பெரிய பாம்புகளைக் (மாசுணம்) கண்டு அஞ்ச வேண்டாம் எனக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கரடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரக்கட்டை போலக் கிடக்கும் ஊர்வன."
+  },
+  {
+    "questionNumber": 13,
+    "question": "கருவிரல் ஊகம் (குரங்கு) எதைக் கண்டு அஞ்சி ஓடுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மின்னல் இடி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கானவர் வீசும் கவண் கல்",
+        "rationale": "கானவர்கள் வீசும் கவண் கல்லின் வேகத்தையும் ஓசையையும் கண்டு குரங்குகள் அஞ்சி ஓடுகின்றன.",
+        "isCorrect": true
+      },
+      {
+        "text": "காட்டுத் தீ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேடுவர் நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கானவர்கள் கையில் வைத்திருக்கும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "நன்னனின் முன்னோர்கள் எதனைத் தம் பெயரோடு சேர்த்து நட்டனர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நடுகல் (வீரக்கல்)",
+        "rationale": "போரில் இறந்த வீரர்களின் நினைவாகவும், தங்கள் புகழை நிலைநாட்டவும் பெயர் பொறித்த நடுகற்களை நட்டனர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "கொடிக்கம்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தூண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வீரத்தின் சின்னம்."
+  },
+  {
+    "questionNumber": 15,
+    "question": "‘துறுகல்’ என்பது எதைக் குறிக்கிறது, அது எதற்கு ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உருண்ட பாறை - யானை",
+        "rationale": "பாதையில் உள்ள உருண்ட பாறைகள் (துறுகல்) யானைகள் படுத்திருப்பது போலத் தோற்றமளிப்பதாகக் கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிறிய கல் - எலி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்குத்தான மலை - சுவர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மணல் மேடு - பாம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலையில் யானை போலத் தோற்றமளிக்கும் பொருள்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "‘அசையுநர்ப் புலம்’ என்று மலைபடுகடாம் எதைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "போர்க்களம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இளைப்பாறும் இடம்",
+        "rationale": "நீண்ட தூரம் பயணம் செய்வோர் தங்கி இளைப்பாறுவதற்கு ஏற்ற இடங்களையே 'அசையுநர்ப் புலம்' என்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நடன அரங்கம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளைநிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "களைப்புத் தீரும் இடம்."
+  },
+  {
+    "questionNumber": 17,
+    "question": "‘நரலை’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யாழின் நரம்பு முறுக்கு / குற்றம்",
+        "rationale": "யாழ் நரம்பில் உள்ள முறுக்கு அல்லது குற்றத்தை (நரலை) நீக்கி வாசிக்க வேண்டும் என்பது விதி.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலையின் உச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல் அலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பெண்களின் கூந்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இசைக்கருவியோடு தொடர்புடைய சொல்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "இரவில் வழிப்போக்கர்களுக்குத் துணையாக இருப்பது எது என நூல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நிலவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தீ (நெருப்பு)",
+        "rationale": "இரவில் விலங்குகளிடமிருந்து காத்துக்கொள்ளவும், குளிரைப் போக்கவும் தீத்துணை அவசியம் என்று கூறப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விண்மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குளிரையும் விலங்குகளையும் விரட்டுவது."
+  },
+  {
+    "questionNumber": 19,
+    "question": "நன்னனின் தலைநகரான மூதூர் எத்தகைய மதில்களைக் கொண்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மணல் மதில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செங்கல் மதில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பல்வேறு தோல்களைக் கொண்டு போர்த்தப்பட்ட மதில்",
+        "rationale": "பகைவர்கள் எளிதில் வெல்ல முடியாதபடி, பல வகையான தோல்களைக் கொண்டு (பஃறோல்) போர்த்தப்பட்ட வலிமையான மதில்களை உடையது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மர மதில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விலங்குகளின் தோல் பயன்பட்டது."
+  },
+  {
+    "questionNumber": 20,
+    "question": "‘கல்லென் கம்பலை’ என்னும் தொடர் உணர்த்துவது யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அமைதியான சூழல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆரவாரமான ஓசை",
+        "rationale": "மலையில் எழும் பலவகைப்பட்ட ஓசைகள் ஒன்று சேர்ந்து 'கல்' என்ற ஒலியுடன் பெரும் ஆரவாரமாக (கம்பலை) ஒலிப்பதாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "சோகமான இசை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இனிய பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சந்தையில் கேட்கும் சத்தம் போன்றது."
+  },
+  {
+    "questionNumber": 21,
+    "question": "விருந்தினர்கள் தங்குவதற்கு எத்தகைய இடங்கள் கிடைக்கும் என நூல் கூறுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சத்திரங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புல் வேய்ந்த குரம்பைகள் (குடில்கள்)",
+        "rationale": "மலைவாழ் மக்களின் புல் வேய்ந்த சிறிய குடில்களில் (குரம்பை) விருந்தினர் தங்கலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அரண்மனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எளிமையான தங்குமிடம்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "நன்னனின் கொடைத்தன்மை எதற்கு ஒப்பிடப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மழை (ஈகை மாரி)",
+        "rationale": "கைம்மாறு கருதாமல் பொழியும் மழையைப் போல நன்னன் பரிசிலர்க்கு வாரிக் வழங்குவான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கற்பக விருட்சம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வானத்திலிருந்து பொழிவது."
+  },
+  {
+    "questionNumber": 23,
+    "question": "‘தட்டை’ என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உணவு உண்ணும் தட்டு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறவைகளை விரட்டும் கருவி",
+        "rationale": "மூங்கிலைப் பிளந்து செய்யப்படும், தட்டினால் ஒலி எழுப்பி கிளிகளை விரட்டப் பயன்படும் கருவி.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு வகை ஆடை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விளையாட்டுப் பொருள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கிளிகளை விரட்டப் பயன்படுவது."
+  },
+  {
+    "questionNumber": 24,
+    "question": "‘பாண்டில்’ என்பது எவ்வகை இசைக் கருவி?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மத்தளம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கஞ்சதாளம் (ஜால்ரா)",
+        "rationale": "பாண்டில் என்பது வெண்கலத்தால் செய்யப்பட்ட கஞ்சதாளம் என்று உரையாசிரியர் குறிப்பிடுகிறார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புல்லாங்குழல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீணை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உலோகத்தால் ஆனது."
+  },
+  {
+    "questionNumber": 25,
+    "question": "பலாப்பழத்தின் விதைகள் எதனுடன் சமைக்கப்படுவதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மோர் (புளிப்பு சுவையுடையது)",
+        "rationale": "பலா விதைகளை மாவாக்கி, புளிப்புச் சுவையுடைய மோருடன் கலந்து கூழ் போலச் சமைப்பார்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தயிரிலிருந்து கிடைப்பது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "‘வைக்கறை’ (வைகறை) பொழுதில் ஒலிக்க வேண்டிய பண் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலையாழ்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மருதப் பண்",
+        "rationale": "விடியற் காலையில் (வைகறை) மருதப் பண்ணை யாழில் வாசித்துத் துயிலெழச் செய்ய வேண்டும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "குறிஞ்சிப் பண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "முல்லைப் பண்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விடியற்காலை இசை."
+  },
+  {
+    "questionNumber": 27,
+    "question": "‘நவிர மலை’ தற்போது எவ்வாறு அழைக்கப்படுவதாகக் கருதப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கொல்லிமலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பர்வதமலை (திரிசூலகிரி)",
+        "rationale": "திருவண்ணாமலை மாவட்டத்தில் உள்ள பர்வதமலையே (திரிசூலகிரி) அன்றைய நவிர மலை எனக் கருதப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆனைமலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொதிகை மலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருவண்ணாமலைக்கு அருகில் உள்ளது."
+  },
+  {
+    "questionNumber": 28,
+    "question": "நன்னன் பரிசிலர்க்கு அளிக்கும் பரிசுகளில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கப்பல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானைகள் மற்றும் தேர்கள்",
+        "rationale": "நன்னன் பரிசிலர்களுக்குப் போரில் வென்ற யானைகளையும், குதிரைகள் பூட்டிய தேர்களையும் பரிசாக அளிப்பான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "புத்தகங்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன்பிடி வலைகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போரில் பயன்படுத்தும் விலங்கு."
+  },
+  {
+    "questionNumber": 29,
+    "question": "விறலியரின் கண்கள் எதற்கு ஒப்பிடப்படுகின்றன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மான் கண்கள் (சேயரி நாட்டம்)",
+        "rationale": "விறலியரின் கண்கள் செவ்வரி படர்ந்த மானின் கண்களைப் போல அழகாக இருப்பதாக வர்ணிக்கப்படுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தாமரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீலோற்பலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மருண்ட பார்வை கொண்ட விலங்கு."
+  },
+  {
+    "questionNumber": 30,
+    "question": "‘நறவு’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தேன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கள் (மது)",
+        "rationale": "நறவு என்பது மலையில் கிடைக்கும் அல்லது அரிசியிலிருந்து தயாரிக்கப்படும் கள்ளைக் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாசனைத் திரவியம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதிய நீர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போதை தரும் பானம்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "வேங்கை மரம் எப்போது பூப்பதாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருவிழா நாளில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைநாளில் (முதல் மழை பெய்தவுடன்)",
+        "rationale": "பருவமழை பெய்த முதல் நாளிலேயே வேங்கை மரம் பொன்னிறப் பூக்களைச் சொரியும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அமாவாசை அன்று",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோடை காலத்தில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பருவத்தின் தொடக்கம்."
+  },
+  {
+    "questionNumber": 32,
+    "question": "மலையில் கேட்கும் ‘ஆலை’ ஓசை எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பஞ்சு ஆலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரும்பு ஆலை",
+        "rationale": "மலையடிவாரத்தில் உள்ள மருத நிலப் பகுதிகளில் கரும்பைப் பிழிந்து சாறு எடுக்கும் ஆலையின் ஓசை கேட்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நெல் ஆலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எண்ணெய் ஆலை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இனிப்பான சாறு தரும் பயிர்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "‘வள்ளை’ என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஒரு வகை கீரை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உலக்கைப் பாட்டு",
+        "rationale": "பெண்கள் தினையைக் குத்தும்போது பாடும் பாட்டு வள்ளைப் பாட்டு எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஒரு வகை மீன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆபரணம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தானியம் குத்தும்போது பாடுவது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "மலைபடுகடாமில் ‘தூம்பு’ என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீர் வரும் குழாய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானையின் துதிக்கை வடிவில் உள்ள இசைக்கருவி",
+        "rationale": "தூம்பு என்பது யானையின் துதிக்கை போல நீண்டிருக்கும் ஒரு வகை இசைக்கருவி (பெருவங்கியம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "கோபுர வாசல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூங்கில் மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நெடுங்குழல் இசைக்கருவி."
+  },
+  {
+    "questionNumber": 35,
+    "question": "கூத்தர்கள் சுமந்து செல்லும் இசைக் கருவிகள் பார்ப்பதற்கு எப்படி இருந்தன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மூங்கில் கட்டு போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பலாப்பழக் குலை போல",
+        "rationale": "கூத்தர்கள் தம் இசைக் கருவிகளைப் பைகளில் இட்டுக் கட்டித் தூக்கிச் செல்வது, பலாப்பழங்கள் கொத்தாகத் தொங்குவது போல இருந்தது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாறை போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "திராட்சைக் கொத்து போல",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முள் உள்ள பழம்."
+  },
+  {
+    "questionNumber": 36,
+    "question": "மலையில் ‘செந்நெறி’ (நல்ல வழி) என்று எதைக் குறிப்பிடுகிறார்கள்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறுக்கு வழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமவெளிப் பாதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகள் நடமாட்டம் இல்லாத, பாதுகாப்பான வழி",
+        "rationale": "ஆபத்தான விலங்குகள் மற்றும் செங்குத்தான பாறைகள் இல்லாத வழியே செந்நெறி ஆகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆற்று நீர் வழி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாதுகாப்பான பாதை."
+  },
+  {
+    "questionNumber": 37,
+    "question": "‘அல்குதல்’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறைதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தங்குதல்",
+        "rationale": "பயணத்தின் இடையே ஓரிடத்தில் இளைப்பாறித் தங்குவதே அல்குதல் எனப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அழித்தல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாடுதல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரவில் செய்வது."
+  },
+  {
+    "questionNumber": 38,
+    "question": "கடுவன் (ஆண் குரங்கு) எதன் மேல் ஏறி விளையாடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பலா மரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூங்கில்",
+        "rationale": "நெடிய மூங்கிலின் கிளைகளில் கடுவன் ஏறி விளையாடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோயில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயரமான புல் வகை."
+  },
+  {
+    "questionNumber": 39,
+    "question": "பாணர்கள் தலையில் சூடிக்கொள்ளும் மலர் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மல்லிகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொற்றாமரை (தங்கத் தாமரை)",
+        "rationale": "மன்னன் பரிசாக அளிக்கும் பொன்னால் ஆன தாமரை மலரை பாணர்கள் சூடிக்கொள்வர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "ரோஜா",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பருத்தி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீரில் பூக்கும் மலரின் பொன் வடிவம்."
+  },
+  {
+    "questionNumber": 40,
+    "question": "‘இரும்பில் சுற்றம்’ என்ற தொடர் யாரைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இரும்புத் தொழில் செய்வோர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துன்பமில்லாத சுற்றத்தார்",
+        "rationale": "வறுமையோ துன்பமோ (இரும்பல்/இடும்பை) இல்லாத மன்னனின் சுற்றத்தாரை இது குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பகைவர்கள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "விலங்குகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மன்னனின் உறவினர்கள்."
+  },
+  {
+    "questionNumber": 41,
+    "question": "‘படுகர்’ என்பதன் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பள்ளம் / சரிவான பகுதி",
+        "rationale": "மலையில் உள்ள பள்ளமான அல்லது சரிவான பகுதிகளை படுகர் என்பர் (குறிப்பு: ஆரி படுகர் - அருமையுடைய வழி).",
+        "isCorrect": true
+      },
+      {
+        "text": "உச்சி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாறை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "குகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேடு என்பதற்கு எதிரானது."
+  },
+  {
+    "questionNumber": 42,
+    "question": "மலைபடுகடாம் நூலின் அடி எல்லை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "100 - 200 அடிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "583 அடிகள்",
+        "rationale": "மலைபடுகடாம் பத்துப்பாட்டு நூல்களுள் 583 அடிகளைக் கொண்ட நெடிய நூலாகும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "782 அடிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "300 அடிகள்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஐநூறுக்கும் மேல்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "நூலில் குறிப்பிடப்படும் ‘பாக்கம்’ என்பது எவ்வகை ஊர்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடற்கரை ஊர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலைச்சாரலில் உள்ள சிற்றூர்",
+        "rationale": "மலையை ஒட்டி அமைந்துள்ள சிறிய ஊர்களைப் (பக்கத்திலுள்ளது) பாக்கம் என்று நூல் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நகரம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலைநகர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பக்கத்து ஊர்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "‘இரணிய முட்டம்’ என்பது எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆசிரியர் பிறந்த ஊர்/நாடு",
+        "rationale": "பெருங்கௌசிகனார் இரணிய முட்டத்துப் பெருங்குன்றூரைச் சேர்ந்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மன்னனின் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலையின் பெயர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "இசைக்கருவி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "புலவரின் ஊர்ப்பெயரில் உள்ளது."
+  },
+  {
+    "questionNumber": 45,
+    "question": "‘மதலை’ என்ற சொல்லின் பொருள் இங்கு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குழந்தை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பற்றுக்கோடு / தூண்",
+        "rationale": "ஆபத்தான பாதையில் இறங்கும்போது பிடித்துக்கொள்வதற்கு உதவும் கொடி அல்லது மரத்தை (பற்றுக்கோடு) மதலை என்பர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பானை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "படகு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிடித்துக்கொள்ள உதவுவது."
+  },
+  {
+    "questionNumber": 46,
+    "question": "நன்னனைச் சந்தித்தால் என்ன பயன் கிடைக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "செல்வம் மற்றும் புகழ்",
+        "rationale": "நன்னன் பரிசிலர்க்கு அளவற்ற செல்வத்தையும், உலகறியும் புகழையும் அளிப்பான்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தண்டனை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "துறவறம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வறுமை நீங்கும்."
+  },
+  {
+    "questionNumber": 47,
+    "question": "‘கான்’ மற்றும் ‘கானம்’ எதைக் குறிக்கிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "காடு",
+        "rationale": "கான், கானம் என்பன முல்லை/குறிஞ்சி நிலக் காடுகளைக் குறிக்கும் சொற்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "பாடல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வயல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மரங்கள் அடர்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 48,
+    "question": "விருந்தினருக்கு அளிக்கப்படும் 'வெண்சோறு' எதனுடன் சமைக்கப்பட்டது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெய்",
+        "rationale": "நெய் ஊற்றி, ஆக்கிய வெண்மையான சோறு விருந்தினருக்கு அளிக்கப்படும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "தயிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தேன்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பால்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உருகிய வெண்ணெய்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "கூத்தர்கள் வாசிக்கும் ‘பாலை’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாலை நிலம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒரு வகை பண் (இசை)",
+        "rationale": "யாழில் வாசிக்கப்படும் ஏழு வகை பாலைப் பண்களில் இதுவும் ஒன்று (பாலைப்பண்).",
+        "isCorrect": true
+      },
+      {
+        "text": "பால் உணவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "மர வகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஏழிசையில் ஒன்று."
+  },
+  {
+    "questionNumber": 50,
+    "question": "கானவர்கள் கையில் வைத்திருக்கும் ‘வில்’ எதற்கு உவமையாகக் கூறப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இறால் மீன்",
+        "rationale": "கானவர்கள் வைத்திருக்கும் வளைந்த வில்லானது, வளைந்த இறால் மீனைப் (இறா) போலக் காணப்பட்டது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பிறை நிலவு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானவில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பாம்பு",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வளைந்த மீன்."
+  }
+]
