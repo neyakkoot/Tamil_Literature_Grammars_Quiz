@@ -1,0 +1,1402 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "சூடாமணி நிகண்டு நூலின் ஆசிரியர் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அகத்தியர்",
+        "rationale": "அகத்தியர் அகத்திணைக் கோட்பாடுகளை வகுத்தவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மண்டல புருடர்",
+        "rationale": "சூடாமணி நிகண்டு நூலை இயற்றியவர் மண்டல புருடர் ஆவார்.",
+        "isCorrect": true
+      },
+      {
+        "text": "திவாகர முனிவர்",
+        "rationale": "திவாகர முனிவர் திவாகரம் என்னும் நிகண்டு நூலை இயற்றியவர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிங்கலர்",
+        "rationale": "பிங்கலர் பிங்கல நிகண்டுவை இயற்றியவர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இவர் கிருஷ்ணதேவராயர் காலத்தில் வாழ்ந்த சமண முனிவர்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "‘பகவன்’ என்ற சொல் குறிக்கும் பொருள்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருகன்",
+        "rationale": "முருகன் பகவன் என்ற சொல்லில் குறிப்பிடப்படவில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "இந்திரன் பகவன் என்ற சொல்லில் அடங்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈசன்",
+        "rationale": "‘பகவனே ஈசன் மாயோன் பங்கயன் சினனே புத்தன்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வருணன்",
+        "rationale": "வருணன் பகவன் என்ற பொருளில் வரவில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மும்மூர்த்திகளில் அழிக்கும் கடவுளையும் இச்சொல் குறிக்கும்."
+  },
+  {
+    "questionNumber": 3,
+    "question": "‘சிகரி’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கடல்",
+        "rationale": "சிகரி என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோபுரம்",
+        "rationale": "‘சிகரி கோபுரமே வெற்பு’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயல்",
+        "rationale": "சிகரி என்பது வயலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "வானம் சிகரி என்ற சொல்லுக்குப் பொருளாகாது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கோவிலின் உயர்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 4,
+    "question": "‘மகரம்’ என்ற சொல் குறிக்காத பொருள் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுறா",
+        "rationale": "மகரம் என்பது சுறாவைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூந்தாது",
+        "rationale": "மகரம் என்பது பூந்தாதைக் (மகரந்தம்) குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "யானை மகரம் என்ற சொல்லின் பொருள்களில் ஒன்றல்ல.",
+        "isCorrect": true
+      },
+      {
+        "text": "மீன்",
+        "rationale": "மகரம் என்பது ஒரு வகை மீன் அல்லது சுறாவைக் குறிக்கும்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இது ஒரு பெரிய விலங்கு, ஆனால் நீரில் வாழ்வதல்ல."
+  },
+  {
+    "questionNumber": 5,
+    "question": "‘பகடு’ என்ற சொல்லின் பொருள்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலி, சிங்கம்",
+        "rationale": "பகடு என்பது புலி, சிங்கத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை, பெருமை, ஏறு",
+        "rationale": "‘பக டிபம் பெருமை யேறு...’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில், குயில்",
+        "rationale": "இவை பறவைகள், பகடு என்ற சொல்லுக்கு உரியவை அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மீன், முதலை",
+        "rationale": "இவை நீர்வாழ் உயிரினங்கள்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விலங்குகளில் பெரியது மற்றும் உழவுக்குப் பயன்படும் விலங்கையும் குறிக்கும்."
+  },
+  {
+    "questionNumber": 6,
+    "question": "‘நாகம்’ என்ற சொல் குறிக்கும் பொருள்களில் தவறானது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாம்பு",
+        "rationale": "நாகம் என்பது பாம்பைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "நாகம் என்பது மலையைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "குரங்கு",
+        "rationale": "நாகம் என்பது குரங்கைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "நாகம் என்ற சொல் சிங்கத்தைக் குறிக்காது.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "இது காட்டுக்கு அரசன் என்று அழைக்கப்படும் விலங்கு."
+  },
+  {
+    "questionNumber": 7,
+    "question": "‘திகிரி’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சக்கரம் / ஆழி",
+        "rationale": "‘திகிரியே மூங்கில் வட்டந் தேருருள் ஆழி’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாள்",
+        "rationale": "திகிரி என்பது வாளைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஈட்டி",
+        "rationale": "திகிரி என்பது ஈட்டியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கேடயம்",
+        "rationale": "திகிரி என்பது கேடயத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திருமாலின் கையில் இருக்கும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 8,
+    "question": "‘ஞெகிழி’ என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தண்ணீர்",
+        "rationale": "ஞெகிழி என்பது தண்ணீரைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிலம்பு / நெருப்பு",
+        "rationale": "‘ஞெகிழியே சிலம்பின் நாமம் நெருப்புரு கொள்ளிக்கும் பேர்’ என்பது பாடல் வரி.",
+        "isCorrect": true
+      },
+      {
+        "text": "காற்று",
+        "rationale": "ஞெகிழி என்பது காற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பூமி",
+        "rationale": "ஞெகிழி என்பது பூமியைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணகி அணிந்த அணிகலன்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "‘ஆகு’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலி",
+        "rationale": "‘ஆகுவே யெலியி னாமம்’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூனை",
+        "rationale": "ஆகு என்பது பூனையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நாய்",
+        "rationale": "ஆகு என்பது நாயைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பசு",
+        "rationale": "ஆகு என்பது பசுவைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "விநாயகரின் வாகனம்."
+  },
+  {
+    "questionNumber": 10,
+    "question": "‘போகி’ என்ற சொல்லின் பொருள்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இந்திரன், பாம்பு",
+        "rationale": "‘போகி யிந்திரன் பாம்பென்ப’ என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சூரியன், சந்திரன்",
+        "rationale": "இவர்கள் போகி என்று அழைக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவன், விஷ்ணு",
+        "rationale": "இக்கடவுளர் போகி என்று அழைக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "முருகன், விநாயகர்",
+        "rationale": "இவர்கள் போகி என்ற சொல்லால் குறிக்கப்படுவதில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தேவர்களின் தலைவன்."
+  },
+  {
+    "questionNumber": 11,
+    "question": "‘தூக்கு’ என்ற சொல்லின் பொருள் அல்லாதது எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பாட்டு",
+        "rationale": "தூக்கு என்பது பாட்டைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கூத்து",
+        "rationale": "தூக்கு என்பது கூத்தைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "தராசு",
+        "rationale": "தூக்கு என்பது துலாம் (தராசு) என்பதைக் குறிக்கும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில்",
+        "rationale": "தூக்கு என்பது வில்லைக் குறிக்காது.",
+        "isCorrect": true
+      }
+    ],
+    "hint": "இது போரில் பயன்படும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 12,
+    "question": "‘சகுந்தம்’ என்பது எதனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விலங்கு",
+        "rationale": "சகுந்தம் விலங்கைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பறவை",
+        "rationale": "‘சகுந்தம் புட்பொதுவே’ என்று நிகண்டு பறவையைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஊர்வன",
+        "rationale": "சகுந்தம் ஊர்வனவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்வாழ்வன",
+        "rationale": "சகுந்தம் நீர்வாழ்வனவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வானில் பறக்கும் உயிரினம்."
+  },
+  {
+    "questionNumber": 13,
+    "question": "‘பூகம்’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கமுகு (பாக்கு மரம்)",
+        "rationale": "‘பூக்கமே கமுகு’ மற்றும் ‘பூகமே திரளை பூகம்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தென்னை",
+        "rationale": "பூகம் என்பது தென்னையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பனை",
+        "rationale": "பூகம் என்பது பனையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மாமரம்",
+        "rationale": "பூகம் என்பது மாமரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தாம்பூலம் தரிப்பதற்குப் பயன்படும் காய் தரும் மரம்."
+  },
+  {
+    "questionNumber": 14,
+    "question": "‘நோக்கு’ என்ற சொல்லின் இரு பொருள்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அழகு, பார்வை",
+        "rationale": "‘நோக்கேன்பத யழகு பார்வை’ என்று நூல் விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேள்வி, பதில்",
+        "rationale": "இவை நோக்கு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "வரவு, செலவு",
+        "rationale": "இவை நோக்கு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்பம், துன்பம்",
+        "rationale": "இவை நோக்கு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்களால் செய்வது."
+  },
+  {
+    "questionNumber": 15,
+    "question": "‘அக்கு’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எலும்பு / சங்கு",
+        "rationale": "‘அக் கென்பு விடை முரிப்பு மணி சங்கு’ என்று நிகண்டு கூறுகிறது. (என்பு = எலும்பு).",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "அக்கு என்பது தங்கத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வெள்ளி",
+        "rationale": "அக்கு என்பது வெள்ளியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "செம்பு",
+        "rationale": "அக்கு என்பது செம்பைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கடலில் கிடைக்கும் ஒரு பொருள்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "‘கேகயம்’ என்பது எந்தப் பறவையைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கிளி",
+        "rationale": "கேகயம் என்பது கிளியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மயில்",
+        "rationale": "‘கேகயம் மஞ்ஞை’ என்று நிகண்டு குறிப்பிடுகிறது (மஞ்ஞை = மயில்).",
+        "isCorrect": true
+      },
+      {
+        "text": "புறா",
+        "rationale": "கேகயம் என்பது புறாவைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழுகு",
+        "rationale": "கேகயம் என்பது கழுகைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தோகை விரித்து ஆடும் பறவை."
+  },
+  {
+    "questionNumber": 17,
+    "question": "‘திங்கள்’ என்ற சொல் குறிக்கும் பொருள்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சூரியன், நாள்",
+        "rationale": "திங்கள் என்பது சூரியனைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நிலவு, மாதம்",
+        "rationale": "‘திங்க ளம்புலி மாதப்பேர்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நட்சத்திரம், ஆண்டு",
+        "rationale": "திங்கள் என்பது இவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம், மேகம்",
+        "rationale": "திங்கள் என்பது இவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரவில் ஒளிரும் கோள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "‘சங்கம்’ என்ற சொல்லின் பல பொருள்களில் ஒன்று யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நெற்றி",
+        "rationale": "‘சங்கமே... புலவர் நெற்றி’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால்",
+        "rationale": "சங்கம் என்பது காலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை",
+        "rationale": "சங்கம் என்பது கையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலை",
+        "rationale": "சங்கம் என்பது தலையைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலின் ஒரு பகுதி."
+  },
+  {
+    "questionNumber": 19,
+    "question": "‘வேங்கை’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "புலி / ஒரு மரம்",
+        "rationale": "‘வேங்கைபொன் புலி மரப்பேர்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிங்கம்",
+        "rationale": "வேங்கை என்பது சிங்கத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரடி",
+        "rationale": "வேங்கை என்பது கரடியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "யானை",
+        "rationale": "வேங்கை என்பது யானையைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காட்டில் வாழும் கொடு விலங்கு."
+  },
+  {
+    "questionNumber": 20,
+    "question": "‘அங்கம்’ என்ற சொல்லின் பொருள்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உடல் உறுப்பு, ஆறு அங்கங்கள்",
+        "rationale": "‘அங்கமே யுடலுறுப் பென் பாறங்கங் கட்டி’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மனம், புத்தி",
+        "rationale": "இவை அங்கம் என்ற சொல்லின் நேரடிப் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "உயிர், ஆன்மா",
+        "rationale": "இவை அங்கம் என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "பொருள், செல்வம்",
+        "rationale": "இவை அங்கம் என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலின் பகுதிகள்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "‘பாசனம்’ என்ற சொல் எவற்றைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சுற்றம், உண்கலம்",
+        "rationale": "‘பாசனம் மென்ப சுற்றம் பாண்டம் உண்கலமும்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வயல், நீர்",
+        "rationale": "இங்கு நிகண்டு கூறும் பொருள் வேறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம், பூமி",
+        "rationale": "இவை பாசனம் என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கல்வி, அறிவு",
+        "rationale": "இவை பாசனம் என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உறவினர்கள்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "‘அசி’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வாள்",
+        "rationale": "‘அசி படைக்கலமே வாளே’ என்று நிகண்டு விளக்குகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கேடயம்",
+        "rationale": "அசி என்பது கேடயத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வில்",
+        "rationale": "அசி என்பது வில்லைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அம்பு",
+        "rationale": "அசி என்பது அம்பைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "போர்வீரர்கள் பயன்படுத்தும் வெட்டும் ஆயுதம்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "‘பச்சை’ என்ற சொல் குறிக்கும் கடவுள் யார்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "சிவன் பச்சை என்ற சொல்லால் குறிக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "திருமால் (மால்)",
+        "rationale": "‘பச்சையே... மால்’ என்று நிகண்டு கூறுகிறது. திருமால் பச்சை நிறத்தவர்.",
+        "isCorrect": true
+      },
+      {
+        "text": "முருகன்",
+        "rationale": "முருகன் பச்சை என்ற சொல்லால் குறிக்கப்படுவதில்லை.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மன்",
+        "rationale": "பிரம்மன் பச்சை என்ற சொல்லால் குறிக்கப்படுவதில்லை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காக்கும் கடவுள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "‘ஆசை’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திசை",
+        "rationale": "‘ஆசையே திசை பொன் அன்பாம்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலை",
+        "rationale": "ஆசை என்பது மலையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "ஆசை என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம்",
+        "rationale": "ஆசை என்பது வானத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வடக்கு, தெற்கு போன்றவை."
+  },
+  {
+    "questionNumber": 25,
+    "question": "‘விசும்பு’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வானம்",
+        "rationale": "‘விசும்பு பொன் னுலகு மேகம் விண்ணொடு திசையு நாற்பேர்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பூமி",
+        "rationale": "விசும்பு என்பது பூமியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நீர்",
+        "rationale": "விசும்பு என்பது நீரைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெருப்பு",
+        "rationale": "விசும்பு என்பது நெருப்பைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மேகங்கள் உலவும் இடம்."
+  },
+  {
+    "questionNumber": 26,
+    "question": "‘வச்சிரம்’ என்பது எதனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வைரம் / இந்திரன் ஆயுதம்",
+        "rationale": "‘வச்சிரங் சதுரக்கள்ளி வைரமே குலிச முப்பேர்’ என்று நிகண்டு கூறுகிறது. (குலிசம் = வச்சிராயுதம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "தங்கம்",
+        "rationale": "வச்சிரம் என்பது தங்கத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "முத்து",
+        "rationale": "வச்சிரம் என்பது முத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பவளம்",
+        "rationale": "வச்சிரம் என்பது பவளத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மிகவும் உறுதியான கல்."
+  },
+  {
+    "questionNumber": 27,
+    "question": "‘நெஞ்சு’ என்ற சொல்லின் இரு பொருள்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மனம், மார்பு",
+        "rationale": "‘நெஞ்சென்ப மன மார்பின்பேர்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கண், காது",
+        "rationale": "இவை நெஞ்சு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை, கால்",
+        "rationale": "இவை நெஞ்சு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "தலை, கழுத்து",
+        "rationale": "இவை நெஞ்சு என்ற சொல்லின் பொருள்கள் அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உணர்வுகளின் இருப்பிடம்."
+  },
+  {
+    "questionNumber": 28,
+    "question": "‘அஞ்சனம்’ என்ற சொல் குறிக்கும் பொருள் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மை / கறுப்பு",
+        "rationale": "‘அஞ்சனங் கறுப்பு மை’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வெண்மை",
+        "rationale": "அஞ்சனம் என்பது வெண்மையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவப்பு",
+        "rationale": "அஞ்சனம் என்பது சிவப்பைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மஞ்சள்",
+        "rationale": "அஞ்சனம் என்பது மஞ்சளைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணுக்கு அழகு சேர்க்கப் பயன்படுவது."
+  },
+  {
+    "questionNumber": 29,
+    "question": "‘கிஞ்சுகம்’ என்பது எதனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "முருக்கு மரம் / செம்மை",
+        "rationale": "‘கிஞ்சுக முருக்குச் செம்மை’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆலமரம்",
+        "rationale": "கிஞ்சுகம் என்பது ஆலமரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அரசமரம்",
+        "rationale": "கிஞ்சுகம் என்பது அரசமரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேப்பமரம்",
+        "rationale": "கிஞ்சுகம் என்பது வேப்பமரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சிவப்பு நிறப் பூக்கள் கொண்ட மரம்."
+  },
+  {
+    "questionNumber": 30,
+    "question": "‘குடிஞை’ என்ற சொல் எந்தப் பறவையைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஆந்தை (கூகை)",
+        "rationale": "‘குடிஞை... கூகையு யாகுமென்ப’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "மயில்",
+        "rationale": "குடிஞை என்பது மயிலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குயில்",
+        "rationale": "குடிஞை என்பது குயிலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காகம்",
+        "rationale": "குடிஞை என்பது காகத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரவில் விழித்திருக்கும் பறவை."
+  },
+  {
+    "questionNumber": 31,
+    "question": "‘மடி’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சோம்பல்",
+        "rationale": "‘மடி யடங்குதலே சோம்பு’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சுறுசுறுப்பு",
+        "rationale": "மடி என்பது சுறுசுறுப்பைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அறிவு",
+        "rationale": "மடி என்பது அறிவைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வீரம்",
+        "rationale": "மடி என்பது வீரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "முயற்சியின்மை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "‘உடு’ என்ற சொல் எவற்றைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விண்மீன் (நட்சத்திரம்)",
+        "rationale": "‘உடு விண்மீன்...’ என்று நிகண்டு குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நிலவு",
+        "rationale": "உடு என்பது நிலவைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சூரியன்",
+        "rationale": "உடு என்பது சூரியனைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேகம்",
+        "rationale": "உடு என்பது மேகத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இரவு வானில் மின்னுவது."
+  },
+  {
+    "questionNumber": 33,
+    "question": "‘மாடு’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "செல்வம் / பக்கம்",
+        "rationale": "‘மாடுபொன் பக்கஞ் செல்வம்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வீடு",
+        "rationale": "மாடு என்பது வீட்டைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "மாடு என்பது மலையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "மாடு என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கேடில் விழுச்செல்வம் என்று குறள் குறிப்பிடுவது."
+  },
+  {
+    "questionNumber": 34,
+    "question": "‘வாடை’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வட காற்று",
+        "rationale": "‘வாடை யென்பதுதான் வீதி வடக்காற்றுந் தானுமாமே’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தென் காற்று",
+        "rationale": "தென் காற்று தென்றல் எனப்படும்.",
+        "isCorrect": false
+      },
+      {
+        "text": "மேல் காற்று",
+        "rationale": "வாடை என்பது மேல் காற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கீழ் காற்று",
+        "rationale": "வாடை என்பது கீழ் காற்றைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "குளிர்காலத்தில் வீசும் காற்று."
+  },
+  {
+    "questionNumber": 35,
+    "question": "‘திட்டை’ என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மேடு / திண்ணை",
+        "rationale": "‘திட்டையே யுரலு மேடுந் திண்ணையு’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "பள்ளம்",
+        "rationale": "திட்டை என்பது பள்ளத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "திட்டை என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கிணறு",
+        "rationale": "திட்டை என்பது கிணற்றைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நிலத்தின் உயர்ந்த பகுதி."
+  },
+  {
+    "questionNumber": 36,
+    "question": "‘நாட்டம்’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்",
+        "rationale": "‘நாட்டங் கண்ணோர்பண்...’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காது",
+        "rationale": "நாட்டம் என்பது காதைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூக்கு",
+        "rationale": "நாட்டம் என்பது மூக்கைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாய்",
+        "rationale": "நாட்டம் என்பது வாயைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலின் ஓர் ஐம்புலன்."
+  },
+  {
+    "questionNumber": 37,
+    "question": "‘கடகம்’ என்ற சொல்லின் பொருள்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கைவளை, மதில்",
+        "rationale": "‘கடகமே சேனை வட்டங் கைவளை மதி னாற்பேரே’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கால் சிலம்பு",
+        "rationale": "கடகம் என்பது சிலம்பைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மூக்குத்தி",
+        "rationale": "கடகம் என்பது மூக்குத்தியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒட்டியாணம்",
+        "rationale": "கடகம் என்பது ஒட்டியாணத்தைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கையில் அணியும் அணிகலன்."
+  },
+  {
+    "questionNumber": 38,
+    "question": "‘மடங்கல்’ என்ற சொல் குறிக்கும் விலங்கு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிங்கம்",
+        "rationale": "‘மடங்கலே சனி சீய’ என்று நிகண்டு கூறுகிறது (சீயம் = சிங்கம்).",
+        "isCorrect": true
+      },
+      {
+        "text": "யானை",
+        "rationale": "மடங்கல் என்பது யானையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "புலி",
+        "rationale": "மடங்கல் என்பது புலியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கரடி",
+        "rationale": "மடங்கல் என்பது கரடியைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பிடரி மயிர் கொண்ட விலங்கு."
+  },
+  {
+    "questionNumber": 39,
+    "question": "‘வடு’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தழும்பு / மாம்பிஞ்சு",
+        "rationale": "‘வடுச்செம்பு தழும்பு வண்டாம்’ என்று நிகண்டு கூறுகிறது. வடு மாம்பிஞ்சையும் குறிக்கும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "மலர்",
+        "rationale": "வடு என்பது மலரைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இலை",
+        "rationale": "வடு என்பது இலையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "காய்",
+        "rationale": "வடு என்பது பொதுவான காயைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காயம்பட்ட இடம் ஆறிய பின் தெரிவது."
+  },
+  {
+    "questionNumber": 40,
+    "question": "‘குணில்’ என்பது எதனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குறுந்தடி",
+        "rationale": "‘குணில் குறுந்தடி கடிப்பாங்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீண்ட கம்பு",
+        "rationale": "குணில் என்பது நீண்ட கம்பைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வாள்",
+        "rationale": "குணில் என்பது வாளைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேல்",
+        "rationale": "குணில் என்பது வேலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பறை அடிக்கப் பயன்படும் குச்சி."
+  },
+  {
+    "questionNumber": 41,
+    "question": "‘தோணி’ என்பது எதனைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "படகு / மரக்கலம் (வங்கம்)",
+        "rationale": "‘தோணியே... வங்கந்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தேர்",
+        "rationale": "தோணி என்பது தேரைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வண்டி",
+        "rationale": "தோணி என்பது வண்டியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிவிகை",
+        "rationale": "தோணி என்பது சிவிகையைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீரில் பயணம் செய்ய உதவுவது."
+  },
+  {
+    "questionNumber": 42,
+    "question": "‘பணை’ என்ற சொல்லின் பொருள்கள் யாவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வயல், மூங்கில், முரசு",
+        "rationale": "‘பணை வயல்... பருத்தல் வே யரசு பீடாம்’ என்று நிகண்டு கூறுகிறது. (வே = மூங்கில்).",
+        "isCorrect": true
+      },
+      {
+        "text": "மலை, கடல்",
+        "rationale": "பணை என்பது இவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "வானம், மேகம்",
+        "rationale": "பணை என்பது இவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நெருப்பு, காற்று",
+        "rationale": "பணை என்பது இவற்றைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மருத நிலத்திற்கு உரியது."
+  },
+  {
+    "questionNumber": 43,
+    "question": "‘தண்டு’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சேனை (படை), ஊன்று கோல்",
+        "rationale": "‘தண்டென்ப குழாயே... படை’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நாடு",
+        "rationale": "தண்டு என்பது நாட்டைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "நகரம்",
+        "rationale": "தண்டு என்பது நகரத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கோவில்",
+        "rationale": "தண்டு என்பது கோவிலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நான்குகால் படைகளுள் ஒன்று."
+  },
+  {
+    "questionNumber": 44,
+    "question": "‘கண்டம்’ என்ற சொல்லின் பொருள்களில் ஒன்று எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கழுத்து",
+        "rationale": "‘கண்டமே கவசம் வெல்லங் கழுத்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலை",
+        "rationale": "கண்டம் என்பது தலையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கை",
+        "rationale": "கண்டம் என்பது கையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கால்",
+        "rationale": "கண்டம் என்பது காலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உடலின் ஒரு பகுதி, வெல்லக்கட்டியையும் குறிக்கும்."
+  },
+  {
+    "questionNumber": 45,
+    "question": "‘விண்டு’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "திருமால் (மாயோன்) / மலை",
+        "rationale": "‘விண்டென்ப மாயோன் வெற்பு’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "சிவன்",
+        "rationale": "விண்டு என்பது சிவனைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "பிரம்மா",
+        "rationale": "விண்டு என்பது பிரம்மாவைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "இந்திரன்",
+        "rationale": "விண்டு என்பது இந்திரனைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வைகுண்டத்தில் இருப்பவர்."
+  },
+  {
+    "questionNumber": 46,
+    "question": "‘குழல்’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துளை, மயிர், இசைக்கருவி",
+        "rationale": "‘குழ றுளையுடைப்பொருட் பேர் மயி ரிசைக்குழன்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தோல் கருவி",
+        "rationale": "குழல் என்பது தோல் கருவி அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "நரம்பு கருவி",
+        "rationale": "குழல் என்பது நரம்பு கருவி அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "கஞ்சக் கருவி",
+        "rationale": "குழல் என்பது கஞ்சக் கருவி அல்ல.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கண்ணன் ஊதும் இசைக்கருவி."
+  },
+  {
+    "questionNumber": 47,
+    "question": "‘அரங்கம்’ என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சபை / இடம்",
+        "rationale": "‘அரங்க... ஆடிடஞ் சபையுமுப்பேர்’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "காடு",
+        "rationale": "அரங்கம் என்பது காட்டை குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மலை",
+        "rationale": "அரங்கம் என்பது மலையைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "அரங்கம் என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "கலை நிகழ்ச்சிகள் நடைபெறும் இடம்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "‘பறம்பு’ என்பது எதைக் குறிக்கும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மலை",
+        "rationale": "‘பறம் புயர்மலை’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "நதி",
+        "rationale": "பறம்பு என்பது நதியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "குளம்",
+        "rationale": "பறம்பு என்பது குளத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "பறம்பு என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பாரி வள்ளல் ஆண்ட பகுதி."
+  },
+  {
+    "questionNumber": 49,
+    "question": "‘வாவி’ என்ற சொல்லின் பொருள் யாது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "குளம் / பொய்கை",
+        "rationale": "‘ஆவியே வாவி’ (ஆவி என்றால் குளம்). மேலும், ‘கிடங் ககழ் வாவியாமே’ என்றும் வருகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "கிணறு",
+        "rationale": "வாவி என்பது கிணற்றைக் குறிக்காது (பொதுவாக குளம்).",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆறு",
+        "rationale": "வாவி என்பது ஆற்றைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடல்",
+        "rationale": "வாவி என்பது கடலைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நீராடப் பயன்படும் நீர்நிலை."
+  },
+  {
+    "questionNumber": 50,
+    "question": "‘துனி’ என்ற சொல்லின் பொருள் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "துன்பம் / ஊடல்",
+        "rationale": "‘துனியென்ப புலவிநீட்டந் துன்ப’ என்று நிகண்டு கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இன்பம்",
+        "rationale": "துனி என்பது இன்பத்தைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "மகிழ்ச்சி",
+        "rationale": "துனி என்பது மகிழ்ச்சியைக் குறிக்காது.",
+        "isCorrect": false
+      },
+      {
+        "text": "அமைதி",
+        "rationale": "துனி என்பது அமைதியைக் குறிக்காது.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "காதலர்களிடையே வரும் பிணக்கு."
+  }
+]
