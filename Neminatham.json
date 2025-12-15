@@ -1098,4 +1098,305 @@
     "answerOptions": [
       {
         "text": "உயிர்மெய்",
-        "rationale": "
+        "rationale": "சரியான விடை. 'ஓங்குயிர்கள் ஒற்றில்மேல் ஏறி உயிர்மெய்யாய்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "தனி உயிர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனி மெய்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆய்தம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "க் + அ."
+  },
+  {
+    "questionNumber": 41,
+    "question": "விரவுப்பெயர் என்பதற்கு எடுத்துக்காட்டு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "தந்தை, தாய்",
+        "rationale": "சரியான விடை. 'தந்தைதாய் என்பனவுஞ்... விரவுப்பே ராம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "மரம், செடி",
+        "rationale": "அஃறிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவன், இவன்",
+        "rationale": "உயர்திணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வந்தான்",
+        "rationale": "வினைச்சொல்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இருதிணைக்கும் பொதுவான பெயர்."
+  },
+  {
+    "questionNumber": 42,
+    "question": "வினா எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "எ, யா, ஆ, ஓ, ஏ",
+        "rationale": "சரியான விடை. 'எவனென வினாவவ்' போன்ற குறிப்புகள் மூலம் அறியலாம்.",
+        "isCorrect": true
+      },
+      {
+        "text": "அ, இ, உ",
+        "rationale": "சுட்டு.",
+        "isCorrect": false
+      },
+      {
+        "text": "க, ச, ட",
+        "rationale": "வல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ந, ம",
+        "rationale": "மெல்லினம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எவன், யாவன்."
+  },
+  {
+    "questionNumber": 43,
+    "question": "சுட்டெழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அ, இ, உ",
+        "rationale": "சரியான விடை. 'மேவியசுட் டாங்கே மிகும்' மற்றும் பொது இலக்கண மரபு.",
+        "isCorrect": true
+      },
+      {
+        "text": "எ, ஏ",
+        "rationale": "வினா.",
+        "isCorrect": false
+      },
+      {
+        "text": "க, ச",
+        "rationale": "மெய்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ல, ள",
+        "rationale": "இடையினம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவன், இவன்."
+  },
+  {
+    "questionNumber": 44,
+    "question": "வல்லின எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "க, ச, ட, த, ப, ற",
+        "rationale": "சரியான விடை. 'வன்மையே... மூவாறும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஞ, ங, ண, ந, ம, ன",
+        "rationale": "மெல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ய, ர, ல, வ, ழ, ள",
+        "rationale": "இடையினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அ, ஆ",
+        "rationale": "உயிர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வன்மையான ஓசை."
+  },
+  {
+    "questionNumber": 45,
+    "question": "மெல்லின எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ஞ, ங, ண, ந, ம, ன",
+        "rationale": "சரியான விடை. 'மென்மையே... மூவாறும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "க, ச, ட, த, ப, ற",
+        "rationale": "வல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ய, ர, ல, வ, ழ, ள",
+        "rationale": "இடையினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "எ, ஏ",
+        "rationale": "உயிர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மென்மையான ஓசை."
+  },
+  {
+    "questionNumber": 46,
+    "question": "இடையின எழுத்துக்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "ய, ர, ல, வ, ழ, ள",
+        "rationale": "சரியான விடை. 'இடைமையாம்... மூவாறும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "க, ச, ட",
+        "rationale": "வல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஞ, ங, ண",
+        "rationale": "மெல்லினம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அ, இ, உ",
+        "rationale": "உயிர்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடைப்பட்ட ஓசை."
+  },
+  {
+    "questionNumber": 47,
+    "question": "விளி வேற்றுமையில் 'அம்மா' என்ற சொல் எவ்வாறு திரியும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அம்ம",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆய்",
+        "rationale": "சரியான விடை. 'யாமாவின் பின்னிறுதி... ஆகுபெயர்' (நூற்பா பொருள்: ஆய் எனத் திரியும்).",
+        "isCorrect": true
+      },
+      {
+        "text": "அம்மே",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "அம்மோ",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அன்னாய்."
+  },
+  {
+    "questionNumber": 48,
+    "question": "காலம் கரந்த பெயரெச்சம் எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வினைத்தொகை",
+        "rationale": "சரியான விடை. 'வினைத்தொகையாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பண்புத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உவமைத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுமைத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஊறுகாய்."
+  },
+  {
+    "questionNumber": 49,
+    "question": "'மலர்க்கை' என்பது எவ்வகைத் தொகை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உவமைத்தொகை",
+        "rationale": "சரியான விடை. மலர் போன்ற கை - உவம உருபு மறைந்துள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினைத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உம்மைத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பண்புத்தொகை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மலர் போன்ற கை."
+  },
+  {
+    "questionNumber": 50,
+    "question": "நேமிநாதம் எந்த வகையைச் சார்ந்த நூல்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இலக்கண நூல்",
+        "rationale": "சரியான விடை. 'ஒரு தமிழ் இலக்கண நூல்' என்று முகப்பில் உள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "இலக்கிய நூல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "புதினம்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சிறுகதை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "மொழியின் விதியைச் சொல்வது."
+  }
+]
