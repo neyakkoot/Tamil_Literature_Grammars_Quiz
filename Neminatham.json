@@ -1,0 +1,1101 @@
+[
+  {
+    "questionNumber": 1,
+    "question": "நேமிநாதம் நூலின் கடவுள் வாழ்த்து யாரைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "சிவன்",
+        "rationale": "தவறு. இது சைவ நூல் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "புங்கவன் (அருகன்)",
+        "rationale": "சரியான விடை. 'பூவின்மேல் வந்தருளும் புங்கவன்' என்று அருகக்கடவுளைக் குறிப்பிடுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "திருமால்",
+        "rationale": "தவறு. இது வைணவ நூல் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "புத்தர்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பூவின் மேல் நடப்பவன்."
+  },
+  {
+    "questionNumber": 2,
+    "question": "நேமிநாதம் குறிப்பிடும் முதல் எழுத்துக்களின் எண்ணிக்கை என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "30",
+        "rationale": "தொல்காப்பியம் கூறுவது 30.",
+        "isCorrect": false
+      },
+      {
+        "text": "31",
+        "rationale": "சரியான விடை. உயிர் 12, மெய் 18, ஆய்தம் 1 சேர்த்து 31 எழுத்துக்கள்.",
+        "isCorrect": true
+      },
+      {
+        "text": "247",
+        "rationale": "இது மொத்த எழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "இது உயிரெழுத்துக்களின் எண்ணிக்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயிர், மெய் மற்றும் ஆய்தம் ஆகியவற்றைச் சேர்த்து."
+  },
+  {
+    "questionNumber": 3,
+    "question": "எழுத்துக்கள் பிறப்பதற்கு காரணமான காற்று (வளி) எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பிராண வளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "உதான வளி",
+        "rationale": "சரியான விடை. 'உந்தியிற் றோன்றும் உதான வளி' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அபான வளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சமான வளி",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உந்தியில் தோன்றும் காற்று."
+  },
+  {
+    "questionNumber": 4,
+    "question": "எழுத்துக்கள் பிறக்கும் இடமாக நேமிநாதம் எதைக் குறிப்பிடுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உந்தி (தொப்புள்)",
+        "rationale": "சரியான விடை. 'உந்தியிற் றோன்றும்' என்று மூல இடத்தைக் குறிக்கிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "தலை",
+        "rationale": "இது ஒலிக்கும் இடம், மூல இடம் அல்ல.",
+        "isCorrect": false
+      },
+      {
+        "text": "மார்பு",
+        "rationale": "இதுவும் ஒலிக்கும் இடம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "கழுத்து",
+        "rationale": "இது கண்டம் எனப்படும் ஒலிக்கும் இடம்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வயிற்றின் மையப்பகுதி."
+  },
+  {
+    "questionNumber": 5,
+    "question": "சந்தி (புணர்ச்சி விகாரம்) எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "சரியான விடை. 'தோன்றல் திரிதல் கெடுதலென... மூன்றென்ப சந்தி முடிவு'.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "தோன்றல், திரிதல்..."
+  },
+  {
+    "questionNumber": 6,
+    "question": "ஐகாரம் மற்றும் ஔகாரம் தனக்குரிய மாத்திரையில் குறைந்து ஒலிக்கும்போது (குறுக்கம்) பெறும் மாத்திரை அளவு என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1.5 (ஒன்றரை)",
+        "rationale": "சரியான விடை. 'ஐஒள வளவொன் றரை' என்று நேமிநாதம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "இது முழுமையான அளவு.",
+        "isCorrect": false
+      },
+      {
+        "text": "0.5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஒன்றுடன் அரை சேர்க."
+  },
+  {
+    "questionNumber": 7,
+    "question": "மொத்த வேற்றுமைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "7",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "சரியான விடை. 'வேற்றுமை யெட்டாகு' என்று நூல் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எழுவாய் முதல் விளி வரை."
+  },
+  {
+    "questionNumber": 8,
+    "question": "முதல் வேற்றுமைக்கு வழங்கப்படும் மற்றொரு பெயர் என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விளி வேற்றுமை",
+        "rationale": "இது எட்டாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "எழுவாய் வேற்றுமை",
+        "rationale": "சரியான விடை. 'பெயரெழுவாய் வேற்றுமையாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "செயப்படுபொருள் வேற்றுமை",
+        "rationale": "இது இரண்டாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கருவி வேற்றுமை",
+        "rationale": "இது மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வாக்கியத்தின் தலைவன்."
+  },
+  {
+    "questionNumber": 9,
+    "question": "இரண்டாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கு",
+        "rationale": "இது நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஐ",
+        "rationale": "சரியான விடை. 'ஐயென் னுருபிரண்டாவ'து.",
+        "isCorrect": true
+      },
+      {
+        "text": "ஆல்",
+        "rationale": "இது மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்",
+        "rationale": "இது ஐந்தாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவனை, இவனை."
+  },
+  {
+    "questionNumber": 10,
+    "question": "நான்காம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கு",
+        "rationale": "சரியான விடை. 'ஓதுங் குகர உருபுநான் காவதஃது'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது",
+        "rationale": "இது ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "இது ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஒடு",
+        "rationale": "இது மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவனுக்கு."
+  },
+  {
+    "questionNumber": 11,
+    "question": "திணை எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "சரியான விடை. 'ஏற்ற திணையரண்டும்' (உயர்திணை, அஃறிணை).",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "இது பால் வகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "இது இட வகை.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உயர்திணை மற்றும்..."
+  },
+  {
+    "questionNumber": 12,
+    "question": "பால் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "சரியான விடை. 'பாலைந்தும்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆண், பெண், பலர், ஒன்று, பல."
+  },
+  {
+    "questionNumber": 13,
+    "question": "வழு (Error) எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "7",
+        "rationale": "சரியான விடை. 'ஏழ்வழுவும்' என்று நேமிநாதம் கூறுகிறது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "திணை வழு, பால் வழு..."
+  },
+  {
+    "questionNumber": 14,
+    "question": "தொகைநிலைத் தொடர்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "6",
+        "rationale": "சரியான விடை. 'தொகையாறும்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "8",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வேற்றுமைத்தொகை முதல் அன்மொழித்தொகை வரை."
+  },
+  {
+    "questionNumber": 15,
+    "question": "உயர்திணைக்கு உரிய பால்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "சரியான விடை. ஆண், பெண், பலர் ஆகிய மூன்றும் உயர்திணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவன், அவள், அவர்."
+  },
+  {
+    "questionNumber": 16,
+    "question": "அஃறிணைக்கு உரிய பால்கள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "2",
+        "rationale": "சரியான விடை. ஒன்று, பல ஆகிய இரண்டும் அஃறிணை.",
+        "isCorrect": true
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அது, அவை."
+  },
+  {
+    "questionNumber": 17,
+    "question": "உயர்திணை என்று எவற்றைக் குறிப்பிடுகிறோம்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "மக்கள், நரகர், வானோர்",
+        "rationale": "சரியான விடை. 'மக்கள் நரகரே வானோர்... உயர்திணையாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "விலங்குகள், பறவைகள்",
+        "rationale": "இவை அஃறிணை.",
+        "isCorrect": false
+      },
+      {
+        "text": "உயிருள்ள அனைத்தும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "கடவுள் மட்டும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆறறிவு உடையவர்கள்."
+  },
+  {
+    "questionNumber": 18,
+    "question": "ஐந்தாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இன்",
+        "rationale": "சரியான விடை. 'இன்னுருபைந் தாவ'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது",
+        "rationale": "ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இதனின்."
+  },
+  {
+    "questionNumber": 19,
+    "question": "ஆறாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அது",
+        "rationale": "சரியான விடை. 'அதுவென்ப தாறாம் உருபாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "இன்",
+        "rationale": "ஐந்தாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கண்",
+        "rationale": "ஏழாம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எனது கை."
+  },
+  {
+    "questionNumber": 20,
+    "question": "ஏழாம் வேற்றுமை உருபு எது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "கண்",
+        "rationale": "சரியான விடை. 'கண்ணென்பது ஏழாம் உருபாகும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அது",
+        "rationale": "ஆறாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "ஆல்",
+        "rationale": "மூன்றாம் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "கு",
+        "rationale": "நான்காம் வேற்றுமை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "இடத்தைக் குறிக்கும்."
+  },
+  {
+    "questionNumber": 21,
+    "question": "எட்டாம் வேற்றுமை எவ்வாறு அழைக்கப்படுகிறது?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "விளி வேற்றுமை",
+        "rationale": "சரியான விடை. அழைத்தலைக் குறிப்பது.",
+        "isCorrect": true
+      },
+      {
+        "text": "எழுவாய் வேற்றுமை",
+        "rationale": "முதல் வேற்றுமை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வினை வேற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "பயனிலை வேற்றுமை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அழைத்தல்."
+  },
+  {
+    "questionNumber": 22,
+    "question": "ஆண்பால் பெயர்களுக்கான விகுதிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அன், ஆன்",
+        "rationale": "சரியான விடை. 'அன்னானும்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அள், ஆள்",
+        "rationale": "பெண்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அர், ஆர்",
+        "rationale": "பலர்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "து, று",
+        "rationale": "ஒன்றன்பால்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவன், வந்தான்."
+  },
+  {
+    "questionNumber": 23,
+    "question": "பெண்பால் பெயர்களுக்கான விகுதிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அள், ஆள்",
+        "rationale": "சரியான விடை. 'அள்ளாளும்' என்று குறிப்பிடப்பட்டுள்ளது.",
+        "isCorrect": true
+      },
+      {
+        "text": "அன், ஆன்",
+        "rationale": "ஆண்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அர், ஆர்",
+        "rationale": "பலர்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "து, று",
+        "rationale": "ஒன்றன்பால்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவள், வந்தாள்."
+  },
+  {
+    "questionNumber": 24,
+    "question": "பலர்பால் பெயர்களுக்கான விகுதிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அர், ஆர், ப",
+        "rationale": "சரியான விடை. 'அர்ஆர் பவ்வீறுமா'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அன், ஆன்",
+        "rationale": "ஆண்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "து, று",
+        "rationale": "ஒன்றன்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அள், ஆள்",
+        "rationale": "பெண்பால்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அவர், வந்தார்."
+  },
+  {
+    "questionNumber": 25,
+    "question": "ஒன்றன்பால் (அஃறிணை ஒருமை) விகுதிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "து, று, டு",
+        "rationale": "சரியான விடை. 'ஆய்ந்த துறுடுவும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "அ, ஆ",
+        "rationale": "பலவின்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன், ஆன்",
+        "rationale": "ஆண்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அர், ஆர்",
+        "rationale": "பலர்பால்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வந்தது, ஓடியது."
+  },
+  {
+    "questionNumber": 26,
+    "question": "பலவின்பால் (அஃறிணை பன்மை) விகுதிகள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "அ, ஆ, வ",
+        "rationale": "சரியான விடை. 'அஆவவ் வீறுமாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "து, று",
+        "rationale": "ஒன்றன்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அர், ஆர்",
+        "rationale": "பலர்பால்.",
+        "isCorrect": false
+      },
+      {
+        "text": "அன், ஆன்",
+        "rationale": "ஆண்பால்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வந்தன, ஓடின."
+  },
+  {
+    "questionNumber": 27,
+    "question": "சொல் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "4",
+        "rationale": "சரியான விடை. பெயர், வினை, இடை, உரி என நான்கு.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "பெயர்ச்சொல் முதல்..."
+  },
+  {
+    "questionNumber": 28,
+    "question": "நேமிநாதம் குறிப்பிடும் பொருட்கோள் வகைகள் எத்தனை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "9",
+        "rationale": "சரியான விடை. 'பாப்புப் பொருளொடொன் பான்' (ஒன்பது).",
+        "isCorrect": true
+      },
+      {
+        "text": "8",
+        "rationale": "நன்னூல் கூறுவது 8.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "3",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நன்னூலை விட ஒன்று அதிகம்."
+  },
+  {
+    "questionNumber": 29,
+    "question": "தன்மையிடத்தைக் குறிக்கும் பெயர்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "யான், யாம், நாம்",
+        "rationale": "சரியான விடை. 'அல்லுந் தனித்தன்மை யாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "நீ, நீர்",
+        "rationale": "முன்னிலை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவன், அவள்",
+        "rationale": "படர்க்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அது, அவை",
+        "rationale": "படர்க்கை.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "என்னைக் குறிப்பது."
+  },
+  {
+    "questionNumber": 30,
+    "question": "முன்னிலையிடத்தைக் குறிக்கும் பெயர்கள் எவை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "நீ, நீர், நீவிர்",
+        "rationale": "சரியான விடை. 'மின்னும்இர் ஈரும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "யான், யாம்",
+        "rationale": "தன்மை.",
+        "isCorrect": false
+      },
+      {
+        "text": "அவன், அவள்",
+        "rationale": "படர்க்கை.",
+        "isCorrect": false
+      },
+      {
+        "text": "யார்",
+        "rationale": "வினா.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "எதிரில் இருப்பவர்."
+  },
+  {
+    "questionNumber": 31,
+    "question": "காலம் எத்தனை வகைப்படும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "3",
+        "rationale": "சரியான விடை. இறப்பு, நிகழ்வு, எதிர்வு.",
+        "isCorrect": true
+      },
+      {
+        "text": "2",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "5",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "நேற்று, இன்று, நாளை."
+  },
+  {
+    "questionNumber": 32,
+    "question": "பெயரெச்சம் என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயரைக் கொண்டு முடியும் எச்சம்",
+        "rationale": "சரியான விடை. 'ஆறன்மேற் செல்லும் பெயரெச்சம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வினையைக் கொண்டு முடியும் எச்சம்",
+        "rationale": "வினையெச்சம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முற்றுப் பெற்ற வினை",
+        "rationale": "முற்றுவினை.",
+        "isCorrect": false
+      },
+      {
+        "text": "காலம் காட்டாத சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வந்த பையன்."
+  },
+  {
+    "questionNumber": 33,
+    "question": "வினையெச்சம் என்பது என்ன?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "வினையைக் கொண்டு முடியும் எச்சம்",
+        "rationale": "சரியான விடை. 'செய்தெனச் செய்து... வினையெச்சம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "பெயரைக் கொண்டு முடியும் எச்சம்",
+        "rationale": "பெயரெச்சம்.",
+        "isCorrect": false
+      },
+      {
+        "text": "முற்றுப் பெற்ற வினை",
+        "rationale": "முற்றுவினை.",
+        "isCorrect": false
+      },
+      {
+        "text": "வேற்றுமை உருபு ஏற்ற சொல்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வந்து போனான்."
+  },
+  {
+    "questionNumber": 34,
+    "question": "இடைச்சொல் தனித்து இயங்குமா?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "இயங்காது",
+        "rationale": "சரியான விடை. பெயர் அல்லது வினையைச் சார்ந்தே வரும்.",
+        "isCorrect": true
+      },
+      {
+        "text": "இயங்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "சில சமயங்களில் இயங்கும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தெரியவில்லை",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "உம், மற்று."
+  },
+  {
+    "questionNumber": 35,
+    "question": "உரிச்சொல் எங்கு வரும்?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "பெயர், வினைகளுக்கு முன்னால்",
+        "rationale": "சரியான விடை. 'பண்பு குறிப்பாற் பரந்தியலும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "வாக்கியத்தின் இறுதியில்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "தனியாக வரும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      },
+      {
+        "text": "எங்கு வேண்டுமானாலும்",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "சால, தவ."
+  },
+  {
+    "questionNumber": 36,
+    "question": "குறில் எழுத்துக்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "5",
+        "rationale": "சரியான விடை. 'ஐங்குறில்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "7",
+        "rationale": "நெடில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "மொத்த உயிர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "மெய்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "அ, இ, உ, எ, ஒ."
+  },
+  {
+    "questionNumber": 37,
+    "question": "நெடில் எழுத்துக்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "7",
+        "rationale": "சரியான விடை. 'ஏழ்நெடிலாம்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "5",
+        "rationale": "குறில்.",
+        "isCorrect": false
+      },
+      {
+        "text": "12",
+        "rationale": "மொத்த உயிர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "rationale": "தவறு.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "ஆ, ஈ, ஊ..."
+  },
+  {
+    "questionNumber": 38,
+    "question": "மெய்யெழுத்துக்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "18",
+        "rationale": "சரியான விடை. 'மெய்ம் மூவாறும்' (3 x 6 = 18).",
+        "isCorrect": true
+      },
+      {
+        "text": "12",
+        "rationale": "உயிர்.",
+        "isCorrect": false
+      },
+      {
+        "text": "216",
+        "rationale": "உயிர்மெய்.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "முதல் எழுத்து.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "வல்லினம், மெல்லினம், இடையினம்."
+  },
+  {
+    "questionNumber": 39,
+    "question": "உயிர்மெய் எழுத்துக்களின் எண்ணிக்கை?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "216",
+        "rationale": "சரியான விடை. 'ஆங்கிரு நூற்றொருபத் தாறாகும்'.",
+        "isCorrect": true
+      },
+      {
+        "text": "247",
+        "rationale": "மொத்த தமிழ் எழுத்துக்கள்.",
+        "isCorrect": false
+      },
+      {
+        "text": "30",
+        "rationale": "முதல் எழுத்து.",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "rationale": "மெய்.",
+        "isCorrect": false
+      }
+    ],
+    "hint": "12 x 18."
+  },
+  {
+    "questionNumber": 40,
+    "question": "'கம்' என்னும் சொல்லின் முதல் எழுத்து 'க' எவ்வகை எழுத்து?",
+    "imageUrl": null,
+    "answerOptions": [
+      {
+        "text": "உயிர்மெய்",
+        "rationale": "
